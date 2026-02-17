@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1485f7b8-9961-4129-a9d3-534c05ecc2aa",
+    "name": "Rebecca",
+    "email": "rebecca.leung671@gmail.com",
+    "passwordHash": "$2b$12$mRmHo7hqenTePqJNAAQYKeNpateTtyX5T350Avg3TDmf22otZBWXS",
+    "role": "owner",
+    "createdAt": "2026-02-16T23:58:39.546Z"
+  }
+]
