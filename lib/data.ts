@@ -1,103 +1,220 @@
-import fs from "fs";
-import path from "path";
+import { supabase } from "./supabase";
 import { Barn, User, Review } from "./types";
 
-const dataDir = path.join(process.cwd(), "data");
-
-function readJSON<T>(filename: string): T[] {
-  const filePath = path.join(dataDir, filename);
-  if (!fs.existsSync(filePath)) return [];
-  const raw = fs.readFileSync(filePath, "utf-8");
-  return JSON.parse(raw);
+function mapBarn(row: Record<string, unknown>): Barn {
+  return {
+    id: row.id as string,
+    ownerId: row.owner_id as string,
+    name: row.name as string,
+    slug: row.slug as string,
+    description: row.description as string,
+    address: row.address as Barn["address"],
+    phone: (row.phone as string) || "",
+    website: (row.website as string) || "",
+    email: (row.email as string) || "",
+    disciplines: (row.disciplines as string[]) || [],
+    amenities: row.amenities as Barn["amenities"],
+    boarding: row.boarding as Barn["boarding"],
+    pricing: row.pricing as Barn["pricing"],
+    trainers: (row.trainers as Barn["trainers"]) || [],
+    lessonAvailability: row.lesson_availability as boolean,
+    horseBreeds: (row.horse_breeds as string[]) || [],
+    photos: (row.photos as string[]) || [],
+    createdAt: row.created_at as string,
+    updatedAt: row.updated_at as string,
+  };
 }
 
-function writeJSON<T>(filename: string, data: T[]): void {
-  const filePath = path.join(dataDir, filename);
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
-  }
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+function mapUser(row: Record<string, unknown>): User {
+  return {
+    id: row.id as string,
+    name: row.name as string,
+    email: row.email as string,
+    passwordHash: row.password_hash as string,
+    role: row.role as User["role"],
+    createdAt: row.created_at as string,
+  };
+}
+
+function mapReview(row: Record<string, unknown>): Review {
+  return {
+    id: row.id as string,
+    barnId: row.barn_id as string,
+    userId: row.user_id as string,
+    userName: row.user_name as string,
+    rating: row.rating as number,
+    text: row.text as string,
+    createdAt: row.created_at as string,
+  };
 }
 
 // Barns
-export function getBarns(): Barn[] {
-  return readJSON<Barn>("barns.json");
+export async function getBarns(): Promise<Barn[]> {
+  const { data, error } = await supabase.from("barns").select("*");
+  if (error) throw error;
+  return (data || []).map(mapBarn);
 }
 
-export function getBarnBySlug(slug: string): Barn | undefined {
-  return getBarns().find((b) => b.slug === slug);
+export async function getBarnBySlug(slug: string): Promise<Barn | undefined> {
+  const { data } = await supabase
+    .from("barns")
+    .select("*")
+    .eq("slug", slug)
+    .single();
+  return data ? mapBarn(data) : undefined;
 }
 
-export function getBarnById(id: string): Barn | undefined {
-  return getBarns().find((b) => b.id === id);
+export async function getBarnById(id: string): Promise<Barn | undefined> {
+  const { data } = await supabase
+    .from("barns")
+    .select("*")
+    .eq("id", id)
+    .single();
+  return data ? mapBarn(data) : undefined;
 }
 
-export function getBarnsByOwner(ownerId: string): Barn[] {
-  return getBarns().filter((b) => b.ownerId === ownerId);
+export async function getBarnsByOwner(ownerId: string): Promise<Barn[]> {
+  const { data, error } = await supabase
+    .from("barns")
+    .select("*")
+    .eq("owner_id", ownerId);
+  if (error) throw error;
+  return (data || []).map(mapBarn);
 }
 
-export function createBarn(barn: Barn): Barn {
-  const barns = getBarns();
-  barns.push(barn);
-  writeJSON("barns.json", barns);
-  return barn;
+export async function createBarn(
+  barn: Omit<Barn, "id" | "createdAt" | "updatedAt">
+): Promise<Barn> {
+  const { data, error } = await supabase
+    .from("barns")
+    .insert({
+      owner_id: barn.ownerId,
+      name: barn.name,
+      slug: barn.slug,
+      description: barn.description,
+      address: barn.address,
+      phone: barn.phone,
+      website: barn.website,
+      email: barn.email,
+      disciplines: barn.disciplines,
+      amenities: barn.amenities,
+      boarding: barn.boarding,
+      pricing: barn.pricing,
+      trainers: barn.trainers,
+      lesson_availability: barn.lessonAvailability,
+      horse_breeds: barn.horseBreeds,
+      photos: barn.photos,
+    })
+    .select()
+    .single();
+  if (error) throw error;
+  return mapBarn(data);
 }
 
-export function updateBarn(id: string, updates: Partial<Barn>): Barn | null {
-  const barns = getBarns();
-  const index = barns.findIndex((b) => b.id === id);
-  if (index === -1) return null;
-  barns[index] = { ...barns[index], ...updates, updatedAt: new Date().toISOString() };
-  writeJSON("barns.json", barns);
-  return barns[index];
+export async function updateBarn(
+  id: string,
+  updates: Partial<Barn>
+): Promise<Barn | null> {
+  const dbUpdates: Record<string, unknown> = {
+    updated_at: new Date().toISOString(),
+  };
+  if (updates.name !== undefined) dbUpdates.name = updates.name;
+  if (updates.slug !== undefined) dbUpdates.slug = updates.slug;
+  if (updates.description !== undefined) dbUpdates.description = updates.description;
+  if (updates.address !== undefined) dbUpdates.address = updates.address;
+  if (updates.phone !== undefined) dbUpdates.phone = updates.phone;
+  if (updates.website !== undefined) dbUpdates.website = updates.website;
+  if (updates.email !== undefined) dbUpdates.email = updates.email;
+  if (updates.disciplines !== undefined) dbUpdates.disciplines = updates.disciplines;
+  if (updates.amenities !== undefined) dbUpdates.amenities = updates.amenities;
+  if (updates.boarding !== undefined) dbUpdates.boarding = updates.boarding;
+  if (updates.pricing !== undefined) dbUpdates.pricing = updates.pricing;
+  if (updates.trainers !== undefined) dbUpdates.trainers = updates.trainers;
+  if (updates.lessonAvailability !== undefined) dbUpdates.lesson_availability = updates.lessonAvailability;
+  if (updates.horseBreeds !== undefined) dbUpdates.horse_breeds = updates.horseBreeds;
+  if (updates.photos !== undefined) dbUpdates.photos = updates.photos;
+
+  const { data } = await supabase
+    .from("barns")
+    .update(dbUpdates)
+    .eq("id", id)
+    .select()
+    .single();
+  return data ? mapBarn(data) : null;
 }
 
-export function deleteBarn(id: string): boolean {
-  const barns = getBarns();
-  const filtered = barns.filter((b) => b.id !== id);
-  if (filtered.length === barns.length) return false;
-  writeJSON("barns.json", filtered);
-  return true;
+export async function deleteBarn(id: string): Promise<boolean> {
+  const { error } = await supabase.from("barns").delete().eq("id", id);
+  return !error;
 }
 
 // Users
-export function getUsers(): User[] {
-  return readJSON<User>("users.json");
+export async function getUserByEmail(email: string): Promise<User | undefined> {
+  const { data } = await supabase
+    .from("users")
+    .select("*")
+    .eq("email", email)
+    .single();
+  return data ? mapUser(data) : undefined;
 }
 
-export function getUserByEmail(email: string): User | undefined {
-  return getUsers().find((u) => u.email === email);
+export async function getUserById(id: string): Promise<User | undefined> {
+  const { data } = await supabase
+    .from("users")
+    .select("*")
+    .eq("id", id)
+    .single();
+  return data ? mapUser(data) : undefined;
 }
 
-export function getUserById(id: string): User | undefined {
-  return getUsers().find((u) => u.id === id);
-}
-
-export function createUser(user: User): User {
-  const users = getUsers();
-  users.push(user);
-  writeJSON("users.json", users);
-  return user;
+export async function createUser(
+  user: Omit<User, "id" | "createdAt">
+): Promise<User> {
+  const { data, error } = await supabase
+    .from("users")
+    .insert({
+      name: user.name,
+      email: user.email,
+      password_hash: user.passwordHash,
+      role: user.role,
+    })
+    .select()
+    .single();
+  if (error) throw error;
+  return mapUser(data);
 }
 
 // Reviews
-export function getReviews(): Review[] {
-  return readJSON<Review>("reviews.json");
+export async function getReviewsByBarn(barnId: string): Promise<Review[]> {
+  const { data, error } = await supabase
+    .from("reviews")
+    .select("*")
+    .eq("barn_id", barnId)
+    .order("created_at", { ascending: false });
+  if (error) throw error;
+  return (data || []).map(mapReview);
 }
 
-export function getReviewsByBarn(barnId: string): Review[] {
-  return getReviews().filter((r) => r.barnId === barnId);
+export async function createReview(
+  review: Omit<Review, "id" | "createdAt">
+): Promise<Review> {
+  const { data, error } = await supabase
+    .from("reviews")
+    .insert({
+      barn_id: review.barnId,
+      user_id: review.userId,
+      user_name: review.userName,
+      rating: review.rating,
+      text: review.text,
+    })
+    .select()
+    .single();
+  if (error) throw error;
+  return mapReview(data);
 }
 
-export function createReview(review: Review): Review {
-  const reviews = getReviews();
-  reviews.push(review);
-  writeJSON("reviews.json", reviews);
-  return review;
-}
-
-export function getAverageRating(barnId: string): number {
-  const reviews = getReviewsByBarn(barnId);
+export async function getAverageRating(barnId: string): Promise<number> {
+  const reviews = await getReviewsByBarn(barnId);
   if (reviews.length === 0) return 0;
   const sum = reviews.reduce((acc, r) => acc + r.rating, 0);
   return Math.round((sum / reviews.length) * 10) / 10;

@@ -4,7 +4,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { Barn } from "@/lib/types";
 
-const DISCIPLINES = ["dressage", "jumping", "western", "eventing", "trail"];
+const DISCIPLINES = ["dressage", "jumping", "western", "eventing", "trail", "polo"];
 const BOARDING_TYPES = ["full", "partial", "pasture", "self-care"];
 
 interface BarnFormProps {

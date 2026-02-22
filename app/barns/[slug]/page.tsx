@@ -11,7 +11,7 @@ interface PageProps {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
-  const barn = getBarnBySlug(slug);
+  const barn = await getBarnBySlug(slug);
   if (!barn) return { title: "Barn Not Found" };
   return {
     title: `${barn.name} - ${barn.address.city}, ${barn.address.state} | Barnbook`,
@@ -21,11 +21,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
 export default async function BarnDetailPage({ params }: PageProps) {
   const { slug } = await params;
-  const barn = getBarnBySlug(slug);
+  const barn = await getBarnBySlug(slug);
   if (!barn) notFound();
 
-  const reviews = getReviewsByBarn(barn.id);
-  const averageRating = getAverageRating(barn.id);
+  const [reviews, averageRating] = await Promise.all([
+    getReviewsByBarn(barn.id),
+    getAverageRating(barn.id),
+  ]);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">

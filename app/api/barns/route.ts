@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from "next/server";
-import { v4 as uuidv4 } from "uuid";
 import { getBarns, createBarn } from "@/lib/data";
 import { auth } from "@/lib/auth";
 import { Barn } from "@/lib/types";
@@ -13,7 +12,7 @@ export async function GET(request: NextRequest) {
   const boarding = searchParams.get("boarding");
   const sort = searchParams.get("sort");
 
-  let barns = getBarns();
+  let barns = await getBarns();
 
   if (q) {
     barns = barns.filter(
@@ -75,21 +74,16 @@ export async function POST(request: NextRequest) {
   }
 
   const body = await request.json();
-  const now = new Date().toISOString();
   const slug = body.name
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/(^-|-$)/g, "");
 
-  const barn: Barn = {
-    id: uuidv4(),
+  const barn = await createBarn({
     ownerId: session.user.id,
     slug,
-    createdAt: now,
-    updatedAt: now,
     ...body,
-  };
+  });
 
-  createBarn(barn);
   return NextResponse.json(barn, { status: 201 });
 }

@@ -1252,7 +1252,8 @@
     "website": "http://www.scissortailhillequestrian.com",
     "email": "",
     "disciplines": [
-      "dressage"
+      "dressage",
+      "eventing"
     ],
     "amenities": {
       "indoorArena": false,
@@ -1516,5 +1517,2490 @@
     ],
     "createdAt": "2026-02-17T01:01:09.912Z",
     "updatedAt": "2026-02-17T01:01:09.912Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000026",
+    "ownerId": "system",
+    "name": "Creekside Eventing",
+    "slug": "creekside-eventing",
+    "description": "Creekside Eventing is a 22-acre equestrian facility in Georgetown, TX specializing in 3-day eventing, which includes dressage, show jumping, and cross-country. We provide premium horse boarding with lessons and training from an experienced Olympic-level eventing trainer. Haul-in lessons are welcome when scheduled in advance. Horses for sale available.",
+    "address": {
+      "street": "1101 Co Rd 140",
+      "city": "Georgetown",
+      "state": "TX",
+      "zip": "78626",
+      "lat": 30.6329,
+      "lng": -97.6778
+    },
+    "phone": "(512) 484-5543",
+    "website": "https://www.creeksideeventing.com",
+    "email": "creeksideeventing@gmail.com",
+    "disciplines": [
+      "eventing",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 20,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 1100,
+      "lessonsFrom": 80,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Megan Hammerlind",
+        "bio": "Olympic-level three-day eventing trainer and co-owner of Creekside Eventing. Specializes in producing competitive eventing horses and riders.",
+        "specialties": [
+          "eventing",
+          "dressage",
+          "cross-country"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Thoroughbred",
+      "Warmblood",
+      "Irish Sport Horse"
+    ],
+    "photos": [],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000028",
+    "ownerId": "system",
+    "name": "Maverick Horseback Riding",
+    "slug": "maverick-horseback-riding",
+    "description": "Maverick Horseback Riding serves central Texas specializing in unique equine experiences. Services include trail rides, private lessons, camps, training, and events across multiple locations including Austin, Lockhart, Bastrop, Blanco, Canyon Lake, Spicewood, and Gonzales.",
+    "address": {
+      "street": "5766 Balcones Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78731",
+      "lat": 30.3612,
+      "lng": -97.7472
+    },
+    "phone": "(512) 230-8413",
+    "website": "https://www.maverickhorsebackriding.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Maverick Instructors",
+        "bio": "Experienced western riding instructors offering private lessons and trail rides across central Texas.",
+        "specialties": [
+          "western",
+          "trail"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Quarter Horse"
+    ],
+    "photos": [
+      "maverick-horseback-riding.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000029",
+    "ownerId": "system",
+    "name": "Lone Star Ranch",
+    "slug": "lone-star-ranch",
+    "description": "Austin's destination for horseback riding, riding lessons, ranch parties, kids' camps, and so much more. Located on a 400-acre ranch just minutes from downtown Austin. Offers both Western and English riding lessons in a lighted and covered arena, as well as summer and holiday horse camps for riders of all ages.",
+    "address": {
+      "street": "8601 Bluff Springs Rd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78744",
+      "lat": 30.1704,
+      "lng": -97.7386
+    },
+    "phone": "(512) 697-9769",
+    "website": "https://www.lonestarranchtexas.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Lone Star Ranch Instructors",
+        "bio": "Experienced cowgirls, guys, lesson instructors, and excursion guides offering western and English lessons on a 400-acre Austin ranch.",
+        "specialties": [
+          "western",
+          "trail"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Quarter Horse",
+      "Paint"
+    ],
+    "photos": [
+      "lone-star-ranch.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000030",
+    "ownerId": "system",
+    "name": "SunCrest Farm",
+    "slug": "suncrest-farm",
+    "description": "SunCrest Farm is located on 18 acres just outside of Austin in Manor, TX. The ideal place for lessons, summer day camps, trail rides, birthday parties, and more. First-time and experienced riders of all ages and disciplines are welcome, offering both western and English riding.",
+    "address": {
+      "street": "13915 Suncrest Rd",
+      "city": "Manor",
+      "state": "TX",
+      "zip": "78653",
+      "lat": 30.3424,
+      "lng": -97.5567
+    },
+    "phone": "(512) 797-6220",
+    "website": "https://www.suncrestfarm.net",
+    "email": "email@suncrestfarm.net",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "SunCrest Farm Instructors",
+        "bio": "Welcoming instructors offering western and English lessons, trail rides, and camps for all ages on an 18-acre property near Austin.",
+        "specialties": [
+          "western",
+          "trail"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Quarter Horse",
+      "Paint"
+    ],
+    "photos": [
+      "suncrest-farm.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000031",
+    "ownerId": "system",
+    "name": "Tri-Star Farm",
+    "slug": "tri-star-farm",
+    "description": "At Tri-Star Farm, the mission is to bring the love of horses into the hearts of both new and developing riders. Located on Spicewood Springs Road in Austin, the farm offers riding lessons and boarding for all levels, weekly trail rides, summer programs, and birthday parties.",
+    "address": {
+      "street": "6648 Spicewood Springs Rd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78759",
+      "lat": 30.3978,
+      "lng": -97.7684
+    },
+    "phone": "(512) 956-1662",
+    "website": "https://www.tristarfarm.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Tri-Star Farm Instructors",
+        "bio": "Dedicated instructors offering riding lessons and training for all levels, with a focus on building a love of horses in new and developing riders.",
+        "specialties": [
+          "western",
+          "trail"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Quarter Horse",
+      "Appaloosa"
+    ],
+    "photos": [
+      "tri-star-farm.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000032",
+    "ownerId": "system",
+    "name": "ATX Polo",
+    "slug": "atx-polo",
+    "description": "ATX Polo IS polo in Austin! Players of all ages and skill levels get together each week to play the game they love. Welcomes new players and spectators alike. Located at Victory Cheval in Manor, TX. For lessons and chukkers contact Javier Insua.",
+    "address": {
+      "street": "13628 Gregg Manor Rd",
+      "city": "Manor",
+      "state": "TX",
+      "zip": "78653",
+      "lat": 30.3501,
+      "lng": -97.5237
+    },
+    "phone": "(512) 630-7042",
+    "website": "https://www.atxpolo.com",
+    "email": "austinpolo@atxpolo.com",
+    "disciplines": [
+      "polo"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Javier Insua",
+        "bio": "Head instructor at ATX Polo offering lessons and chukkers for players of all ages and skill levels.",
+        "specialties": [
+          "polo"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Thoroughbred",
+      "Quarter Horse"
+    ],
+    "photos": [
+      "atx-polo.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000033",
+    "ownerId": "system",
+    "name": "Oak Bend Farm Polo Club",
+    "slug": "oak-bend-farm-polo-club",
+    "description": "Oak Bend Farm is the home of polo in Central Texas, located one hour from both Austin and College Station and 90 minutes from Houston. Offers seasonal polo memberships, USPA tournaments, a Polo School, horse boarding, hay and horse sales, and vacation rentals including a Barn Loft and Clubhouse.",
+    "address": {
+      "street": "2669 County Rd 119 W",
+      "city": "Ledbetter",
+      "state": "TX",
+      "zip": "78946",
+      "lat": 30.1246,
+      "lng": -96.9271
+    },
+    "phone": "(512) 730-0142",
+    "website": "https://www.oakbendfarm.com",
+    "email": "",
+    "disciplines": [
+      "polo"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Oak Bend Farm Polo School",
+        "bio": "Certified polo instructors teaching rules, game strategy, riding for polo, and swing mechanics to enable players to participate in club chukkers.",
+        "specialties": [
+          "polo"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Thoroughbred"
+    ],
+    "photos": [
+      "oak-bend-farm.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000034",
+    "ownerId": "system",
+    "name": "Augusta Pines Farm",
+    "slug": "augusta-pines-farm",
+    "description": "Augusta Pines Farm is a premier full-service 33-acre show barn in Spring, TX bordering The Woodlands, specializing in Hunters, Jumpers, and Equitation.",
+    "address": {
+      "street": "7925 W Rayford Rd",
+      "city": "Spring",
+      "state": "TX",
+      "zip": "77389",
+      "lat": 30.0799,
+      "lng": -95.5163
+    },
+    "phone": "(281) 516-2732",
+    "website": "https://augustapinesfarm.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Warmblood",
+      "Thoroughbred"
+    ],
+    "photos": [
+      "augusta-pines-farm.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000035",
+    "ownerId": "system",
+    "name": "Bailey Oaks Farms",
+    "slug": "bailey-oaks-farms",
+    "description": "The largest English equestrian riding and training center south of downtown Houston in Alvin, TX. Offers premier horseback riding lessons, camps, boarding, and training with a focus on hunter and jumper disciplines.",
+    "address": {
+      "street": "7220 County Rd 128",
+      "city": "Alvin",
+      "state": "TX",
+      "zip": "77511",
+      "lat": 29.3927,
+      "lng": -95.3074
+    },
+    "phone": "(281) 756-7254",
+    "website": "https://www.baileyoaksfarms.com",
+    "email": "",
+    "disciplines": [
+      "dressage",
+      "hunter jumper",
+      "eventing",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Warmblood",
+      "Thoroughbred"
+    ],
+    "photos": [
+      "bailey-oaks-farms.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000036",
+    "ownerId": "system",
+    "name": "Bedoya Training Stables",
+    "slug": "bedoya-training-stables",
+    "description": "Houston area's premier hunter/jumper training facility for those looking to compete on the 'A' circuit and beyond. Daniel Bedoya is a veteran of both the World Cup and Olympics.",
+    "address": {
+      "street": "4 Heritage Ln",
+      "city": "Magnolia",
+      "state": "TX",
+      "zip": "77354",
+      "lat": 30.2102,
+      "lng": -95.7516
+    },
+    "phone": "(512) 705-7593",
+    "website": "https://www.bedoyatrainingstables.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Daniel Bedoya",
+        "bio": "Olympic and World Cup veteran offering premier hunter/jumper training at the 'A' circuit level and beyond.",
+        "specialties": [
+          "hunter jumper"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Warmblood",
+      "Thoroughbred"
+    ],
+    "photos": [
+      "bedoya-training-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000037",
+    "ownerId": "system",
+    "name": "Blackjack Lane Equestrian",
+    "slug": "blackjack-lane-equestrian",
+    "description": "Competitive English full-service riding lesson, boarding and training barn in Southeast Houston specializing in Hunter, Jumper, Equitation and Dressage for beginners through advanced riders.",
+    "address": {
+      "street": "13846 TX-146",
+      "city": "Mont Belvieu",
+      "state": "TX",
+      "zip": "77535",
+      "lat": 29.8534,
+      "lng": -94.8988
+    },
+    "phone": "(281) 515-8282",
+    "website": "https://www.blackjacklane.com",
+    "email": "",
+    "disciplines": [
+      "dressage",
+      "hunter jumper"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Warmblood",
+      "Thoroughbred"
+    ],
+    "photos": [
+      "blackjack-lane-equestrian.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000038",
+    "ownerId": "system",
+    "name": "BlissWood Ranch",
+    "slug": "blisswood-ranch",
+    "description": "A 350-acre bed and breakfast dude ranch just one hour west of Houston in Cat Spring, TX. Offers guided trail rides, winery rides, picnics, ranch activities, and unique lodging experiences in the Texas countryside.",
+    "address": {
+      "street": "13597 Frantz Rd",
+      "city": "Cat Spring",
+      "state": "TX",
+      "zip": "78933",
+      "lat": 29.8624,
+      "lng": -96.3552
+    },
+    "phone": "(713) 301-3235",
+    "website": "https://www.blisswood.net",
+    "email": "",
+    "disciplines": [
+      "trail",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [
+      "Quarter Horse"
+    ],
+    "photos": [
+      "blisswood-ranch.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000039",
+    "ownerId": "system",
+    "name": "Blue Fox Farms",
+    "slug": "blue-fox-farms",
+    "description": "A dressage facility located at 14801 Old Chocolate Bayou Rd in Houston, TX.",
+    "address": {
+      "street": "14801 Old Chocolate Bayou Rd",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77048",
+      "lat": 29.6197,
+      "lng": -95.2541
+    },
+    "phone": "(713) 725-2920",
+    "website": "https://www.bluefoxfarms.com",
+    "email": "",
+    "disciplines": [
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Warmblood"
+    ],
+    "photos": [
+      "blue-fox-farms.png"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000040",
+    "ownerId": "system",
+    "name": "Callegari Equestrian Center",
+    "slug": "callegari-equestrian-center",
+    "description": "A premier equestrian facility in Cypress, TX offering boarding, training and riding instruction. Prides itself on being more of a club than an average boarding facility, with a close-knit community of riders.",
+    "address": {
+      "street": "12751 N Eldridge Pkwy",
+      "city": "Cypress",
+      "state": "TX",
+      "zip": "77429",
+      "lat": 29.9752,
+      "lng": -95.6669
+    },
+    "phone": "(281) 304-7332",
+    "website": "https://www.callegarihorses.com",
+    "email": "",
+    "disciplines": [
+      "dressage",
+      "eventing",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Warmblood",
+      "Quarter Horse"
+    ],
+    "photos": [
+      "callegari-equestrian.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000041",
+    "ownerId": "system",
+    "name": "Cypress Trails Ranch",
+    "slug": "cypress-trails-ranch",
+    "description": "Equine riding and training facility in Humble, TX offering gorgeous countryside trail rides, horse boarding with pasture living, parties, and events.",
+    "address": {
+      "street": "21415 Cypresswood Dr",
+      "city": "Humble",
+      "state": "TX",
+      "zip": "77338",
+      "lat": 30.0077,
+      "lng": -95.265
+    },
+    "phone": "(281) 446-7232",
+    "website": "https://cypresstrailsranch.com",
+    "email": "",
+    "disciplines": [
+      "dressage",
+      "eventing",
+      "trail",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "pasture"
+      ],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Quarter Horse",
+      "Paint"
+    ],
+    "photos": [
+      "cypress-trails-ranch.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000042",
+    "ownerId": "system",
+    "name": "Haras dos Cavaleiros",
+    "slug": "haras-dos-cavaleiros",
+    "description": "Elite Lusitano horse breeding, training, sales and equestrian experiences in dressage, located in Magnolia, TX just north of Houston. Training center open to outside horses.",
+    "address": {
+      "street": "26427 Peden Rd",
+      "city": "Magnolia",
+      "state": "TX",
+      "zip": "77355",
+      "lat": 30.2066,
+      "lng": -95.7748
+    },
+    "phone": "(281) 259-4861",
+    "website": "https://www.harasdoscavaleiros.com",
+    "email": "",
+    "disciplines": [
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Lusitano"
+    ],
+    "photos": [
+      "haras-dos-cavaleiros.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000043",
+    "ownerId": "system",
+    "name": "Houston Oaks Equestrian Club",
+    "slug": "houston-oaks-equestrian-club",
+    "description": "The Equestrian Club at Houston Oaks consists of 500 acres of pristine pastures in Hockley, TX with exceptional opportunities for boarding, lessons, training, and horseback riding.",
+    "address": {
+      "street": "22602 Hegar Rd",
+      "city": "Hockley",
+      "state": "TX",
+      "zip": "77447",
+      "lat": 29.9874,
+      "lng": -95.8524
+    },
+    "phone": "(713) 888-0000",
+    "website": "https://www.houstonoaks.com/Equestrian-Club",
+    "email": "",
+    "disciplines": [
+      "eventing",
+      "hunter jumper",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Warmblood",
+      "Thoroughbred"
+    ],
+    "photos": [
+      "houston-oaks-equestrian.webp"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000044",
+    "ownerId": "system",
+    "name": "Houston Polo Club",
+    "slug": "houston-polo-club",
+    "description": "The largest polo club in the United States, founded in Houston, TX. Located at 8552 Memorial Drive, the club promotes the sport of polo and is private but open to the public on Sundays.",
+    "address": {
+      "street": "8552 Memorial Dr",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77024",
+      "lat": 29.7784,
+      "lng": -95.4508
+    },
+    "phone": "(713) 681-8571",
+    "website": "https://houstonpoloclub.com",
+    "email": "",
+    "disciplines": [
+      "polo"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Thoroughbred"
+    ],
+    "photos": [
+      "houston-polo-club.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000045",
+    "ownerId": "system",
+    "name": "Magic Moments Stable",
+    "slug": "magic-moments-stable",
+    "description": "Full-service boarding and training facility in West Houston near the Katy Freeway and Wilcrest. Horseback riding school with a focus on Dressage and Western Dressage from beginner to nationally competitive levels.",
+    "address": {
+      "street": "1726 Upland Dr",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77043",
+      "lat": 29.7771,
+      "lng": -95.5383
+    },
+    "phone": "(713) 461-1228",
+    "website": "https://www.magicmomentsstable.com",
+    "email": "",
+    "disciplines": [
+      "dressage",
+      "eventing",
+      "trail",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Quarter Horse",
+      "Warmblood"
+    ],
+    "photos": [
+      "magic-moments-stable.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000046",
+    "ownerId": "system",
+    "name": "Pine Hollow Farm",
+    "slug": "pine-hollow-farm",
+    "description": "A unique horse-friendly facility on 30 quiet, lush acres in New Caney, TX for prime Hunter/Jumper show preparation and casual enjoyment.",
+    "address": {
+      "street": "20990 Sullivan Rd",
+      "city": "New Caney",
+      "state": "TX",
+      "zip": "77357",
+      "lat": 30.156,
+      "lng": -95.2088
+    },
+    "phone": "(281) 513-0911",
+    "website": "https://www.pinehollowfarmtx.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Warmblood",
+      "Thoroughbred"
+    ],
+    "photos": [
+      "pine-hollow-farm.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000047",
+    "ownerId": "system",
+    "name": "Ride the Wind Stables",
+    "slug": "ride-the-wind-stables",
+    "description": "A western horse riding and boarding facility in Rosenberg, TX on 27 acres, 5 miles southwest of Sugar Land. Offering western lessons and boarding in a relaxed ranch setting.",
+    "address": {
+      "street": "5530 Gerken Rd",
+      "city": "Rosenberg",
+      "state": "TX",
+      "zip": "77471",
+      "lat": 29.5316,
+      "lng": -95.8397
+    },
+    "phone": "(281) 342-6200",
+    "website": "https://ridethewindstables.com",
+    "email": "",
+    "disciplines": [
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "pasture"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Quarter Horse",
+      "Paint"
+    ],
+    "photos": [
+      "ride-the-wind-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000048",
+    "ownerId": "system",
+    "name": "S4 Farm",
+    "slug": "s4-farm",
+    "description": "S4 Farm proudly offers hunter-jumper lessons and full training at their Harris County equestrian facility in Hockley, TX. Program designed for every rider.",
+    "address": {
+      "street": "22344 Roberts Cemetery Rd",
+      "city": "Hockley",
+      "state": "TX",
+      "zip": "77447",
+      "lat": 29.9982,
+      "lng": -95.8483
+    },
+    "phone": "(714) 747-4218",
+    "website": "https://s4farm.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Warmblood",
+      "Thoroughbred"
+    ],
+    "photos": [
+      "s4-farm.png"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000049",
+    "ownerId": "system",
+    "name": "Sobral Performance Horses",
+    "slug": "sobral-performance-horses",
+    "description": "Located north of Houston near The Woodlands in Montgomery, TX. Specializes in western horse riding lessons and horse training including reining.",
+    "address": {
+      "street": "2578 N Farm to Market 1486",
+      "city": "Montgomery",
+      "state": "TX",
+      "zip": "77356",
+      "lat": 30.3694,
+      "lng": -95.6905
+    },
+    "phone": "(602) 616-0400",
+    "website": "https://www.sobralhorses.com",
+    "email": "",
+    "disciplines": [
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Quarter Horse"
+    ],
+    "photos": [
+      "sobral-performance-horses.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000050",
+    "ownerId": "system",
+    "name": "Sundance Horse Ranch",
+    "slug": "sundance-horse-ranch",
+    "description": "An actual working cattle ranch in Manvel, TX offering over 100 acres of relaxing, tree-lined trail riding through the beautiful Texas landscape.",
+    "address": {
+      "street": "9825 Masters Rd",
+      "city": "Manvel",
+      "state": "TX",
+      "zip": "77578",
+      "lat": 29.4713,
+      "lng": -95.3588
+    },
+    "phone": "(281) 585-8145",
+    "website": "https://www.sundancehorseranch.com",
+    "email": "",
+    "disciplines": [
+      "trail",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [
+      "Quarter Horse"
+    ],
+    "photos": [
+      "sundance-horse-ranch.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000051",
+    "ownerId": "system",
+    "name": "WA Farm",
+    "slug": "wa-farm",
+    "description": "WA Farm is the ultimate full-service show barn for Hunters and Jumpers in Tomball, TX. Boards and trains horses and ponies from Walk/Trot through Grand Prix.",
+    "address": {
+      "street": "21403 Mueschke Rd",
+      "city": "Tomball",
+      "state": "TX",
+      "zip": "77377",
+      "lat": 30.0568,
+      "lng": -95.6638
+    },
+    "phone": "(832) 938-6662",
+    "website": "https://www.wafarm.org",
+    "email": "",
+    "disciplines": [
+      "hunter jumper"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Warmblood",
+      "Thoroughbred"
+    ],
+    "photos": [
+      "wa-farm.jpeg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000052",
+    "ownerId": "system",
+    "name": "West Stables",
+    "slug": "west-stables",
+    "description": "Located in Cypress, TX off Highway 290. Offers full and partial horse boarding with stall and pasture options. Riding lessons and trails also available.",
+    "address": {
+      "street": "12300 West Dr",
+      "city": "Cypress",
+      "state": "TX",
+      "zip": "77433",
+      "lat": 29.9688,
+      "lng": -95.7227
+    },
+    "phone": "(281) 407-7416",
+    "website": "https://www.weststables.com",
+    "email": "",
+    "disciplines": [
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial",
+        "pasture"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Quarter Horse"
+    ],
+    "photos": [
+      "west-stables.png"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000053",
+    "ownerId": "system",
+    "name": "Brookshire Polo Club",
+    "slug": "brookshire-polo-club",
+    "description": "Brookshire Polo Club is an active polo club located in Brookshire, TX, approximately 35 miles west of Houston. Home to the Texas Arena League and USPA-sanctioned tournaments including the Keleen & Carlton Beal Cup.",
+    "address": {
+      "street": "800 Wilpitz Rd",
+      "city": "Brookshire",
+      "state": "TX",
+      "zip": "77423",
+      "lat": 29.7857,
+      "lng": -95.9541
+    },
+    "phone": "(832) 368-9358",
+    "website": "",
+    "email": "",
+    "disciplines": [
+      "polo"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [
+      "Thoroughbred"
+    ],
+    "photos": [
+      "brookshire-polo-club.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000054",
+    "ownerId": "system",
+    "name": "4Hearts Ranch",
+    "slug": "4hearts-ranch",
+    "description": "Warm equestrian-friendly boarding facility in Fort Worth featuring indoor and outdoor arenas, trails, and spacious stalls. Offering boarding, lessons, and training.",
+    "address": {
+      "street": "16151 US Hwy 377 South",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76126",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(970) 580-0012",
+    "website": "https://4heartsranch.com/",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail",
+      "jumping"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "4hearts-ranch.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000055",
+    "ownerId": "system",
+    "name": "Benbrook Stables",
+    "slug": "benbrook-stables",
+    "description": "Benbrook Stables offers trail rides, horseback riding lessons, and summer camps near Fort Worth. A great family-friendly equestrian destination.",
+    "address": {
+      "street": "10001 Benbrook Blvd",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76126",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(817) 249-1001",
+    "website": "https://www.benbrookstables.com/",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "benbrook-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000056",
+    "ownerId": "system",
+    "name": "Black Star Sport Horses",
+    "slug": "black-star-sport-horses",
+    "description": "Black Star Sport Horses specializes in dressage training and boarding in Waxahachie, Texas. Offering quality sport horse education at all levels.",
+    "address": {
+      "street": "4172 Farm to Market Rd 1446",
+      "city": "Waxahachie",
+      "state": "TX",
+      "zip": "75167",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(940) 367-7499",
+    "website": "https://blackstarsporthorses.com/",
+    "email": "",
+    "disciplines": [
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "black-star-sport-horses.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000057",
+    "ownerId": "system",
+    "name": "Brawley Farms",
+    "slug": "brawley-farms",
+    "description": "Brawley Farms is a premier hunter/jumper facility in Double Oak, Texas offering top-level training, boarding, and showing for horses and riders of all levels.",
+    "address": {
+      "street": "200 Simmons Rd",
+      "city": "Double Oak",
+      "state": "TX",
+      "zip": "75077",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(760) 801-6655",
+    "website": "https://brawleyfarmsinc.com/",
+    "email": "",
+    "disciplines": [
+      "jumping"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "brawley-farms.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000058",
+    "ownerId": "system",
+    "name": "Dallas Equestrian Center",
+    "slug": "dallas-equestrian-center",
+    "description": "Dallas Equestrian Center provides boarding, lessons, and training for dressage, hunter/jumper, and western disciplines in the heart of Dallas.",
+    "address": {
+      "street": "8787 Park Ln",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75231",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(214) 304-5750",
+    "website": "http://www.dallasequestriancenter.com/",
+    "email": "",
+    "disciplines": [
+      "dressage",
+      "jumping",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "dallas-equestrian-center.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000059",
+    "ownerId": "system",
+    "name": "Dallas Polo Club",
+    "slug": "dallas-polo-club",
+    "description": "The Dallas Polo Club hosts regular polo matches and offers polo lessons for players of all skill levels near Dallas, Texas.",
+    "address": {
+      "street": "730 Bent Trail",
+      "city": "Red Oak",
+      "state": "TX",
+      "zip": "75154",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(214) 979-0300",
+    "website": "https://www.dallaspoloclub.org/",
+    "email": "",
+    "disciplines": [
+      "polo"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "dallas-polo-club.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000060",
+    "ownerId": "system",
+    "name": "Flower Mound Farm",
+    "slug": "flower-mound-farm",
+    "description": "Flower Mound Farm is a hunter/jumper and eventing facility in Flower Mound, Texas offering quality training, boarding, and competition preparation.",
+    "address": {
+      "street": "4400 Withers Ave",
+      "city": "Flower Mound",
+      "state": "TX",
+      "zip": "76226",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(817) 875-9082",
+    "website": "http://www.flowermoundfarm.com/",
+    "email": "",
+    "disciplines": [
+      "jumping",
+      "eventing"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "flower-mound-farm.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000061",
+    "ownerId": "system",
+    "name": "Fort Worth Stockyard Stables",
+    "slug": "fort-worth-stockyard-stables",
+    "description": "Fort Worth Stockyard Stables offers western trail rides through the historic Fort Worth Stockyards, providing a true Texas cowboy experience.",
+    "address": {
+      "street": "157 E Exchange Ave",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76164",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(888) 789-0849",
+    "website": "https://fortworthstockyardsstables.com/",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "fort-worth-stockyard-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000062",
+    "ownerId": "system",
+    "name": "Whistlejacket Farm",
+    "slug": "whistlejacket-farm",
+    "description": "Whistlejacket Farm is a premier eventing and sport horse facility near Dallas-Fort Worth offering training, boarding, and competition prep for eventers and jumpers.",
+    "address": {
+      "street": "301 Chambers Creek Trail",
+      "city": "Alvarado",
+      "state": "TX",
+      "zip": "76009",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(817) 985-8885",
+    "website": "https://gowhistlejacketfarm.com/",
+    "email": "",
+    "disciplines": [
+      "eventing",
+      "jumping",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "whistlejacket-farm.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000063",
+    "ownerId": "system",
+    "name": "Comly Sport Horses",
+    "slug": "comly-sport-horses",
+    "description": "Comly Sport Horses specializes in hunter/jumper and eventing training in Wills Point, Texas with boarding and professional coaching services.",
+    "address": {
+      "street": "19765 FM 47",
+      "city": "Wills Point",
+      "state": "TX",
+      "zip": "75169",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(281) 744-0220",
+    "website": "https://www.happycomlysporthorses.com/",
+    "email": "",
+    "disciplines": [
+      "jumping",
+      "eventing"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "comly-sport-horses.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000064",
+    "ownerId": "system",
+    "name": "Hillcrest Farm",
+    "slug": "hillcrest-farm",
+    "description": "Hillcrest Farm in Argyle, Texas is a full-service dressage and hunter/jumper facility offering top-quality boarding, training, and lessons.",
+    "address": {
+      "street": "211 FM1830",
+      "city": "Argyle",
+      "state": "TX",
+      "zip": "76226",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(817) 291-3885",
+    "website": "https://hillcrestfarmtx.com/",
+    "email": "",
+    "disciplines": [
+      "dressage",
+      "jumping"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "hillcrest-farm.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000065",
+    "ownerId": "system",
+    "name": "Marshall Creek Ranch",
+    "slug": "marshall-creek-ranch",
+    "description": "Marshall Creek Ranch in Southlake offers trail rides and western horsemanship in a scenic Texas landscape, perfect for beginners and experienced riders alike.",
+    "address": {
+      "street": "4401 T W King Rd",
+      "city": "Southlake",
+      "state": "TX",
+      "zip": "76092",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(817) 490-8796",
+    "website": "http://marshallcreekranch.com/",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "marshall-creek-ranch.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000066",
+    "ownerId": "system",
+    "name": "North Texas Equestrian Center",
+    "slug": "north-texas-equestrian-center",
+    "description": "North Texas Equestrian Center in Wylie is a premier English and western riding facility offering lessons, boarding, and training for all disciplines.",
+    "address": {
+      "street": "1765 Southview Dr",
+      "city": "Wylie",
+      "state": "TX",
+      "zip": "75098",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(972) 442-7544",
+    "website": "https://ntecdfw.com/",
+    "email": "",
+    "disciplines": [
+      "dressage",
+      "jumping",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "north-texas-equestrian-center.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000067",
+    "ownerId": "system",
+    "name": "Prestonwood Polo Club",
+    "slug": "prestonwood-polo-club",
+    "description": "Prestonwood Polo Club in Oak Point, Texas offers polo lessons, clinics, and matches in a beautiful North Texas setting.",
+    "address": {
+      "street": "501 Martingale Trail",
+      "city": "Oak Point",
+      "state": "TX",
+      "zip": "75068",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(214) 390-3444",
+    "website": "https://www.prestonwoodpolo.com/",
+    "email": "",
+    "disciplines": [
+      "polo"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "prestonwood-polo-club.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000068",
+    "ownerId": "system",
+    "name": "RNR Stables",
+    "slug": "rnr-stables",
+    "description": "RNR Stables in Corinth, Texas provides full equestrian services including boarding, lessons, and training for western, trail, and hunter/jumper riders.",
+    "address": {
+      "street": "3114 Parkridge Dr",
+      "city": "Corinth",
+      "state": "TX",
+      "zip": "76210",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(940) 321-8880",
+    "website": "https://rnrstables.com/",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail",
+      "jumping"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "rnr-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000069",
+    "ownerId": "system",
+    "name": "Rocking J Stables",
+    "slug": "rocking-j-stables",
+    "description": "Rocking J Stables in Garland offers a full range of equestrian services for DFW riders including western riding, hunter/jumper training, and trail riding.",
+    "address": {
+      "street": "2802 S Country Club Rd",
+      "city": "Garland",
+      "state": "TX",
+      "zip": "75043",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(214) 392-6101",
+    "website": "http://www.rockingjstables.com/",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail",
+      "jumping"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "rocking-j-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000070",
+    "ownerId": "system",
+    "name": "Stockyards Stables",
+    "slug": "stockyards-stables",
+    "description": "Stockyards Stables at the historic Fort Worth Stockyards offers authentic western trail rides through the iconic stockyards district.",
+    "address": {
+      "street": "157 E Exchange Ave",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76164",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(888) 789-0849",
+    "website": "https://www.fortworthstockyards.org/things-do/stockyards-stables-horseback-trail-riding",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": [
+      "stockyards-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000071",
+    "ownerId": "system",
+    "name": "Three Oaks Equestrian",
+    "slug": "three-oaks-equestrian",
+    "description": "Three Oaks Equestrian in North Richland Hills offers dressage and hunter/jumper training with quality boarding facilities in the DFW area.",
+    "address": {
+      "street": "7401 Continental Trail",
+      "city": "North Richland Hills",
+      "state": "TX",
+      "zip": "76182",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(817) 528-3559",
+    "website": "https://threeoaksequestrian.godaddysites.com/",
+    "email": "",
+    "disciplines": [
+      "dressage",
+      "jumping"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "three-oaks-equestrian.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000072",
+    "ownerId": "system",
+    "name": "Touch of Chrome Paints",
+    "slug": "touch-of-chrome-paints",
+    "description": "Touch of Chrome Paints in Crowley, Texas offers western horseback riding lessons, trail rides, and quality Paint horse services.",
+    "address": {
+      "street": "5900 Rocky Creek Park Rd",
+      "city": "Crowley",
+      "state": "TX",
+      "zip": "76036",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(817) 648-2584",
+    "website": "https://touchofchromepaints.com/",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "pasture"
+      ],
+      "stallCount": 0,
+      "turnout": "both"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "touch-of-chrome-paints.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-a001-000000000073",
+    "ownerId": "system",
+    "name": "Willow Bend Polo Club",
+    "slug": "willow-bend-polo-club",
+    "description": "Willow Bend Polo Club in Little Elm, Texas offers polo lessons, matches, and memberships in a premier North Texas polo environment.",
+    "address": {
+      "street": "2310 Oak Grove Pkwy",
+      "city": "Little Elm",
+      "state": "TX",
+      "zip": "75068",
+      "lat": 0.0,
+      "lng": 0.0
+    },
+    "phone": "(214) 624-9940",
+    "website": "https://willowbendpoloclub.com/",
+    "email": "",
+    "disciplines": [
+      "polo"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "willow-bend-polo-club.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z"
   }
 ]
