@@ -25,7 +25,7 @@ interface PageProps {
 export default async function BrowseBarnsPage({ searchParams }: PageProps) {
   const params = await searchParams;
   const query = params.q?.toLowerCase() || "";
-  let barns = getBarns();
+  let barns = await getBarns();
 
   // Text search
   if (query) {
@@ -84,12 +84,15 @@ export default async function BrowseBarnsPage({ searchParams }: PageProps) {
 
   // Pre-compute ratings for client
   const ratings: Record<string, { avg: number; count: number }> = {};
-  for (const barn of barns) {
-    ratings[barn.id] = {
-      avg: getAverageRating(barn.id),
-      count: getReviewsByBarn(barn.id).length,
-    };
-  }
+  await Promise.all(
+    barns.map(async (barn) => {
+      const [avg, reviews] = await Promise.all([
+        getAverageRating(barn.id),
+        getReviewsByBarn(barn.id),
+      ]);
+      ratings[barn.id] = { avg, count: reviews.length };
+    })
+  );
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
