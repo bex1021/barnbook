@@ -12,7 +12,7 @@ export default async function EditBarnPage({ params }: PageProps) {
   if (!session?.user) redirect("/auth/login");
 
   const { id } = await params;
-  const barn = getBarnById(id);
+  const barn = await getBarnById(id);
   if (!barn) notFound();
 
   if (barn.ownerId !== session.user.id) redirect("/dashboard");

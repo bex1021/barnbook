@@ -6,7 +6,7 @@ type RouteContext = { params: Promise<{ id: string }> };
 
 export async function GET(_request: NextRequest, { params }: RouteContext) {
   const { id } = await params;
-  const barn = getBarnById(id);
+  const barn = await getBarnById(id);
   if (!barn) {
     return NextResponse.json({ error: "Barn not found" }, { status: 404 });
   }
@@ -20,7 +20,7 @@ export async function PUT(request: NextRequest, { params }: RouteContext) {
   }
 
   const { id } = await params;
-  const barn = getBarnById(id);
+  const barn = await getBarnById(id);
   if (!barn) {
     return NextResponse.json({ error: "Barn not found" }, { status: 404 });
   }
@@ -29,7 +29,7 @@ export async function PUT(request: NextRequest, { params }: RouteContext) {
   }
 
   const body = await request.json();
-  const updated = updateBarn(id, body);
+  const updated = await updateBarn(id, body);
   return NextResponse.json(updated);
 }
 
@@ -40,7 +40,7 @@ export async function DELETE(_request: NextRequest, { params }: RouteContext) {
   }
 
   const { id } = await params;
-  const barn = getBarnById(id);
+  const barn = await getBarnById(id);
   if (!barn) {
     return NextResponse.json({ error: "Barn not found" }, { status: 404 });
   }
@@ -48,6 +48,6 @@ export async function DELETE(_request: NextRequest, { params }: RouteContext) {
     return NextResponse.json({ error: "Forbidden" }, { status: 403 });
   }
 
-  deleteBarn(id);
+  await deleteBarn(id);
   return NextResponse.json({ success: true });
 }

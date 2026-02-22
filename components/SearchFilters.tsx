@@ -3,7 +3,7 @@
 import { useRouter, useSearchParams } from "next/navigation";
 import { useCallback } from "react";
 
-const DISCIPLINES = ["dressage", "hunter jumper", "western", "eventing", "trail"];
+const DISCIPLINES = ["dressage", "hunter jumper", "western", "eventing", "trail", "polo"];
 const STATES = ["CA", "FL", "KY", "NJ", "SC", "TX", "VA"];
 const AMENITIES = [
   { key: "indoorArena", label: "Indoor Arena" },
