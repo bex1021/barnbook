@@ -3,8 +3,19 @@ import { getBarns, getAverageRating, getReviewsByBarn } from "@/lib/data";
 import BarnCard from "@/components/BarnCard";
 import SearchBar from "@/components/SearchBar";
 
-export default function HomePage() {
-  const barns = getBarns().slice(0, 3);
+export default async function HomePage() {
+  const allBarns = await getBarns();
+  const barns = allBarns.slice(0, 3);
+
+  const barnsWithStats = await Promise.all(
+    barns.map(async (barn) => {
+      const [avg, reviews] = await Promise.all([
+        getAverageRating(barn.id),
+        getReviewsByBarn(barn.id),
+      ]);
+      return { barn, avg, count: reviews.length };
+    })
+  );
 
   return (
     <div>
@@ -37,13 +48,9 @@ export default function HomePage() {
           </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {barns.map((barn) => {
-            const avg = getAverageRating(barn.id);
-            const count = getReviewsByBarn(barn.id).length;
-            return (
-              <BarnCard key={barn.id} barn={barn} averageRating={avg} reviewCount={count} />
-            );
-          })}
+          {barnsWithStats.map(({ barn, avg, count }) => (
+            <BarnCard key={barn.id} barn={barn} averageRating={avg} reviewCount={count} />
+          ))}
         </div>
       </section>
 
