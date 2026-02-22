@@ -4002,5 +4002,424 @@
     ],
     "createdAt": "2026-02-22T00:00:00Z",
     "updatedAt": "2026-02-22T00:00:00Z"
+  },
+  {
+    "id": "d7a14ead-340f-4fa9-8acd-734903955bda",
+    "ownerId": "system",
+    "name": "Spring Creek Stables",
+    "slug": "spring-creek-stables",
+    "description": "Spring Creek Stables offers quality, well-trained lesson horses and full-care boarding in San Antonio. With daily on-site staff, riders can haul in their own horse for lessons or use the arena for just $25/hour. A friendly, professional facility located in the scenic northwest San Antonio area.",
+    "address": {
+      "street": "21860 Babcock Rd",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78255",
+      "lat": 29.646046,
+      "lng": -98.67413
+    },
+    "phone": "(210) 784-0051",
+    "website": "https://www.sascstables.com",
+    "email": "",
+    "disciplines": [
+      "trail",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "spring-creek-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "3e357c8b-94b7-4052-81b3-8b8b96eb00c1",
+    "ownerId": "system",
+    "name": "Oak Valley Stables",
+    "slug": "oak-valley-stables",
+    "description": "Oak Valley Stables is a highly-rated equestrian facility in San Antonio offering horseback riding lessons and boarding. Known for kind, patient, and skilled instructors, the stable provides a welcoming environment for riders of all experience levels.",
+    "address": {
+      "street": "234 Holbrook Rd",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78218",
+      "lat": 29.47047,
+      "lng": -98.413246
+    },
+    "phone": "(210) 216-9422",
+    "website": "http://www.oakvalleystables.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "e2825dcb-7dd5-487a-8ddb-d54e5406c42f",
+    "ownerId": "system",
+    "name": "Turkey Creek Stables",
+    "slug": "turkey-creek-stables",
+    "description": "Established in 1988, Turkey Creek Stables is a family-run equestrian facility cultivating a safe and enjoyable environment for the budding equestrian. The facility emphasizes education, safety, and community atmosphere with an unpretentious approach to learning, offering riding lessons, boarding, horsemanship courses, and horse training.",
+    "address": {
+      "street": "14748 Henderson Pass",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78232",
+      "lat": 29.575336,
+      "lng": -98.46124
+    },
+    "phone": "(210) 494-3080",
+    "website": "https://www.turkeycreekstablessa.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "turkey-creek-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "52bbbee1-acc1-41cd-86d3-7338a9792fca",
+    "ownerId": "system",
+    "name": "Oakwell Farms",
+    "slug": "oakwell-farms",
+    "description": "Oakwell Farms is San Antonio's stable for the competitive rider seeking \"A\" rated competitions for the Hunters, Jumpers and Equitation. Operating over 10 acres with scenic woodland views, this family business brings over 60 years of experience and marked 40 years in San Antonio in 2024.",
+    "address": {
+      "street": "200 Ira Lee Rd",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78218",
+      "lat": 29.47,
+      "lng": -98.41
+    },
+    "phone": "(210) 826-9468",
+    "website": "https://oakwellfarms.us",
+    "email": "oakwellfarmsllc84@gmail.com",
+    "disciplines": [
+      "hunter jumper"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "oakwell-farms.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "662cefcd-7c50-40de-ba6c-79dab5553d89",
+    "ownerId": "system",
+    "name": "Wrenwood Stables",
+    "slug": "wrenwood-stables",
+    "description": "Nestled at the base of the stunning Texas Hill Country, Wrenwood Farms and Stables offers a peaceful and quiet equestrian facility known for excellence in care, nutrition, breeding, sales and training. Owner Rene' Riddle brings over 40 years of horse care experience with certifications in Equine Nutrition, Equine Biomechanics, and Horsemanship Training, and has earned multiple US National Championship titles.",
+    "address": {
+      "street": "23320 Scenic Loop Rd",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78255",
+      "lat": 29.64,
+      "lng": -98.68
+    },
+    "phone": "(210) 508-1112",
+    "website": "https://wrenwoodstables.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 60,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Rene' Riddle",
+        "bio": "Owner/Operator with over 40 years of horse care experience. Certified in Equine Nutrition, Equine Biomechanics, and Horsemanship Training. Multiple US National and international championship titles.",
+        "specialties": [
+          "western",
+          "trail"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "wrenwood-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "8bf79058-9423-4660-afd9-3ece2923f864",
+    "ownerId": "system",
+    "name": "Double Diamond Equestrian Center",
+    "slug": "double-diamond-equestrian-center",
+    "description": "Double Diamond Equestrian Center is a paradise for horses nestled in the Texas Hill Country near San Antonio. Spanning 180+ acres featuring mature trees, manicured grounds, and miles of pipe fencing for pastures, paddocks, and pens. The facility offers world-class equestrian amenities and award-winning trainers.",
+    "address": {
+      "street": "415 Highway 46 West",
+      "city": "Boerne",
+      "state": "TX",
+      "zip": "78006",
+      "lat": 29.79,
+      "lng": -98.73
+    },
+    "phone": "(830) 816-1724",
+    "website": "https://www.doublediamondranch.com",
+    "email": "marketing@ddequestrian.com",
+    "disciplines": [
+      "dressage",
+      "hunter jumper",
+      "western",
+      "eventing"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "pasture"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "double-diamond-equestrian-center.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "5d268ec8-6a03-46b8-825c-61d1a784c700",
+    "ownerId": "system",
+    "name": "Diamond C Stables",
+    "slug": "diamond-c-stables",
+    "description": "For over 25 years, Diamond C Stables & Ranch has been a trusted choice for high-quality, affordable horse boarding and training in a family-friendly environment in the Texas Hill Country near San Antonio. The facility features 12'x12' indoor stalls with automatic fly control, hot/cold wash rack, tack rooms, tie-rack areas, and fans in stalls.",
+    "address": {
+      "street": "27030 Toutant Beauregard Rd",
+      "city": "Boerne",
+      "state": "TX",
+      "zip": "78006",
+      "lat": 29.78,
+      "lng": -98.76
+    },
+    "phone": "(210) 514-0300",
+    "website": "https://diamondcstables.net",
+    "email": "info@diamondcstables.net",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Debbie Culver",
+        "bio": "Owner of Diamond C Stables & Ranch with over 25 years of experience in horse boarding and training.",
+        "specialties": [
+          "western",
+          "trail"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "diamond-c-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "3fcad6d6-be35-4eaf-bb95-6f4628a47ba5",
+    "ownerId": "system",
+    "name": "Blueberry Creek Stables",
+    "slug": "blueberry-creek-stables",
+    "description": "Home of Hungerford Performance Horses, Blueberry Creek Stables offers lessons and training services for riders of all skill levels with a focus on horsemanship fundamentals. The facility provides group and private lessons in English and western riding, jumping, and drill team, with experienced instructors emphasizing safety and skill development.",
+    "address": {
+      "street": "5890 Farm to Market 1516",
+      "city": "Converse",
+      "state": "TX",
+      "zip": "78109",
+      "lat": 29.52,
+      "lng": -98.33
+    },
+    "phone": "(210) 867-8037",
+    "website": "https://blueberrycreekstables.com",
+    "email": "hungerfordperformancehorses@gmail.com",
+    "disciplines": [
+      "western",
+      "hunter jumper",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 55,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "blueberry-creek-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
   }
 ]
