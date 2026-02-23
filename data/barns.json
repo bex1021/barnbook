@@ -4421,5 +4421,432 @@
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
     "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "eed7c589-40a0-48ec-9b6c-5999e054975d",
+    "ownerId": "system",
+    "name": "Driftwood Acres Barn",
+    "slug": "driftwood-acres-barn",
+    "description": "A family-friendly equestrian facility in the Texas Hill Country offering boarding, lessons, and recreational riding. The establishment aims to provide a first class facility with a laid back atmosphere where people can just unwind and enjoy their horses. Situated on 40 acres with 24/7 on-property caretakers.",
+    "address": {
+      "street": "10961 FM 967",
+      "city": "Buda",
+      "state": "TX",
+      "zip": "78610",
+      "lat": 30.0761,
+      "lng": -97.8432
+    },
+    "phone": "(830) 426-0193",
+    "website": "https://www.driftwoodacresbarn.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 21,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "driftwood-acres-barn.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "93cc01b4-58a2-4c00-99df-cf24c90f267d",
+    "ownerId": "system",
+    "name": "Doringcourt Horse Boarding Stables",
+    "slug": "doringcourt-horse-boarding-stables",
+    "description": "Family-oriented horse boarding facility established 2004, situated in the Texas Hill Country with a serene environment for equine enthusiasts. Located in Bulverde between FM 1863 and Hwy 46 on Smithson Valley Road, approximately 10 miles north of San Antonio. Features two lighted round pens, a lighted arena, scenic trails, and a certified farrier on-site weekly.",
+    "address": {
+      "street": "32600 Smithson Valley Rd",
+      "city": "Bulverde",
+      "state": "TX",
+      "zip": "78163",
+      "lat": 29.7499,
+      "lng": -98.4255
+    },
+    "phone": "(210) 392-9627",
+    "website": "https://doringcourtstables.com",
+    "email": "doringcourt@gmail.com",
+    "disciplines": [
+      "trail",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": [
+      "doringcourt-horse-boarding-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "f3e3c4e2-3e65-4656-82e1-a69d3c35d6ec",
+    "ownerId": "system",
+    "name": "Bel Canto Farms",
+    "slug": "bel-canto-farms",
+    "description": "Premier equestrian facility offering full-service horse boarding, training, and lessons in the beautiful Hill Country of Texas near Wimberley. The operation emphasizes quality training steeped in the traditions of true horsemanship and sport. Staff includes highly qualified trainers with over 80 years of combined teaching and showing experience. Home of the Texas Equestrian Team and IEA affiliated.",
+    "address": {
+      "street": "4205 Lone Man Mountain Rd",
+      "city": "Wimberley",
+      "state": "TX",
+      "zip": "78676",
+      "lat": 30.0584,
+      "lng": -98.1113
+    },
+    "phone": "(512) 797-1178",
+    "website": "https://belcantofarms.com",
+    "email": "info@belcantofarms.com",
+    "disciplines": [
+      "hunter jumper",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "bel-canto-farms.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "f7aa004f-d015-4d1f-8b13-8c5ac385d95c",
+    "ownerId": "system",
+    "name": "Hunters Chase Farms",
+    "slug": "hunters-chase-farms",
+    "description": "A horseback riding school situated in the Texas Hill Country near Wimberley offering instruction from beginner to advanced levels. The facility emphasizes leadership, teamwork, and discipline through equestrian training. Features two outdoor arenas, a mini cross-country course, bridle paths, two barns with stalls and runs, plus paddocks and pastures. Maintains a competitive show team competing at schooling and AA-rated shows across Texas.",
+    "address": {
+      "street": "4909 Lone Man Mountain Rd",
+      "city": "Wimberley",
+      "state": "TX",
+      "zip": "78676",
+      "lat": 30.051449,
+      "lng": -98.03511
+    },
+    "phone": "(512) 785-0120",
+    "website": "https://hunterschasefarms.com",
+    "email": "marylaura@hughes.net",
+    "disciplines": [
+      "hunter jumper",
+      "eventing"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Marley",
+        "bio": "Instructor and contact at Hunters Chase Farms, leading a competitive show team across Texas.",
+        "specialties": [
+          "hunter jumper",
+          "hunt seat equitation"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "hunters-chase-farms.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "7cd8576f-aed4-4f52-b2d9-ced9132f093a",
+    "ownerId": "system",
+    "name": "Hill Country Equestrian Lodge",
+    "slug": "hill-country-equestrian-lodge",
+    "description": "Located at a historic ranch headquarters adjoining a 5,500-acre natural area in Bandera, Texas \u2014 the Cowboy Capital of the World. The facility spans 6,000 acres with miles of trails through rugged Texas Hill Country terrain. Offers western and English riding, trail riding, cattle sorting clinics, summer riding camps, and horsemanship instruction for all skill levels. Private entrance to Hill Country State Natural Area.",
+    "address": {
+      "street": "1580 Hay Hollar Road",
+      "city": "Bandera",
+      "state": "TX",
+      "zip": "78003",
+      "lat": 29.64646,
+      "lng": -99.18601
+    },
+    "phone": "(830) 796-7950",
+    "website": "https://www.hillcountryequestlodge.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "hill-country-equestrian-lodge.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "70400120-4265-4e23-8116-3fd717ddc8c7",
+    "ownerId": "system",
+    "name": "Bit and Bridle Stables",
+    "slug": "bit-and-bridle-stables",
+    "description": "A ranch in the beautiful Texas Hill Country near Harper, TX offering privately scheduled trail rides, private lessons, and equine therapy. Family-friendly with experienced, patient instructors. Instruction available from beginner through advanced levels including bareback riding. Beautiful scenic views on ranch property.",
+    "address": {
+      "street": "3860 N Ranch Rd 783",
+      "city": "Harper",
+      "state": "TX",
+      "zip": "78631",
+      "lat": 30.2988,
+      "lng": -99.2366
+    },
+    "phone": "(830) 649-0419",
+    "website": "https://bitandbridlestables.com",
+    "email": "",
+    "disciplines": [
+      "trail",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Tim",
+        "bio": "Owner and instructor known for welcoming demeanor and experience with riders of all levels.",
+        "specialties": [
+          "trail riding",
+          "western"
+        ]
+      },
+      {
+        "name": "Vanessa",
+        "bio": "Owner and instructor praised for patience and teaching ability, specializing in beginner through advanced lessons.",
+        "specialties": [
+          "trail riding",
+          "western"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "bit-and-bridle-stables.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "bdd16466-d5c0-4638-b772-c7180a27f99c",
+    "ownerId": "system",
+    "name": "Red Horse Ranch",
+    "slug": "red-horse-ranch",
+    "description": "A family-operated boarding facility in Dripping Springs where horses have large pens with plenty of room to run and play, lots of trees for shade, and large run-in barns. Owners Dave and Lisa Bierbower personally care for all horses. Known locally as the no-rib ranch due to the excellent condition of boarders' horses. Full board starting at $495/month with temporary boarding also available.",
+    "address": {
+      "street": "1791 Bell Springs Rd",
+      "city": "Dripping Springs",
+      "state": "TX",
+      "zip": "78620",
+      "lat": 30.276941,
+      "lng": -98.11385
+    },
+    "phone": "(512) 264-0442",
+    "website": "https://www.redhorseranch.net",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 495,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": [
+      "red-horse-ranch.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "9bb6a987-7281-431d-b24c-a65a72b2bf06",
+    "ownerId": "system",
+    "name": "Trails of Horseshoe Bay Equestrian Center",
+    "slug": "trails-of-horseshoe-bay-equestrian-center",
+    "description": "A world class equestrian center in the heart of Texas Hill Country at Horseshoe Bay on Lake LBJ. Features a professional exercise arena, round pen, stables, and access to an extensive trail system. Set within a premier equestrian community where residents can keep horses on their acreage lots along the beautiful Hill Country preserve.",
+    "address": {
+      "street": "9710 FM 2147",
+      "city": "Horseshoe Bay",
+      "state": "TX",
+      "zip": "78657",
+      "lat": 30.5276,
+      "lng": -98.365
+    },
+    "phone": "(830) 598-5455",
+    "website": "https://www.trailsofhorseshoebay.com",
+    "email": "robynwalsh@lavacafinancial.com",
+    "disciplines": [
+      "trail",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": [
+      "trails-of-horseshoe-bay-equestrian-center.jpg"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
   }
 ]
