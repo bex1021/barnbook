@@ -1,0 +1,471 @@
+[
+  {
+    "id": "9bbcaeaa-b73b-4cc7-bc3f-578c8ce183c6",
+    "ownerId": "system",
+    "name": "Shangri-La Farm Equine",
+    "slug": "shangri-la-farm-equine",
+    "description": "Located in Morriston, FL on 115 acres, Shangri-La Farm offers horse boarding and breeding options for all breeds and disciplines. Services include full board, pasture and retirement board, breeding and foaling out, rehab, and stud services.",
+    "address": {
+      "street": "15388 NW 112th Place Road",
+      "city": "Morriston",
+      "state": "FL",
+      "zip": "32668",
+      "lat": 29.2024,
+      "lng": -82.3827
+    },
+    "phone": "(352) 441-1207",
+    "website": "https://www.shangrilafarmequine.com",
+    "email": "ricardo@shangrilafarmequine.com",
+    "disciplines": ["dressage", "hunter jumper", "western", "eventing", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture", "retirement"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["shangri-la-farm-equine.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "94b52a4c-6769-4f30-9474-29bcb0f8941d",
+    "ownerId": "system",
+    "name": "Big Iron Farm",
+    "slug": "big-iron-farm",
+    "description": "Located 15 miles from Ocala in Citra, FL, Big Iron Farm is a 26-acre full-care facility with a laid-back, welcoming atmosphere and live-in staff. The team specializes in caring for performance horses through the upper levels of sport, with experience in FEI grooming and barn management.",
+    "address": {
+      "street": "2500 W Highway 329",
+      "city": "Citra",
+      "state": "FL",
+      "zip": "32113",
+      "lat": 29.4167,
+      "lng": -82.0833
+    },
+    "phone": "(954) 857-4130",
+    "website": "https://bigironfarm.com",
+    "email": "bigironfarmllc@gmail.com",
+    "disciplines": [],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 18,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["big-iron-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "d237b814-8f1b-4e50-b642-6136077e7137",
+    "ownerId": "system",
+    "name": "Eden Farm",
+    "slug": "eden-farm",
+    "description": "Established in 1972, Eden Farm is one of the oldest hunter/jumper barns in Ocala/Marion County, Florida. Located just minutes from local schools, the farm offers English riding lessons and training for equestrians participating in competitive show jumping.",
+    "address": {
+      "street": "1720 SW 42nd Street",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34474",
+      "lat": 29.1705,
+      "lng": -82.1582
+    },
+    "phone": "(352) 572-7658",
+    "website": "https://www.edenfarmocala.com",
+    "email": "edenfarmocala@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["eden-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "dccc04fd-5c86-4b34-91d0-bb1f61e84c36",
+    "ownerId": "system",
+    "name": "Lazy J Farm",
+    "slug": "lazy-j-farm",
+    "description": "Lazy J Farm is a horse boarding facility in the heart of Northwest Ocala, just minutes from the World Equestrian Center and HITS. The facility accepts all varieties of horses except stallions and is backed by 50+ years of combined owner experience. Features 12x12 stalls with automatic waters and fans.",
+    "address": {
+      "street": "5880 NW 90th Avenue",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34482",
+      "lat": 29.2482,
+      "lng": -82.2687
+    },
+    "phone": "(863) 738-1505",
+    "website": "https://www.lazyjfarmocala.com",
+    "email": "laurensogden@gmail.com",
+    "disciplines": ["western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["lazy-j-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "2c5a415e-59da-477d-88e4-10a46f343228",
+    "ownerId": "system",
+    "name": "Five Phases Farm",
+    "slug": "five-phases-farm",
+    "description": "Five Phases Farm is situated on 60 acres in Ocala, FL at Epona Equine Center, 10 minutes from both the World Equestrian Center and HITS Show Grounds. The facility accommodates hunter/jumpers, eventing horses, CDE horses, racehorses, and dressage horses with top-of-the-line amenities including a horse swimming pool, half-mile track, and covered eurocizer.",
+    "address": {
+      "street": "2775 NW 49th Avenue",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34482",
+      "lat": 29.2350,
+      "lng": -82.2150
+    },
+    "phone": "(352) 229-7739",
+    "website": "https://fivephasesfarm.com",
+    "email": "",
+    "disciplines": ["dressage", "hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Tara Celentano",
+        "bio": "",
+        "specialties": ["dressage", "eventing"]
+      },
+      {
+        "name": "Roger Roberts",
+        "bio": "",
+        "specialties": ["hunter jumper"]
+      },
+      {
+        "name": "Michelle Warro",
+        "bio": "Three-day eventer",
+        "specialties": ["eventing"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["five-phases-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "2834431f-1386-4cb0-908f-21932d5f429f",
+    "ownerId": "system",
+    "name": "SilverStride Equestrian Center",
+    "slug": "silverstride-equestrian-center",
+    "description": "SilverStride Equestrian Center provides a warm and welcoming environment where inseparable bonds between human and horse can blossom into success. The facility offers horse training, boarding, and sales in Ocala, FL, competing in recognized USEA events and USDF competitions around Florida, Region 3, and nationally.",
+    "address": {
+      "street": "4600 SW 80th Avenue",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34481",
+      "lat": 29.1480,
+      "lng": -82.2980
+    },
+    "phone": "(352) 216-9359",
+    "website": "https://silverstrideequestriancenter.com",
+    "email": "SilverStrideEquestrianCenter@yahoo.com",
+    "disciplines": ["hunter jumper", "dressage", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 8,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Brie Seltser",
+        "bio": "Owner and trainer at SilverStride Equestrian Center, specializing in hunter/jumper and eventing.",
+        "specialties": ["hunter jumper", "eventing", "dressage"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["silverstride-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "b4b8667f-4ce3-4104-acc9-3dda0527e91e",
+    "ownerId": "system",
+    "name": "BREC Dressage",
+    "slug": "brec-dressage",
+    "description": "BREC Dressage is situated on 35 beautifully manicured acres north of Ocala, FL, and is one of the area's best equestrian training centers. Offering classical dressage training from Training Level through FEI with full-care boarding and 24/7 care.",
+    "address": {
+      "street": "301 NW 100th Street",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34475",
+      "lat": 29.3120,
+      "lng": -82.2100
+    },
+    "phone": "(352) 812-4844",
+    "website": "https://www.brecdressage.com",
+    "email": "",
+    "disciplines": ["dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 30,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Tyra Vernon",
+        "bio": "FEI-level trainer, USDF Bronze, Silver and Gold medalist, Regional Champion with 15+ years operating BREC Dressage. Trains from Training Level through FEI.",
+        "specialties": ["dressage"]
+      },
+      {
+        "name": "Kerryann Schade",
+        "bio": "Co-trainer at BREC Dressage specializing in dressage.",
+        "specialties": ["dressage"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["brec-dressage.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "d6d409dc-d19d-46fd-b060-77b70a56c73c",
+    "ownerId": "system",
+    "name": "Sapphire Equestrian",
+    "slug": "sapphire-equestrian",
+    "description": "Sapphire Equestrian at Zafiro Farms is a full-service boarding and training facility located on 30 acres in scenic NW Marion County, FL, just minutes from the World Equestrian Center. Offering training from beginner through advanced Grand Prix levels in hunters, jumpers, equitation, and dressage, as well as warmblood sales and thoroughbred consulting.",
+    "address": {
+      "street": "17802 NW 160th Avenue",
+      "city": "Williston",
+      "state": "FL",
+      "zip": "32696",
+      "lat": 29.4050,
+      "lng": -82.4800
+    },
+    "phone": "",
+    "website": "https://sapphire-equestrian.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "retirement"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["sapphire-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "78ee88d1-3b38-42ed-9c14-72f2299d47f6",
+    "ownerId": "system",
+    "name": "Olive Acres Equestrian Center",
+    "slug": "olive-acres-equestrian-center",
+    "description": "Olive Acres Equestrian Center is a family-owned, professionally managed equestrian facility offering full-care boarding and professional training focused on horse welfare, consistency, and long-term success. Located near World Equestrian Center and HITS in Ocala. Features a GGT riding arena, irrigated individual paddocks, and multiple well-ventilated barns with Stable Comfort stall mattresses.",
+    "address": {
+      "street": "1317 NW 100th Avenue",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34482",
+      "lat": 29.2350,
+      "lng": -82.2050
+    },
+    "phone": "(847) 609-1409",
+    "website": "https://oliveacreseq.com",
+    "email": "oliveacresocala@gmail.com",
+    "disciplines": ["hunter jumper", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 10,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 1350,
+      "lessonsFrom": 65,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Madison Rose",
+        "bio": "Head Trainer and Program Manager at Olive Acres Equestrian Center. Background in hunter/jumper training and competition as well as western disciplines. USEF Registered Jumper Judge with experience producing young horses, developing sale horses, and supporting competitive riders. Has qualified multiple horses for Young Horse Championships.",
+        "specialties": ["hunter jumper", "western"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["olive-acres-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "79cc65ec-8aff-40de-a444-75c6c8f3df70",
+    "ownerId": "system",
+    "name": "Ashcombe Sporthorses",
+    "slug": "ashcombe-sporthorses",
+    "description": "Ashcombe Sporthorses, LLC brings over 30 years of experience developing horses and riders for sport in the hunter/jumper ring. Located just 3 miles from World Equestrian Center Ocala, the facility features spacious 12x12 European-front stalls, covered grooming stalls, wash stalls, and multiple arenas. The program operates November through April in Ocala.",
+    "address": {
+      "street": "1410 SW 117th Court",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34481",
+      "lat": 29.1620,
+      "lng": -82.3050
+    },
+    "phone": "(717) 578-9298",
+    "website": "https://ashcombesporthorses.com",
+    "email": "info@ashsporthorses.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["ashcombe-sporthorses.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

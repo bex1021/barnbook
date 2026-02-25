@@ -1,0 +1,493 @@
+[
+  {
+    "id": "1e2d878e-92dd-436b-a8a4-a315c6295d0d",
+    "ownerId": "system",
+    "name": "White Fences Equestrian Center",
+    "slug": "white-fences-equestrian-center",
+    "description": "At White Fences Equestrian Center, just east of Austin, we provide full-care horse boarding with spacious stalls, natural and private paddock board, high-quality care and dressage training.",
+    "address": {
+      "street": "10908 Jones Rd",
+      "city": "Manor",
+      "state": "TX",
+      "zip": "78653",
+      "lat": 30.3418,
+      "lng": -97.5561
+    },
+    "phone": "(512) 865-8281",
+    "website": "https://whitefencesaustin.com",
+    "email": "info@whitefencesaustin.com",
+    "disciplines": ["dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["white-fences-equestrian-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "969050a0-87f8-4d98-8e68-349b88c846a4",
+    "ownerId": "system",
+    "name": "Monarch Stables Austin",
+    "slug": "monarch-stables-austin",
+    "description": "Monarch Stables offers a fresh approach to hunter jumper training and instruction for all levels of riders, and full service boarding for our equine partners. Located on 56 acres, 13 miles from downtown Austin along tree-lined Onion Creek.",
+    "address": {
+      "street": "14605 Old San Antonio Road",
+      "city": "Buda",
+      "state": "TX",
+      "zip": "78610",
+      "lat": 30.097046,
+      "lng": -97.81846
+    },
+    "phone": "(512) 651-0484",
+    "website": "https://www.monarchstablesaustin.com",
+    "email": "ride@monarchstablesaustin.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Kalli Smith",
+        "bio": "Specializes in correct flat work in developing finished show horses and skillful child and adult riders.",
+        "specialties": ["hunter jumper"]
+      },
+      {
+        "name": "Amy Gangstad",
+        "bio": "Focused on hunter jumper training for all levels of riders.",
+        "specialties": ["hunter jumper"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["monarch-stables-austin.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "77e6ceab-ffca-49be-83d5-27c1fbbf7cfa",
+    "ownerId": "system",
+    "name": "Coraggio Equestrian",
+    "slug": "coraggio-equestrian",
+    "description": "Hunter/Jumper barn in Austin, Texas Hill Country, specializing in a personalized training program for you and your horse in a private, relaxed atmosphere. Features a lighted 250x150 outdoor arena, 75x75 covered arena, and 100+ acres of shaded trails with ride-out access to Jester King Brewery.",
+    "address": {
+      "street": "12901 Trail End",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78737",
+      "lat": 30.2242,
+      "lng": -97.8879
+    },
+    "phone": "(512) 567-9723",
+    "website": "http://coraggio.org",
+    "email": "paigedbarnett@gmail.com",
+    "disciplines": ["hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["coraggio-equestrian.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "2bdf6ac1-e797-48cd-8783-b094dc4b6b0f",
+    "ownerId": "system",
+    "name": "Tri-Star Farm",
+    "slug": "tri-star-farm",
+    "description": "Tri-Star Farm offers a wide range of boarding and training options as well as riding lessons for all levels of riders and trail rides every week. Austin native Kathy Ellerbeck has operated the farm since 2003 with a Bachelor's Degree in Equine Sciences.",
+    "address": {
+      "street": "6648 Spicewood Springs Road",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78759",
+      "lat": 30.4074,
+      "lng": -97.756
+    },
+    "phone": "(512) 775-7978",
+    "website": "https://www.tristarfarm.com",
+    "email": "tristarfarm@gmail.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "partial"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Kathy Ellerbeck",
+        "bio": "Austin native and lifelong rider. Holds a Bachelor's Degree in Equine Sciences from William Woods University (1999). Has operated Tri-Star Farm since 2003.",
+        "specialties": ["western", "trail"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["tri-star-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "6a31381e-74b9-4f96-b533-5d8aa687f3a1",
+    "ownerId": "system",
+    "name": "Switch Willo Stables",
+    "slug": "switch-willo-stables",
+    "description": "Switch Willo Stables offers unsurpassed excellence in Hunter/Jumper training and competition. Core values: Courage, Kindness, Friendship, Character. Offering lessons, spring break and summer camps, and horse shows.",
+    "address": {
+      "street": "4829 Switch Willo",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78727",
+      "lat": 30.417494,
+      "lng": -97.73548
+    },
+    "phone": "(512) 920-2776",
+    "website": "https://www.switchwillostable.com",
+    "email": "lessons@switchwillo.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Holly Mortimer",
+        "bio": "Lessons coordinator at Switch Willo Stables specializing in hunter/jumper instruction.",
+        "specialties": ["hunter jumper"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["switch-willo-stables.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "e9cd0628-a2c2-4eff-bc50-d4e413f5ddec",
+    "ownerId": "system",
+    "name": "Rio Vista Farm",
+    "slug": "rio-vista-farm",
+    "description": "Rio Vista Farm is known as the Leading English Riding Barn in Austin, Texas. A full care Hunter Jumper Boarding and Hunter Jumper Training Facility serving the Austin area since 1995. Offers instruction for beginner riders through competitive riders, with large covered arena, outdoor arena, and grass field.",
+    "address": {
+      "street": "1225 Creek Road",
+      "city": "Dripping Springs",
+      "state": "TX",
+      "zip": "78620",
+      "lat": 30.1896,
+      "lng": -98.0864
+    },
+    "phone": "(512) 829-4398",
+    "website": "https://www.riovistafarm.net",
+    "email": "smcmorris2@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Susan McMoreis",
+        "bio": "Head trainer, began professional career in 1984 after graduating from Meredith Manor School of Equestrian Studies. Board Member of the Texas Hunter Jumper Association.",
+        "specialties": ["hunter jumper"]
+      },
+      {
+        "name": "Emilie Gardner",
+        "bio": "Degree in Equine Industry/Business and Animal Science from West Texas A&M. Competed on university equestrian team and nationals (2016).",
+        "specialties": ["hunter jumper"]
+      },
+      {
+        "name": "Lauri Bothern",
+        "bio": "Over 20 years teaching experience in Dallas and North Carolina. Business degree from St. Andrews College.",
+        "specialties": ["hunter jumper"]
+      },
+      {
+        "name": "Haylee Mynyk",
+        "bio": "25 years experience teaching riders of all levels. Has been with Rio Vista Farm since its first day of operation.",
+        "specialties": ["hunter jumper"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["rio-vista-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "1af42b13-aae2-4b39-9eef-3af44291fea2",
+    "ownerId": "system",
+    "name": "Paul Cates Stable",
+    "slug": "paul-cates-stable",
+    "description": "Family owned and operated stable of American Saddlebred Horses offering training, riding lessons, boarding, sales, and stud & foal services. The greater Austin area's premier Saddleseat training and lesson stable, serving Cedar Park, Leander, Georgetown, and Hutto.",
+    "address": {
+      "street": "2900 Gattis School Rd",
+      "city": "Round Rock",
+      "state": "TX",
+      "zip": "",
+      "lat": 30.49778,
+      "lng": -97.6357
+    },
+    "phone": "(512) 565-3886",
+    "website": "https://paulcatesstable.com",
+    "email": "cateshorsestables@gmail.com",
+    "disciplines": ["western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Paul Cates",
+        "bio": "Professional trainer since 1987, specializing in American Saddlebred horses and riders for competition.",
+        "specialties": ["western"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": ["American Saddlebred"],
+    "photos": ["paul-cates-stable.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "12153424-f04f-47f7-a681-8ac0ba27c716",
+    "ownerId": "system",
+    "name": "Guarded Heart Farm",
+    "slug": "guarded-heart-farm",
+    "description": "Guarded Heart Farm Horse Boarding & Equestrian Center is a 35-acre property convenient to Austin, Georgetown, Cedar Park, Hutto and Round Rock—approximately 10 minutes from the Williamson County Expo Center. Features a spring-fed pond, on-site barn manager, and 24/7 monitoring. Boarding options include stall, run, and pasture board.",
+    "address": {
+      "street": "2402 Black Waxy Rd",
+      "city": "Taylor",
+      "state": "TX",
+      "zip": "76574",
+      "lat": 30.571,
+      "lng": -97.4095
+    },
+    "phone": "(512) 925-1130",
+    "website": "https://guardedheartfarm.com",
+    "email": "heather@guardedheartfarm.com",
+    "disciplines": [],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 8,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 450,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["guarded-heart-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "7873b160-2592-4b12-a275-44d03d0f0a55",
+    "ownerId": "system",
+    "name": "Highland Park Riding School",
+    "slug": "highland-park-riding-school",
+    "description": "An all-women's equestrian sanctuary focused on English Hunter/Jumper riding. A space where women can grow in strength, confidence, and connection—both with each other and with horses. Features compassionate, highly trained instructors in a safe, supportive environment for women 30+.",
+    "address": {
+      "street": "Sam Bass Rd",
+      "city": "Round Rock",
+      "state": "TX",
+      "zip": "78681",
+      "lat": 30.5254,
+      "lng": -97.729
+    },
+    "phone": "(512) 240-2877",
+    "website": "https://highlandparkstables.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["highland-park-riding-school.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "6bd9821d-ead7-4092-9f86-3ad0bac40b65",
+    "ownerId": "system",
+    "name": "Esoteric Farm",
+    "slug": "esoteric-farm",
+    "description": "A Boutique Equestrian Training Center offering full care Hunter Jumper boarding in NE Austin. Serving Austin, Pflugerville, Westlake, Round Rock, Cedar Park, Manor, Leander, and Lakeway. USEF, USHJA, and THJA affiliated.",
+    "address": {
+      "street": "13404 Cameron Road",
+      "city": "Manor",
+      "state": "TX",
+      "zip": "78653",
+      "lat": 30.3418,
+      "lng": -97.5561
+    },
+    "phone": "(512) 272-4301",
+    "website": "http://www.esotericfarm.com",
+    "email": "kerstenlevine@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Kersten Levine",
+        "bio": "Head Trainer. Started riding at age two in Hawaii. Qualified for pony finals by age 11 and has competed at state, national, and international Grand Prix levels. Founded Esoteric Farm in 2013. Her Grand Prix horse Entrepreneur won the World Cup series for the Pacific League.",
+        "specialties": ["hunter jumper"]
+      },
+      {
+        "name": "Nancy Ansley",
+        "bio": "Trainer and Barn Manager. Multiple state championships through the Arizona Horse Exhibitors Association. Competed at the National Medal Finals at Harrisburg and the Washington International Horse Show. Holds a Doctorate in Veterinary Medicine from Auburn University.",
+        "specialties": ["hunter jumper"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["esoteric-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  }
+]

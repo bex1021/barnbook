@@ -1,0 +1,432 @@
+[
+  {
+    "id": "7a754a97-ec56-4acb-aedd-795d055e69ce",
+    "ownerId": "system",
+    "name": "Sauvie Island Stables",
+    "slug": "sauvie-island-stables",
+    "description": "A picturesque equine facility just minutes from downtown Portland, offering full-care boarding on 30 acres of hay fields with well-maintained arenas, spacious pastures, trail riding on 70+ acres, kids' camps, and equestrian photo sessions. Offers English and Western lessons for all ages and skill levels.",
+    "address": {
+      "street": "19430 NW Reeder Rd",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97231",
+      "lat": 45.661087,
+      "lng": -122.817907
+    },
+    "phone": "(503) 764-5951",
+    "website": "https://sauvieislandstable.com",
+    "email": "info@sauvieislandstable.com",
+    "disciplines": ["western", "trail", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 700,
+      "lessonsFrom": 85,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["sauvie-island-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "b8f9941a-47bd-4902-abbb-01e83eb6cb1b",
+    "ownerId": "system",
+    "name": "Sky Ranch Stables",
+    "slug": "sky-ranch-stables",
+    "description": "A 250-acre equestrian facility in North Plains with over 30 miles of on-site trails, bright LED indoor arena (50x200), seasonal outdoor arena, 40-foot round pen, and hilltop views. Offers full-care boarding with daily turnout, premium hay, and a welcoming community for trail, western, and English riding. Approximately 25 minutes from Portland.",
+    "address": {
+      "street": "23421 NW Moreland Rd",
+      "city": "North Plains",
+      "state": "OR",
+      "zip": "97133",
+      "lat": 45.5973123,
+      "lng": -122.993626
+    },
+    "phone": "(503) 704-8970",
+    "website": "https://skyranchstables.com",
+    "email": "info@skyranchstables.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 550,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Jon", "Lisa"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["sky-ranch-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "69ee68c1-b896-4e3e-b95b-103868d43e2a",
+    "ownerId": "system",
+    "name": "Sherwood Forest Equestrian Center",
+    "slug": "sherwood-forest-equestrian-center",
+    "description": "One of Oregon's largest and finest equestrian facilities on 120 acres in Sherwood, 17 miles south of downtown Portland. Features 52 stalls across 3 barns, a 100x220 indoor arena, 150x300 outdoor arena, and over 5 miles of groomed all-weather trails with a cross-country schooling course. Home to Red Horse Stables, a full-service Hunter/Jumper show barn.",
+    "address": {
+      "street": "28303 SW Baker Rd",
+      "city": "Sherwood",
+      "state": "OR",
+      "zip": "97140",
+      "lat": 45.3130964,
+      "lng": -122.8160142
+    },
+    "phone": "(971) 979-5868",
+    "website": "https://sherwoodforesteqc.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage", "eventing", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 52,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["sherwood-forest-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "793d10de-4f54-4e5d-8459-2949f2780708",
+    "ownerId": "system",
+    "name": "French Hill Farm",
+    "slug": "french-hill-farm",
+    "description": "A premier riding academy in the Charbonneau District of Aurora, open since 1997. Situated on 42 acres with a 52-stall barn, indoor and outdoor arenas, and an automated exerciser. Specializes in English riding and hunter jumper instruction for students age 7 and up through beginner to advanced levels. One of the foremost riding lesson programs in the Portland-Salem area.",
+    "address": {
+      "street": "15770 NE Eilers Rd",
+      "city": "Aurora",
+      "state": "OR",
+      "zip": "97002",
+      "lat": 45.299818,
+      "lng": -122.735872
+    },
+    "phone": "(503) 678-6336",
+    "website": "https://www.frenchhillfarm.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 52,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 85,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["french-hill-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e3f32323-cf47-40ff-89d2-c42e819f6e2d",
+    "ownerId": "system",
+    "name": "Savin Hill Farm",
+    "slug": "savin-hill-farm",
+    "description": "A private sport horse boarding and training facility on 11 acres in the Chehalem Mountain Wine Growers area of Newberg, specializing in Hunters, Jumpers, and Eventing. Features an 18-stall barn with runs, indoor and outdoor arenas, and daily turnout. Head trainer Sarah Savin holds a Master's degree in mental health counseling and brings competition experience from Texas, Colorado, Australia, and Oregon.",
+    "address": {
+      "street": "19950 SW Hillsboro Hwy",
+      "city": "Newberg",
+      "state": "OR",
+      "zip": "97132",
+      "lat": 45.3176528,
+      "lng": -122.9733746
+    },
+    "phone": "(503) 550-9691",
+    "website": "http://www.savinhillfarm.com",
+    "email": "ssavin@savinhillfarm.com",
+    "disciplines": ["hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 18,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Sarah Savin"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["savin-hill-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e33eaff5-e877-4e19-bd24-bcc83e383f65",
+    "ownerId": "system",
+    "name": "Herrold Stables",
+    "slug": "herrold-stables",
+    "description": "A full-care boarding, training, and lesson facility in Hillsboro operated by Dan and Elaine Herrold. Features a 60x120 indoor arena with Nike footing, a 100x200 all-weather outdoor arena, a 60-foot sand round pen, 12x12 matted stalls with 42-foot runs, and 2 to 5 acre year-round pasture turnout. Offers English, Western, dressage, jumping, and harness driving disciplines for adults and youth.",
+    "address": {
+      "street": "32900 SW Wohler St",
+      "city": "Hillsboro",
+      "state": "OR",
+      "zip": "97123",
+      "lat": 45.5003238,
+      "lng": -123.0143019
+    },
+    "phone": "(971) 235-4529",
+    "website": "https://herroldstables.com",
+    "email": "",
+    "disciplines": ["western", "dressage", "hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Dan Herrold", "Elaine Herrold"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["herrold-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "62cb60dd-a27f-4948-b456-c844e59becf0",
+    "ownerId": "system",
+    "name": "Wilsonville Equestrian Center",
+    "slug": "wilsonville-equestrian-center",
+    "description": "A serene 23-acre equestrian facility in Tualatin with over 50 years of history, bordered by Boeckman Creek and the historic Frog Pond Grange district. Features a newly renovated barn with private half-acre pastures for each stall, covered and open arenas, and state-of-the-art footing. Specializes in hunter/jumper instruction with lessons for all ages and levels, plus boarding, summer camps, and horse camps.",
+    "address": {
+      "street": "24040 SW 82nd Ave",
+      "city": "Tualatin",
+      "state": "OR",
+      "zip": "97062",
+      "lat": 45.3450391,
+      "lng": -122.7604512
+    },
+    "phone": "(503) 888-6318",
+    "website": "https://www.wecriding.com",
+    "email": "marenw1@hotmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 600,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["wilsonville-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "4c72dbf0-df1b-4232-896a-5cbb194296dc",
+    "ownerId": "system",
+    "name": "Charlton Ridge Farm",
+    "slug": "charlton-ridge-farm",
+    "description": "A vibrant equestrian community in Sherwood offering individualized instruction, coaching, and comprehensive boarding and lease options. Owned and operated by trainer Kaitlyn Eigner. Offers an IEA team open to all grades 4-12, with lesson horses available so horse ownership is not required. Lesson packages and programs designed for riders of all levels.",
+    "address": {
+      "street": "18241 SW Mountain Home Rd",
+      "city": "Sherwood",
+      "state": "OR",
+      "zip": "97140",
+      "lat": 45.387,
+      "lng": -122.941
+    },
+    "phone": "(503) 349-4533",
+    "website": "https://www.charltonridgefarm.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Kaitlyn Eigner"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["charlton-ridge-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "cbf9d236-9544-4eef-ac16-e87420f65382",
+    "ownerId": "system",
+    "name": "Westside Stables",
+    "slug": "westside-stables",
+    "description": "A meticulously maintained multi-discipline facility in Newberg offering high-quality lesson programs for ages 6 and up. Features an indoor riding arena, oversized matted box stalls with some attached runs, round pen, individual paddocks and group grass fields for daily turnout, and gated entry with video surveillance. Specializes in dressage, jumping, and eventing with a manager with over 20 years of sport horse experience on site.",
+    "address": {
+      "street": "33555 NE Kramien Rd",
+      "city": "Newberg",
+      "state": "OR",
+      "zip": "97132",
+      "lat": 45.3578,
+      "lng": -122.9217
+    },
+    "phone": "(360) 624-0658",
+    "website": "https://www.westside-stables.com",
+    "email": "westsidera@hotmail.com",
+    "disciplines": ["dressage", "hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["westside-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "7b31daed-30c8-4fef-85b3-c9d41eb85a75",
+    "ownerId": "system",
+    "name": "Sonnenberg Farm",
+    "slug": "sonnenberg-farm",
+    "description": "A premier KWPN dressage breeding and training facility on nearly 50 acres on Parrett Mountain in Sherwood, 20 minutes south of Portland. Features a mirrored indoor arena with Premier Equestrian engineered footing, an outdoor arena with Ebb & Flow underground watering, a Euro-Sizer/Walker, round pen, oversized airy stalls, grass fields, and all-weather paddocks. Multiple USDF Horse of the Year and Regional Champion titles. Owned and operated by Dan and Gina Ruediger.",
+    "address": {
+      "street": "12933 SW Westfall Rd",
+      "city": "Sherwood",
+      "state": "OR",
+      "zip": "97140",
+      "lat": 45.3601,
+      "lng": -122.9047
+    },
+    "phone": "(503) 582-0623",
+    "website": "http://sonnenberg.us",
+    "email": "",
+    "disciplines": ["dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Dan Ruediger", "Gina Ruediger"],
+    "lessonAvailability": true,
+    "horseBreeds": ["KWPN"],
+    "photos": ["sonnenberg-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

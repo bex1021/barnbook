@@ -1,0 +1,444 @@
+[
+  {
+    "id": "b4be9553-1d03-4008-8d04-65bdf0ee4d20",
+    "ownerId": "system",
+    "name": "Oakwood Farms Equestrian",
+    "slug": "oakwood-farms-equestrian",
+    "description": "Premier horse boarding barn serving Barrington Hills and the greater Illinois area since 1996. With 60 stalls, all-day pasture access, paddock turnout, all-weather paddocks, and 24/7 on-site management, Oakwood Farms is dedicated to the passion, tradition, and legacy of the equestrian lifestyle. Adjacent to the Cook County Forest Preserve.",
+    "address": {
+      "street": "362 Bateman Rd",
+      "city": "Barrington Hills",
+      "state": "IL",
+      "zip": "60010",
+      "lat": 42.1058202,
+      "lng": -88.2334049
+    },
+    "phone": "(847) 809-3843",
+    "website": "https://www.oakwoodfarmsequestrian.com",
+    "email": "oakwoodfarmsequestrian@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 60,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["oakwood-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "619b2962-7a2f-47e1-b086-857fc4577f36",
+    "ownerId": "system",
+    "name": "Old Barrington Farm",
+    "slug": "old-barrington-farm",
+    "description": "Premier Midwest equestrian center set on over 60 acres in North Barrington, a northwest suburb of Chicago. Offering boarding and training for hunters and jumpers from short stirrup through Grand Prix level in a fun, nurturing team environment, with a focus on the long-term well-being of the horse. Features a heated indoor ring, spacious outdoor ring, grass field, and all-weather paddocks with trail access.",
+    "address": {
+      "street": "26059 W Scott Rd",
+      "city": "North Barrington",
+      "state": "IL",
+      "zip": "60010",
+      "lat": 42.1831285,
+      "lng": -88.1336274
+    },
+    "phone": "(847) 458-9399",
+    "website": "https://www.oldbarringtonfarm.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Amelia C. McArdle", "title": "Head Trainer" }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["old-barrington-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "ea20b6cc-9ba9-4684-89d6-da7eee833b31",
+    "ownerId": "system",
+    "name": "Laura's Ark",
+    "slug": "lauras-ark",
+    "description": "A small, private 15-stall barn with a heated indoor arena located in the heart of horse country in Barrington Hills. Laura's Ark specializes in classical dressage instruction and foundational horsemanship training, offering a boutique environment focused on individual horse and rider development.",
+    "address": {
+      "street": "342 Ridge Rd",
+      "city": "Barrington",
+      "state": "IL",
+      "zip": "60010",
+      "lat": 42.1796550,
+      "lng": -88.1996790
+    },
+    "phone": "",
+    "website": "http://www.laurasark.net",
+    "email": "laurasark.farm@gmail.com",
+    "disciplines": ["dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 15,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["lauras-ark.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e7fb7e44-16a4-4083-84de-185305d6ca1f",
+    "ownerId": "system",
+    "name": "Deerwood Farm",
+    "slug": "deerwood-farm",
+    "description": "Deerwood Farm is an equestrian facility located 30 miles northwest of Chicago, specializing in hunters, equitation, jumpers, and ponies. Situated at 99 West County Line Road in scenic Barrington Hills, the farm provides a welcoming environment for riders of all levels with private and group lesson programs.",
+    "address": {
+      "street": "99 W County Line Rd",
+      "city": "Barrington Hills",
+      "state": "IL",
+      "zip": "60010",
+      "lat": 42.1542060,
+      "lng": -88.2312580
+    },
+    "phone": "(815) 519-8522",
+    "website": "https://www.deerwoodfarmequestrian.com",
+    "email": "ehirsch12@msn.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["deerwood-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "301a8949-a216-4b30-aed1-ac4b68eef5c9",
+    "ownerId": "system",
+    "name": "Campton Hills Equestrian",
+    "slug": "campton-hills-equestrian",
+    "description": "Campton Hills Equestrian, LLC operates out of McCarthy Farm, a premium boarding facility in Elgin, Illinois. A family-owned facility offering horse boarding, sales, lessons, shows, birthday parties, and summer camps. Services include basic board ($640/mo) and premium board ($740/mo), private lessons ($55 for 45 min, or 4-pack for $200), and training programs for all skill levels from beginner to advanced.",
+    "address": {
+      "street": "10N331 Nesler Rd",
+      "city": "Elgin",
+      "state": "IL",
+      "zip": "60124",
+      "lat": 42.0372600,
+      "lng": -88.2810994
+    },
+    "phone": "(630) 417-9667",
+    "website": "https://www.camptonhillsequestrian.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "partial"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 640,
+      "lessonsFrom": 55,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["campton-hills-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "038fe5bc-5d57-45fa-a7f0-167097430d97",
+    "ownerId": "system",
+    "name": "Lakewood Stables",
+    "slug": "lakewood-stables",
+    "description": "Lakewood Farm & Stables LLC in Wauconda offers multi-discipline equestrian boarding with complete and custom packages including boarding, horse leasing, share boarding, and lessons. Specializing in hunter/jumper with all-day turnout, quality hay and grain fed twice daily, stalls cleaned 7 days a week, and blanketing service included with premium board.",
+    "address": {
+      "street": "23755 W Milton Rd",
+      "city": "Wauconda",
+      "state": "IL",
+      "zip": "60084",
+      "lat": 42.2589122,
+      "lng": -88.1392474
+    },
+    "phone": "(773) 401-7955",
+    "website": "https://www.lakewoodstables.com",
+    "email": "lakewoodstablesllc@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "partial"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 640,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["lakewood-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "9006b565-6466-4d0e-8a6a-9ab62ef2dc67",
+    "ownerId": "system",
+    "name": "Dunham Woods Farm",
+    "slug": "dunham-woods-farm",
+    "description": "Superior hunter-jumper barn in northern Illinois, situated on 20+ acres in Elgin. Led by Michele, Rose, and a team with over 50 years of combined experience developing students from beginner to Olympic caliber. Amenities include a 65'x150' indoor arena with rubber cushion footing, a 100'x180' sand outdoor arena, a 10+ acre riding field, heated indoor wash rack, outdoor wash racks, matted groom stalls, and all-weather dry-lot paddocks.",
+    "address": {
+      "street": "9N755 Nesler Rd",
+      "city": "Elgin",
+      "state": "IL",
+      "zip": "60124",
+      "lat": 42.0243829,
+      "lng": -88.3788755
+    },
+    "phone": "(847) 628-6339",
+    "website": "https://www.dunhamwoodsfarm.com",
+    "email": "dunhamwoodsfarm@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Michele", "title": "Co-Owner/Trainer" },
+      { "name": "Rose", "title": "Co-Owner/Trainer" }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["dunham-woods-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "2477a7c5-b521-4aa1-99ac-2e99062e31dc",
+    "ownerId": "system",
+    "name": "Galway Farm",
+    "slug": "galway-farm",
+    "description": "Established in 1998, Galway Farm Hunters & Jumpers is conveniently located 15 miles northwest of O'Hare International Airport in Long Grove, Illinois. Offering a limited number of boarding stalls for hunter and jumper horses, full training programs, lesson programs for all levels, on-site clinics, full-service grooming, and horse transport. Led by trainer Lorrie Canady.",
+    "address": {
+      "street": "1650 Bernay Ln",
+      "city": "Long Grove",
+      "state": "IL",
+      "zip": "60047",
+      "lat": 42.1633280,
+      "lng": -87.9859016
+    },
+    "phone": "(847) 309-8980",
+    "website": "http://www.galwayfarm.com",
+    "email": "info@galwayfarm.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Lorrie Canady", "title": "Owner/Trainer" }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["galway-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "1a2bb693-3a6f-491b-b850-828bce822ed5",
+    "ownerId": "system",
+    "name": "Messenger Hill Farm",
+    "slug": "messenger-hill-farm",
+    "description": "World-class hunter-jumper training and boarding facility in Mettawa, Illinois (near Libertyville), with a second location in Wellington, FL. Offering Olympic-sized all-weather jump arenas, heated indoor arenas, hot walkers, treadmills, and a riding academy with full training programs. Led by trainers Jodi and Freddie Vazquez, who travel extensively with the A-Show team to prestigious events in North America.",
+    "address": {
+      "street": "25310 N Saint Marys Rd",
+      "city": "Mettawa",
+      "state": "IL",
+      "zip": "60048",
+      "lat": 42.2283912,
+      "lng": -87.9255271
+    },
+    "phone": "(773) 320-3135",
+    "website": "https://www.messengerhillfarm.com",
+    "email": "info@messengerhillfarm.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Jodi Vazquez", "title": "Head Trainer" },
+      { "name": "Freddie Vazquez", "title": "Head Trainer" }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["messenger-hill-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "f2f65a71-fd1d-4dcc-9947-050d5fbc69b5",
+    "ownerId": "system",
+    "name": "Millcreek Equestrian",
+    "slug": "millcreek-equestrian",
+    "description": "Full-service hunter-jumper boarding and training facility in Antioch, Illinois, offering stalls cleaned daily, all-day turnout year-round, blanketing, three meals per day, and supplement administration. Features a 52'x160' indoor arena, a 95'x225' outdoor arena, a grass jumping field, on-property trails, a hot walker, automatic fly spray, and heated 14x14 matted stalls. Trainer Serah Vogus brings training under Olympian Carlos Milthaler.",
+    "address": {
+      "street": "19555 W Edwards Rd",
+      "city": "Antioch",
+      "state": "IL",
+      "zip": "60002",
+      "lat": 42.4767131,
+      "lng": -88.0950691
+    },
+    "phone": "(404) 259-5867",
+    "website": "https://millcreekequestrian.net",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Serah Vogus", "title": "Trainer" }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["millcreek-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

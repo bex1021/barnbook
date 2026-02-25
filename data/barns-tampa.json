@@ -1,0 +1,408 @@
+[
+  {
+    "id": "e66ed2ec-7835-455b-99a4-027a9041a77d",
+    "ownerId": "system",
+    "name": "In The Breeze Ranch",
+    "slug": "in-the-breeze-ranch",
+    "description": "In The Breeze Ranch is a full-service equestrian facility located in northwest Tampa on Gardner Road, offering boarding, lessons, trail riding, horse swimming, and special events. Boarders enjoy private stalls with attached paddocks, premium hay, daily stall cleaning, fresh shavings, and access to an illuminated arena. The property features a spring-fed creek and lake trail system, round pen, and two wash racks. From unicorn parties to professional training board, the ranch serves a wide range of equestrian needs in the greater Tampa Bay area.",
+    "address": {
+      "street": "7539 Gardner Rd",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33625",
+      "lat": 28.0632,
+      "lng": -82.5699
+    },
+    "phone": "(813) 264-1919",
+    "website": "https://inthebreezeranch.com",
+    "email": "itbhorseranch@gmail.com",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "partial", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 300,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["in-the-breeze-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "00ac720b-f6ce-4cc6-8769-4af6302c5352",
+    "ownerId": "system",
+    "name": "Annwyn Equestrian Center",
+    "slug": "annwyn-equestrian-center",
+    "description": "Annwyn Equestrian Center in Seffner, Florida is an elite dressage training facility established in 2009 by Susan Mitchell and Kathleen Petersen. Originally an elite boarding facility, Annwyn has evolved into one of the Tampa Bay area's premier dressage destinations. The center is open daily from 8am to 8pm and prioritizes the well-being of each horse above all else. Led by dressage trainer Kathleen Petersen, the facility offers professional instruction and training for riders pursuing dressage from introductory through upper-level work.",
+    "address": {
+      "street": "2916 N Valrico Rd",
+      "city": "Seffner",
+      "state": "FL",
+      "zip": "33584",
+      "lat": 27.9595,
+      "lng": -82.2710
+    },
+    "phone": "(813) 333-5562",
+    "website": "http://www.annwynequestrian.com",
+    "email": "info@annwynequestrian.com",
+    "disciplines": ["dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Kathleen Petersen",
+        "specialties": ["dressage"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["annwyn-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "644f76b1-7097-4a7c-8f4f-6487e1141a33",
+    "ownerId": "system",
+    "name": "Perennial Farm Riding Academy",
+    "slug": "perennial-farm-riding-academy",
+    "description": "Perennial Farm Riding Academy is a hunter jumper barn situated on the historic Tampa Yacht & Country Club property along Interbay Boulevard, where horses have roamed since the early 1900s. The academy offers riding lessons for all ages and skill levels, summer camps, and horse show opportunities, combining rich tradition with a genuine love for the horse. Open Tuesday through Sunday, Perennial Farm emphasizes safe, solid horsemanship and a fun, welcoming environment for students pursuing the hunter jumper discipline in South Tampa.",
+    "address": {
+      "street": "5305 Interbay Blvd",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33611",
+      "lat": 27.8899,
+      "lng": -82.4832
+    },
+    "phone": "(813) 297-5267",
+    "website": "https://www.perennialfarmriding.com",
+    "email": "perennialfarmriding@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["perennial-farm-riding-academy.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "a3250ba7-deb0-41d3-924b-06d2941e4d4b",
+    "ownerId": "system",
+    "name": "Hidden Meadow Farms",
+    "slug": "hidden-meadow-farms",
+    "description": "Hidden Meadow Farms is a welcoming hunter jumper facility in Plant City, Florida, offering personalized riding instruction for riders aged 7 and up. Describing itself as a 'non-show show barn,' Hidden Meadow emphasizes a comprehensive approach to horsemanship that goes beyond the saddle — teaching horse care, equipment handling, and teamwork alongside riding fundamentals. The barn fosters a supportive community where riders encourage one another both at home and at local shows. Optional competition opportunities are available at the Sumter Equestrian Center and Pinellas County Hunter Association.",
+    "address": {
+      "street": "8231 Plant City-Picnic Rd",
+      "city": "Plant City",
+      "state": "FL",
+      "zip": "33567",
+      "lat": 27.9724,
+      "lng": -82.1059
+    },
+    "phone": "(813) 777-2061",
+    "website": "https://hiddenmeadowllc.com",
+    "email": "HiddenMeadowLLC@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["hidden-meadow-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "612a952c-a5e3-4ad6-a044-cc6d8528cca6",
+    "ownerId": "system",
+    "name": "Suncoast Stables and Riding Academy",
+    "slug": "suncoast-stables",
+    "description": "Suncoast Stables and Riding Academy, founded in 2007 by owner and trainer Krystle Lee, is a premier multi-discipline equestrian facility in Odessa, Florida. Specializing in American Saddlebreds, Morgans, Arabians, Hackneys, and Roadsters, Suncoast offers instruction in saddleseat, dressage, western, and hunt seat disciplines. The facility features a lighted covered arena, an open arena, stalls, wash racks, and multiple pasture areas. Krystle Lee, a William Woods University Equestrian Science graduate and 2024 UPHA Chapter 16 Horse Person of the Year, leads the training programs. Services include private lessons, horse training, breeding, summer camps, and horse leasing assistance.",
+    "address": {
+      "street": "1108 Altamont Ln",
+      "city": "Odessa",
+      "state": "FL",
+      "zip": "33556",
+      "lat": 28.1741,
+      "lng": -82.5553
+    },
+    "phone": "(813) 368-0666",
+    "website": "https://suncoaststable.com",
+    "email": "ContactUs@SuncoastStable.com",
+    "disciplines": ["dressage", "western", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Krystle Lee",
+        "specialties": ["dressage", "western", "hunter jumper"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": ["American Saddlebred", "Morgan", "Arabian", "Hackney"],
+    "photos": ["suncoast-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "c9068a75-c22f-4a09-8f21-91bc48ad0bcd",
+    "ownerId": "system",
+    "name": "Whispering Oaks Equestrian Center",
+    "slug": "whispering-oaks-equestrian",
+    "description": "Whispering Oaks Equestrian Center is a family-friendly facility on Gardner Road in Tampa, Florida, specializing in Morgan Performance Horses and welcoming all breeds. With over 14 years of producing regional, national, and world-level competitors, the center offers instruction in saddle seat, hunt seat equitation, English, western, hunter pleasure, pleasure driving, park saddle, hunter over fences, and barrel racing. The newly renovated barn and riding area serve students from beginner through advanced levels, with a popular Summer Horsemanship Academy program for youth ages 5 to 16.",
+    "address": {
+      "street": "7631 Gardner Rd",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33625",
+      "lat": 28.0646,
+      "lng": -82.5704
+    },
+    "phone": "(813) 409-5272",
+    "website": "https://whisperingoaksequestrianfl.com",
+    "email": "whisperingoaksequestrian@gmail.com",
+    "disciplines": ["western", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 65,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": ["Morgan"],
+    "photos": ["whispering-oaks-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "586ddb2f-cd2b-4e1e-b810-5452d5afd392",
+    "ownerId": "system",
+    "name": "Kingsmeade Farm",
+    "slug": "kingsmeade-farm",
+    "description": "Kingsmeade Farm is Tampa Bay's premiere hunter jumper equestrian facility, nestled along a quiet country road in Lutz just 20 minutes from downtown Tampa. The property features 35 twelve-by-twelve stalls, a massive 295-by-275-foot lighted indoor arena with a full jump course, six dedicated wash racks with hot and cold water, fly spray systems, ceiling fans, and three air-conditioned boarder tack rooms with electronic keypad locks. Owner and trainer Clair Kellner has produced riders competing at the highest national levels including Junior Hunter Finals, Maclay, Medal Finals, and Pony Finals. Training board, group lessons, and private lessons are all available.",
+    "address": {
+      "street": "4602 Scott Rd",
+      "city": "Lutz",
+      "state": "FL",
+      "zip": "33558",
+      "lat": 28.1457,
+      "lng": -82.5099
+    },
+    "phone": "(813) 968-7469",
+    "website": "https://www.kingsmeadefarm.com",
+    "email": "info@kingsmeadefarm.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 35,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 2200,
+      "lessonsFrom": 75,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Clair Kellner",
+        "specialties": ["hunter jumper"]
+      },
+      {
+        "name": "Sydney Robbins",
+        "specialties": ["hunter jumper"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["kingsmeade-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "d0735e32-0535-47e7-b96d-73c94cb5b0b0",
+    "ownerId": "system",
+    "name": "Licciardello Stables",
+    "slug": "licciardello-stables",
+    "description": "Licciardello Stables is a family-friendly equestrian facility in Lutz, Florida, specializing in American Saddlebreds, Morgans, and Hackneys with a focus on saddle seat riding and training. The stable provides top-of-the-line care and training for horses and riders, offering show horse training and boarding, competition training, pleasure lessons, and camps. Open six days a week from 9am to 7pm, Licciardello Stables serves riders throughout the Tampa Bay area looking to develop their skills in a warm, supportive environment.",
+    "address": {
+      "street": "3007 Sunset Ln",
+      "city": "Lutz",
+      "state": "FL",
+      "zip": "33559",
+      "lat": 28.1407,
+      "lng": -82.4240
+    },
+    "phone": "(813) 951-1690",
+    "website": "https://licciardellostables.com",
+    "email": "klstablesinfo@gmail.com",
+    "disciplines": ["western", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": ["American Saddlebred", "Morgan", "Hackney"],
+    "photos": ["licciardello-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "06a08eb9-c9be-40a6-bc74-6d2fb7e0b435",
+    "ownerId": "system",
+    "name": "Fire River 4 Ranch",
+    "slug": "fire-river-4-ranch",
+    "description": "Fire River 4 Ranch is a spacious horse boarding facility in Plant City, Florida, offering full board services across more than 120 acres of open pasture. The ranch accommodates small to large horse breeds in 10 private stalls, with daily care provided by on-site staff. The expansive acreage allows for exceptional turnout and natural grazing opportunities. Located at 515 E. Keysville Road, Fire River 4 Ranch is ideal for horse owners in the eastern Hillsborough County area seeking a pastoral, attentive boarding environment with room to roam.",
+    "address": {
+      "street": "515 E Keysville Rd",
+      "city": "Plant City",
+      "state": "FL",
+      "zip": "33567",
+      "lat": 27.9213,
+      "lng": -82.0868
+    },
+    "phone": "(813) 244-2301",
+    "website": "https://fireriver4ranch.com",
+    "email": "FireRiver4Ranch@Gmail.com",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 10,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["fire-river-4-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

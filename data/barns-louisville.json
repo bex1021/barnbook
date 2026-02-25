@@ -1,0 +1,455 @@
+[
+  {
+    "id": "059244cf-c594-4510-b063-183570414d37",
+    "ownerId": "system",
+    "name": "Razor Creek Stables",
+    "slug": "razor-creek-stables",
+    "description": "A full board facility located in the J-town area of Louisville, offering a warm and friendly atmosphere to riders and boarders of all ages and experience levels. Horses are turned out 6 days a week weather permitting, with twice-daily hay and grain feeding using homegrown hay and 12% sweet feed.",
+    "address": {
+      "street": "4515 Old Heady Road",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40299",
+      "lat": 0,
+      "lng": 0
+    },
+    "phone": "(502) 552-4220",
+    "website": "https://razorcreekstables.com",
+    "email": "",
+    "disciplines": [],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["razor-creek-stables.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "10b3e0f0-e2b6-4169-868c-344fe4904e46",
+    "ownerId": "system",
+    "name": "Spring Run Farm",
+    "slug": "spring-run-farm",
+    "description": "A small, family-oriented barn in Prospect, KY specializing in dressage, eventing, show jumping, cross country, basic hunt seat, equitation, and jumping. Home to approximately 70 horses across five barns with hundreds of acres of trails and fields. Owner Susan Perellis is the only instructor in Kentucky certified by both the United States Eventing Association and the US Dressage Federation.",
+    "address": {
+      "street": "10200 Covered Bridge Road",
+      "city": "Prospect",
+      "state": "KY",
+      "zip": "40059",
+      "lat": 0,
+      "lng": 0
+    },
+    "phone": "(502) 643-2364",
+    "website": "http://springrunfarm.org",
+    "email": "SpringRunFarmKY@gmail.com",
+    "disciplines": ["dressage", "eventing", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 550,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Susan L. Perellis",
+        "bio": "Teaching since the early 1970s, A-level Pony Club graduate and national examiner. Competed through Grand Prix dressage and 3-day events including Rolex and Radnor. Level IV Pony Club Examiner, Level III USEF Eventing Instructor, and USEF Dressage Instructor through 4th Level.",
+        "specialties": ["dressage", "eventing"]
+      },
+      {
+        "name": "Sam McLean",
+        "bio": "Competed in hunter/jumpers through high school in upstate New York. Joined Spring Run Farm in 2017. Currently competing at training level eventing.",
+        "specialties": ["hunter jumper", "eventing"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["spring-run-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "446a554f-ab08-412f-ae40-888889d698dd",
+    "ownerId": "system",
+    "name": "Louisville Equestrian Center",
+    "slug": "louisville-equestrian-center",
+    "description": "Louisville's premier full-service equestrian facility with 78 matted stalls, offering riding lessons, boarding, horse sales, summer camps, pony parties, and horse show services. Features two climate-controlled indoor arenas, six indoor grooming areas, an automatic fly spray system, and 24-hour security. Multiple boarding options from pasture to full board with training.",
+    "address": {
+      "street": "6720 Mount Washington Road",
+      "city": "Taylorsville",
+      "state": "KY",
+      "zip": "40071",
+      "lat": 0,
+      "lng": 0
+    },
+    "phone": "(502) 477-0830",
+    "website": "https://www.louisvilleequestriancenter.com",
+    "email": "louisvilleequestriancenter@gmail.com",
+    "disciplines": ["hunter jumper", "western"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 78,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 300,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Don Bridges",
+        "bio": "Director of Training at Louisville Equestrian Center, overseeing customized daily care and training programs for boarding and training clients.",
+        "specialties": ["hunter jumper"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["louisville-equestrian-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "cc853671-c2b1-4117-8053-5db1e194bf8b",
+    "ownerId": "system",
+    "name": "Bannon Woods Farm",
+    "slug": "bannon-woods-farm",
+    "description": "A private hunter/jumper facility in southern Louisville owned and operated by the Denzik family. The beautiful 41-acre farm is surrounded by 5,000 acres of Jefferson County Forest, offering miles of trails, spacious indoor and outdoor arenas for year-round riding and training. Services include full care boarding, riding lessons, summer camp, mare care, and lay-up service with an equine veterinarian on staff.",
+    "address": {
+      "street": "1000 Dezern Court",
+      "city": "Fairdale",
+      "state": "KY",
+      "zip": "40118",
+      "lat": 0,
+      "lng": 0
+    },
+    "phone": "(502) 439-2956",
+    "website": "https://www.bannonwoodsfarm.net",
+    "email": "bannonwoodsfarm@gmail.com",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["bannon-woods-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "14282e11-7c48-48cf-ae7f-459de4734d7e",
+    "ownerId": "system",
+    "name": "Rock Creek Riding Club",
+    "slug": "rock-creek-riding-club",
+    "description": "Louisville's historic riding club established in 1929, dedicated to teaching horsemanship and promoting educational opportunities involving horses, horseback riding, and horse showing. Located across from Seneca Park on 7 acres of the original 37-acre property with a Victorian clubhouse. Famous for their annual Saddlebred horse show and access to Olmsted-designed bridle paths in Seneca and Cherokee Parks.",
+    "address": {
+      "street": "3114 Rock Creek Drive",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40207",
+      "lat": 0,
+      "lng": 0
+    },
+    "phone": "(502) 299-2704",
+    "website": "https://www.rockcreekridingclub.com",
+    "email": "louisvilleequestriancenter@gmail.com",
+    "disciplines": ["trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["rock-creek-riding-club.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "a35eda19-0e0c-4b1d-b678-5c429f91f063",
+    "ownerId": "system",
+    "name": "Temple Equestrian Center",
+    "slug": "temple-equestrian-center",
+    "description": "A full-service horse boarding and care facility in Oldham County, Kentucky offering boarding, training, riding lessons, horse sales, and trail riding on 2,500 acres of trails and farmland. Horses receive customized training and five-star treatment with daily care and 24-hour video surveillance. All skill levels welcome for lessons.",
+    "address": {
+      "street": "9434 Mason Lane",
+      "city": "Goshen",
+      "state": "KY",
+      "zip": "40026",
+      "lat": 0,
+      "lng": 0
+    },
+    "phone": "(502) 403-6730",
+    "website": "https://www.templeequestriancenter.com",
+    "email": "Urgin2007@yahoo.com",
+    "disciplines": ["trail", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 750,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["temple-equestrian-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "4b9552cb-56ca-459a-815d-78d69734a5aa",
+    "ownerId": "system",
+    "name": "Circle G Stables",
+    "slug": "circle-g-stables",
+    "description": "Tucked away in a private yet convenient centrally located picturesque setting in Shelby County, Kentucky. A beautiful, serene, comfortable, and enjoyable environment for you and your horse friends, where horses and riders are treated like family. Offering horse boarding, horse lay-up, and pasture boarding with run-in sheds.",
+    "address": {
+      "street": "",
+      "city": "Shelbyville",
+      "state": "KY",
+      "zip": "40065",
+      "lat": 0,
+      "lng": 0
+    },
+    "phone": "(850) 723-7300",
+    "website": "https://www.thecirclegstables.com",
+    "email": "TheCircleGFarm@yahoo.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["circle-g-stables.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "4ccbf1f9-e096-4eba-b20e-113836bd39d2",
+    "ownerId": "system",
+    "name": "Miron Equine Center",
+    "slug": "miron-equine-center",
+    "description": "Located in the heart of Simpsonville, Kentucky, Miron Equine Center provides world-class care for horses with a clients-first, integrity-driven approach. Specializing in broodmare care, foaling services, rehabilitation, show and sport horse boarding, and retirement services. Both indoor full care and outdoor full care boarding available with custom rehabilitation plans.",
+    "address": {
+      "street": "1303 Todds Point Road",
+      "city": "Simpsonville",
+      "state": "KY",
+      "zip": "40067",
+      "lat": 0,
+      "lng": 0
+    },
+    "phone": "(954) 612-3096",
+    "website": "https://www.mironequinecenter.com",
+    "email": "mironequinecenter@gmail.com",
+    "disciplines": [],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["miron-equine-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "f4648491-647c-452a-a296-d2feb8b2b709",
+    "ownerId": "system",
+    "name": "The Farm at Grace Hill",
+    "slug": "farm-at-grace-hill",
+    "description": "A Kentucky farm and horse boarding facility in Crestwood offering large stalls, paddocks, and a round pen with on-site owner supervision. Located approximately 1 mile from I-71 near Louisville. The farm also offers life coaching and equine-assisted coaching experiences. No stallions accepted.",
+    "address": {
+      "street": "6100 Old Lagrange Road",
+      "city": "Crestwood",
+      "state": "KY",
+      "zip": "40014",
+      "lat": 0,
+      "lng": 0
+    },
+    "phone": "(502) 376-3573",
+    "website": "https://www.thefarmatgracehill.com",
+    "email": "farmatgracehill@gmail.com",
+    "disciplines": ["trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 2,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Jessica Wuchterl",
+        "bio": "Owner of The Farm at Grace Hill with over two decades of business experience. Equine-assisted life coach who uses horses as mirrors for human behavior and transformation. Daughter of an equine veterinarian.",
+        "specialties": ["trail"]
+      }
+    ],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["farm-at-grace-hill.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "6fd597ce-f817-4f1e-8468-d4818377ca48",
+    "ownerId": "system",
+    "name": "Circle Bar C Ranch",
+    "slug": "circle-bar-c-ranch",
+    "description": "For over 20 years, Circle Bar C Ranch has been building a top-tier training and boarding facility in La Grange, Kentucky. The ranch features over 100 acres of lush pasture, 12x12 stalls with individual paddocks, three hot and cold wash racks, Nelson automatic feeders and waterers, and therapeutic stall flooring. The renowned Benton Jackson Arena spans over 55,000 sq. ft. with premium Kiser footing and is recognized as one of the best indoor arenas in Kentucky. Offers full-service boarding, pasture boarding, lessons, trail rides, and overnight trips.",
+    "address": {
+      "street": "1424 Bluegrass Parkway",
+      "city": "La Grange",
+      "state": "KY",
+      "zip": "40031",
+      "lat": 0,
+      "lng": 0
+    },
+    "phone": "(502) 322-4861",
+    "website": "https://circlebarcranch.com",
+    "email": "",
+    "disciplines": ["western", "trail", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["circle-bar-c-ranch.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  }
+]

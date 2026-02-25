@@ -1,0 +1,346 @@
+[
+  {
+    "id": "88f79521-6368-4318-a89d-d9d50ed874e4",
+    "ownerId": "system",
+    "name": "The Stable On The Woods",
+    "slug": "the-stable-on-the-woods",
+    "description": "Aiken's elite boarding and training facility set on 70 acres with a 26-stall courtyard-style barn. Offers customized programs in dressage, hunter/jumper, eventing, and foxhunting, with direct access to the famous 2,000-acre Hitchcock Woods trail system. Features a full-size dressage arena with mirrors and a dedicated show jumping arena.",
+    "address": {
+      "street": "292 Rubins Cottage Lane",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29801",
+      "lat": 33.5503209,
+      "lng": -81.7702205
+    },
+    "phone": "(603) 785-0435",
+    "website": "http://www.thestableonthewoods.com/",
+    "email": "thestableonthewoods@gmail.com",
+    "disciplines": ["dressage", "hunter jumper", "eventing", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 26,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Darrell Vaughn", "Melissa Vaughn"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["the-stable-on-the-woods.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e4ac9f65-b454-45fd-bc16-d6b9ca6ec4a1",
+    "ownerId": "system",
+    "name": "The Stables at New Bridge Polo",
+    "slug": "new-bridge-polo-stables",
+    "description": "A full-service equestrian boarding facility within the New Bridge Polo & Country Club. Features a 24-stall center aisle barn with 12x12 matted stalls, fans, and a fly spray system. Amenities include a 30,000 sq ft all-weather jumping arena, regulation dressage arena with GGT footing, miles of bridle paths, and a comfortable rider's lounge with laundry.",
+    "address": {
+      "street": "862 New Bridge Road",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29805",
+      "lat": 33.595783,
+      "lng": -81.628288
+    },
+    "phone": "(803) 648-3699",
+    "website": "https://www.newbridgepolo.com/stables/",
+    "email": "info@newbridgepolo.com",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 24,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["new-bridge-polo-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "0d18874b-6bbd-490e-b41f-7970056f8c40",
+    "ownerId": "system",
+    "name": "Magnolia Meadow Stables",
+    "slug": "magnolia-meadow-stables",
+    "description": "A full-service equestrian facility on 30 private acres within the Bridle Creek Equestrian Community in Aiken, SC. The 17-stall barn caters to eventers, hunters, jumpers, and dressage riders with a full-size riding arena, irrigated grass jump field, cross-country course with water jump, jog track, round pen, and miles of private trails.",
+    "address": {
+      "street": "544 Bridle Creek Trail",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29803",
+      "lat": 33.4480523,
+      "lng": -81.6200485
+    },
+    "phone": "(912) 614-2006",
+    "website": "https://www.mmstablesaiken.com/",
+    "email": "MMStablesLLC@gmail.com",
+    "disciplines": ["dressage", "hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "partial"],
+      "stallCount": 17,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["magnolia-meadow-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "45103ffa-c64d-411a-a34d-53cb4fd16ea2",
+    "ownerId": "system",
+    "name": "Jumping Branch Farm",
+    "slug": "jumping-branch-farm",
+    "description": "A premier eventing training facility on 100+ acres in Aiken, SC, surrounded by trees, trails, and two ponds with large turnout fields. Best known for its Starter through Preliminary cross-country courses that are inviting yet challenging. Hosts schooling shows including dressage, combined tests, horse trials, and derbies.",
+    "address": {
+      "street": "179 Fox Pond Rd",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29801",
+      "lat": 33.5620415,
+      "lng": -81.6110509
+    },
+    "phone": "(240) 460-1094",
+    "website": "https://jbfarm.com/",
+    "email": "timshaw628@gmail.com",
+    "disciplines": ["dressage", "eventing", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Tim Shaw"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["jumping-branch-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "de62dd41-0584-4315-a34c-d4223175fc98",
+    "ownerId": "system",
+    "name": "DFG Stables",
+    "slug": "dfg-stables",
+    "description": "A professional hunter/jumper training and boarding facility operated by USEF National Equestrian of the Year Daniel Geitner, located in the heart of Aiken, SC. DFG Stables competes at the highest levels of the hunter/jumper circuit with a strong record at prestigious shows nationwide, with a seasonal base in Ocala, FL.",
+    "address": {
+      "street": "1224 Sizemore Road",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29803",
+      "lat": 33.4510912,
+      "lng": -81.6731485
+    },
+    "phone": "(803) 270-0574",
+    "website": "https://dfgstables.net/",
+    "email": "dfgstables@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Daniel Geitner", "Cathy Geitner"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["dfg-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "67469a6e-a34f-4737-88a4-706a9b74a37b",
+    "ownerId": "system",
+    "name": "Ligara Farm",
+    "slug": "ligara-farm",
+    "description": "A beautifully maintained boarding facility on 24 acres in the horse-rich 302 corridor of Aiken, SC. Offers full and self-care stall options as well as pasture board. Features 8 fully matted stalls, a hot water wash rack, jumps, perimeter riding track, and trails — just 8 miles from Hitchcock Woods.",
+    "address": {
+      "street": "597 Redds Branch Rd",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29805",
+      "lat": 33.5772127,
+      "lng": -81.6519834
+    },
+    "phone": "(301) 466-9244",
+    "website": "http://www.ligarafarm.com/",
+    "email": "",
+    "disciplines": ["hunter jumper", "trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "self care"],
+      "stallCount": 8,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["ligara-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "c1fa3483-c4e1-4c46-acc1-bb96a87f7ed9",
+    "ownerId": "system",
+    "name": "Vaughn Equestrian",
+    "slug": "vaughn-equestrian",
+    "description": "A holistic equestrian facility in Aiken, SC focused on the well-being of horse and rider. With over 55 years of combined staff experience, Vaughn Equestrian offers boarding, dressage training, jump training, and retraining projects, as well as equine Reiki massage healing. A welcoming environment known for client camaraderie and individualized care.",
+    "address": {
+      "street": "1613 Banks Mill Rd",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29801",
+      "lat": 33.5234747,
+      "lng": -81.6882618
+    },
+    "phone": "(603) 785-0435",
+    "website": "https://www.vaughnequestrian.com/",
+    "email": "vaughn.eq@gmail.com",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["vaughn-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e6439fd7-b274-489e-b637-acc2b8eebefb",
+    "ownerId": "system",
+    "name": "Red Horse Stables",
+    "slug": "red-horse-stables",
+    "description": "An eventing and dressage barn located within the Wire Road Polo Association in Aiken, SC. The main barn features six 12x12 matted stalls with a tack room, hot water wash stall, and washer/dryer, plus a lower barn with two additional stalls. Full board starts at $775/month. Turnout across five paddocks is tailored to each horse's needs.",
+    "address": {
+      "street": "1223 Smiths Lawn Drive",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29801",
+      "lat": 33.5879594,
+      "lng": -81.6796374
+    },
+    "phone": "(603) 845-8379",
+    "website": "https://www.redhorsestablesllc.com/",
+    "email": "rhsllcwfc@gmail.com",
+    "disciplines": ["dressage", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 8,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 775,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["red-horse-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

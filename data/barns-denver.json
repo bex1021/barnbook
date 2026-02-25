@@ -1,0 +1,394 @@
+[
+  {
+    "id": "3234ae4e-15e0-4e11-aa0d-10d5e65de183",
+    "ownerId": "system",
+    "name": "Creekside Equestrian",
+    "slug": "creekside-equestrian",
+    "description": "Creekside Equestrian is a full-service, family-owned boarding and training facility located in Parker, Colorado. The horse-first philosophy ensures each animal receives individualized care and attention, with a welcoming community atmosphere for riders of all levels.",
+    "address": {
+      "street": "6484 Stroh Rd",
+      "city": "Parker",
+      "state": "CO",
+      "zip": "80134",
+      "lat": 39.4785,
+      "lng": -104.7669
+    },
+    "phone": "(303) 638-5586",
+    "website": "https://creeksideequestrianco.com",
+    "email": "info@creeksideequestrianco.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["creekside-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "693ed426-d62c-46a3-a0ed-e32e31b61226",
+    "ownerId": "system",
+    "name": "Bell Mountain Ranch Equestrian Center",
+    "slug": "bell-mountain-ranch-equestrian-center",
+    "description": "Bell Mountain Ranch Equestrian Center in Castle Rock combines state-of-the-art technology with personalized care across multiple boarding options. The facility features a large indoor arena, two outdoor arenas, and over 30 miles of trails, welcoming all riding styles in a no-drama environment.",
+    "address": {
+      "street": "96 Bell Mountain Pkwy",
+      "city": "Castle Rock",
+      "state": "CO",
+      "zip": "80104",
+      "lat": 39.3722,
+      "lng": -104.8561
+    },
+    "phone": "(720) 438-9297",
+    "website": "https://www.bmrec.horse",
+    "email": "contact@bmrec.horse",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 500,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["bell-mountain-ranch-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "ee7191ed-265c-4e8d-9a95-58f21758ce23",
+    "ownerId": "system",
+    "name": "Black Kettle Ranch",
+    "slug": "black-kettle-ranch",
+    "description": "Black Kettle Ranch in Parker is owned and operated by professional trainer Tina Huston, who brings over 35 years of experience in natural horsemanship, classical dressage, and Western dressage. The facility offers boarding, lessons, training, breeding, and clinics for riders and horses of all ages and levels.",
+    "address": {
+      "street": "11413 Hilltop Rd",
+      "city": "Parker",
+      "state": "CO",
+      "zip": "80134",
+      "lat": 39.4943,
+      "lng": -104.7498
+    },
+    "phone": "(720) 261-6965",
+    "website": "https://www.blackkettleranch.com",
+    "email": "tina@tinahuston.com",
+    "disciplines": ["dressage", "western"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Tina Huston",
+        "specialties": ["dressage", "western"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["black-kettle-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e35abfbe-f2c7-449a-b0f1-665738bd50ee",
+    "ownerId": "system",
+    "name": "Mariah Farms",
+    "slug": "mariah-farms",
+    "description": "Located in historic Castle Rock, Colorado, Mariah Farms is a full-care boarding facility catering to English, Dressage, Western Dressage, and Jumping disciplines. The 35-acre property features a 70x250 foot mirrored indoor arena, outdoor arena, round pen, and quality hay and grain included with every stall.",
+    "address": {
+      "street": "4490 E Highway 86",
+      "city": "Castle Rock",
+      "state": "CO",
+      "zip": "80104",
+      "lat": 39.3766,
+      "lng": -104.8272
+    },
+    "phone": "(303) 514-9063",
+    "website": "https://mariahfarms.net",
+    "email": "",
+    "disciplines": ["dressage", "hunter jumper", "western"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["mariah-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "53aac982-1852-49df-b866-c96a9ebc5c10",
+    "ownerId": "system",
+    "name": "Platinum Farms",
+    "slug": "platinum-farms",
+    "description": "Platinum Farms is a beautiful, privately owned full-service horse boarding and training facility in Franktown, Colorado, 35 miles southeast of Denver. Specializing in eventing, dressage, and jumping, the facility features an on-site cross country course and hosts schooling shows and clinics throughout the season.",
+    "address": {
+      "street": "985 N Bluff Dr",
+      "city": "Franktown",
+      "state": "CO",
+      "zip": "80116",
+      "lat": 39.3913,
+      "lng": -104.7526
+    },
+    "phone": "(303) 229-1081",
+    "website": "https://www.platinumfarms.org",
+    "email": "",
+    "disciplines": ["dressage", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["platinum-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "694a8234-3ad4-4eb2-ab59-6a1d73d9ba35",
+    "ownerId": "system",
+    "name": "Cottonwood Riding Club",
+    "slug": "cottonwood-riding-club",
+    "description": "Cottonwood Riding Club is a 100-acre equestrian facility adjacent to Chatfield State Park in Littleton, Colorado, just 30 minutes from downtown Denver. The family-owned facility offers boarding, riding lessons, and professional training across Western and English disciplines, with direct access to miles of scenic trails through Roxborough and Chatfield state parks.",
+    "address": {
+      "street": "10415 Roxborough Park Rd",
+      "city": "Littleton",
+      "state": "CO",
+      "zip": "80125",
+      "lat": 39.5128,
+      "lng": -105.0570
+    },
+    "phone": "(303) 791-7656",
+    "website": "https://www.cottonwoodridingclub.com",
+    "email": "comments@cottonwoodridingclub.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["cottonwood-riding-club.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "0d0fb2ba-493b-474e-bd58-83ae0551bc38",
+    "ownerId": "system",
+    "name": "Coventry Farms",
+    "slug": "coventry-farms",
+    "description": "Coventry Farms is one of Colorado's leading hunter/jumper barns, located in Littleton just 20 minutes from Downtown Denver. The facility offers top-tier riding lessons, training, and boarding with a welcoming community where clients become family, serving both beginners and seasoned competitors.",
+    "address": {
+      "street": "7990 S Santa Fe Dr",
+      "city": "Littleton",
+      "state": "CO",
+      "zip": "80120",
+      "lat": 39.5721,
+      "lng": -105.0272
+    },
+    "phone": "(303) 794-3052",
+    "website": "https://www.coventryfarms.net",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["coventry-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "31a0c3df-6ffa-4d70-bc81-21d9363349cf",
+    "ownerId": "system",
+    "name": "Mile High Horse Ranch",
+    "slug": "mile-high-horse-ranch",
+    "description": "Established in 1976 and located southeast of Denver near Parker, Mile High Horse Ranch is a premier eventing facility with a licensed cross country course featuring 20-22 fences at every level from Elementary through Preliminary. The ranch offers boarding, dressage, stadium jumping, and cross-country training with a 3/4-mile gallop lane and 2 miles of adjacent trails.",
+    "address": {
+      "street": "12587 Tomahawk Rd",
+      "city": "Parker",
+      "state": "CO",
+      "zip": "80138",
+      "lat": 39.5469,
+      "lng": -104.6997
+    },
+    "phone": "(303) 755-0313",
+    "website": "https://www.milehighhorseranch.com",
+    "email": "",
+    "disciplines": ["dressage", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["mile-high-horse-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "fc103a9e-ae3e-4feb-8e37-fcb9f42772aa",
+    "ownerId": "system",
+    "name": "Stockton's Plum Creek Stables",
+    "slug": "stocktons-plum-creek-stables",
+    "description": "Stockton's Plum Creek Stables has been serving the Littleton, Colorado equestrian community for over five decades, backing directly onto Chatfield State Park for exclusive trail access. The facility offers boarding, lessons across Western, English, trail, and dressage disciplines, as well as a lighted indoor arena, hayrides, and western events.",
+    "address": {
+      "street": "7479 W Titan Rd",
+      "city": "Littleton",
+      "state": "CO",
+      "zip": "80125",
+      "lat": 39.5239,
+      "lng": -105.0612
+    },
+    "phone": "(303) 791-1966",
+    "website": "http://www.stocktonsplumcreek.com",
+    "email": "",
+    "disciplines": ["western", "trail", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["stocktons-plum-creek-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

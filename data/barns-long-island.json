@@ -1,0 +1,437 @@
+[
+  {
+    "id": "6f60c518-08d2-45e0-9fa1-558da321baff",
+    "ownerId": "system",
+    "name": "Silver Oak Stable",
+    "slug": "silver-oak-stable",
+    "description": "A 26-acre private boarding facility located on the North Shore of Long Island, New York, offering hunters/jumpers training in a comfortable, relaxed, high-quality environment. Features a 110'x225' indoor arena with TravelRight dust-free footing, two outdoor rings, 24 stalls, a 72-foot six-horse hot walker with interior round pen, and 21 grass paddocks.",
+    "address": {
+      "street": "604 Moriches Road",
+      "city": "St. James",
+      "state": "NY",
+      "zip": "11780",
+      "lat": 40.876,
+      "lng": -73.1532
+    },
+    "phone": "(631) 584-3432",
+    "website": "https://silveroakstable.com",
+    "email": "silveroak@silveroakstable.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 24,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["silver-oak-stable.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "863c2334-39d4-48c6-9f62-6d41c332b1d9",
+    "ownerId": "system",
+    "name": "Gold Coast Equestrian",
+    "slug": "gold-coast-equestrian",
+    "description": "A premier 76-stall equestrian facility in Old Brookville, Long Island, equipped with one of the largest indoor arenas in Nassau County, two outdoor arenas, and top-notch lesson and training programs. Offers boarding, riding lessons, sales, leasing, horse showing, and IEA competition.",
+    "address": {
+      "street": "62 Hegemans Lane",
+      "city": "Old Brookville",
+      "state": "NY",
+      "zip": "11545",
+      "lat": 40.8284,
+      "lng": -73.5854
+    },
+    "phone": "(516) 801-2152",
+    "website": "https://www.goldcoastequestrian.com",
+    "email": "lisa@goldcoastequestrian.com",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 76,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["gold-coast-equestrian.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "8b87d2c2-dcac-4b8a-9617-3399269e248a",
+    "ownerId": "system",
+    "name": "Bethpage Equestrian Center",
+    "slug": "bethpage-equestrian-center",
+    "description": "A full-service equestrian facility adjacent to the beautiful Bethpage State Park on Long Island, offering horse boarding and training in both Western and English styles, along with a wide array of programs for children and adults including riding lessons, trail rides, barrel practices, day camps, and pony parties.",
+    "address": {
+      "street": "499 Winding Road",
+      "city": "Old Bethpage",
+      "state": "NY",
+      "zip": "11804",
+      "lat": 40.7565,
+      "lng": -73.4446
+    },
+    "phone": "",
+    "website": "https://www.bethpageequestriancenter.com",
+    "email": "",
+    "disciplines": ["western", "hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "stall"],
+      "stallCount": 70,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["bethpage-equestrian-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "757fbbbf-7efa-4676-b2a6-57b31cc8d1c6",
+    "ownerId": "system",
+    "name": "New York Equestrian Center",
+    "slug": "new-york-equestrian-center",
+    "description": "A facility with nearly 100 years of history originally built in the 1920s, located adjacent to the 775-acre Hempstead Lake State Park in West Hempstead. Offers horseback riding lessons, trail rides, summer camp, after-school programs, pony parties, and equine studies curriculum. A beloved Long Island equestrian institution since the 1920s.",
+    "address": {
+      "street": "633 Eagle Avenue",
+      "city": "West Hempstead",
+      "state": "NY",
+      "zip": "11552",
+      "lat": 40.6861,
+      "lng": -73.6469
+    },
+    "phone": "(516) 486-9673",
+    "website": "https://www.mynyec.com",
+    "email": "mynyec@gmail.com",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["new-york-equestrian-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "7979e5bd-574e-4677-9f27-6fd87c658a7a",
+    "ownerId": "system",
+    "name": "North Shore Equestrian Center",
+    "slug": "north-shore-equestrian-center",
+    "description": "The premier equestrian center on the north shore of Long Island for learning how to ride horses, featuring beautiful modern stalls, breathtaking grounds, and top instructors. Home to the LIU NCAA Equestrian Team and partners with multiple Long Island summer camps and LIU Veterinary School.",
+    "address": {
+      "street": "720 Northern Blvd",
+      "city": "Greenvale",
+      "state": "NY",
+      "zip": "11548",
+      "lat": 40.8171,
+      "lng": -73.5977
+    },
+    "phone": "(516) 626-9714",
+    "website": "https://northshoreequestriancenter.com",
+    "email": "info@northshoreequestriancenter.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      "Brian Quinn",
+      "Brooke Chasin",
+      "Noah Chasin",
+      "Jen Doll"
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["north-shore-equestrian-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "e143ce68-8d81-4171-ab41-df562da68c3f",
+    "ownerId": "system",
+    "name": "Choya Farms",
+    "slug": "choya-farms",
+    "description": "Designed to be a sanctuary for horses and people alike in Manorville, New York, Choya Farms offers full board options, barns for rent, an indoor arena, riding lessons for all levels, and horse training. The facility also hosts the Great Strides Long Island therapeutic horseback riding program and emphasizes a family-oriented atmosphere.",
+    "address": {
+      "street": "120 Dayton Avenue",
+      "city": "Manorville",
+      "state": "NY",
+      "zip": "11949",
+      "lat": 40.8347,
+      "lng": -72.8311
+    },
+    "phone": "(631) 395-2710",
+    "website": "https://www.choyafarms.com",
+    "email": "ChoyaFarms@gmail.com",
+    "disciplines": ["hunter jumper", "western"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "training"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["J. Pierno"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["choya-farms.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "f9439bce-8774-4ff8-97f2-a3a67385c15e",
+    "ownerId": "system",
+    "name": "Skye Acres Equestrian Center",
+    "slug": "skye-acres-equestrian-center",
+    "description": "Equestrian training and sales facility on 12 perfect acres nestled in eastern Long Island in East Patchogue. Offers horse boarding, training, lessons, leasing, and sales. Open seven days a week from 7am to 10pm to serve boarders and students across all skill levels.",
+    "address": {
+      "street": "361 Barton Ave",
+      "city": "East Patchogue",
+      "state": "NY",
+      "zip": "11772",
+      "lat": 40.766,
+      "lng": -73.0187
+    },
+    "phone": "(631) 289-9737",
+    "website": "https://www.skyeacres.com",
+    "email": "office@skyeacres.com",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["skye-acres-equestrian-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "a2ae0435-87a6-4af5-878b-2cf8e599dabe",
+    "ownerId": "system",
+    "name": "Gray Horse Farm Hamptons",
+    "slug": "gray-horse-farm-hamptons",
+    "description": "Founded in 2001, GHF Hamptons is a full-service show barn on a 115-acre premier facility in Bridgehampton featuring two indoor rings, three outdoor sand rings, a Grand Prix field, a polo field, and top-of-the-line footing. Offers year-round and seasonal private lessons, boarding, horse leases, and a Pony Camp running June through August.",
+    "address": {
+      "street": "849 Hayground Road",
+      "city": "Bridgehampton",
+      "state": "NY",
+      "zip": "11932",
+      "lat": 40.9456,
+      "lng": -72.3001
+    },
+    "phone": "(203) 910-6297",
+    "website": "https://ghfhamptons.com",
+    "email": "ghfhamptons@gmail.com",
+    "disciplines": ["hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 2250,
+      "lessonsFrom": 155,
+      "currency": "USD"
+    },
+    "trainers": ["Lauren Gridley", "Tracy Broxmeyer"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["gray-horse-farm-hamptons.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "b2fb68ba-9a49-47b2-8f1c-f1a89d8034df",
+    "ownerId": "system",
+    "name": "Stony Hill Stables",
+    "slug": "stony-hill-stables",
+    "description": "A USHJA-recognized, state-of-the-art equestrian facility established over 60 years ago in Amagansett, just a mile from the ocean. Operated by the Hotchkiss family and specializing in dressage, hunter, and jumper disciplines. Head trainer Wick Hotchkiss is a Grand Prix rider and USDF bronze, silver, and gold medalist. Offers complete board with training, lessons, summer camp, and horsemanship clinics.",
+    "address": {
+      "street": "268 Town Lane",
+      "city": "Amagansett",
+      "state": "NY",
+      "zip": "11930",
+      "lat": 40.9849,
+      "lng": -72.1232
+    },
+    "phone": "(631) 267-3203",
+    "website": "https://www.stonyhillstables.com",
+    "email": "",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "dry stall"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Wick Hotchkiss"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["stony-hill-stables.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "db3615d2-c73e-4f05-ad7c-24c68a14d78e",
+    "ownerId": "system",
+    "name": "Longacre MB",
+    "slug": "longacre-mb",
+    "description": "Nestled in the picturesque landscape of Bridgehampton South in Water Mill, Longacre MB Equestrian Center offers an unparalleled experience for horse enthusiasts of all ages. Features a 15,000 sq ft indoor arena, two outdoor all-weather arenas, a grass ring, 27 oversized 14x14 stalls, 14 turnout paddocks, and trail riding. Headed by USHJA Certified Trainer Raquel Batto with over 20 years of experience.",
+    "address": {
+      "street": "6 West Pond Drive",
+      "city": "Water Mill",
+      "state": "NY",
+      "zip": "11976",
+      "lat": 40.9233,
+      "lng": -72.3503
+    },
+    "phone": "(631) 681-6534",
+    "website": "https://www.longacrembinc.com",
+    "email": "longacrembinc@yahoo.com",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 27,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Raquel Batto"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["longacre-mb.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  }
+]

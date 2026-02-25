@@ -1,0 +1,432 @@
+[
+  {
+    "id": "3e899e17-cb2f-4bfd-897d-6465521694d4",
+    "ownerId": "system",
+    "name": "The Ranch at Cave Creek",
+    "slug": "the-ranch-at-cave-creek",
+    "description": "The Ranch at Cave Creek is a full-service horse boarding facility set on scenic property in Cave Creek, Arizona. Offering large outdoor and covered arenas alongside attentive daily care, the facility provides a clean and welcoming environment for horses and their owners.",
+    "address": {
+      "street": "40808 N School House Rd",
+      "city": "Cave Creek",
+      "state": "AZ",
+      "zip": "85331",
+      "lat": 33.8559,
+      "lng": -111.9432
+    },
+    "phone": "(602) 317-2457",
+    "website": "http://theranchatcavecreek.com/",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["the-ranch-at-cave-creek.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "b0dfa4b5-3998-4b81-8b8d-f4dd9d3b40b7",
+    "ownerId": "system",
+    "name": "Sweetwater Stables",
+    "slug": "sweetwater-stables",
+    "description": "Sweetwater Stables is a hunter jumper training facility in Cave Creek, Arizona, offering programs for beginners through high-level competitive jumpers. The barn maintains a family atmosphere and competitive show program, with three experienced trainers specializing in hunters, equitation, and jumpers.",
+    "address": {
+      "street": "6636 E Dale Ln",
+      "city": "Cave Creek",
+      "state": "AZ",
+      "zip": "85331",
+      "lat": 33.7452,
+      "lng": -111.9371
+    },
+    "phone": "(602) 524-1617",
+    "website": "https://sweetwaterstables.net/",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Lucy Alabaster", "Bailey Fuller", "Stella Grippe"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["sweetwater-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "14206690-f8e2-433d-905e-eafec67a0100",
+    "ownerId": "system",
+    "name": "River Horse Ranch",
+    "slug": "river-horse-ranch",
+    "description": "River Horse Ranch, operated by Jennuine Horse LLC, is a Cave Creek boarding and training facility with a horse-first, mindful horsemanship philosophy. The ranch provides anti-inflammatory diet management, 12-hour daily turnout, and 24/7 slow-feeder hay access. Jennifer offers training clinics, groundwork sessions, and lessons for horses and riders of all breeds and disciplines.",
+    "address": {
+      "street": "28404 N 55th St",
+      "city": "Cave Creek",
+      "state": "AZ",
+      "zip": "85331",
+      "lat": 33.7432,
+      "lng": -111.9645
+    },
+    "phone": "(480) 535-4164",
+    "website": "http://www.thejennuinehorse.com/",
+    "email": "Jennuinehorse@gmail.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Jennifer"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["river-horse-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "eac37cdc-6e52-41fb-8fbf-d5c4a5452b8c",
+    "ownerId": "system",
+    "name": "Desert Palms Equestrian Center",
+    "slug": "desert-palms-equestrian-center",
+    "description": "Desert Palms Equestrian Center in Cave Creek is a premier show horse training and boarding facility with 36 stalls, two large outdoor arenas, and a round pen. Owner and trainer Michelle Haisch is a USEF 'R' Judge specializing in American Saddlebred show horses. The facility features automatic watering systems, daily stall cleaning, twice-daily feedings, and hosts youth camps and birthday parties.",
+    "address": {
+      "street": "28410 N 44th St",
+      "city": "Cave Creek",
+      "state": "AZ",
+      "zip": "85331",
+      "lat": 33.8014,
+      "lng": -111.9857
+    },
+    "phone": "(480) 239-4896",
+    "website": "https://desertpalms.net/",
+    "email": "",
+    "disciplines": ["hunter jumper", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 36,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Michelle Haisch"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["desert-palms-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "d81cf4f9-8605-4b05-90aa-18585b606684",
+    "ownerId": "system",
+    "name": "Chaparosa Ranch",
+    "slug": "chaparosa-ranch",
+    "description": "Chaparosa Ranch is a multi-discipline equestrian facility nestled in Rio Verde, North Scottsdale, just steps from the Tonto National Forest. The property features two riding arenas including one covered arena, individual and trainer barn options, and direct gate access to national forest trails. Just 20 minutes from WestWorld and 40 minutes from Phoenix Sky Harbor, the ranch also offers casita rentals and event hosting.",
+    "address": {
+      "street": "31316 N 152nd St",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zip": "85262",
+      "lat": 33.7650,
+      "lng": -111.7523
+    },
+    "phone": "(602) 315-1635",
+    "website": "https://chaparosaranch.com/",
+    "email": "contact@chaparosaranch.com",
+    "disciplines": ["western", "trail", "dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["chaparosa-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "d566e6e8-07f0-415f-ae64-f88750cea520",
+    "ownerId": "system",
+    "name": "Hawk Ranch Cave Creek",
+    "slug": "hawk-ranch-cave-creek",
+    "description": "Hawk Ranch Cave Creek is a full-service Western equestrian facility in north Phoenix offering 32 stalls, two expansive riding arenas, a round pen, and access to miles of Arizona State Land and Cave Creek Preserve trails. The ranch specializes in cutting, sorting, roping, and performance horse training, and also features RV hookups, trailer parking, and regular events and clinics.",
+    "address": {
+      "street": "34720 N 14th St",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85086",
+      "lat": 33.6678,
+      "lng": -112.0528
+    },
+    "phone": "(503) 250-3141",
+    "website": "https://hawkranchcavecreek.com/",
+    "email": "hawk.ranch@yahoo.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 32,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["hawk-ranch-cave-creek.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "8de80544-2dbd-4992-8313-c28c71c15fba",
+    "ownerId": "system",
+    "name": "Twisted Tree Farm",
+    "slug": "twisted-tree-farm",
+    "description": "Twisted Tree Farm has been a premier hunter/jumper training and boarding facility in Scottsdale since 1984. Head trainer Janet Hischer brings over 35 years of competitive experience at local, national, and international levels. The farm offers riding lessons from beginner to advanced, summer and holiday camps, an internship program, and sport horses for sale.",
+    "address": {
+      "street": "29001 N Hayden Rd",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zip": "85266",
+      "lat": 33.7489,
+      "lng": -111.9080
+    },
+    "phone": "(480) 860-8215",
+    "website": "https://twistedtreefarm.com/",
+    "email": "Info@TwistedTreeFarm.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Janet Hischer"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["twisted-tree-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "3c79bbfb-284d-4237-9f3d-d81a072ab123",
+    "ownerId": "system",
+    "name": "Serenity Stables",
+    "slug": "serenity-stables",
+    "description": "Serenity Stables is a full-service horse boarding facility in Chandler, Arizona, independently owned and operated since 2006. The stable offers western, dressage, and English riding lessons with experienced trainers, and features 24/7 staff monitoring, customized feeding schedules, and daily turnout for grazing and socialization. The owner's hands-on approach ensures every horse and rider receives personalized attention.",
+    "address": {
+      "street": "3221 S Eagle Dr",
+      "city": "Chandler",
+      "state": "AZ",
+      "zip": "85286",
+      "lat": 33.2596,
+      "lng": -111.8118
+    },
+    "phone": "(480) 577-1300",
+    "website": "http://www.serenitystables.org/",
+    "email": "brandy@serenitystables.org",
+    "disciplines": ["western", "dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["serenity-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "8b3dbaad-3d00-477f-b1f7-385a51e81fef",
+    "ownerId": "system",
+    "name": "Equine Connections",
+    "slug": "equine-connections",
+    "description": "Equine Connections is a four-acre ranch in Gilbert, Arizona, offering horse boarding, riding lessons, equine-assisted learning, and community programs. Owner and equine specialist Virginia McCarthy emphasizes healing and personal growth through horses. The facility welcomes all ages and skill levels and hosts large group events, workshops, and volunteer opportunities.",
+    "address": {
+      "street": "13902 E Morgan Dr",
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": "85295",
+      "lat": 33.3086,
+      "lng": -111.7831
+    },
+    "phone": "(480) 785-6991",
+    "website": "http://www.equineconnectionsaz.com/",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Virginia McCarthy"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["equine-connections.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "51c041d1-2715-4d88-bc03-1afec6f81871",
+    "ownerId": "system",
+    "name": "Kerivan Farms",
+    "slug": "kerivan-farms",
+    "description": "Kerivan Farms is a fully equipped English riding facility in Gilbert, Arizona, specializing in hunter/jumper training, dressage, and IEA competition programs. The farm features a large lighted arena with show jumps, a dressage ring, a round pen, five grass turnout pastures, roomy daily-cleaned stalls, and cross ties with misters. Training and lessons available for all ages and skill levels.",
+    "address": {
+      "street": "15330 E Via Del Rancho",
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": "85298",
+      "lat": 33.2388,
+      "lng": -111.7517
+    },
+    "phone": "(480) 415-5740",
+    "website": "https://kerivanfarms.com/",
+    "email": "Akerivan@live.com",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Allison Kerivan"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["kerivan-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

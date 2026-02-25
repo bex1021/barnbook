@@ -1,0 +1,456 @@
+[
+  {
+    "id": "c5a79476-384c-4efb-be22-be1b183d31dc",
+    "ownerId": "system",
+    "name": "Benbrook Stables",
+    "slug": "benbrook-stables",
+    "description": "Benbrook Stables is a premier equestrian center on 100 acres, just minutes from downtown Fort Worth, Texas. Since 1957, Benbrook Stables has established itself as one of Fort Worth's most trusted names in horse boarding. We offer trail rides, summer camps, horseback riding lessons, and boarding services. We are dedicated to providing an unforgettable horseback riding experience, serving as the trailhead to over 30 miles of scenic trails.",
+    "address": {
+      "street": "10001 Benbrook Blvd",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76126",
+      "lat": 32.662315,
+      "lng": -97.48191
+    },
+    "phone": "(817) 249-1001",
+    "website": "https://www.benbrookstables.com",
+    "email": "",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 75,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["benbrook-stables.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "cd555420-60fd-4ee6-9382-7f6f5f76248c",
+    "ownerId": "system",
+    "name": "North Texas Equestrian Center",
+    "slug": "north-texas-equestrian-center",
+    "description": "Located 40 miles from downtown Dallas on 50 acres, the USEF Elite Training Center of Excellence has room for up to 100 horses in a European style stable layout centered around a covered riding arena. The facility specializes in importing and training German warmbloods, led by owner Kai Handt, a USDF/USEF Champion. Full care boarding includes horses fed three times a day, stalls mucked daily, turnout three times per week, winter blanketing, and farm-grown hay. The center serves the greater Dallas-Fort Worth metroplex including Frisco, McKinney, Plano, and Allen.",
+    "address": {
+      "street": "1765 Southview Drive",
+      "city": "Wylie",
+      "state": "TX",
+      "zip": "75098",
+      "lat": 33.015,
+      "lng": -96.558
+    },
+    "phone": "(972) 442-7544",
+    "website": "https://ntecdfw.com",
+    "email": "",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 100,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Kai Handt",
+        "bio": "Owner of North Texas Equestrian Center and USDF/USEF Champion. Specializes in importing and training German warmbloods.",
+        "specialties": ["dressage", "warmblood training"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["north-texas-equestrian-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "615ddd1c-e26c-4fa4-a129-cbf67b919f53",
+    "ownerId": "system",
+    "name": "4Hearts Ranch",
+    "slug": "4hearts-ranch",
+    "description": "4Hearts Ranch spans 129 acres of rolling ranch land that includes the beautiful Bear Creek as well as two ponds. The ranch features three premium barns for boarding as well as an indoor and outdoor riding arena with grandstands, and a boarder's lounge. Located approximately 20 minutes from downtown Fort Worth, this historic property was previously known as the Wills Ranch and was once favored by cutting horse professionals. Services include boarding, training, showing, lessons, and layover.",
+    "address": {
+      "street": "16151 US-377 South",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76126",
+      "lat": 32.596416,
+      "lng": -97.56828
+    },
+    "phone": "(970) 580-0012",
+    "website": "https://4heartsranch.com",
+    "email": "hallie@4heartsranch.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["4hearts-ranch.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "2f99f0c0-a370-4286-9355-cb61315ef3dd",
+    "ownerId": "system",
+    "name": "Lobos Horse Ranch & Stables",
+    "slug": "lobos-horse-ranch",
+    "description": "Lobos Horse Ranch & Stables provides full-care, self-care, and partial-care horse boarding located near Fort Worth, Dallas, Arlington, and Burleson in the Dallas-Fort Worth area. Full-care boarding includes turnout, hay and feed, water service, stall cleaning, free trailer parking, horse wash station, and arena and round pen access. The facility specializes in horse training, including roping horses and colt starting, and also offers horses for sale.",
+    "address": {
+      "street": "6900 Hudson Cemetery Road",
+      "city": "Mansfield",
+      "state": "TX",
+      "zip": "76063",
+      "lat": 32.578,
+      "lng": -97.175
+    },
+    "phone": "(303) 808-0118",
+    "website": "https://loboshorseranch.com",
+    "email": "loboshorseranch@gmail.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "partial", "self-care"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["lobos-horse-ranch.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "97336509-9252-4007-a88e-6b9e2363511a",
+    "ownerId": "system",
+    "name": "White Rock Stables",
+    "slug": "white-rock-stables",
+    "description": "White Rock Stables offers exclusive full care horse boarding nestled in the beautiful Lake Highlands foothills surrounded by more than 350 acres of pastoral trails. The beautiful 14-acre ranch near Flag Pole Hill and within a mile north of White Rock Lake has been in operation for over 90 years. Private boarding is available by appointment only, offering stalls or stalls with paddocks and daily turnout.",
+    "address": {
+      "street": "8949 Lanshire Dr",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75238",
+      "lat": 32.879,
+      "lng": -96.726
+    },
+    "phone": "(214) 801-2700",
+    "website": "https://whiterockstables.com",
+    "email": "",
+    "disciplines": ["trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Julie Rentfro Wilson",
+        "bio": "Julie Rentfro Wilson started riding at White Rock Stables before she could walk. Her mother boarded horses at White Rock, so the love of horses was inherited at an early age.",
+        "specialties": ["riding instruction"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["white-rock-stables.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "44031abd-87a7-4736-ab37-be4f5d5e2098",
+    "ownerId": "system",
+    "name": "Rocking J Stables",
+    "slug": "rocking-j-stables",
+    "description": "Rocking J Stables is a horse facility offering both English Hunter/Jumper and Western Pleasure riding lessons in and around Dallas and Garland, Texas. Located within 15 miles of downtown Dallas on a 9-acre property with a creek on premises and on-site manager. The facility name references Jude, a National Show Horse and the owner's first horse. Lessons are available for beginners through advanced riders, children and adults.",
+    "address": {
+      "street": "2802 South Country Club Road W",
+      "city": "Garland",
+      "state": "TX",
+      "zip": "75043",
+      "lat": 32.832,
+      "lng": -96.680
+    },
+    "phone": "(214) 392-6101",
+    "website": "http://www.rockingjstables.com",
+    "email": "rockingjstables@gmail.com",
+    "disciplines": ["hunter jumper", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 85,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Anne Young",
+        "bio": "Owner and operator of Rocking J Stables. An animal lover dedicated to owning and caring for equines, offering instruction from beginner to advanced levels for children and adults.",
+        "specialties": ["hunter jumper", "western pleasure"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["rocking-j-stables.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "1567f005-b33d-406f-bad7-600a03e1ce58",
+    "ownerId": "system",
+    "name": "Three Oaks Equestrian Center",
+    "slug": "three-oaks-equestrian-center",
+    "description": "Three Oaks Equestrian Center is a quaint location in the middle of town near DFW Airport with access to extensive trail systems. The facility features a 14-stall barn with a lighted sand arena that is regularly groomed, two large pastures with a pond, and two tack rooms. Full-care boarding services include all-day and night turnout, individual stalls, personalized feeding, fresh coastal hay, and clean water. Private lessons are available for lesson horse riders and horse owners, along with horse training and tune-ups.",
+    "address": {
+      "street": "7401 Continental Trail",
+      "city": "North Richland Hills",
+      "state": "TX",
+      "zip": "76182",
+      "lat": 32.896046,
+      "lng": -97.22248
+    },
+    "phone": "(817) 528-3559",
+    "website": "https://threeoaksequestrian.godaddysites.com",
+    "email": "",
+    "disciplines": ["trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 14,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Megan",
+        "bio": "Provides lessons and training at Three Oaks Equestrian Center, offering instruction for lesson horse riders and horse owners.",
+        "specialties": ["riding instruction", "horse training"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["three-oaks-equestrian.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "8e8a34b9-2a08-4738-95c4-68f957a300b0",
+    "ownerId": "system",
+    "name": "Southlake Equestrian",
+    "slug": "southlake-equestrian",
+    "description": "Southlake Equestrian is a premiere equestrian facility in Southlake, TX offering riding lessons, competition equestrian training, and horse boarding serving the Dallas, Fort Worth, and DFW region. The facility provides safe, healthy, and experienced school-master type horses that teach each student how to become a seasoned equestrian through their lesson academy.",
+    "address": {
+      "street": "4500 N White Chapel Blvd",
+      "city": "Southlake",
+      "state": "TX",
+      "zip": "76092",
+      "lat": 33.00178,
+      "lng": -97.15875
+    },
+    "phone": "(682) 237-7487",
+    "website": "https://www.southlake-equestrian.com",
+    "email": "equestriansouthlake@gmail.com",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["southlake-equestrian.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "adfc8fd7-260a-4903-a333-732becaa0d44",
+    "ownerId": "system",
+    "name": "Summer Hill Farms",
+    "slug": "summer-hill-farms",
+    "description": "Summer Hill Farms is a full-service hunter/jumper riding program located in Flower Mound, TX, dedicated to providing quality equestrian experiences. The facility is staffed by professional coaches committed to developing young horses and new riders into competitive athletes. The program has produced multiple National USEF Horse of the Year winners, Zone Horse of the Year winners, Pony Finals Winners, and scholarship-winning riders. Services include training, showing, sales, lessons, and IEA (Interscholastic Equestrian Association) teams.",
+    "address": {
+      "street": "1757 Bridle Bit Road",
+      "city": "Flower Mound",
+      "state": "TX",
+      "zip": "75022",
+      "lat": 33.057,
+      "lng": -97.124
+    },
+    "phone": "(945) 300-7455",
+    "website": "https://summerhillfarms.net",
+    "email": "summerhill1757@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["summer-hill-farms.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "808fc2a7-0c14-4f0f-b812-7c4b8e7e3be4",
+    "ownerId": "system",
+    "name": "Marshall Creek Ranch",
+    "slug": "marshall-creek-ranch",
+    "description": "Marshall Creek Ranch is an equestrian facility located in Southlake, Texas, serving the Dallas-Fort Worth metro area.",
+    "address": {
+      "street": "",
+      "city": "Southlake",
+      "state": "TX",
+      "zip": "",
+      "lat": 32.999226,
+      "lng": -97.16676
+    },
+    "phone": "(817) 490-8796",
+    "website": "",
+    "email": "",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["marshall-creek-ranch.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  }
+]

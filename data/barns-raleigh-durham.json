@@ -1,0 +1,432 @@
+[
+  {
+    "id": "86677938-f5fc-4f23-932b-17acab3cf94d",
+    "ownerId": "system",
+    "name": "Dead Broke Farm",
+    "slug": "dead-broke-farm",
+    "description": "A 110-acre working horse farm in Raleigh offering pasture-only boarding with more than 10 miles of wooded trails featuring creek crossings and rolling hills. Horses receive grain twice daily, hay from an on-site hay hut, and access to a warm-water wash station and private tack room. Affordable rates for light saddle horses, drafts, and ponies make this a top choice for trail-focused boarders in the Triangle.",
+    "address": {
+      "street": "6921 Wildlife Trail",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27613",
+      "lat": 35.963885,
+      "lng": -78.729482
+    },
+    "phone": "(919) 596-8975",
+    "website": "https://deadbrokefarm.com",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["pasture"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 400,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["dead-broke-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "3854cbf8-2417-4d77-8ad4-c29681250c1d",
+    "ownerId": "system",
+    "name": "Triton Stables",
+    "slug": "triton-stables",
+    "description": "A family-owned hunter/jumper facility with over 40 years of history, situated on 59 acres just 10 miles from North Raleigh and Brier Creek. Two 22-stall barns totaling 44 stalls are complemented by three all-weather show-regulation riding rings, 16 pastures, and robust programming including IEA teams, summer camps, horse training, and leasing. A premier destination for competitive hunter/jumper riders of all levels.",
+    "address": {
+      "street": "2521 Baptist Road",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27703",
+      "lat": 35.9770108,
+      "lng": -78.7807639
+    },
+    "phone": "(919) 621-4908",
+    "website": "https://www.tritonstables.net",
+    "email": "tritonstables@hotmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 44,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["triton-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "bbd4f20c-aaf1-4991-8935-a7e1e5bfe180",
+    "ownerId": "system",
+    "name": "MacNair's Country Acres",
+    "slug": "macnairs-country-acres",
+    "description": "A full-service equestrian center in southwest Raleigh offering horse boarding, leases, riding lessons for all ages, IEA and 4-H programs, horse shows, and popular summer horseback riding camps. The facility's welcoming environment and diverse programming make it a community hub for young equestrians and families in the greater Raleigh area.",
+    "address": {
+      "street": "2721 Dover Farm Rd",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27606",
+      "lat": 35.7534,
+      "lng": -78.7089
+    },
+    "phone": "(919) 851-1118",
+    "website": "https://www.macnairscountryacres.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["macnairs-country-acres.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "8fe3c68f-8ed3-487f-8739-904174746411",
+    "ownerId": "system",
+    "name": "Brightleaf Stables",
+    "slug": "brightleaf-stables",
+    "description": "A beginner-friendly boarding and lesson barn in Durham offering horseback riding instruction for all ages and skill levels. Known for its gentle, patient horses that serve as ideal teachers for novice riders, Brightleaf Stables also hosts birthday parties, pony events, summer camps, and provides horse boarding. Located conveniently on Sherron Road near the Research Triangle area.",
+    "address": {
+      "street": "1215 Sherron Road",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27703",
+      "lat": 35.9583976,
+      "lng": -78.8170685
+    },
+    "phone": "(919) 949-7386",
+    "website": "https://brightleafstables.com",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["brightleaf-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "0377aeab-ce35-4847-9216-dd4cf695d55b",
+    "ownerId": "system",
+    "name": "Chapel Hill Equestrian",
+    "slug": "chapel-hill-equestrian",
+    "description": "A full-service horse boarding facility conveniently located in Chapel Hill and accessible to Durham and Hillsborough. Chapel Hill Equestrian welcomes boarders of all riding disciplines and allows outside trainers to work on-site at no extra charge, making it an unusually flexible and inclusive barn. Contact Susan Waters or Adnan Wasiudiin for boarding availability and facility tours.",
+    "address": {
+      "street": "6694 Lewis Road",
+      "city": "Chapel Hill",
+      "state": "NC",
+      "zip": "27514",
+      "lat": 35.985219,
+      "lng": -79.0609336
+    },
+    "phone": "(919) 265-9502",
+    "website": "https://chapelhillequestrian.org",
+    "email": "sznwaters@gmail.com",
+    "disciplines": ["dressage", "hunter jumper", "western", "eventing", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["chapel-hill-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "64eb8830-eb03-4f4e-804c-23b541d9971c",
+    "ownerId": "system",
+    "name": "Castle Farm",
+    "slug": "castle-farm",
+    "description": "A 12-acre working barn in Knightdale established in 1999, offering horseback riding lessons, boarding, and training for all skill levels. Headed by owner and trainer Heather King, Castle Farm operates as a true working barn and requires appointments for visits. The intimate setting is well-suited for riders seeking personalized instruction and a close-knit equestrian community just east of Raleigh.",
+    "address": {
+      "street": "1229 Tommies Dr",
+      "city": "Knightdale",
+      "state": "NC",
+      "zip": "27545",
+      "lat": 35.7879,
+      "lng": -78.4823
+    },
+    "phone": "",
+    "website": "https://www.castlefarmhorses.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Heather King"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["castle-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "63c1f6cc-9ba9-4e76-b7c1-c8a11e70a13d",
+    "ownerId": "system",
+    "name": "Apex Equestrian Center",
+    "slug": "apex-equestrian",
+    "description": "A dedicated hunter/jumper facility in Apex focused on developing quality jumper horses and skilled riders. Apex Equestrian Center offers professional training programs, boarding, and lessons on Green Level Road in the heart of Wake County. The facility is committed to producing competitive riders and well-trained horses for the show ring.",
+    "address": {
+      "street": "319 Green Level Rd",
+      "city": "Apex",
+      "state": "NC",
+      "zip": "27523",
+      "lat": 35.7815594,
+      "lng": -78.9517206
+    },
+    "phone": "(919) 817-3303",
+    "website": "https://www.apexequestrian.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["apex-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e095f879-fa85-4af8-866b-de3aa6146552",
+    "ownerId": "system",
+    "name": "Grace Lee Farm",
+    "slug": "grace-lee-farm",
+    "description": "A horse riding lesson facility in Apex, NC, offering instruction for riders of all ages and experience levels. Situated on Olive Chapel Road in the heart of western Wake County, Grace Lee Farm provides a welcoming environment for students looking to develop their horsemanship skills in a structured, caring setting near Cary and Apex.",
+    "address": {
+      "street": "2437 Olive Chapel Rd",
+      "city": "Apex",
+      "state": "NC",
+      "zip": "27502",
+      "lat": 35.7249112,
+      "lng": -78.9128330
+    },
+    "phone": "(919) 413-5170",
+    "website": "https://www.graceleefarm.com",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["grace-lee-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "3d6e2a0f-e413-4789-98a7-bc163c0c623b",
+    "ownerId": "system",
+    "name": "Firstview Farm Dressage",
+    "slug": "firstview-farm",
+    "description": "A boutique dressage training and boarding facility in Apex, NC, dedicated to the art of classical dressage. Firstview Farm provides a focused, professional environment for dressage riders at all levels, from introductory through Grand Prix work. The farm's Paddock Drive location in western Wake County offers convenient access to the Triangle's equestrian community.",
+    "address": {
+      "street": "248 Paddock Dr",
+      "city": "Apex",
+      "state": "NC",
+      "zip": "27523",
+      "lat": 35.8177636,
+      "lng": -78.9501020
+    },
+    "phone": "(919) 434-5364",
+    "website": "https://www.firstviewfarm.com",
+    "email": "",
+    "disciplines": ["dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["firstview-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "fc94a8d5-a2a5-4813-bbd3-b5a1dee1e417",
+    "ownerId": "system",
+    "name": "Sunrise Community Farm Center",
+    "slug": "sunrise-community-farm-center",
+    "description": "A community-oriented equestrian and agricultural center in Chapel Hill offering therapeutic and recreational horseback riding programs for riders of all abilities. Located on Millhouse Road, Sunrise Community Farm Center serves the Chapel Hill and Carrboro communities with programs designed to make equestrian activities accessible and enriching for people of all backgrounds and needs.",
+    "address": {
+      "street": "6407 Millhouse Rd",
+      "city": "Chapel Hill",
+      "state": "NC",
+      "zip": "27516",
+      "lat": 35.9860774,
+      "lng": -79.0790333
+    },
+    "phone": "(919) 968-8581",
+    "website": "https://www.sunrisecommunityfarmcenter.com",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["sunrise-community-farm-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

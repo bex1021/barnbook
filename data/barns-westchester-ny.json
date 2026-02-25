@@ -1,0 +1,437 @@
+[
+  {
+    "id": "58e08875-e50e-4b21-b06a-58819b6c1f9d",
+    "ownerId": "system",
+    "name": "Cavallo Dreams Farm",
+    "slug": "cavallo-dreams-farm",
+    "description": "A premium care, full service equestrian facility operating for 90+ years in Scarsdale, featuring the largest indoor ring in Westchester County. Offers lessons for all ages and levels, boarding, leasing, showing, summer camp, and party services with tailored programs for equine athletes and riders.",
+    "address": {
+      "street": "291 Mamaroneck Rd",
+      "city": "Scarsdale",
+      "state": "NY",
+      "zip": "10583",
+      "lat": 40.9814097,
+      "lng": -73.7633345
+    },
+    "phone": "(914) 725-3912",
+    "website": "https://www.cavallodreamsfarm.com",
+    "email": "cavallodreamsfarm@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["cavallo-dreams-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "d7531fbc-9e1a-4afb-89ff-bfc16f21abf1",
+    "ownerId": "system",
+    "name": "Trinity Equestrian Center",
+    "slug": "trinity-equestrian-center",
+    "description": "Located in Dutchess County near Germantown, Red Hook, Kingston, and Hudson, Trinity Equestrian Center is known for its well-trained riders and horses. The center provides a welcoming and well-equipped environment for riding, boarding, and training, with beginner riders of every age a specialty.",
+    "address": {
+      "street": "210-214 Oriole Mills Rd",
+      "city": "Rhinebeck",
+      "state": "NY",
+      "zip": "12572",
+      "lat": 41.9723792,
+      "lng": -73.8385833
+    },
+    "phone": "(845) 337-0244",
+    "website": "https://trinityequestriancenters.com",
+    "email": "trinityequestriancenters@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["trinity-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "36125ef7-b0a3-4b1f-be39-54244646b02b",
+    "ownerId": "system",
+    "name": "The Southlands Foundation",
+    "slug": "southlands-foundation",
+    "description": "A 501(c)(3) nonprofit established in 1983 with barn facilities dating to 1938, situated on nearly 200 acres in Rhinebeck spanning approximately 90% conservation easement land managed with Scenic Hudson. Connecting people, nature, and horses through riding lessons for all ages, equine-assisted programs, and summer camps.",
+    "address": {
+      "street": "5771 US Route 9",
+      "city": "Rhinebeck",
+      "state": "NY",
+      "zip": "12572",
+      "lat": 41.9280414,
+      "lng": -73.8850209
+    },
+    "phone": "(845) 876-4862",
+    "website": "https://www.southlands.org",
+    "email": "info@southlands.org",
+    "disciplines": ["trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["southlands-foundation.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "1cba59d3-2e34-4b6b-95db-7bfaf343dd81",
+    "ownerId": "system",
+    "name": "Juckas Riding Stables",
+    "slug": "juckas-riding-stables",
+    "description": "Established in 1965, this family-owned facility features 117 acres of breathtaking farmland and trails through shaded woods, green fields, past lakes and streams in Pine Bush. Offering trail rides, summer camps for kids, after-school programs, birthday parties, and corporate events year-round with gentle, well-behaved horses and experienced guides.",
+    "address": {
+      "street": "1204 New York Route 302",
+      "city": "Pine Bush",
+      "state": "NY",
+      "zip": "12566",
+      "lat": 41.5513691,
+      "lng": -74.3557145
+    },
+    "phone": "(845) 361-1429",
+    "website": "https://www.juckasstables.com",
+    "email": "juckasridingstables@gmail.com",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "pasture"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 95,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["juckas-riding-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "f0f3489f-f1d8-4ad5-b262-c611440ba9ab",
+    "ownerId": "system",
+    "name": "Ellerslie Stable",
+    "slug": "ellerslie-stable",
+    "description": "A state-of-the-art equestrian facility on 650 acres with panoramic views of the Hudson River in Rhinebeck. Features a 100x200 indoor arena, 250x140 sand arena, 400x400 grass jump field, 25 matted box stalls, heated tack rooms, and miles of groomed trails — offering a world-class environment for all levels of horse and rider.",
+    "address": {
+      "street": "38 Ellerslie Road",
+      "city": "Rhinebeck",
+      "state": "NY",
+      "zip": "12572",
+      "lat": 41.9280414,
+      "lng": -73.8850209
+    },
+    "phone": "(914) 806-2501",
+    "website": "https://ellersliestables.com",
+    "email": "michaeldecola@gmail.com",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 25,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["ellerslie-stable.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "bb1caff9-cf06-4cf6-9fe4-e6bca8aa4a90",
+    "ownerId": "system",
+    "name": "Old Salem Farm",
+    "slug": "old-salem-farm",
+    "description": "A premier hunter-jumper facility on 120 acres in North Salem, Westchester County, featuring over 60 stalls, 2 indoor arenas, 4 outdoor riding rings, a Grand Prix field, boarders' lounge with gym, and spacious paddocks. Horses live in the lap of luxury at this state-of-the-art facility offering top-level training and the highest quality of care.",
+    "address": {
+      "street": "190 June Road",
+      "city": "North Salem",
+      "state": "NY",
+      "zip": "10560",
+      "lat": 41.3483502,
+      "lng": -73.5941008
+    },
+    "phone": "(914) 669-5610",
+    "website": "https://oldsalemfarm.net",
+    "email": "suem@oldsalemfarm.net",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 60,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["old-salem-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "0b7911b5-0849-488e-bef6-e93fb29cab35",
+    "ownerId": "system",
+    "name": "Echo Farm",
+    "slug": "echo-farm",
+    "description": "A bustling equestrian facility established in 1826 in South Salem, bordering the Ward Pound Ridge Reservation trails. USHJA approved, offering riding lessons for children and adults, an IEA team, horsemanship program, and boarding. Features English and Western riding, dressage, and a recently renovated enclosed jump ring.",
+    "address": {
+      "street": "91 Spring Street",
+      "city": "South Salem",
+      "state": "NY",
+      "zip": "10590",
+      "lat": 41.2727952,
+      "lng": -73.5633135
+    },
+    "phone": "(914) 438-3523",
+    "website": "https://www.echofarm.biz",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage", "western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      "Callie Bauer",
+      "Allison Bauer",
+      "Joan Scollay Dooley",
+      "Nina Andrews"
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["echo-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "3f18735a-3ca7-4f5f-a06f-21f86f153184",
+    "ownerId": "system",
+    "name": "Netherwood Acres",
+    "slug": "netherwood-acres",
+    "description": "A full-service equestrian facility offering horseback riding, horse boarding, training, and sales in Hyde Park, Dutchess County. Set in the scenic Hudson Valley, Netherwood Acres provides personalized care in a rural farm setting.",
+    "address": {
+      "street": "883 Netherwood Road",
+      "city": "Hyde Park",
+      "state": "NY",
+      "zip": "12538",
+      "lat": 41.7870161,
+      "lng": -73.8436018
+    },
+    "phone": "(845) 266-3774",
+    "website": "https://www.netherwoodacres.net",
+    "email": "",
+    "disciplines": ["trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["netherwood-acres.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "f05c79d9-73c1-472d-8156-2f55e36cff4f",
+    "ownerId": "system",
+    "name": "Hazelnut Farms",
+    "slug": "hazelnut-farms",
+    "description": "An equestrian farm in South Salem, Westchester County, offering boarding and riding programs. Located on scenic grounds in the heart of Westchester horse country, Hazelnut Farms provides quality care in a peaceful rural setting.",
+    "address": {
+      "street": "21 Waccabuc River Lane",
+      "city": "South Salem",
+      "state": "NY",
+      "zip": "10590",
+      "lat": 41.2803638,
+      "lng": -73.5775529
+    },
+    "phone": "(203) 613-1146",
+    "website": "https://www.hazelnutfarmsny.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["hazelnut-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "06d697df-3424-4454-8ded-dd4c1f3ba540",
+    "ownerId": "system",
+    "name": "Larkspur Farm",
+    "slug": "larkspur-farm",
+    "description": "A top-quality full service boarding facility located in North Salem, NY, with exceptional design and state-of-the-art amenities built for efficiency, safety, and wellbeing. Offering lessons, boarding, training, showing, sales, and leasing with year-round programs and winter travel to Ocala, FL for competitions.",
+    "address": {
+      "street": "42 June Rd",
+      "city": "North Salem",
+      "state": "NY",
+      "zip": "10560",
+      "lat": 41.3234717,
+      "lng": -73.5912240
+    },
+    "phone": "(203) 515-9451",
+    "website": "https://larkspurfarmny.com",
+    "email": "info@larkspurfarmny.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["larkspur-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

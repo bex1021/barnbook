@@ -4,7 +4,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { useCallback } from "react";
 
 const DISCIPLINES = ["dressage", "hunter jumper", "western", "eventing", "trail", "polo"];
-const STATES = ["CA", "FL", "KY", "NJ", "SC", "TX", "VA"];
+const STATES = ["AZ", "CA", "CO", "CT", "FL", "GA", "IL", "KS", "KY", "MO", "NC", "NJ", "NY", "OH", "OR", "SC", "TX", "VA", "WA"];
 const AMENITIES = [
   { key: "indoorArena", label: "Indoor Arena" },
   { key: "outdoorArena", label: "Outdoor Arena" },

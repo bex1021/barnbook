@@ -1,0 +1,400 @@
+[
+  {
+    "id": "6ee8f3df-08ba-4cfa-b112-58914db0e806",
+    "ownerId": "system",
+    "name": "Centurion Farm",
+    "slug": "centurion-farm-alpharetta",
+    "description": "Centurion Farm is a premier equestrian facility nestled in the heart of Alpharetta, GA offering boarding and riding lessons for riders at all stages. Focused on hunter/jumper equitation, the farm provides expert instruction in a supportive environment with individualized attention to help riders achieve their goals from local schooling shows to AA competitions.",
+    "address": {
+      "street": "1270 Birmingham Rd",
+      "city": "Alpharetta",
+      "state": "GA",
+      "zip": "30004",
+      "lat": 34.0903,
+      "lng": -84.3395
+    },
+    "phone": "(440) 343-3321",
+    "website": "https://www.centurionfarmga.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["centurion-farm-alpharetta.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "f8145140-2bb6-404a-97de-6ecae27fc3da",
+    "ownerId": "system",
+    "name": "Windsor Stables",
+    "slug": "windsor-stables",
+    "description": "Windsor Stables is Atlanta's premiere equestrian center, a full-service boarding and training facility dedicated to the goal-oriented rider. Their world-class trainers and grooms cater to each client's specific needs, offering top-quality horse care and instruction in and out of the arena. Windsor operates a competitive show team achieving championships in junior hunters, equitation medals, and jumpers throughout the Southeast and Florida, plus a riding academy program designed for all experience levels including working adults.",
+    "address": {
+      "street": "12850 New Providence Road",
+      "city": "Alpharetta",
+      "state": "GA",
+      "zip": "30004",
+      "lat": 34.0956,
+      "lng": -84.3615
+    },
+    "phone": "(470) 297-8411",
+    "website": "https://windsorstables-ga.com",
+    "email": "office@windsorstables-ga.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["windsor-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "31f58bec-6117-4b97-86a5-40d20975912f",
+    "ownerId": "system",
+    "name": "In Your Dreams Horse Farm",
+    "slug": "in-your-dreams-horse-farm",
+    "description": "In Your Dreams Horse Farm is a professional 22-acre training venue in Alpharetta offering dry stalls, two spacious arenas (a large covered arena and an outdoor lighted arena), and a collaborative community for trainers dedicated to excellence. The facility is home to multiple independent trainers and emphasizes flexibility and support for equestrian entrepreneurs. The farm supports dressage programming under the Dressage Alpharetta initiative and provides stall leasing to professional trainers.",
+    "address": {
+      "street": "17875 Birmingham Hwy",
+      "city": "Alpharetta",
+      "state": "GA",
+      "zip": "30004",
+      "lat": 34.1200,
+      "lng": -84.3050
+    },
+    "phone": "(770) 887-7797",
+    "website": "https://horse1.com",
+    "email": "InYourDreamsFarm@Yahoo.com",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 10,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Casey Whitaker", "certifications": [] },
+      { "name": "Sarah Estes", "certifications": [] },
+      { "name": "Keely Powers", "certifications": [] }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["in-your-dreams-horse-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "f4d62714-1744-4a45-ab21-2dcc2401ca9e",
+    "ownerId": "system",
+    "name": "Chastain Horse Park",
+    "slug": "chastain-horse-park",
+    "description": "Chastain Horse Park is one of the last two remaining urban horse parks in the United States, located within Atlanta's Chastain Park community. As a 501(c)(3) non-profit since 1999, it is home to a nationally recognized PATH-accredited therapeutic horsemanship program, a general boarding program, a school riding program, and event space. The facility empowers individuals of all abilities through life-changing relationships with horses, serving riders from beginners through advanced students and offering therapeutic hippotherapy and equine-assisted learning programs.",
+    "address": {
+      "street": "4371 Powers Ferry Road NW",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30327",
+      "lat": 33.8742,
+      "lng": -84.3976
+    },
+    "phone": "(404) 252-4244",
+    "website": "https://www.chastainhorsepark.org",
+    "email": "info@chastainhorsepark.org",
+    "disciplines": ["hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["chastain-horse-park.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e806a4c1-94b4-4621-8b30-53efbff3a619",
+    "ownerId": "system",
+    "name": "Fortitude Farm",
+    "slug": "fortitude-farm",
+    "description": "Fortitude Farm is a premier hunter/jumper training, boarding, and lesson facility in the Alpharetta/Milton area north of Atlanta. Founded by Carolyn Bell, the farm offers instruction at all levels with a mission to help riders achieve individual goals through friendly, positive instruction. Riders compete at AA shows throughout the Southeast and Florida, consistently winning zone and state year-end awards. The farm emphasizes character development in both horse and rider through goal-setting and achievement, with school horses available for beginners.",
+    "address": {
+      "street": "14725 Wood Road",
+      "city": "Alpharetta",
+      "state": "GA",
+      "zip": "30004",
+      "lat": 34.1377,
+      "lng": -84.3321
+    },
+    "phone": "(770) 289-7350",
+    "website": "https://fortitudefarm.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Carolyn Bell", "certifications": [] }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["fortitude-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "6ebdec20-d19a-4faa-85a1-6e71e942dabe",
+    "ownerId": "system",
+    "name": "Millstone Stables",
+    "slug": "millstone-stables",
+    "description": "Millstone Stables is a first-class hunter/jumper boarding, training, and lesson facility set on 16 rolling acres in north metro Atlanta, centrally located on the border of north Fulton and southeast Cherokee counties convenient to Woodstock, Milton, Alpharetta, Roswell, East Cobb, and Canton. The Morton-built 12-stall barn features 12x12 stalls with individual fans, tongue-and-groove walls, double Dutch doors, rubber mat flooring, and a centrally monitored fire alarm and video system. Outdoor amenities include a lighted 100x200 foot fully irrigated arena with show-quality jumps, nine half-acre paddocks, a hot/cold water wash bay, and perimeter trails.",
+    "address": {
+      "street": "4236 North Arnold Mill Road",
+      "city": "Woodstock",
+      "state": "GA",
+      "zip": "30188",
+      "lat": 34.1066,
+      "lng": -84.4967
+    },
+    "phone": "(770) 765-2205",
+    "website": "https://www.millstonestables.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 12,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Mike Purcell", "certifications": [] },
+      { "name": "Carolyn Purcell", "certifications": [] }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["millstone-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "a64788fb-36a4-4ee7-be4c-877085327e24",
+    "ownerId": "system",
+    "name": "WildeWood Farm",
+    "slug": "wildewood-farm",
+    "description": "WildeWood Farm is a privately-owned, multi-generational farm in Cumming, Georgia, operating since 1996. The farm has been voted Best in Forsyth five consecutive years for best stable and best equestrian facility. They offer riding lessons for all ages and skill levels, summer day camps (Horse Camp, Farm Adventure Camp, Hybrid Camp), birthday parties, therapeutic horsemanship for at-risk youth, equine-assisted learning for corporate leadership training, and educational programs. Run by three generations of family farmers, WildeWood Farm creates transformative experiences for youth and adults alike.",
+    "address": {
+      "street": "5150 Oak Grove Circle",
+      "city": "Cumming",
+      "state": "GA",
+      "zip": "30028",
+      "lat": 34.2073,
+      "lng": -84.1402
+    },
+    "phone": "(770) 843-2478",
+    "website": "https://wildewoodfarm.com",
+    "email": "info@wildewoodfarm.com",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["wildewood-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "c52519be-1da9-4133-a239-e6dc7d20eed2",
+    "ownerId": "system",
+    "name": "Jaid Stables",
+    "slug": "jaid-stables",
+    "description": "Jaid Stables is Canton's premier stables for horse boarding and rider training, nationally recognized as a training academy that gives clients the correct building blocks for a proven lifetime of successful horse showing. The facility offers three comprehensive boarding packages with custom feeding, daily turnout, stall cleaning, and night checks, plus optional add-on services including show prep grooming, body clipping, tack cleaning, and laundry. Their training programs are tailored to each horse and rider pair and include a minimum of four training units per month integrated with boarding packages.",
+    "address": {
+      "street": "2225 Lower Birmingham Rd",
+      "city": "Canton",
+      "state": "GA",
+      "zip": "30115",
+      "lat": 34.1800,
+      "lng": -84.3700
+    },
+    "phone": "",
+    "website": "https://jaidstables.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["jaid-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e6cdbe11-019a-47e7-a00b-f4683d117149",
+    "ownerId": "system",
+    "name": "Lioncrest Farms",
+    "slug": "lioncrest-farms",
+    "description": "Lioncrest Farms is a full-service equestrian facility in Canton, Georgia offering boarding, riding lessons, horse training, hippotherapy, and summer camp. The facility features twenty-two 12x12 matted stalls with fans, two large tack rooms, two wash racks, a lighted indoor arena with sand footing dragged daily, an outdoor all-weather jumping arena, and a heated and cooled lounge with kitchen, WiFi, and viewing area. Full board starts at $900 per month with daily turnout and twice-daily feeding. Lesson fees start at $65 for beginners through advanced riders.",
+    "address": {
+      "street": "1937 Gaddis Road",
+      "city": "Canton",
+      "state": "GA",
+      "zip": "30115",
+      "lat": 34.2368,
+      "lng": -84.4908
+    },
+    "phone": "(470) 242-5200",
+    "website": "http://www.lioncrestfarms.com",
+    "email": "lioncrestfarms@gmail.com",
+    "disciplines": ["hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 22,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 900,
+      "lessonsFrom": 65,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Kelsey", "certifications": [] }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["lioncrest-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

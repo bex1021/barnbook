@@ -1,0 +1,432 @@
+[
+  {
+    "id": "99262a21-08e9-40fc-ad5d-b0c1348b7709",
+    "ownerId": "system",
+    "name": "HaddenLoch",
+    "slug": "haddenloch",
+    "description": "HaddenLoch is a premier hunter/jumper boarding and training facility established in 1994, located minutes from Ponte Vedra Beach, Nocatee, and St. Augustine. The property features an all-weather sand arena with a full course of polymer jumps, automatic fly systems, and meticulous daily care including five-times-daily hay feeding and monthly psyllium supplementation.",
+    "address": {
+      "street": "10840 Old Dixie Highway",
+      "city": "Ponte Vedra",
+      "state": "FL",
+      "zip": "32081",
+      "lat": 30.1316,
+      "lng": -81.4490
+    },
+    "phone": "(904) 829-1788",
+    "website": "https://haddenloch.com",
+    "email": "haddenlochllc@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["haddenloch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "f13585ce-139f-423c-8cec-4c241e43d19c",
+    "ownerId": "system",
+    "name": "Diamond D Boarding Stables",
+    "slug": "diamond-d-boarding-stables",
+    "description": "Diamond D Boarding Stables is a well-established horse boarding facility in Jacksonville, Florida, offering quality care and boarding services for horses in a peaceful country setting. The stable provides a welcoming environment for horses and their owners in the Northeast Florida region.",
+    "address": {
+      "street": "5901 Solomon Rd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32234",
+      "lat": 30.2700,
+      "lng": -81.9200
+    },
+    "phone": "",
+    "website": "https://www.diamonddboardingstables.com",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["diamond-d-boarding-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "29b7918e-9dfd-496d-b145-c864fb039d67",
+    "ownerId": "system",
+    "name": "Hidden Fields Private Stable",
+    "slug": "hidden-fields-private-stable",
+    "description": "Hidden Fields Private Stable is a family-run equestrian facility in Jacksonville, Florida, owned by Debbie Field. Offering a unique blend of horse care, riding lessons, and equine experiences, the stable is open by appointment and specializes in creating memorable experiences for all ages including birthday parties, field trips, and seasonal activities.",
+    "address": {
+      "street": "2259 Forest Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32246",
+      "lat": 30.2900,
+      "lng": -81.5100
+    },
+    "phone": "(904) 254-5058",
+    "website": "https://hiddenfieldsjax.com",
+    "email": "HiddenFieldsJax@aol.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["hidden-fields-private-stable.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "b0e4f3f0-db2e-4a0a-86cb-3e7b8e6e3069",
+    "ownerId": "system",
+    "name": "Jacksonville Equestrian Center",
+    "slug": "jacksonville-equestrian-center",
+    "description": "Jacksonville Equestrian Center is Florida's premier equestrian venue, hosting USEF and USHJA-sanctioned horse shows, tournaments, and community events year-round. The facility features several indoor and outdoor arenas and is conveniently located near I-10, I-95, and I-295, serving both seasoned equestrians and newcomers to the sport.",
+    "address": {
+      "street": "13611 Normandy Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32221",
+      "lat": 30.2816,
+      "lng": -81.8270
+    },
+    "phone": "(904) 255-4254",
+    "website": "https://jaxequestriancenter.com",
+    "email": "events@jaxequestriancenter.com",
+    "disciplines": ["hunter jumper", "dressage", "eventing", "western"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["jacksonville-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "7cbe2749-434a-442c-a513-6268fbf9e807",
+    "ownerId": "system",
+    "name": "Coriander Farm",
+    "slug": "coriander-farm",
+    "description": "Coriander Farm is Jacksonville's leading riding school, offering hunter/jumper instruction for all levels from beginner through national show competition. Located on Joda Lane South, the farm provides school horse lessons with safe and gentle horses and ponies, full board and training with six-day-a-week turnout and grooming, and show preparation from local one-day shows to the national level.",
+    "address": {
+      "street": "4798 Joda Lane S",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32258",
+      "lat": 30.1430,
+      "lng": -81.5680
+    },
+    "phone": "(904) 292-0294",
+    "website": "https://corianderjax.com",
+    "email": "katie@corianderfarm.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "training"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Katie Young"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["coriander-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "d10674df-4d7c-449a-8564-d04bed2a3978",
+    "ownerId": "system",
+    "name": "Windemere Equestrian Center",
+    "slug": "windemere-equestrian-center",
+    "description": "Windemere Equestrian Center is an 18-acre full-service show, lesson, breeding, and boarding facility in Jacksonville established in 1994. The center features a 24-stall indoor barn plus a 12-horse barn, two large lighted outdoor arenas, a full jump course, covered wash barn, and spacious turnout, offering hunter/jumper and Appaloosa breed programs at all competitive levels.",
+    "address": {
+      "street": "6900 Morse Ave",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32244",
+      "lat": 30.2380,
+      "lng": -81.7320
+    },
+    "phone": "(904) 777-5650",
+    "website": "https://windemereequestriancenter.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 36,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Teresa Pennington", "Joan Werner"],
+    "lessonAvailability": true,
+    "horseBreeds": ["Appaloosa"],
+    "photos": ["windemere-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "92de7460-b3c9-4770-906f-817aaa3c8655",
+    "ownerId": "system",
+    "name": "La Rose Performance Horses",
+    "slug": "la-rose-performance-horses",
+    "description": "La Rose Performance Horses is a comprehensive equestrian facility established in 2012, situated on 3105 CR 121 in Jacksonville, forty minutes from the beaches and fifteen minutes from the Jacksonville Equestrian Center. The facility welcomes riders of all disciplines and levels, featuring a covered 100x150 arena extending to 100x230, outdoor arena with full jump course, round pen, hot walker, Theraplate therapy equipment, and wash racks with hot and cold water.",
+    "address": {
+      "street": "3105 CR 121",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32234",
+      "lat": 30.2790,
+      "lng": -81.9740
+    },
+    "phone": "",
+    "website": "https://www.laroseperformancehorses.com",
+    "email": "LaRosePerformanceHorses@yahoo.com",
+    "disciplines": ["dressage", "hunter jumper", "western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Carolyn"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["la-rose-performance-horses.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "a6f17cb8-f102-4cf7-a32e-e500805f85a5",
+    "ownerId": "system",
+    "name": "BV Equestrian Show Stables",
+    "slug": "bv-equestrian",
+    "description": "BV Equestrian Show Stables is a premier hunter/jumper training and show facility located on 20 acres in St. Augustine. The 26-stall facility offers USEF and USHJA-sanctioned competition preparation with structured training programs, requiring boarders to participate in a minimum of eight horse shows annually at venues including Ocala, Aiken, Venice, Tryon, and Blowing Rock.",
+    "address": {
+      "street": "2005 Bennett Road",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32092",
+      "lat": 30.0590,
+      "lng": -81.6490
+    },
+    "phone": "",
+    "website": "https://bv-equestrian.com",
+    "email": "info@bv-equestrian.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "training"],
+      "stallCount": 26,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["bv-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "adb814d0-e320-4242-983b-140593b3a3e6",
+    "ownerId": "system",
+    "name": "M & M Hunter Jumpers",
+    "slug": "m-and-m-hunter-jumpers",
+    "description": "M & M Hunter Jumpers is a boutique-style hunter/jumper training stable in St. Augustine run by Michelle Moen, who brings over 30 years of hunter/jumper experience. The 133-acre property features a brand-new 250x180 fully lighted indoor clay/sand jump arena, a 200x100 outdoor sand arena, a cross-country log course, miles of trails, 18 large paddocks with daily individual turnout, and three indoor wash racks with hot and cold water.",
+    "address": {
+      "street": "1310 St. Marks Pond Blvd",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32095",
+      "lat": 30.1730,
+      "lng": -81.5970
+    },
+    "phone": "(425) 785-5427",
+    "website": "https://www.mandmhunterjumpers.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "eventing", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Michelle Moen"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["m-and-m-hunter-jumpers.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "3e577449-73fb-49dc-a6cc-4b4cb5521745",
+    "ownerId": "system",
+    "name": "Southern Pines Equestrian Center",
+    "slug": "southern-pines-equestrian",
+    "description": "Southern Pines Equestrian Center is a 30-acre equestrian facility in St. Augustine offering English and Western riding instruction for all ages and experience levels. The property features a large outdoor arena with premium footing, a grass arena with jumps, two round pens, covered and uncovered wash areas, property trails, spacious 12x12 stalls, and a climate-controlled classroom. The center also offers HomeSchool Horse Club programs, birthday celebrations, seasonal camps, vacation rental accommodations, and photography sessions.",
+    "address": {
+      "street": "3295 Monument Bay Rd",
+      "city": "St. Augustine",
+      "state": "FL",
+      "zip": "32066",
+      "lat": 29.9910,
+      "lng": -81.5460
+    },
+    "phone": "(904) 515-5097",
+    "website": "https://www.southernpinesequestrian.com",
+    "email": "angelaarmstrongrealestate@gmail.com",
+    "disciplines": ["hunter jumper", "western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Angela Armstrong"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["southern-pines-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

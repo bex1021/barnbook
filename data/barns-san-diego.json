@@ -1,0 +1,399 @@
+[
+  {
+    "id": "21e5b64d-30ac-4913-b546-3f7dc0eb7ca2",
+    "ownerId": "system",
+    "name": "Suncoast Farms",
+    "slug": "suncoast-farms",
+    "description": "Suncoast Farms is a 40-acre full-care horse boarding facility in San Diego's South Bay, in the Spurling family since 1977. Located at 2805 Hollister Street with direct trail access and proximity to the Pacific Ocean, the ranch offers year-round grass pastures, custom tackrooms, and a calm, quiet environment for horses from youngsters to retirees.",
+    "address": {
+      "street": "2805 Hollister St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92154",
+      "lat": 32.5456,
+      "lng": -117.0830
+    },
+    "phone": "(619) 252-4485",
+    "website": "https://horseboardingsandiego.com",
+    "email": "",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["suncoast-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e6bb92d8-00af-42b6-b6fe-d5070a24fb3c",
+    "ownerId": "system",
+    "name": "D & J Stables",
+    "slug": "d-and-j-stables",
+    "description": "D & J Stables is a family-run equestrian facility founded by Dick and Jenny Tynan in 2005, located on the Kimzey Family Ranch in South San Diego. The property offers 25+ modern outdoor stalls with daily care services and sits adjacent to an extensive trail network connecting wilderness, mountain, and coastal beach riding routes.",
+    "address": {
+      "street": "2810 Hollister St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92154",
+      "lat": 32.5448,
+      "lng": -117.0842
+    },
+    "phone": "(844) 352-6273",
+    "website": "https://dandjstables.com",
+    "email": "Suzanne@dandjstables.com",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 25,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["d-and-j-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "4e2652d2-7669-4960-ba0c-71d4f5d1f1da",
+    "ownerId": "system",
+    "name": "Canyonside Equestrian Center",
+    "slug": "canyonside-equestrian-center",
+    "description": "Canyonside Equestrian Center, originally established as Horseman's Park in the early 1970s by Barbara Gerrior, is a non-profit premier riding, training, and boarding facility situated on 15.44 acres within the Los Penasquitos Canyon Preserve. Located just off the 56 Freeway in San Diego, it provides direct access to miles of preserve trails and offers riding lessons and educational programs.",
+    "address": {
+      "street": "12115 Black Mountain Rd",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92129",
+      "lat": 32.9385,
+      "lng": -117.1280
+    },
+    "phone": "(858) 433-7023",
+    "website": "https://canyonsideequestriancenter.com",
+    "email": "",
+    "disciplines": ["trail", "western", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["canyonside-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "2cf3b1d3-2b64-4809-b704-d1b77d8ce564",
+    "ownerId": "system",
+    "name": "Sweetwater Farms",
+    "slug": "sweetwater-farms",
+    "description": "Sweetwater Farms is a community-oriented equestrian center in Bonita, California, welcoming riders of all ages and experience levels. Located on Equitation Lane in San Diego County, the facility offers riding academy programs for children and adults, making it a family-friendly destination for both first-time riders and experienced equestrians.",
+    "address": {
+      "street": "3051 Equitation Ln",
+      "city": "Bonita",
+      "state": "CA",
+      "zip": "91902",
+      "lat": 32.6513,
+      "lng": -117.0602
+    },
+    "phone": "(619) 252-5544",
+    "website": "https://sweetwaterhorses.com",
+    "email": "",
+    "disciplines": ["trail", "western", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["sweetwater-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "4ac2941b-7b0e-457b-8e42-a4213973fe97",
+    "ownerId": "system",
+    "name": "Windfall Ranch",
+    "slug": "windfall-ranch",
+    "description": "Windfall Ranch is a drama-free equine boarding, training, and guided trail riding facility tucked in the San Diego mountains near Alpine. Set on the Japatul Valley Road with miles of private accessible trails, the ranch specializes in competitive endurance riding and equitation training under the direction of trainer Natalie Braun.",
+    "address": {
+      "street": "21800 Japatul Valley Rd",
+      "city": "Alpine",
+      "state": "CA",
+      "zip": "91901",
+      "lat": 32.8351,
+      "lng": -116.7664
+    },
+    "phone": "(619) 992-0084",
+    "website": "https://windfallranch.net",
+    "email": "",
+    "disciplines": ["trail", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Natalie Braun",
+        "specialties": ["trail", "eventing"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["windfall-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "5dcbe02d-d7f6-4db3-8c32-97fada0e22f6",
+    "ownerId": "system",
+    "name": "River Valley Equestrian Center",
+    "slug": "river-valley-equestrian",
+    "description": "River Valley Equestrian Center is a premier 40-acre horse boarding facility in Lakeside, California, offering a serene East County San Diego setting. The property features spacious stalls, lighted arenas, a round pen, polo fields, and extensive trail access, providing a luxury equestrian experience with ample turnout and recreational riding opportunities.",
+    "address": {
+      "street": "10631 Ashwood St",
+      "city": "Lakeside",
+      "state": "CA",
+      "zip": "92040",
+      "lat": 32.8702,
+      "lng": -116.9065
+    },
+    "phone": "(619) 219-4007",
+    "website": "https://www.rivervalleyequestrian.com",
+    "email": "",
+    "disciplines": ["trail", "western", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["river-valley-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "51fefc33-3b4e-421e-a2d7-862bafdc0fc6",
+    "ownerId": "system",
+    "name": "Poway Equestrian Center",
+    "slug": "poway-equestrian-center",
+    "description": "Poway Equestrian Center is a full-service equestrian facility at 14875 Mina de Oro Road in Poway, California, operated by Nicole Stone. The center features two outdoor arenas, a wellness center, and trail access, offering boarding and diverse training disciplines to help horses develop physical and mental adaptability from trail riding to jumping.",
+    "address": {
+      "street": "14875 Mina de Oro Rd",
+      "city": "Poway",
+      "state": "CA",
+      "zip": "92064",
+      "lat": 32.9806,
+      "lng": -116.9856
+    },
+    "phone": "(858) 748-6441",
+    "website": "https://powayequestriancenter.com",
+    "email": "ride@powayequestriancenter.com",
+    "disciplines": ["trail", "hunter jumper", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Nicole Stone",
+        "specialties": ["trail", "hunter jumper"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["poway-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "2ddcd938-1aad-4857-8953-b857ce6a03ac",
+    "ownerId": "system",
+    "name": "Iron Oak Canyon Ranch",
+    "slug": "iron-oak-canyon-ranch",
+    "description": "Iron Oak Canyon Ranch, formerly Bright Valley Farms, is an equestrian boarding facility in the scenic Sweetwater River Valley of Spring Valley, California. The property offers 24x24 and 24x48 corrals, lighted arenas, and exclusive trail access to the 11,000-acre San Diego National Wildlife Refuge, making it a unique destination for trail-focused horse owners.",
+    "address": {
+      "street": "12310 Campo Rd",
+      "city": "Spring Valley",
+      "state": "CA",
+      "zip": "91978",
+      "lat": 32.7342,
+      "lng": -116.9341
+    },
+    "phone": "(619) 670-1861",
+    "website": "https://www.ironoakcanyonranch.com",
+    "email": "info@ironoakcanyonranch.com",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["iron-oak-canyon-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "d6b16a6a-36d1-4f40-af26-1b3a693197ac",
+    "ownerId": "system",
+    "name": "Rancho Agave Equestrian",
+    "slug": "rancho-agave-equestrian",
+    "description": "Rancho Agave Equestrian is a premier 60-acre facility in Valley Center, California, founded in 2022. The estate features a 50-stall barn, a jumping arena and dressage arena with Attwood Waterless Pinnacle footing, a 15-acre polo field, a 6-horse covered Eurociser, 30 individual paddocks, and a 60-foot covered round pen with GGT footing, offering top-level care for a select group of boarding clients.",
+    "address": {
+      "street": "29753 Valley Center Rd",
+      "city": "Valley Center",
+      "state": "CA",
+      "zip": "92082",
+      "lat": 33.2229,
+      "lng": -117.0088
+    },
+    "phone": "",
+    "website": "https://www.ranchoagave-eq.com",
+    "email": "hello@ranchoagave-eq.com",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 50,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["rancho-agave-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]
