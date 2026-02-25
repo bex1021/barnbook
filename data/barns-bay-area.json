@@ -1,0 +1,432 @@
+[
+  {
+    "id": "c2e839d4-bc87-4cb8-b4dd-0e4dc36295fc",
+    "ownerId": "system",
+    "name": "The Horse Park at Woodside",
+    "slug": "horse-park-at-woodside",
+    "description": "A 501(c)(3) nonprofit equestrian facility on 362 acres near Woodside, California. The Horse Park at Woodside hosts premier competition events including the Woodside Horse Trials, and offers boarding, training, a covered arena, cross-country course, and educational programs. Built around four mission pillars: horse sport, land stewardship, lifelong learning, and community engagement.",
+    "address": {
+      "street": "3674 Sand Hill Road",
+      "city": "Woodside",
+      "state": "CA",
+      "zip": "94062",
+      "lat": 37.4171,
+      "lng": -122.2360
+    },
+    "phone": "(650) 851-2140",
+    "website": "https://www.horsepark.org",
+    "email": "info@horsepark.org",
+    "disciplines": ["hunter jumper", "eventing", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["horse-park-at-woodside.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "21a16e64-eb54-42b8-870e-213bc6e73954",
+    "ownerId": "system",
+    "name": "Williams Ranch Boarding",
+    "slug": "williams-ranch-boarding",
+    "description": "A historic 150-acre family ranch in the Santa Cruz Mountains just 15 minutes from downtown Woodside, owned and operated by the Williams/McReynolds family since 1853. The property offers gelding-only boarding with 12x12 and 12x14 stalls, spacious single-horse paddocks with shelters, daily pasture turnout, a 12,788 sq ft outdoor sand arena, pastures ranging from 7 to over 50 acres, and indoor hot and cold water wash rack.",
+    "address": {
+      "street": "12680 La Honda Road",
+      "city": "Woodside",
+      "state": "CA",
+      "zip": "94062",
+      "lat": 37.3983,
+      "lng": -122.2581
+    },
+    "phone": "(650) 851-8122",
+    "website": "http://williamsranchboarding.com",
+    "email": "pam.williamsranch@gmail.com",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 375,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["williams-ranch-boarding.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "5f7ba966-c741-489a-abd6-e69ccba36cf4",
+    "ownerId": "system",
+    "name": "Oasis Farms Woodside",
+    "slug": "oasis-farms-woodside",
+    "description": "A premier hunter/jumper and dressage training facility located at Portola Farms in Woodside, serving the greater Bay Area. Trainers Janeen Smith and Colin Daly bring over 30 combined years of experience, offering lessons, competitive training, and an IEA (Interscholastic Equestrian Association) program. The facility emphasizes horsemanship, horse training, and building lasting partnerships between horse and rider.",
+    "address": {
+      "street": "1545 Portola Rd",
+      "city": "Woodside",
+      "state": "CA",
+      "zip": "94062",
+      "lat": 37.3959,
+      "lng": -122.2465
+    },
+    "phone": "(510) 551-5405",
+    "website": "https://www.oasisfarm-woodside.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Janeen Smith", "Colin Daly"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["oasis-farms-woodside.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "855ad6cc-2705-467b-b8ca-494067ebf2c6",
+    "ownerId": "system",
+    "name": "Windy Hill Equestrians",
+    "slug": "windy-hill-equestrians",
+    "description": "A premier Bay Area hunter/jumper facility located at Fremont Hills Country Club in Los Altos Hills, conveniently situated minutes off Highway 280. Windy Hill offers an all-inclusive horse and rider training program with individualized attention, riding school, training program, lessons, and summer horsemanship camps. The facility serves clients from San Francisco to South San Jose.",
+    "address": {
+      "street": "26941 Purissima Rd",
+      "city": "Los Altos Hills",
+      "state": "CA",
+      "zip": "94022",
+      "lat": 37.3746,
+      "lng": -122.1442
+    },
+    "phone": "(650) 380-2431",
+    "website": "https://windyhillequestrians.com",
+    "email": "training@windyhillequestrians.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Laura Gerst", "Dakoda Mower"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["windy-hill-equestrians.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "2c61a7b0-5fd3-47c5-838b-4c0327e548ab",
+    "ownerId": "system",
+    "name": "Garrod Farms Stables",
+    "slug": "garrod-farms-stables",
+    "description": "A family-owned estate winery and equestrian center in Saratoga since 1893, offering both western and English riding instruction alongside private horse boarding. Garrod Farms features five riding arenas (one covered), two longing arenas, a round pen, three horse wash racks, and access to over twenty miles of trails through the Santa Cruz Mountains. All instructors are CHA-certified.",
+    "address": {
+      "street": "22645 Garrod Rd",
+      "city": "Saratoga",
+      "state": "CA",
+      "zip": "95070",
+      "lat": 37.2758,
+      "lng": -122.0548
+    },
+    "phone": "(408) 867-9527",
+    "website": "https://garrodfarms.com",
+    "email": "stables@garrodfarms.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["garrod-farms-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "4d347f10-f17e-4f82-b1c0-6b20cc829c6b",
+    "ownerId": "system",
+    "name": "Miwok Equestrian Center",
+    "slug": "miwok-equestrian-center",
+    "description": "Formerly Miwok Livery Stables, Miwok Equestrian Center is a nonprofit organization set within the Golden Gate National Recreation Area in Tennessee Valley, Mill Valley. The center offers English hunter/jumper lessons for riders ages 6 and up, show teams, and seasonal summer camps. The facility is surrounded by over 1,000 acres of parkland with expansive trail riding opportunities and maintains a boarding waitlist.",
+    "address": {
+      "street": "701 Tennessee Valley Road",
+      "city": "Mill Valley",
+      "state": "CA",
+      "zip": "94941",
+      "lat": 37.8597,
+      "lng": -122.5326
+    },
+    "phone": "(415) 389-9414",
+    "website": "https://www.miwokequestrianctr.com",
+    "email": "office@miwokequestrianctr.com",
+    "disciplines": ["hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["miwok-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "2e1bbd44-aa9f-40f9-8b01-535fd6e2c6da",
+    "ownerId": "system",
+    "name": "Dickson Ranch",
+    "slug": "dickson-ranch",
+    "description": "A six-generation family-owned horse facility in beautiful Woodacre, West Marin County, offering boarding, lessons, and multi-discipline use arenas. The property features an indoor arena, two outdoor arenas (White and Red), a round pen, and cross-country trails through open fields and redwood forest. Boarders enjoy 12x12 stalls with run-in areas and paddocks starting at $650/month.",
+    "address": {
+      "street": "182 San Geronimo Valley Drive",
+      "city": "Woodacre",
+      "state": "CA",
+      "zip": "94973",
+      "lat": 38.0130,
+      "lng": -122.6444
+    },
+    "phone": "(415) 488-0454",
+    "website": "https://www.thedicksonranch.com",
+    "email": "thedicksonranch@gmail.com",
+    "disciplines": ["dressage", "hunter jumper", "western", "eventing", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 650,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["dickson-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "81ff711c-6d50-48ac-b3f8-3e6ed06c5771",
+    "ownerId": "system",
+    "name": "Longview Stables",
+    "slug": "longview-stables",
+    "description": "A full-service training program in Novato dedicated to teaching all riders from their first pony ride through advanced competition. Longview Stables emphasizes personal development and sportsmanship alongside riding skills, with programs spanning beginner through competitive levels. The facility's training philosophy focuses on building well-rounded equestrians.",
+    "address": {
+      "street": "3777 Vineyard Road",
+      "city": "Novato",
+      "state": "CA",
+      "zip": "94947",
+      "lat": 38.1040,
+      "lng": -122.6145
+    },
+    "phone": "(415) 272-2590",
+    "website": "http://www.longviewstables.com",
+    "email": "barndesk@longviewstables.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["longview-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "025205cd-2a08-47e0-92bb-948f7b144728",
+    "ownerId": "system",
+    "name": "Ocean Riders of Marin",
+    "slug": "ocean-riders-of-marin",
+    "description": "A sustainably run, community-based nonprofit horse boarding facility at the historic Golden Gate Dairy Stables in Muir Beach, operating as a Park Partner with the Golden Gate National Recreation Area. Horses live in roomy paddocks with attached shelters and receive daily turnout. The facility offers access to spectacular coastal trails looping through redwood forests and along the Pacific coast.",
+    "address": {
+      "street": "1760 Shoreline Hwy",
+      "city": "Muir Beach",
+      "state": "CA",
+      "zip": "94965",
+      "lat": 37.8655,
+      "lng": -122.5744
+    },
+    "phone": "(415) 381-6263",
+    "website": "https://www.oceanridersofmarin.org",
+    "email": "oceanriders@prodigy.net",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["ocean-riders-of-marin.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "2d9d8f91-90ba-4370-b9fd-a2366bde52cc",
+    "ownerId": "system",
+    "name": "Blue Dot Barn",
+    "slug": "blue-dot-barn",
+    "description": "A full-service horse boarding facility nestled in the scenic Nicasio Valley of Marin County, California. Blue Dot Barn is committed to providing exceptional care for horses in a beautiful natural setting, offering a peaceful environment with spacious accommodations and dedicated on-site management. The Nicasio Valley location provides easy access to West Marin's expansive trail network.",
+    "address": {
+      "street": "2800 Nicasio Valley Road",
+      "city": "Nicasio",
+      "state": "CA",
+      "zip": "94946",
+      "lat": 38.0508,
+      "lng": -122.6891
+    },
+    "phone": "(415) 328-7388",
+    "website": "https://www.bluedotbarn.com",
+    "email": "office@bluedotbarn.com",
+    "disciplines": ["dressage", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["blue-dot-barn.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

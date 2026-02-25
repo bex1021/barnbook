@@ -1,0 +1,440 @@
+[
+  {
+    "id": "6608a2e7-4a12-4f03-8b7a-8157e993c496",
+    "ownerId": "system",
+    "name": "Two Mountains Farm",
+    "slug": "two-mountains-farm",
+    "description": "A 105-acre equestrian property nestled at the base of Novelty Hill in Carnation, Washington. Two Mountains Farm offers full boarding and clinic programs focused on dressage and eventing in a comfortable, safe environment designed for horses to thrive physically, mentally, and socially. Facilities include a 100x200 ft covered arena, a 150x150 ft outdoor arena, 10-stall barn with runs, grass paddocks, and a heated wash rack.",
+    "address": {
+      "street": "11630 W Snoqualmie Valley Rd NE",
+      "city": "Carnation",
+      "state": "WA",
+      "zip": "98014",
+      "lat": 47.702953,
+      "lng": -122.0003
+    },
+    "phone": "(206) 778-9080",
+    "website": "https://www.twomountainsfarm.com",
+    "email": "marisburns@aol.com",
+    "disciplines": ["dressage", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 10,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["two-mountains-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "75c011a5-8160-49a7-a74f-68a0f1a35d60",
+    "ownerId": "system",
+    "name": "Villa Fleur de Lys Stables",
+    "slug": "villa-fleur-de-lys-stables",
+    "description": "A highly rated horse boarding stable in Maple Valley, Washington, offering full-care boarding on a mud-free property with year-round dry conditions. The facility provides direct access to Taylor Mountain's thousands of acres of trails, an outdoor arena, a large round pen, and a hot/cold wash rack. Board includes timothy and/or alfalfa with a minimum of three daily feedings, herd turnout, and graveled stall runs.",
+    "address": {
+      "street": "28403 SE 204th St",
+      "city": "Maple Valley",
+      "state": "WA",
+      "zip": "98038",
+      "lat": 47.41981,
+      "lng": -121.964806
+    },
+    "phone": "(425) 444-1358",
+    "website": "https://www.horseboardingmaplevalley.com",
+    "email": "",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 670,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["villa-fleur-de-lys-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "48b1c177-34bf-4441-b511-6767ce5e37da",
+    "ownerId": "system",
+    "name": "Ravenswood Farm",
+    "slug": "ravenswood-farm",
+    "description": "A 25-acre multi-disciplinary equestrian facility in Issaquah, Washington, just 10 minutes from downtown Issaquah and under 30 minutes from Seattle. Ravenswood Farm features 41 12x12 stalls with rubber matting, a lighted outdoor arena with sport-LED lighting and ground rubber footing, a climate-controlled indoor arena with heated lounge and viewing room, and grass and dirt turnout. The facility welcomes all disciplines and skill levels, from beginners to advanced competitors.",
+    "address": {
+      "street": "19121 SE May Valley Rd",
+      "city": "Issaquah",
+      "state": "WA",
+      "zip": "98027",
+      "lat": 47.49436,
+      "lng": -122.08601
+    },
+    "phone": "(425) 277-4099",
+    "website": "https://www.ravenswoodfarm.org",
+    "email": "",
+    "disciplines": ["dressage", "hunter jumper", "western", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 41,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["ravenswood-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "be3e7c92-0b8d-40a3-b745-138c37fb3066",
+    "ownerId": "system",
+    "name": "Rockmeadow Equestrian Center",
+    "slug": "rockmeadow-equestrian-center",
+    "description": "A renowned 30-year equestrian institution in Sammamish, Washington, dedicated to riders of all ages and abilities pursuing their passion for horses. Rockmeadow Equestrian Center is a premier hunter jumper facility offering training programs, riding school, summer camps, and school break programs. Boarding is available exclusively to riders enrolled in on-site training programs.",
+    "address": {
+      "street": "20722 SE 34th St",
+      "city": "Sammamish",
+      "state": "WA",
+      "zip": "98075",
+      "lat": 47.5797,
+      "lng": -122.06313
+    },
+    "phone": "(425) 392-0600",
+    "website": "https://www.rockmeadoweq.com",
+    "email": "info@bigeqfarmllc.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["rockmeadow-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e8e3ecd6-d111-43b4-90a8-a3681f8e398b",
+    "ownerId": "system",
+    "name": "Western Sky Equestrian Center",
+    "slug": "western-sky-equestrian-center",
+    "description": "A secure-gate western horsemanship facility in Redmond, Washington, just minutes from downtown Redmond and the Redmond Watershed trails. Western Sky Equestrian Center offers boarding, lessons, training, and clinics in a clean, well-maintained stable with a large covered arena, covered round pen, and access to extensive trail systems. The facility's 18-horse lesson program and emphasis on trust, communication, and feel make it an ideal destination for riders seeking a genuine western horsemanship experience.",
+    "address": {
+      "street": "21031 NE 122nd St",
+      "city": "Redmond",
+      "state": "WA",
+      "zip": "98053",
+      "lat": 47.70681,
+      "lng": -122.058464
+    },
+    "phone": "(425) 319-9280",
+    "website": "https://www.westernskyhorsemanship.com",
+    "email": "Info@westernskyhorsemanship.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {"name": "Dale Rumens-Partee"},
+      {"name": "Kelsey McCandless"},
+      {"name": "McKenzie Teel"}
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["western-sky-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "563c973e-4d19-4319-9e78-ff78b84ecf5e",
+    "ownerId": "system",
+    "name": "The Equestrian School PNW",
+    "slug": "the-equestrian-school-pnw",
+    "description": "A classical horsemanship school located at Patterson Creek Farm in Fall City, Washington, serving the greater Seattle area with over 25 years of experience. The Equestrian School PNW operates under a Whole-Body, Whole-Herd philosophy, prioritizing the horse's physical, emotional, and mental well-being alongside student development. Programs include youth and adult riding lessons, a Mastery Riding Team, daily barn tours and intro lessons, and boarding for resident horses.",
+    "address": {
+      "street": "31030 Redmond-Fall City Rd SE",
+      "city": "Fall City",
+      "state": "WA",
+      "zip": "98024",
+      "lat": 47.58029,
+      "lng": -121.92814
+    },
+    "phone": "(425) 894-5616",
+    "website": "http://theequestrianschool.com",
+    "email": "theequestrianschool@gmail.com",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["the-equestrian-school-pnw.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "0ddf2f5f-a7bd-46ef-b644-d263e2024bf7",
+    "ownerId": "system",
+    "name": "Sharkey Farm",
+    "slug": "sharkey-farm",
+    "description": "A 15-acre hunter jumper training facility on Snoqualmie Ridge, just two miles from Snoqualmie Parkway and 30 minutes from Seattle. Sharkey Farm offers boarding, lessons, IEA team participation, and co-op boarding options under the guidance of trainer Kate Sharkey. The facility features a 150x72 ft all-weather outdoor arena with Equiloft footing, a heated tack room, and access to diverse riding experiences including beach rides, cross-country jumping, mountain trail rides, and urban trail rides.",
+    "address": {
+      "street": "36521 SE 94th St",
+      "city": "Snoqualmie",
+      "state": "WA",
+      "zip": "98065",
+      "lat": 47.5285,
+      "lng": -121.8901
+    },
+    "phone": "(425) 736-0245",
+    "website": "http://www.thesharkeyfarm.com",
+    "email": "kjsharkey1@gmail.com",
+    "disciplines": ["hunter jumper", "trail", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "partial"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 750,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {"name": "Kate Sharkey"}
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["sharkey-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "63458e9a-a6dd-4811-af7f-3cb92dba70c5",
+    "ownerId": "system",
+    "name": "Patterson Creek Equestrian Center",
+    "slug": "patterson-creek-equestrian-center",
+    "description": "A 40-acre premier equestrian facility in Redmond, Washington, surrounded by miles of manicured trails. Patterson Creek Equestrian Center offers boarding, training, sales, and instruction for all levels of horses and riders, with dressage, jumping, and eventing as primary disciplines. The facility features large stalls, daily turnout, three feedings per day, a covered arena, a large outdoor jumping arena, and direct access to on-property trail networks.",
+    "address": {
+      "street": "1010 276th Ave NE",
+      "city": "Redmond",
+      "state": "WA",
+      "zip": "98053",
+      "lat": 47.6872,
+      "lng": -121.9745
+    },
+    "phone": "(425) 951-0155",
+    "website": "http://pcec-redmond.com",
+    "email": "",
+    "disciplines": ["dressage", "hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["patterson-creek-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "b5f051eb-0d66-44e8-8fcc-867ea932c546",
+    "ownerId": "system",
+    "name": "The Stables at Magnolia Ridge",
+    "slug": "stables-at-magnolia-ridge",
+    "description": "A full-care, multi-discipline equestrian facility set on a stunning 40-acre property in Monroe, Washington, with sweeping views of the Cascade Mountains and Tualco Valley. Located approximately 30 minutes from the greater Eastside, The Stables at Magnolia Ridge caters to show-jumping, dressage, and eventing riders at all competitive levels. The facility is operated by Giddyup Inc. and offers premium boarding care in a breathtaking natural setting.",
+    "address": {
+      "street": "17006 260th Ave SE",
+      "city": "Monroe",
+      "state": "WA",
+      "zip": "98272",
+      "lat": 47.8512,
+      "lng": -121.9654
+    },
+    "phone": "",
+    "website": "https://www.thestablesatmagnoliaridge.com",
+    "email": "info@giddyupinc.com",
+    "disciplines": ["dressage", "hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["stables-at-magnolia-ridge.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "773f9f16-b5ba-4640-bef0-0cf7ad431daa",
+    "ownerId": "system",
+    "name": "Rosebud River Ranch",
+    "slug": "rosebud-river-ranch",
+    "description": "A premiere full-service boarding, breeding, and training facility just 30 miles from downtown Seattle along the I-90 corridor in Snoqualmie, Washington. Rosebud River Ranch features a 29-stall boarding barn with two tack rooms, a medical room, and a broodmare barn, plus a state-of-the-art 200x70 ft covered arena with premium footing. The ranch is home to Juliane Henry Equestrian, offering English riding lessons and dressage training, as well as corporate retreat experiences set against a stunning pastoral backdrop.",
+    "address": {
+      "street": "42320 SE Reinig Rd",
+      "city": "Snoqualmie",
+      "state": "WA",
+      "zip": "98065",
+      "lat": 47.5325,
+      "lng": -121.8256
+    },
+    "phone": "(206) 714-8415",
+    "website": "https://globaladventuress.com/rosebud-river-ranch/",
+    "email": "jblacklow@msn.com",
+    "disciplines": ["dressage", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 29,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {"name": "Juliane Henry"}
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["rosebud-river-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

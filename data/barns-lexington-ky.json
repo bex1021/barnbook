@@ -1,0 +1,432 @@
+[
+  {
+    "id": "982c6822-5d32-4fc2-8d13-d11a27b1e445",
+    "ownerId": "system",
+    "name": "Keene Ridge Farm",
+    "slug": "keene-ridge-farm",
+    "description": "Keene Ridge Farm is nestled in the heart of Central Kentucky on 170 rolling acres near Keeneland off Bosworth Rd. A thoroughbred nursery farm turned full-service boarding and training facility, Keene Ridge offers riding lessons for all ages led by expert instructors. Located just down the street from Keeneland Race Course, the farm provides a tranquil and professional boarding experience for horses of all breeds and disciplines, with a focus on quality equine care and rider development through workshops and clinics.",
+    "address": {
+      "street": "4630 Bosworth Ln",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40510",
+      "lat": 38.0585899,
+      "lng": -84.6315926
+    },
+    "phone": "",
+    "website": "https://www.keeneridgefarm.com",
+    "email": "keeneridgefarm@gmail.com",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Sally Schu"],
+    "lessonAvailability": true,
+    "horseBreeds": ["Thoroughbred"],
+    "photos": ["keene-ridge-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "393f5507-2e91-495e-9577-f2a281643add",
+    "ownerId": "system",
+    "name": "Stone Columns Stables",
+    "slug": "stone-columns-stables",
+    "description": "Stone Columns Stables is a premier equestrian facility operating across three farms spanning nearly 1,000 acres in the heart of Lexington, KY, just 5 minutes from the Kentucky Horse Park on Iron Works Pike and Paris Pike. Devoted to breeding top-quality sport horses for the dressage and jumper arenas, the facility offers premier horse boarding and retirement care on 300 acres of the best fields in Central Kentucky. With a client mare breeding program and young horse development program, Stone Columns is a destination for serious dressage and sport horse enthusiasts.",
+    "address": {
+      "street": "611 Iron Works Pike",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40511",
+      "lat": 38.1101123,
+      "lng": -84.4213764
+    },
+    "phone": "(561) 870-6587",
+    "website": "https://www.stonecolumnsstables.com",
+    "email": "info@stonecolumnsstables.com",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "retirement"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Melanie Peterson-Ramey"],
+    "lessonAvailability": false,
+    "horseBreeds": ["Warmblood", "KWPN"],
+    "photos": ["stone-columns-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "c123c56f-3b57-4059-b78a-eb25a0b1ca12",
+    "ownerId": "system",
+    "name": "Three Crowns Farm",
+    "slug": "three-crowns-farm",
+    "description": "Three Crowns Farm is a welcoming, family-friendly boarding and lesson facility located in Lexington, KY, close to the University of Kentucky and the Kentucky Horse Park. Offering pasture and stall boarding for horses of all breeds, ages, and disciplines, Three Crowns is known for its encouraging atmosphere for riders ages 3 to 83. The farm provides riding lessons from beginner to advanced, summer camps full of hands-on activities, equine layover/horse hotel services, and event hosting for weddings, birthday parties, and field trips.",
+    "address": {
+      "street": "3497 N Cleveland Rd",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40516",
+      "lat": 38.0452321,
+      "lng": -84.3551323
+    },
+    "phone": "(859) 806-1000",
+    "website": "https://www.threecrownsfarm.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["three-crowns-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "043cdc28-f387-43d9-890d-c33d59a6725c",
+    "ownerId": "system",
+    "name": "Bittersweet Acres Farm",
+    "slug": "bittersweet-acres-farm",
+    "description": "Bittersweet Acres Farm is an established equine boarding facility on Military Pike in Lexington, KY. The farm features 35 matted 12x12 stalls across two barns, both with tack areas and wash racks with hot water. Riders enjoy a 220x120 outdoor jumping arena and a 180x80 covered indoor riding arena with premium GGT footing, plus a cross-country jump course and over 50 acres for trail riding. With flexible boarding packages from self-care to partial care, the farm welcomes Thoroughbreds, Warmbloods, Arabians, Quarter Horses, and more.",
+    "address": {
+      "street": "4552 Military Pike",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40513",
+      "lat": 38.0129613,
+      "lng": -84.6516909
+    },
+    "phone": "(859) 576-0213",
+    "website": "https://bittersweetacresfarm.com",
+    "email": "patrick@bittersweetacresfarm.com",
+    "disciplines": ["hunter jumper", "eventing", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["self", "partial"],
+      "stallCount": 35,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 330,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": ["Thoroughbred", "Warmblood", "Arabian", "Quarter Horse"],
+    "photos": ["bittersweet-acres-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "fd24c10e-0556-44df-9fc4-f55a25dc5b20",
+    "ownerId": "system",
+    "name": "Cloud Nine Farm",
+    "slug": "cloud-nine-farm",
+    "description": "Cloud Nine Farm is a full-service hunter/jumper training and boarding facility in Midway, KY, just 20 minutes from Downtown Lexington, the University of Kentucky, and the Kentucky Horse Park. Owner and head trainer Stevie McCarron leads the program with a focus on quality over quantity, providing individualized care for equine athletes and developing competitive riders at all levels. The farm offers an indoor and outdoor arena, participates in KHJA competitions, and fosters a supportive, goal-oriented community of equestrians.",
+    "address": {
+      "street": "480 Lansing Lane",
+      "city": "Midway",
+      "state": "KY",
+      "zip": "40347",
+      "lat": 38.1509077,
+      "lng": -84.6838344
+    },
+    "phone": "(859) 379-9782",
+    "website": "http://www.thecloud9farm.com",
+    "email": "stevie@thecloud9farm.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Stevie McCarron"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["cloud-nine-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "2fdbcce6-f097-4aab-bad9-02daf1975514",
+    "ownerId": "system",
+    "name": "Three Day Farm",
+    "slug": "three-day-farm",
+    "description": "Three Day Farm is an active training and competition facility located in the heart of the Bluegrass in Midway, KY, situated on 45 acres with access to several hundred additional acres. Under head trainer Tanya Davis, the farm focuses primarily on Eventing while also offering classical dressage instruction. The facility includes a covered open-air indoor arena, cross-country courses, and hosts Transylvania University's equestrian team. Boarding options include full care in the main barn and pasture board in large fields with shelters and automatic waterers.",
+    "address": {
+      "street": "1620 Fishers Mill Rd",
+      "city": "Midway",
+      "state": "KY",
+      "zip": "40347",
+      "lat": 38.1509077,
+      "lng": -84.6838344
+    },
+    "phone": "(502) 863-3939",
+    "website": "https://threedayfarm.com",
+    "email": "",
+    "disciplines": ["eventing", "dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Tanya Davis"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["three-day-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "f4ce267c-05a1-4b8a-953f-94df1955e6f8",
+    "ownerId": "system",
+    "name": "Graystone Stable",
+    "slug": "graystone-stable",
+    "description": "Graystone Stable is a small, private full-care boarding and training facility in Georgetown, KY, located on Ironworks Road about 10 minutes from the Kentucky Horse Park and Hagyard Equine Hospital. Specializing in dressage, jumpers, and eventing, the facility has served the Bluegrass equestrian community for over 18 years. Head trainer Stephanie Calendrillo offers lessons from beginner through intermediate levels and can assist with starting and retraining young horses. The stable operates across two farm locations totaling over 110 acres.",
+    "address": {
+      "street": "4130 Ironworks Road",
+      "city": "Georgetown",
+      "state": "KY",
+      "zip": "40324",
+      "lat": 38.2099837,
+      "lng": -84.5597128
+    },
+    "phone": "(859) 552-0876",
+    "website": "https://www.graystonestablellc.com",
+    "email": "scalendrillo@graystonestablellc.com",
+    "disciplines": ["dressage", "hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Stephanie Calendrillo"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["graystone-stable.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "799d26c1-683c-4aaa-9581-3f9a124f1ce2",
+    "ownerId": "system",
+    "name": "Scheffelridge Farm",
+    "slug": "scheffelridge-farm",
+    "description": "Scheffelridge Farm is a family-oriented, multi-faceted equestrian venue in Paris, KY, that has been in business for over two decades. Convenient to both Georgetown and Lexington, the 120-acre farm is just 14 miles from the Kentucky Horse Park. The facility features a lighted 100x200 all-weather outdoor arena, an indoor arena, a round pen, and a full cross-country course with jumps up to Novice height. Instruction focuses on hunter, jumper, equitation, and dressage. The farm is also home to the Powerhouse Equestrian IEA Team and the Georgetown College Equestrian Team.",
+    "address": {
+      "street": "826 Hawkins-Cummins Road",
+      "city": "Paris",
+      "state": "KY",
+      "zip": "40362",
+      "lat": 38.2132087,
+      "lng": -84.2492072
+    },
+    "phone": "(859) 509-0404",
+    "website": "http://scheffelridgefarm.com",
+    "email": "nori@blueone.net",
+    "disciplines": ["hunter jumper", "dressage", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Nori Scheffel", "Dave Scheffel"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["scheffelridge-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "4c1dc0ec-d9af-4199-8e7c-de638717103c",
+    "ownerId": "system",
+    "name": "Punchestown Stable",
+    "slug": "punchestown-stable",
+    "description": "Punchestown Stable is a premier hunter and jumper stable nestled in the heart of Bluegrass Country, serving Lexington's competitive equestrian community since 2002. Located on a 30-acre facility with live-in management, the barn offers a 270x150 outdoor arena with Martin Collins footing, a 150x80 indoor arena, 3 barns, 9 one-acre paddocks, and 3 five-acre fields with run-in sheds. Owner and head trainer Sarah Meier runs a comprehensive program including showing on USEF circuits, training, and lessons for all ages from Short Stirrup to Junior Jumpers.",
+    "address": {
+      "street": "1210 Bel Mar Lane",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40515",
+      "lat": 37.8999822,
+      "lng": -84.4471149
+    },
+    "phone": "(630) 621-2465",
+    "website": "https://www.punchestownstable.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Sarah Meier"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["punchestown-stable.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "8a325abd-6476-40f3-a7fd-b26bed7aa1cb",
+    "ownerId": "system",
+    "name": "Hester Equestrian",
+    "slug": "hester-equestrian",
+    "description": "Hester Equestrian is the home of grand prix show jumper Lauren Hester, located in Lexington, KY just minutes from the Kentucky Horse Park and convenient to Tryon International Equestrian Center and the World Equestrian Center. Lauren actively competes at the Grand Prix level while training a select group of show clients. Having worked with Emile and Paul Hendrix in Europe, Hester Equestrian maintains a selection of quality sport horses for sale in the US and Europe. The facility caters to dedicated hunter, jumper, and equitation riders pursuing serious show goals.",
+    "address": {
+      "street": "5400 Russell Cave Rd",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40511",
+      "lat": 38.1587249,
+      "lng": -84.4070040
+    },
+    "phone": "(859) 293-1858",
+    "website": "https://hesterequestrian.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Lauren Hester"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["hester-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

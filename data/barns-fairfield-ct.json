@@ -1,0 +1,351 @@
+[
+  {
+    "id": "21b5cbfa-05e3-4dad-9652-aa835ca8c037",
+    "ownerId": "system",
+    "name": "Kelsey Farm",
+    "slug": "kelsey-farm",
+    "description": "A beloved family barn in the backcountry of Greenwich, established in 1949. Kelsey Farm offers horseback riding lessons, full boarding, a shared pony program, summer camp, and showing for riders of all ages and levels. The property features year-round paddock turnout with run-in sheds, both indoor and outdoor arenas, and a miniature cross-country course. With eleven box stalls and more than 75 years of tradition, Kelsey Farm fosters a strong foundation in horsemanship in a warm, family-oriented atmosphere.",
+    "address": {
+      "street": "1016 Lake Avenue",
+      "city": "Greenwich",
+      "state": "CT",
+      "zip": "06831",
+      "lat": 41.0582,
+      "lng": -73.6637
+    },
+    "phone": "(203) 869-5595",
+    "website": "https://www.kelseyfarm.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "partial"],
+      "stallCount": 11,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["kelsey-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "aecff092-8d0b-4b7f-b91a-184d8fe55577",
+    "ownerId": "system",
+    "name": "Mead Farm",
+    "slug": "mead-farm",
+    "description": "One of Connecticut's oldest equestrian establishments, Mead Farm has been welcoming riders to its Stamford property since 1928. The farm offers a comprehensive and challenging riding experience within a casual atmosphere, providing year-round lessons for children and adults, full boarding, horse leasing and sales, birthday parties, and summer camps. Instruction covers all levels, with pricing of $135 per private half-hour lesson. The farm maintains both indoor and outdoor riding areas along with party room and grooming facilities.",
+    "address": {
+      "street": "107 June Road",
+      "city": "Stamford",
+      "state": "CT",
+      "zip": "06903",
+      "lat": 41.1327,
+      "lng": -73.5762
+    },
+    "phone": "(203) 322-4984",
+    "website": "https://www.meadfarm.com",
+    "email": "meadfarm@hotmail.com",
+    "disciplines": ["trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 135,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["mead-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "b31d8cc5-e7b1-481f-a4dc-fcef1f30b9ac",
+    "ownerId": "system",
+    "name": "Silvermine Farm",
+    "slug": "silvermine-farm-norwalk",
+    "description": "A full-service Hunter/Jumper show stable nestled in the heart of Norwalk's historic Silvermine neighborhood. Silvermine Farm offers lessons, full-care boarding, leases, sales, and a competitive IEA Team for school-age riders. The facility supports a network of veterinary, farrier, and specialist services including equine massage therapy to ensure peak horse performance. Open Tuesday through Sunday, the farm cultivates riders at all levels from beginners through competitive show riders.",
+    "address": {
+      "street": "80 Comstock Hill Avenue",
+      "city": "Norwalk",
+      "state": "CT",
+      "zip": "06850",
+      "lat": 41.0897,
+      "lng": -73.4287
+    },
+    "phone": "(203) 354-4847",
+    "website": "https://www.silverminefarmct.com",
+    "email": "silverminefarmllc@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["silvermine-farm-norwalk.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "ad12911c-4b88-4c93-951d-95ec52dda928",
+    "ownerId": "system",
+    "name": "Fairfield County Hunt Club",
+    "slug": "fairfield-county-hunt-club",
+    "description": "A nationally recognized private equestrian country club in Westport, Connecticut, offering a world-class hunter/jumper program for riders from beginners to high-level competitors. The 34-acre facility features 120 box stalls across 6 barns, two heated indoor rings (100x200 and 90x250), three outdoor rings with state-of-the-art footing, a four-place hot walker, 9 all-weather paddocks, 7 wash stalls, and a regulation polo field. A professional training team including Head of Training Aline Domaingo and hunter trainer Jenny Martin-Rudaz delivers customized programs year-round.",
+    "address": {
+      "street": "174 Long Lots Road",
+      "city": "Westport",
+      "state": "CT",
+      "zip": "06880",
+      "lat": 41.1284,
+      "lng": -73.3576
+    },
+    "phone": "(203) 227-8445",
+    "website": "https://fairfieldhuntclub.com",
+    "email": "equestrian@fairfieldhuntclub.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 120,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      "Aline Domaingo",
+      "Jenny Martin-Rudaz",
+      "Cass Steptoe",
+      "Nikki Ventresca"
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["fairfield-county-hunt-club.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "6b26acd8-96f2-4328-8a04-8c1359a3dfb5",
+    "ownerId": "system",
+    "name": "Serenity Show Stable",
+    "slug": "serenity-show-stable",
+    "description": "A full-service show stable located on the historic 53-acre Marchant Farm property in Redding, Connecticut. Serenity Show Stable offers training and lessons for riders of all levels, from beginners through competitors at prestigious AA-rated horse shows nationwide. The facility features an all-weather indoor riding ring, outdoor riding ring, a dedicated jumping field, multiple paddocks, extensive trail access, grooming areas, tack rooms, and large open-air stalls. The stable emphasizes both technical riding skill development and competitive preparation.",
+    "address": {
+      "street": "55 Chestnut Woods Road",
+      "city": "Redding",
+      "state": "CT",
+      "zip": "06897",
+      "lat": 41.3179,
+      "lng": -73.3787
+    },
+    "phone": "(914) 755-7562",
+    "website": "https://serenityshowstable.com",
+    "email": "ruth@serenityshowstable.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["serenity-show-stable.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "381833eb-2fcf-4aa9-85cd-e9a555ffae85",
+    "ownerId": "system",
+    "name": "Sunset Hill Farm Equestrian Center",
+    "slug": "sunset-hill-farm",
+    "description": "A privately owned equestrian boarding stable located in the picturesque countryside of Redding, Connecticut. Sunset Hill Farm Equestrian Center provides boarding and riding services in a serene rural setting, offering personalized horse care and a welcoming community for horse owners and riders. The facility is situated on Sunset Hill Road in the heart of Redding's equestrian corridor, making it convenient to the network of local trails and riding paths throughout the region.",
+    "address": {
+      "street": "160 Sunset Hill Road",
+      "city": "Redding",
+      "state": "CT",
+      "zip": "06896",
+      "lat": 41.3003,
+      "lng": -73.3952
+    },
+    "phone": "(203) 938-8709",
+    "website": "https://www.sunsethillfarmct.com",
+    "email": "",
+    "disciplines": ["trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["sunset-hill-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "100a11cb-adc2-4804-afe6-829784d552a6",
+    "ownerId": "system",
+    "name": "Whimsy Brook Farm",
+    "slug": "whimsy-brook-farm",
+    "description": "A holistic equestrian facility in Redding, Connecticut, operating since 1972 under the philosophy of \"Where Science and Horsemanship Join Up.\" Whimsy Brook Farm offers full-service horse boarding, riding instruction in hunt seat, dressage, and western disciplines, horse training, and U.S. Pony Club programming. The farm also provides comprehensive equine wellness services including massage, acupuncture, chiropractic, farrier, and dental care. Lesson rates include private one-hour lessons at $199 and semi-private at $165, with package discounts available for boarders.",
+    "address": {
+      "street": "29 Giles Hill Road",
+      "city": "Redding",
+      "state": "CT",
+      "zip": "06896",
+      "lat": 41.2941,
+      "lng": -73.3802
+    },
+    "phone": "(203) 938-3760",
+    "website": "https://whimsybrookfarm.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 165,
+      "currency": "USD"
+    },
+    "trainers": ["Tara Benyei"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["whimsy-brook-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "91eeb4ac-42bc-48e4-b25d-bec91923a7cd",
+    "ownerId": "system",
+    "name": "Memory Lane Farm",
+    "slug": "memory-lane-farm",
+    "description": "A charming Greenwich equestrian facility situated directly on the Greenwich Riding Trails, offering horseback riding lessons, a kids summer riding program, and cart driving instruction. Memory Lane Farm is ideally positioned for trail riding with access to 150 miles of Greenwich Riding Trails and proximity to the GRTA Horse Show Grounds. The farm also hosts birthday parties and provides dog boarding, making it a true multi-purpose destination. With its trail-side location in Greenwich's backcountry, it offers a uniquely scenic and relaxed riding experience.",
+    "address": {
+      "street": "9 Memory Lane",
+      "city": "Greenwich",
+      "state": "CT",
+      "zip": "06831",
+      "lat": 41.0498,
+      "lng": -73.6712
+    },
+    "phone": "(917) 520-0800",
+    "website": "https://www.memorylanefarmct.com",
+    "email": "",
+    "disciplines": ["trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["memory-lane-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "id": "9c4df9a8-f010-4097-89c1-644da8f39b0f",
+    "ownerId": "system",
+    "name": "Wellington Equestrian Center Inc",
+    "slug": "wellington-equestrian-center",
+    "description": "State of the art equestrian center in Wellington, FL with complete infrastructure and high technology for horses, riders, trainers, and grooms. Built in 2017, the facility features 60 modern 12x12 stalls, three arena types including insulated covered, sand outdoor, and turf outdoor arenas, an oval walker, Theraplate, Aquatrainer, hacking field, and wash facilities. Two accommodation houses (1,144 sq ft each, sleeping up to 16 people) are also available. Located steps from the Winter Equestrian Festival and Global Dressage Festival.",
+    "address": {
+      "street": "5219 130th Ave S",
+      "city": "Wellington",
+      "state": "FL",
+      "zip": "33449",
+      "lat": 26.604832,
+      "lng": -80.25494
+    },
+    "phone": "(561) 657-8700",
+    "website": "https://wellingtonequestriancenter.us/",
+    "email": "office@wellingtonequestriancenter.us",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 60,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["wellington-equestrian-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "5e8b87d3-6e4f-4db1-8adc-b640bc68295f",
+    "ownerId": "system",
+    "name": "Casperey Stables",
+    "slug": "casperey-stables",
+    "description": "Operating since 1982, Casperey Stables emphasizes quality horse boarding and excellent care with customizable boarding options designed around the safety, care, and comfort of the horses. Located just 10 minutes from WEF, the facility offers 12x12 stalls with rubber mats or wooden floors, 2 lighted irrigated rings, round pen, turnouts, hot/cold wash racks, trails on property, ceiling fans, auto waterers, and auto fly spray. Private tack rooms available.",
+    "address": {
+      "street": "2330 D Road",
+      "city": "Loxahatchee",
+      "state": "FL",
+      "zip": "33470",
+      "lat": 26.711218,
+      "lng": -80.2713
+    },
+    "phone": "(561) 792-4990",
+    "website": "https://www.caspereystables.com/",
+    "email": "info@caspereystables.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "partial"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 450,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["casperey-stables.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "ee29261b-c873-4024-9304-7bcf6ed13b5a",
+    "ownerId": "system",
+    "name": "IDA Farm",
+    "slug": "ida-farm",
+    "description": "Located in Wellington, Florida — the Equestrian Capital of the World — IDA Farm provides professional equestrian training and boarding in a relaxed yet professional atmosphere. The 22.5-acre facility welcomes riders of all levels in jumping and dressage disciplines. It features 130 horse stalls across 6 barns, 36 paddocks, an all-weather outdoor regulation dressage arena with mirrors, a 100x200 all-weather jumping arena, two covered arenas, a 130x250 multi-purpose outdoor arena, 3 round pens, an exercise track with training hill, equine massage therapy services, and laundry facilities.",
+    "address": {
+      "street": "361 Cindy Drive",
+      "city": "Wellington",
+      "state": "FL",
+      "zip": "33414",
+      "lat": 26.651,
+      "lng": -80.27
+    },
+    "phone": "(724) 689-9088",
+    "website": "https://idafarm.com/",
+    "email": "harrylknopp@me.com",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 130,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Lauren Knopp",
+        "bio": "FEI Dressage Trainer specializing in Young Riders programs.",
+        "specialties": ["dressage"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["ida-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "538baf17-2859-4e93-b312-9ccf5547e9e9",
+    "ownerId": "system",
+    "name": "Diamante Farms Dressage",
+    "slug": "diamante-farms-dressage",
+    "description": "Nestled in the heart of Wellington, Florida's equestrian capital, Diamante Farms is a newly designed, state-of-the-art dressage facility spanning 20 acres. Founded by owner Terri Kane, the facility emphasizes equine excellence and serves competitive Grand Prix riders and amateur enthusiasts alike. World-class arenas with professional footing set the stage for top-level dressage training.",
+    "address": {
+      "street": "",
+      "city": "Wellington",
+      "state": "FL",
+      "zip": "33414",
+      "lat": 26.638,
+      "lng": -80.274
+    },
+    "phone": "",
+    "website": "https://www.diamantefarms.com/",
+    "email": "",
+    "disciplines": ["dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Terri Kane",
+        "bio": "Owner and visionary leader of Diamante Farms with a focus on dressage excellence.",
+        "specialties": ["dressage"]
+      },
+      {
+        "name": "Devon Kane",
+        "bio": "Dressage trainer at Diamante Farms.",
+        "specialties": ["dressage"]
+      },
+      {
+        "name": "Kevin Kohmann",
+        "bio": "International dressage competitor and trainer at Diamante Farms.",
+        "specialties": ["dressage"]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["diamante-farms-dressage.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "bfb9f7d8-798d-4670-8595-fe6adad4a7d3",
+    "ownerId": "system",
+    "name": "Top Gallant Farms",
+    "slug": "top-gallant-farms",
+    "description": "A private, peaceful, hurricane-safe barn just 15 minutes from WEF offering dry, partial, and full care boarding for the 2025-26 season or annual. The facility features 7 fully matted 12x14 stalls with 2 fans each, a 280x85 arena with Performance Footing, dressage letters and jumps, 3 permanent paddocks, 3 wash racks with RO water, a viewing station, RV hook-up (60 Amp), Wi-Fi, and security cameras.",
+    "address": {
+      "street": "10782 58th Rd S",
+      "city": "Wellington",
+      "state": "FL",
+      "zip": "33449",
+      "lat": 26.604,
+      "lng": -80.258
+    },
+    "phone": "(561) 455-6342",
+    "website": "https://topgallantfarms.com/",
+    "email": "TopGallantFarms@gmail.com",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "partial", "self-care"],
+      "stallCount": 7,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["top-gallant-farms.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "9df80f50-7162-433d-9da9-2523fecc0708",
+    "ownerId": "system",
+    "name": "Poinciana Farm",
+    "slug": "poinciana-farm",
+    "description": "A private dressage training center located on C Road in Loxahatchee Groves, this 13-acre horse park sets a new standard in dressage horse boarding. Horses' health and happiness, facility care, and maintaining a pleasant environment for equine and human clients are the priorities. The facility features 60 stalls (12x12), a regulation-sized covered arena, a double-wide outdoor arena with all-weather footing, a walking trail around a lake, a covered 8-horse walker with fans, open and covered round pens, grass paddocks, a climate-controlled vet room, and farrier workspace. All client trainers welcome. Dogs allowed with a designated dog park.",
+    "address": {
+      "street": "2731 C Road",
+      "city": "Loxahatchee Groves",
+      "state": "FL",
+      "zip": "33470",
+      "lat": 26.673,
+      "lng": -80.285
+    },
+    "phone": "",
+    "website": "https://www.poincianafarm.com/",
+    "email": "info@poincianafarm.com",
+    "disciplines": ["dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 60,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["poinciana-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "ac57a724-7821-4ac7-b5b0-ad63cc6c5fc4",
+    "ownerId": "system",
+    "name": "Invictus Farms FL",
+    "slug": "invictus-farms-fl",
+    "description": "Invictus Farm is a private equestrian facility located in a gated equestrian community just 15 minutes from the Winter Equestrian Festival (WEF), Global Dressage Facility, and International Polo Club. The 5-acre farm offers boarding, training, and lessons in dressage and hunter/jumper disciplines. Facilities include 2 barns with 10 stalls, a regulation-size irrigated dressage arena with mirrors and full set of jumps, a full-size round pen, private canal trails for hacking, air-conditioned tack rooms and feed rooms, fly control, and trailer parking. Beginners to advanced riders welcome; children ages 4 and up accepted.",
+    "address": {
+      "street": "",
+      "city": "Loxahatchee",
+      "state": "FL",
+      "zip": "33470",
+      "lat": 26.693,
+      "lng": -80.279
+    },
+    "phone": "(857) 400-4030",
+    "website": "https://invictusfarmsfl.com/",
+    "email": "InvictusFarmFL@hotmail.com",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "partial", "self-care"],
+      "stallCount": 10,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["invictus-farms-fl.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "ebafe8d2-a526-411d-9dfa-34427c3de3a3",
+    "ownerId": "system",
+    "name": "Palm Beach Equine Sports Complex",
+    "slug": "palm-beach-equine-sports-complex",
+    "description": "Wellington's Premier Sport Horse Destination on 47 acres with large stalls and 6 arenas, located strides from WEF and AGDF. The facility is committed to providing the perfect conditions and atmosphere that help riders reach their equestrian goals. Features include 3 hunter/jumper rings (one double-sized), 3 dressage rings (one covered with mirrors), a 3/4-mile private exercise track, a 17-acre lake, groomed bridle paths, dedicated turn-out paddocks, on-site laundry facilities, a private lounge/club atmosphere, on-site staff apartments, and a manure composting system.",
+    "address": {
+      "street": "13070 Pierson Rd",
+      "city": "Wellington",
+      "state": "FL",
+      "zip": "33414",
+      "lat": 26.651,
+      "lng": -80.261
+    },
+    "phone": "(561) 635-2661",
+    "website": "https://palmbeachequinesportscomplex.com/",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["palm-beach-equine-sports-complex.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "25a97e7b-ef9f-455a-a350-76b8d34b16ea",
+    "ownerId": "system",
+    "name": "Raven Ridge Farm",
+    "slug": "raven-ridge-farm",
+    "description": "Raven Ridge Farm is an equestrian facility dedicated to providing a safe, high-end space for horse boarding, care, and training. The farm specializes in quality show hunters, jumpers, and equitation horses, preparing riders to successfully compete in national horse shows from Short Stirrup to Grand Prix. The facility offers full-service boarding and training programs with two shared rings, shared round pen, and paddock use. Located in the Wellington/Loxahatchee Groves area.",
+    "address": {
+      "street": "13101 Southern Blvd",
+      "city": "Loxahatchee",
+      "state": "FL",
+      "zip": "33470",
+      "lat": 26.664,
+      "lng": -80.283
+    },
+    "phone": "",
+    "website": "https://www.ravenridgefarm.com/",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 900,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["raven-ridge-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "f13b16d1-a2a7-4ccb-8d00-e369e92a775f",
+    "ownerId": "system",
+    "name": "GNC Farm",
+    "slug": "gnc-farm",
+    "description": "GNC Farm was designed with both horses and riders in mind, featuring a barn with 30-foot ceilings for optimal airflow and natural light and spacious 16-foot-wide aisles. A Nordic-inspired luxury design with Saratoga European stall fronts. Provides safe, private, luxurious horse boarding, show coaching, show jumping classes, and horse sales in Wellington, Florida. The facility serves dressage and show jumping athletes with boarding, training, coaching, and horse development programs.",
+    "address": {
+      "street": "",
+      "city": "Wellington",
+      "state": "FL",
+      "zip": "33414",
+      "lat": 26.642,
+      "lng": -80.268
+    },
+    "phone": "",
+    "website": "https://gnc-farm.com/",
+    "email": "",
+    "disciplines": ["dressage", "hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["gnc-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  }
+]

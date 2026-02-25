@@ -1,0 +1,353 @@
+[
+  {
+    "id": "739eb9c6-afb8-4a40-a006-799fac02d8b9",
+    "ownerId": "system",
+    "name": "Bella Cavalli Farms & Vineyard",
+    "slug": "bella-cavalli-farms",
+    "description": "A 50-acre French Country-style equestrian estate in the Santa Ynez Valley, just west of Solvang. Bella Cavalli offers full boarding, pasturing, and a renowned lay-up, rehabilitation, and reconditioning center for horses recovering from demanding activities. The training facility specializes in reining, dressage, jumping, and English disciplines, with a half-mile conditioning track, irrigated pastures, and large comfortable stalls alongside an on-site vineyard.",
+    "address": {
+      "street": "959 E Hwy 246",
+      "city": "Solvang",
+      "state": "CA",
+      "zip": "93463",
+      "lat": 34.60113,
+      "lng": -120.16401
+    },
+    "phone": "(805) 688-7108",
+    "website": "https://bellacavallifarms.com",
+    "email": "",
+    "disciplines": ["dressage", "hunter jumper", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["bella-cavalli-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "de2272f6-4e49-492a-a1fc-2bed390b46f5",
+    "ownerId": "system",
+    "name": "Happy N Ranch",
+    "slug": "happy-n-ranch",
+    "description": "Located in the Santa Ynez Valley between Buellton and Solvang, Happy N Ranch is a retirement, rehabilitation, and pasture care facility established over 33 years ago. Owner Lisa Novatt is a Licensed and Registered Veterinary Technician, bringing professional equine health expertise to every horse in her care. The ranch features scenic grounds with heritage oak trees and specializes in senior horses and those needing a peaceful recovery environment.",
+    "address": {
+      "street": "500 US-101",
+      "city": "Buellton",
+      "state": "CA",
+      "zip": "93427",
+      "lat": 34.589016,
+      "lng": -120.16275
+    },
+    "phone": "(805) 886-9066",
+    "website": "https://happynranch.com",
+    "email": "lisa@happynranch.com",
+    "disciplines": ["trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["pasture"],
+      "stallCount": 0,
+      "turnout": "pasture"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Lisa Novatt", "specialties": ["rehabilitation"] }
+    ],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["happy-n-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "ee02a045-923d-4293-80c6-2d7d521d6f8a",
+    "ownerId": "system",
+    "name": "California Horse Center",
+    "slug": "california-horse-center",
+    "description": "Situated at the historic Flag Is Up Farms in Solvang, California Horse Center is a premier boarding and training facility rooted in Monty Roberts' natural horsemanship philosophy. The state-of-the-art 90' x 275' covered arena, EuroXciser, mountain trail course, bridle paths, and expansive pastures create an enriching environment for horses. Customized feeding programs, 24/7 on-site staff, and walkout stalls support the holistic well-being of every horse.",
+    "address": {
+      "street": "901 E Hwy 246",
+      "city": "Solvang",
+      "state": "CA",
+      "zip": "93463",
+      "lat": 34.60685,
+      "lng": -120.16486
+    },
+    "phone": "(805) 688-6288",
+    "website": "https://californiahorsecenter.com",
+    "email": "info@californiahorsecenter.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["california-horse-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "bfb7e660-1dab-4b42-89ef-09e93d958ecc",
+    "ownerId": "system",
+    "name": "Black Mountain Sport Horses",
+    "slug": "black-mountain-sport-horses",
+    "description": "Black Mountain Sport Horses is a dedicated hunter-jumper training facility in Santa Barbara specializing in developing riders and horses from first lessons to national-level Grand Prix competition. The program emphasizes world-class horsemanship and produces finished horses for the highest levels of the sport. With experienced head instructors and a structured competition-focused curriculum, it serves ambitious junior and adult competitors throughout the Santa Barbara region.",
+    "address": {
+      "street": "5300 Shoreline Drive",
+      "city": "Santa Barbara",
+      "state": "CA",
+      "zip": "93111",
+      "lat": 34.598293,
+      "lng": -120.16176
+    },
+    "phone": "(805) 477-8508",
+    "website": "https://blackmountainsporthorses.com",
+    "email": "blackmountainsporthorses@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["black-mountain-sport-horses.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "2b1c5b63-9679-4c99-8c81-84edb9aac681",
+    "ownerId": "system",
+    "name": "Westerly Stud Farm & Equestrian Center",
+    "slug": "westerly-stud-farm",
+    "description": "A historic 250-acre property in the heart of the Santa Ynez Valley offering premier boarding, training, rehabilitation, lay-up, young horse programs, and retirement services. Westerly Stud boasts a 60-foot covered round pen, large arena with premium positrac footing, EuroXciser, hot and cold wash rack, dry and irrigated turnouts, lush green pastures, and miles of manicured trails. Located just 10 minutes from a major equine veterinary hospital, it provides exceptional care in a quiet, private setting.",
+    "address": {
+      "street": "1550 Alisos Rd",
+      "city": "Santa Ynez",
+      "state": "CA",
+      "zip": "93460",
+      "lat": 34.6135,
+      "lng": -120.0942
+    },
+    "phone": "(209) 761-2982",
+    "website": "https://westerlystud.com",
+    "email": "hello@westerlystud.com",
+    "disciplines": ["dressage", "hunter jumper", "western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["westerly-stud-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "5112c3f7-bc72-4ef9-a787-5307b5b1fabf",
+    "ownerId": "system",
+    "name": "Santa Barbara Stables",
+    "slug": "santa-barbara-stables",
+    "description": "Nestled on Hilltop Ranch, a breathtaking 350-acre avocado estate in Carpinteria with panoramic Pacific Ocean views, Santa Barbara Stables is a premier West Coast training and boarding facility. Trainer Rebecca Atwater offers customized programs for hunters, jumpers, and dressage riders in three dedicated rings with quality footing. Horses enjoy daily grass turnouts, wash racks with hot water, a European walker, polo field access, and miles of private trails—a rare find in Southern California.",
+    "address": {
+      "street": "1 Hilltop Ranch Rd",
+      "city": "Carpinteria",
+      "state": "CA",
+      "zip": "93013",
+      "lat": 34.3908,
+      "lng": -119.5237
+    },
+    "phone": "(805) 886-9825",
+    "website": "https://www.santabarbarastables.com",
+    "email": "RebeccaAtwater@gmail.com",
+    "disciplines": ["dressage", "hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "pasture"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Rebecca Atwater", "specialties": ["hunter jumper", "dressage"] }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["santa-barbara-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "0a46827c-ea6d-488c-8e72-cc5d7b5bee00",
+    "ownerId": "system",
+    "name": "Friend's Stable & Orchard",
+    "slug": "friends-stable-and-orchard",
+    "description": "A small, private horse boarding facility tucked within one of Ojai's historic citrus orchards, Friend's Stable & Orchard offers a peaceful and secluded environment for show horses, trail horses, arena companions, and retired equines alike. The facility provides top-notch personalized care with boarding options tailored to a variety of needs, set against the scenic backdrop of Ojai's orchards and hills.",
+    "address": {
+      "street": "3468 Grand Avenue",
+      "city": "Ojai",
+      "state": "CA",
+      "zip": "93023",
+      "lat": 34.4676,
+      "lng": -119.2426
+    },
+    "phone": "",
+    "website": "https://www.friendsstableandorchard.com",
+    "email": "",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "partial", "self-care"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["friends-stable-and-orchard.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "944d0d9c-945f-4d43-9562-133ef41061fa",
+    "ownerId": "system",
+    "name": "Canty Rune Training Stables",
+    "slug": "canty-rune-training-stables",
+    "description": "Located in Oak View alongside San Antonio Creek with stunning mountain views, Canty Rune Training Stables is run by the dynamic duo of Laurie May Canty and Sarah Rune. Just 15 minutes from Ventura and 10 minutes from Ojai, this boarding and training facility offers instruction in eventing, jumping, dressage, and all-around horsemanship for adults and youth. Laurie holds a British Horse Society Instructor Certificate from 1970 and has nearly five decades of experience, while Sarah brings a passion for helping riders of all levels achieve their goals.",
+    "address": {
+      "street": "10542 Creek Road",
+      "city": "Oak View",
+      "state": "CA",
+      "zip": "93023",
+      "lat": 34.4018,
+      "lng": -119.3096
+    },
+    "phone": "(805) 203-3064",
+    "website": "https://cantyrune.com",
+    "email": "",
+    "disciplines": ["dressage", "hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Laurie May Canty", "specialties": ["eventing", "dressage", "hunter jumper"] },
+      { "name": "Sarah Rune", "specialties": ["eventing", "dressage"] }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["canty-rune-training-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

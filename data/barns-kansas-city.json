@@ -1,0 +1,438 @@
+[
+  {
+    "id": "fe2845b3-d13c-4058-8dd6-484cbbc8f839",
+    "ownerId": "system",
+    "name": "Shamrock Grove Arabians",
+    "slug": "shamrock-grove-arabians",
+    "description": "Full-service, all-inclusive horse boarding facility in Lee's Summit, MO featuring an 80'x160' indoor arena with halogen lighting, seven large turnout lots with heated water tanks, climate-controlled tack room, and a welcoming environment for riders of all ages and disciplines.",
+    "address": {
+      "street": "33400 E Outer Belt Rd",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64002",
+      "lat": 38.8537,
+      "lng": -94.4140
+    },
+    "phone": "(913) 530-7811",
+    "website": "https://shamrockgrovearabians.com",
+    "email": "shamrockgrovearabians@gmail.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "pasture", "self-care", "partial"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": ["Arabian"],
+    "photos": ["shamrock-grove-arabians.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "d599540a-c7ba-4ef3-b615-25a9166ddff5",
+    "ownerId": "system",
+    "name": "Sunset Trails Stables",
+    "slug": "sunset-trails-stables",
+    "description": "Family-focused horse boarding and lesson facility in Lee's Summit, MO situated on 26 acres adjacent to 2,700-acre James A. Reed Memorial Wildlife Area with miles of riding trails. Features two barns, a 120'x60' indoor arena, two outdoor arenas, wash rack, and a fun community atmosphere.",
+    "address": {
+      "street": "2100 SE Ranson Rd",
+      "city": "Lee's Summit",
+      "state": "MO",
+      "zip": "64082",
+      "lat": 38.8802,
+      "lng": -94.3411
+    },
+    "phone": "(816) 554-7699",
+    "website": "https://www.sunsettrailsstables.com",
+    "email": "sunsettrailsstables@gmail.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 300,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["sunset-trails-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "c8ff7a9e-ddde-4867-bc9a-c4ce67e959c2",
+    "ownerId": "system",
+    "name": "Black Diamond Ranch",
+    "slug": "black-diamond-ranch-kc",
+    "description": "Family-owned equestrian center on 25 acres in north Kansas City, MO offering full-service and self-care pasture boarding. The facility features stalls, paddocks, a full-sized outdoor arena, round pen, wash bays, tack room, and large pastures with run-in sheds overseen by a rancher with 50+ years of experience.",
+    "address": {
+      "street": "6900 NE 108th St",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64156",
+      "lat": 39.2888,
+      "lng": -94.5014
+    },
+    "phone": "(816) 536-0472",
+    "website": "https://www.blackdiamondranchkc.com",
+    "email": "info.blackdiamondranch@gmail.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "self-care", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["black-diamond-ranch-kc.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "60929791-e3de-456b-a805-d300e8fea8b2",
+    "ownerId": "system",
+    "name": "Black Oak Ranch",
+    "slug": "black-oak-ranch",
+    "description": "Premier 17-acre horse boarding facility and event venue in Lone Jack, MO just outside Lee's Summit, owned by barrel horse professional Charles Wilbers. Features 15 oversized insulated stalls in a show barn, a 100'x150' indoor arena, a 125'x300' outdoor arena with overhead lighting, two tack rooms, wash bay, and three turnout paddocks.",
+    "address": {
+      "street": "204 E Casey Rd",
+      "city": "Lone Jack",
+      "state": "MO",
+      "zip": "64070",
+      "lat": 38.8566,
+      "lng": -94.1581
+    },
+    "phone": "",
+    "website": "https://visitblackoak.com",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 15,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 350,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["black-oak-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "583f6603-985a-4be9-95eb-57632fb3fc67",
+    "ownerId": "system",
+    "name": "Woodson Hill Equestrian Center",
+    "slug": "woodson-hill-equestrian",
+    "description": "Full-service boarding facility on ten acres in suburban northwest Kansas City, MO offering standard stall board with daily cleaning, grain, hay twice daily, heated water in winter, automatic fly spray, and daily turnout. Also provides riding instruction, horse training, summer camps, and clinics.",
+    "address": {
+      "street": "7990 NW Mace Rd",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64152",
+      "lat": 39.2383,
+      "lng": -94.6761
+    },
+    "phone": "(816) 520-4908",
+    "website": "https://www.woodsonhill.org",
+    "email": "woodsonhillec@gmail.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "group"
+    },
+    "pricing": {
+      "boardingFrom": 625,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["woodson-hill-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "a909ad82-bfa8-4fa0-a0c0-2e74c67592dd",
+    "ownerId": "system",
+    "name": "SaddleCreek Stables & Vineyard",
+    "slug": "saddle-creek-stables",
+    "description": "Private country club equestrian facility in southeast Kansas City, MO offering boarding, trail rides, riding lessons, vineyard, and venue rental. Boarding options include full-care barn stall, self-care stall, and paddock with individual or group turnout. Riding lessons available for ages 5 to adult.",
+    "address": {
+      "street": "5915 S Norfleet Rd",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64133",
+      "lat": 39.0040,
+      "lng": -94.4250
+    },
+    "phone": "",
+    "website": "https://www.saddlecreekhorses.net",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full", "self-care"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 475,
+      "lessonsFrom": 70,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["saddle-creek-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "25e4c507-3b7a-4bcd-861b-707b721e62ee",
+    "ownerId": "system",
+    "name": "Liberty Farm Equestrian Center",
+    "slug": "liberty-farm-equestrian",
+    "description": "A horse lover's paradise in Liberty, MO specializing in American Saddlebred show horses. Full-care equestrian center with 44 stalls, indoor and outdoor arenas, paddock and pasture, 4 grooming stalls, two wash stalls, and tack rooms. Boarding, training, lessons, and horse sales available for all ages and experience levels.",
+    "address": {
+      "street": "2015 Hillview Rd",
+      "city": "Liberty",
+      "state": "MO",
+      "zip": "64068",
+      "lat": 39.2267,
+      "lng": -94.3876
+    },
+    "phone": "(816) 510-2704",
+    "website": "https://lfecstable.com",
+    "email": "",
+    "disciplines": ["western", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 44,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 450,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Jeff Tryon", "bio": "World champion American Saddlebred trainer who has started approximately 14 World Champion show horses." }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": ["American Saddlebred"],
+    "photos": ["liberty-farm-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "cd99e52f-f5b9-49c5-bc4c-06790a3a9339",
+    "ownerId": "system",
+    "name": "Misty River Equestrian Center",
+    "slug": "misty-river-equestrian",
+    "description": "Well-planned 55-acre equestrian facility in eastern Independence, MO nestled in a rich valley at I-70 and Blue River Parkway. Features 50 stalls, two indoor arenas, a 250'x125' outdoor arena, trails, round pen, warm water wash bay, and automatic fly spray system in a safe, family-oriented environment.",
+    "address": {
+      "street": "21400 Eureka Rd",
+      "city": "Independence",
+      "state": "MO",
+      "zip": "64057",
+      "lat": 39.0618,
+      "lng": -94.3275
+    },
+    "phone": "(816) 220-2332",
+    "website": "http://mistyrivereq.com",
+    "email": "cindystrahm@hotmail.com",
+    "disciplines": ["western", "trail", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 50,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["misty-river-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "1fc49e67-3210-4ccd-ac24-2ebde12df65b",
+    "ownerId": "system",
+    "name": "Landers Dressage",
+    "slug": "landers-dressage",
+    "description": "Small private dressage facility in Liberty, MO owned by Linda Landers, who has been active in the Kansas City dressage community for over 40 years. Provides ongoing educational opportunities for horses and riders, clinics, events, and sales horses with a focus on classical dressage.",
+    "address": {
+      "street": "2020 County Road B",
+      "city": "Liberty",
+      "state": "MO",
+      "zip": "64068",
+      "lat": 39.2500,
+      "lng": -94.3990
+    },
+    "phone": "(913) 568-4351",
+    "website": "http://www.landersdressage.com",
+    "email": "",
+    "disciplines": ["dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Linda Landers", "bio": "Active in the Kansas City dressage community for over 40 years, specializing in classical dressage education for horses and riders." }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["landers-dressage.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "009efb7b-0867-4120-9d9d-e2242727d094",
+    "ownerId": "system",
+    "name": "Wood's Edge Equestrian Center",
+    "slug": "woodsedge-equestrian",
+    "description": "Multi-functional equestrian facility on 40 scenic acres in south Johnson County, Olathe, KS offering hunter/jumper lessons and boarding. Features 22 stalls, an 80'x180' indoor arena, a 100'x200' outdoor arena, scenic wooded trail, individual turnout paddocks, and a temperature-controlled lounge. Also home to the REACH therapeutic riding program.",
+    "address": {
+      "street": "15051 W 191st St",
+      "city": "Olathe",
+      "state": "KS",
+      "zip": "66062",
+      "lat": 38.8197,
+      "lng": -94.9041
+    },
+    "phone": "(913) 530-1470",
+    "website": "https://www.woodsedgeequestrian.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 22,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Katy Harcsar", "bio": "Owner of Wood's Edge Equestrian Center, specializing in hunter/jumper instruction for riders ages 5 and up." }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["woodsedge-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

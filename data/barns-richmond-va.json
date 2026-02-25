@@ -1,0 +1,438 @@
+[
+  {
+    "id": "330ba0c2-086f-48bb-9c15-410761a1f053",
+    "ownerId": "system",
+    "name": "Pine Crest Farm",
+    "slug": "pine-crest-farm",
+    "description": "Pine Crest Farm is a premier horse boarding and riding school established in 2014, situated on 40 acres within the Deep Run Hunt Club property in Manakin-Sabot. The farm features 25 stalls, multiple tack rooms, an office, and a lighted all-weather outdoor riding arena along with grass hacking fields.",
+    "address": {
+      "street": "1542 Deep Run Hunt Club Rd",
+      "city": "Manakin-Sabot",
+      "state": "VA",
+      "zip": "23103",
+      "lat": 37.6015854,
+      "lng": -77.7150868
+    },
+    "phone": "",
+    "website": "https://www.pinecrestfarmllc.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 25,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["pine-crest-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "f1d37f3e-55c6-47e7-925e-0f515dd4d3c6",
+    "ownerId": "system",
+    "name": "James River Equestrian Center",
+    "slug": "james-river-equestrian",
+    "description": "James River Equestrian Center is a full-care facility located on the historic Keswick Plantation in Midlothian, offering English horseback riding lessons, boarding, and training. The 22-stall facility averages around 35 horses and specializes in hunter/jumper and English riding disciplines.",
+    "address": {
+      "street": "414 Huguenot Trail",
+      "city": "Midlothian",
+      "state": "VA",
+      "zip": "23113",
+      "lat": 37.5062673,
+      "lng": -77.6492680
+    },
+    "phone": "(804) 594-0760",
+    "website": "https://www.jamesriverequestrian.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 22,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["james-river-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "642c11c7-bc41-4c9f-9c70-c0d146907d8b",
+    "ownerId": "system",
+    "name": "Blue Ridge Stables",
+    "slug": "blue-ridge-stables",
+    "description": "Blue Ridge Stables in Ashland, Virginia emphasizes real horsemanship and welcomes all disciplines. The facility features a new indoor arena and outdoor arena, offering horse boarding, day care, riding lessons, clinics, coaching, and horse shows. All trainers, farriers, and vets are welcome on property.",
+    "address": {
+      "street": "11483 Cedar Ln",
+      "city": "Ashland",
+      "state": "VA",
+      "zip": "23005",
+      "lat": 37.7594012,
+      "lng": -77.4806603
+    },
+    "phone": "(804) 678-8585",
+    "website": "http://www.blueridgestables.com",
+    "email": "helena.samuel@gmail.com",
+    "disciplines": ["hunter jumper", "dressage", "western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["blue-ridge-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "5ff1c257-f87e-4223-afbb-9d0d337994ef",
+    "ownerId": "system",
+    "name": "Manakin-Sabot Equestrian Center",
+    "slug": "manakin-sabot-equestrian-center",
+    "description": "Manakin-Sabot Equestrian Center is a full-service equestrian facility and nonprofit horse retirement sanctuary located in Goochland County. Offering lessons for ages 4 to 74 in hunt seat equitation and basic dressage, the center features indoor and outdoor riding rings, grooming stalls, and a wash stall with hot and cold water.",
+    "address": {
+      "street": "1541 Manakin Road",
+      "city": "Manakin-Sabot",
+      "state": "VA",
+      "zip": "23103",
+      "lat": 37.6602682,
+      "lng": -77.7134422
+    },
+    "phone": "(804) 337-7190",
+    "website": "https://www.manakinequine.org",
+    "email": "info@manakinequine.org",
+    "disciplines": ["hunter jumper", "dressage"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["manakin-sabot-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "dfb2bd72-3ef4-4be5-961c-2a9875044d28",
+    "ownerId": "system",
+    "name": "Diamond Ridge Stables",
+    "slug": "diamond-ridge-stables",
+    "description": "Diamond Ridge Stables is a premium equestrian facility in Chesterfield, Virginia specializing in hunter, jumper, and quality sale horses. The 12-stall barn features rubber-matted stalls, 9 pastures with run-in shelters, a 75-foot round pen, wash stall, lighted outdoor ring, and trail access to Pocahontas State Park.",
+    "address": {
+      "street": "12400 Chesdin Landing Dr",
+      "city": "Chesterfield",
+      "state": "VA",
+      "zip": "23838",
+      "lat": 37.2818481,
+      "lng": -77.6217853
+    },
+    "phone": "(214) 505-6307",
+    "website": "https://www.diamondridgestablesva.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["training"],
+      "stallCount": 12,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 1200,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["diamond-ridge-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "400518be-edb4-448e-a89b-cc8e4d0a0883",
+    "ownerId": "system",
+    "name": "Oakdale Equestrian Center",
+    "slug": "oakdale-equestrian",
+    "description": "Oakdale Equestrian Center is Powhatan's premier full-care boarding facility offering miles of trails, numerous arenas, a full cross-country course, an indoor ring, outdoor dressage ring with rubber footing, a round pen, and 130 acres of trails. They host horse trials and welcome dressage clinics, cross-country jumping, and all disciplines.",
+    "address": {
+      "street": "5719 Cartersville Road",
+      "city": "Powhatan",
+      "state": "VA",
+      "zip": "23139",
+      "lat": 37.6231790,
+      "lng": -78.0523789
+    },
+    "phone": "(804) 314-5696",
+    "website": "https://www.oakdaleequestrian.com",
+    "email": "dadcock186@aol.com",
+    "disciplines": ["dressage", "eventing", "hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 560,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["oakdale-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "b78937d4-4777-43c3-a741-36e1e1a409ba",
+    "ownerId": "system",
+    "name": "South Meadow Stables",
+    "slug": "south-meadow-stables",
+    "description": "South Meadow Stables is a small family-owned horse boarding facility in Ashland, Virginia with over 25 years of horse care experience. Set on 14 acres with 3 barns (6 total 12x12 stalls), a lit outdoor arena with all-weather footing, and 7 acres of pasture, they welcome all disciplines including dressage, English, western, and barrel racing.",
+    "address": {
+      "street": "14060 Horseshoe Bridge Rd",
+      "city": "Ashland",
+      "state": "VA",
+      "zip": "23005",
+      "lat": 37.7594012,
+      "lng": -77.4806603
+    },
+    "phone": "(804) 337-1072",
+    "website": "https://southmeadowstables.weebly.com",
+    "email": "southmeadowstables@gmail.com",
+    "disciplines": ["dressage", "hunter jumper", "western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 6,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["south-meadow-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "c9a13a52-3faf-48ba-8f13-38ccae52e02a",
+    "ownerId": "system",
+    "name": "Redbird Equestrian",
+    "slug": "redbird-equestrian",
+    "description": "Redbird Equestrian is an inclusive equestrian community in Chesterfield County offering training board, riding lessons, youth camps, trail rides, and horse sales. Situated at Keystone Acres with access to 800+ acres of trails, the facility features covered and open riding rings, show rings, and a qualified team of instructors led by Ingrid Patel.",
+    "address": {
+      "street": "12830 River Road",
+      "city": "Henrico",
+      "state": "VA",
+      "zip": "23238",
+      "lat": 37.5875628,
+      "lng": -77.6171806
+    },
+    "phone": "(804) 855-4823",
+    "website": "https://redbirdriding.com",
+    "email": "",
+    "disciplines": ["dressage", "eventing", "western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["training"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Ingrid Patel", "certifications": ["USDF Third Level", "USEA Training Level"] }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["redbird-equestrian.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "4a5d77c0-a708-4ae5-837d-d0ef7bf8576c",
+    "ownerId": "system",
+    "name": "Brandywine Farm",
+    "slug": "brandywine-farm",
+    "description": "Brandywine Farm is a 75-acre equestrian facility in Chesterfield County owned by Ariel and Hunter Kinch, offering hunter/jumper and equitation lessons, pony rides, trail rides, and boarding. The farm features two lighted outdoor rings, an indoor arena, a cross-country course, and a 4-stall main barn with feed and tack rooms.",
+    "address": {
+      "street": "13705 Bundle Road",
+      "city": "Chesterfield",
+      "state": "VA",
+      "zip": "23838",
+      "lat": 37.3059618,
+      "lng": -77.6035858
+    },
+    "phone": "(804) 339-7884",
+    "website": "https://www.brandywinefarmva.com",
+    "email": "brandywinefarmva@gmail.com",
+    "disciplines": ["hunter jumper", "eventing", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 4,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Ariel Kinch", "certifications": [] }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["brandywine-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "afe5b3ad-9028-4ed5-9297-155fa6bb9fd2",
+    "ownerId": "system",
+    "name": "Hunters Ridge Equestrian Center",
+    "slug": "hunters-ridge-equestrian-center",
+    "description": "Hunters Ridge Equestrian Center is a family-friendly 20-acre facility in the heart of Powhatan, Virginia welcoming riders from all disciplines. The farm features 12+ stalls, multiple pastures with run-in sheds, a tack room, and an office. Internationally known instructors offer lessons to riders of all levels.",
+    "address": {
+      "street": "2418 Mill Road",
+      "city": "Powhatan",
+      "state": "VA",
+      "zip": "23139",
+      "lat": 37.5539560,
+      "lng": -77.8189027
+    },
+    "phone": "(804) 393-1459",
+    "website": "http://www.huntersridgeequestriancenter.com",
+    "email": "hreckpitt@hotmail.com",
+    "disciplines": ["hunter jumper", "dressage", "western", "eventing", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 12,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      { "name": "Katherine Pitt", "certifications": [] }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["hunters-ridge-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

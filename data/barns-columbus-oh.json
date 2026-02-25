@@ -1,0 +1,303 @@
+[
+  {
+    "id": "26471dae-070b-45f3-896e-53cea82b1a1c",
+    "ownerId": "system",
+    "name": "Walnut Hill Stables",
+    "slug": "walnut-hill-stables",
+    "description": "Walnut Hill Stables is a family-owned equestrian facility in Marengo, Ohio, conveniently located just 2 miles off I-71 and 30 minutes from downtown Columbus. The facility offers boarding, riding lessons, training, sales, and summer camps. The program specializes in dressage, jumping, eventing, English pleasure, and western disciplines for all experience levels, and fields both a Hunt Seat and Dressage IEA team.",
+    "address": {
+      "street": "4405 County Road 15",
+      "city": "Marengo",
+      "state": "OH",
+      "zip": "43334",
+      "lat": 40.400894,
+      "lng": -82.810733
+    },
+    "phone": "(330) 347-9206",
+    "website": "https://www.walnuthillstables.com",
+    "email": "keri@walnuthillstables.com",
+    "disciplines": ["dressage", "hunter jumper", "western", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["walnut-hill-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "5032080d-da05-4007-bcd7-916a56c77122",
+    "ownerId": "system",
+    "name": "Lindsay Yinger Show Stables",
+    "slug": "lindsay-yinger-show-stables",
+    "description": "Lindsay Yinger Show Stables specializes in cultivating riders' careers from lead line through 'AA' shows, offering tailored hunter/jumper programs since 2006. Located in Croton, Ohio, the facility has produced regional, zone, and national champions, and has coached the Otterbein University equestrian team since 2010. Programs include lessons, summer camps, horse sales, show preparation, and comprehensive equine care guidance.",
+    "address": {
+      "street": "13733 Foundation Rd",
+      "city": "Croton",
+      "state": "OH",
+      "zip": "43013",
+      "lat": 40.238770,
+      "lng": -82.703429
+    },
+    "phone": "(614) 348-5915",
+    "website": "https://lindsayyingershowstables.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Lindsay Yinger"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["lindsay-yinger-show-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "53f9ae3d-f757-4376-87fc-ef0c590fa583",
+    "ownerId": "system",
+    "name": "TAG Farms",
+    "slug": "tag-farms",
+    "description": "TAG Farms is the premier equine facility in Central Ohio, located at 8363 Schleppi Road in Westerville, just 5 minutes from Highway 161 and convenient to New Albany, Gahanna, and Johnstown. The facility offers English and Western riding lessons for beginner through advanced students, horse boarding (waitlist basis), and hosts equestrian events. TAG Farms is situated in Northeast Franklin County between Westerville and New Albany.",
+    "address": {
+      "street": "8363 Schleppi Rd",
+      "city": "Westerville",
+      "state": "OH",
+      "zip": "43081",
+      "lat": 40.126972,
+      "lng": -82.826223
+    },
+    "phone": "(614) 565-0317",
+    "website": "https://www.tagfarms.org",
+    "email": "info@tag-farms.com",
+    "disciplines": ["hunter jumper", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["tag-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "5ddf5cb5-0c70-4602-a40a-4735782e68ab",
+    "ownerId": "system",
+    "name": "Colter Equestrian Center",
+    "slug": "colter-equestrian-center",
+    "description": "Colter Equestrian Center is a hunter/jumper barn located near Columbus, Ohio in Plain City. Under trainer Carrie McCurrach, Colter offers horseback riding lessons for all levels from beginner through advanced, as well as training and boarding. The facility specializes in hunter/jumper horses and provides a welcoming environment for riders looking to develop their skills in the hunter/jumper discipline.",
+    "address": {
+      "street": "9180 Ketch Road",
+      "city": "Plain City",
+      "state": "OH",
+      "zip": "43064",
+      "lat": 40.108739,
+      "lng": -83.187586
+    },
+    "phone": "(330) 212-6450",
+    "website": "https://www.colterequestrian.com",
+    "email": "support@colterequestrian.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Carrie McCurrach"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["colter-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "3a170341-5a1d-4a51-bb7f-86b379a79b0c",
+    "ownerId": "system",
+    "name": "Duzan Riding Academy",
+    "slug": "duzan-riding-academy",
+    "description": "Founded in 2009, Duzan Riding Academy is a USHJA Recognized Riding Academy on 23 acres in Ostrander, Ohio. The facility features a 200' x 90' insulated indoor arena, a 250' x 125' outdoor arena, quality constructed stalls, trails, and a jump field. Duzan offers comprehensive programs for all ages and skill levels, including hunter/jumper, huntseat equitation, dressage, and cross-country, as well as US Pony Club membership, schooling shows, and summer/winter camps.",
+    "address": {
+      "street": "14191 State Road",
+      "city": "Ostrander",
+      "state": "OH",
+      "zip": "43061",
+      "lat": 40.266172,
+      "lng": -83.212693
+    },
+    "phone": "(614) 271-2732",
+    "website": "https://duzanridingacademy.com",
+    "email": "info@duzanridingacademy.com",
+    "disciplines": ["dressage", "hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["duzan-riding-academy.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "8261ebd9-6a95-4392-b88d-11e01db91a53",
+    "ownerId": "system",
+    "name": "Wheeler Stables",
+    "slug": "wheeler-stables",
+    "description": "Wheeler Stables is an 18-acre horse farm in Westerville, Ohio offering a friendly, laid-back environment for horses and riders. The facility features 16 spacious 12x12 stalls, 5 large pastures, 3 dry lots, indoor and outdoor riding arenas, a large tack room, and a hot and cold wash rack. Full board includes daily stall mucking, grain and hay, deworming, and maximized turnout. English riding lessons are available for all levels.",
+    "address": {
+      "street": "5098 Miller-Paul Road",
+      "city": "Westerville",
+      "state": "OH",
+      "zip": "43082",
+      "lat": 40.126139,
+      "lng": -82.929529
+    },
+    "phone": "(614) 207-7878",
+    "website": "https://wheelerstables.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 16,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["wheeler-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "dc6acfe2-bd56-4748-9701-542aaa5dac9c",
+    "ownerId": "system",
+    "name": "Lunar Winds Stables",
+    "slug": "lunar-winds-stables",
+    "description": "Lunar Winds Stables is a family-run equestrian facility at 4890 Neff Road in Grove City, Ohio. The main barn offers 25 stalls with skylights and a wide aisle, plus a separate indoor barrel racing track with 30 additional stalls. The facility features a 145' x 160' outdoor arena, a 45' x 60' indoor arena, 6 paddocks, and 2 large pastures. Disciplines include western (with a barrel racing focus) and English jumping. Open daily 8am to 10pm.",
+    "address": {
+      "street": "4890 Neff Road",
+      "city": "Grove City",
+      "state": "OH",
+      "zip": "43123",
+      "lat": 39.881452,
+      "lng": -83.092964
+    },
+    "phone": "(614) 420-5352",
+    "website": "https://www.lunar-winds-stables.com",
+    "email": "lunarwindsstables@gmail.com",
+    "disciplines": ["western", "hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 55,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["lunar-winds-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

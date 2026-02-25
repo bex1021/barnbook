@@ -1,0 +1,432 @@
+[
+  {
+    "id": "8a5b6f61-1e65-49e0-9f5e-51d8e61cd6de",
+    "ownerId": "system",
+    "name": "Los Angeles Equestrian Center",
+    "slug": "los-angeles-equestrian-center",
+    "description": "The Los Angeles Equestrian Center is a premier 75-acre equestrian facility in Burbank with over 44 years of history. Home to 500 horses across 16 stable areas including the signature Equidome covered arena, the center hosts 30+ annual horse shows, offers boarding with twice-daily feedings, and provides direct access to over 50 miles of Griffith Park riding trails. Nineteen on-site trainers specialize in various disciplines and riding styles.",
+    "address": {
+      "street": "480 W Riverside Dr",
+      "city": "Burbank",
+      "state": "CA",
+      "zip": "91506",
+      "lat": 34.1561,
+      "lng": -118.3257
+    },
+    "phone": "(818) 840-9063",
+    "website": "https://thelaec.com",
+    "email": "info@thelaec.com",
+    "disciplines": ["hunter jumper", "dressage", "western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 500,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["los-angeles-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "1cc1ae67-bba3-49e9-92e3-9ac5dd91ef8e",
+    "ownerId": "system",
+    "name": "J. Bennett Farms",
+    "slug": "j-bennett-farms",
+    "description": "Founded in 1984, J. Bennett Farms is one of the largest stables at the Los Angeles Equestrian Center and the LA home of the American Saddlebred. The farm specializes in Saddle Seat and Western disciplines along with horse driving, and is a premier destination for Saddlebred enthusiasts. Horses are worked six days a week on individualized training schedules. All boarding fees are regulated by the LAEC.",
+    "address": {
+      "street": "480 W Riverside Dr, Barn A",
+      "city": "Burbank",
+      "state": "CA",
+      "zip": "91506",
+      "lat": 34.1561,
+      "lng": -118.3257
+    },
+    "phone": "(818) 232-1072",
+    "website": "https://www.jbennettfarms.com",
+    "email": "",
+    "disciplines": ["western"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["j-bennett-farms.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "e00d5ce1-2570-490c-bb74-b2b2982234f2",
+    "ownerId": "system",
+    "name": "The Paddock Riding Club",
+    "slug": "the-paddock-riding-club",
+    "description": "Established in 1987, The Paddock Riding Club is a family-owned premier equestrian center in Los Angeles, adjacent to Griffith Park and its 55 miles of horse trails. The facility features six fully lit riding arenas, a covered Eurociser, Vitafloor therapy plate, rubber-matted aisles, and 11 independent resident trainers covering a wide range of disciplines. Known as 'LA's most thoughtfully maintained equestrian center.'",
+    "address": {
+      "street": "3919 Rigali Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90039",
+      "lat": 34.1138,
+      "lng": -118.2625
+    },
+    "phone": "(323) 864-0497",
+    "website": "https://www.thepaddockridingclub.com",
+    "email": "contact@thepaddockridingclub.com",
+    "disciplines": ["dressage", "hunter jumper", "western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["the-paddock-riding-club.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "38fef210-987c-4786-9d5e-fd970b98e37a",
+    "ownerId": "system",
+    "name": "Courtship Ranch",
+    "slug": "courtship-ranch",
+    "description": "In continuous boarding operation since the 1970s, Courtship Ranch is a renowned Shadow Hills facility offering top-quality horse care at affordable prices. Situated backing up to the Angeles National Forest, the ranch provides direct access to over 800 miles of protected riding trails. Specializing in classical and western dressage, natural horsemanship, and working equitation, the ranch features 80+ stalls, three lighted arenas including a fully covered arena, two round pens, and nine turnouts.",
+    "address": {
+      "street": "11270 Dominica Ave",
+      "city": "Sylmar",
+      "state": "CA",
+      "zip": "91342",
+      "lat": 34.3161,
+      "lng": -118.4097
+    },
+    "phone": "(818) 899-4059",
+    "website": "https://courtshipranch.com",
+    "email": "",
+    "disciplines": ["dressage", "western", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 80,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Susann Regalmuto", "Dane Lawrence", "Jennifer Granger", "Claudia Roberts", "Felipe Ruiz"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["courtship-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "6ba76559-7be2-431b-96da-ab9069f2c7e6",
+    "ownerId": "system",
+    "name": "Farndale Stables",
+    "slug": "farndale-stables",
+    "description": "Farndale Stables is a full-service training barn located at the Los Angeles Equestrian Center in Burbank, specializing in hunters, jumpers, and equitation. With over 40 years of showing, training, and horse care expertise, trainer Mark Farndale brings international show ring experience to clients of all levels. The barn prepares horses and riders for competition at all levels and welcomes new clients looking to develop in the hunter-jumper discipline.",
+    "address": {
+      "street": "480 Riverside Dr, Barn B",
+      "city": "Burbank",
+      "state": "CA",
+      "zip": "91506",
+      "lat": 34.1561,
+      "lng": -118.3257
+    },
+    "phone": "(323) 216-0769",
+    "website": "https://www.markfarndalestables.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Mark Farndale"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["farndale-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "390bf770-eb3e-448b-84f8-16c613db8f5e",
+    "ownerId": "system",
+    "name": "Stoney Point Ranch",
+    "slug": "stoney-point-ranch",
+    "description": "Stoney Point Ranch is a full-service equestrian center in Chatsworth, nestled near the iconic Stoney Point rock formations and the Santa Susana Mountains. Owner Angel Rodriguez brings nearly 30 years of experience prioritizing horse safety and care. The facility offers Western and English riding lessons for all ages (5 and up), private and semi-private lessons, and boarding with twice-daily feeding and daily stall cleaning. Trails near Rocky Peak off Topanga Canyon are accessible from the property.",
+    "address": {
+      "street": "10861 Andora Ave",
+      "city": "Chatsworth",
+      "state": "CA",
+      "zip": "91311",
+      "lat": 34.2639,
+      "lng": -118.5997
+    },
+    "phone": "(818) 456-3232",
+    "website": "https://stoneypoint-ranch.com",
+    "email": "Stoneypointranch1018@gmail.com",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Angel Rodriguez"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["stoney-point-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "b0e91097-4aef-4990-8da1-287c8fdce6f2",
+    "ownerId": "system",
+    "name": "Mountain Meadows Stables",
+    "slug": "mountain-meadows-stables",
+    "description": "Mountain Meadows Stables is a family-oriented, full-service horse boarding facility set on over 20 acres of landscaped grounds two miles up a scenic canyon road in the west San Fernando Valley. Owned by Helen and Kim Schulte and operating since 1997, the facility offers both English and Western boarding and instruction. The stables feature a resident barn manager employed since 1999, social events throughout the year, and on-call veterinary services through Conejo Valley Equine.",
+    "address": {
+      "street": "12100 Browns Canyon Rd",
+      "city": "Chatsworth",
+      "state": "CA",
+      "zip": "91311",
+      "lat": 34.2733,
+      "lng": -118.6345
+    },
+    "phone": "(818) 371-9812",
+    "website": "https://mountainmeadowsstables.com",
+    "email": "",
+    "disciplines": ["dressage", "western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["mountain-meadows-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "378198b2-23e2-493b-a06c-fa8477356876",
+    "ownerId": "system",
+    "name": "Pepper Tree Ranch",
+    "slug": "pepper-tree-ranch",
+    "description": "Serving the San Fernando Valley since 1988, Pepper Tree Ranch is a well-established equestrian facility in Chatsworth offering horse boarding, riding lessons, lease options, and training. The ranch provides box stalls and pipe corrals, all cleaned daily, with lessons available Tuesday through Sunday. A cornerstone of the local equestrian community for nearly four decades, it caters to riders of all levels in both Western and English disciplines.",
+    "address": {
+      "street": "10600 Deering Ave",
+      "city": "Chatsworth",
+      "state": "CA",
+      "zip": "91311",
+      "lat": 34.2657,
+      "lng": -118.5863
+    },
+    "phone": "(818) 341-4495",
+    "website": "https://peppertreeranch.net",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["pepper-tree-ranch.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "3c14622e-78ca-4f41-976e-7937a75b6037",
+    "ownerId": "system",
+    "name": "WhiteOak Ranch Chatsworth",
+    "slug": "whiteoak-ranch-chatsworth",
+    "description": "WhiteOak Ranch is a picturesque horse boarding facility nestled at the base of the Santa Susana Mountains near Stoney Point and the Garden of the Gods in Chatsworth. The property features a 67x200 foot riding arena, a 30-foot round training pen, in-and-out shed row stalls, outdoor pipe corrals with shelters, automatic watering systems, and access to community horse trails through the scenic Chatsworth landscape.",
+    "address": {
+      "street": "10965 Topanga Canyon Blvd",
+      "city": "Chatsworth",
+      "state": "CA",
+      "zip": "91311",
+      "lat": 34.2647,
+      "lng": -118.6024
+    },
+    "phone": "(818) 341-0222",
+    "website": "https://whiteoakranchchatsworth.com",
+    "email": "",
+    "disciplines": ["western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["whiteoak-ranch-chatsworth.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "094215c0-ee58-41f9-8a02-36aff1477893",
+    "ownerId": "system",
+    "name": "Bell Canyon Equestrian Center",
+    "slug": "bell-canyon-equestrian-center",
+    "description": "Nestled in the rolling Simi Hills, Bell Canyon Equestrian Center is one of the few remaining full-service equestrian centers in the San Fernando Valley. The facility offers 80 box stalls and 30 pipe corrals, three arenas with fiber footing groomed and watered daily, a round pen, sunpens and turnouts, plus miles of beautiful chaparral trails for pleasure riding. On-site trainers specialize in hunter, jumper, dressage, and western disciplines, with 24-hour gated security access.",
+    "address": {
+      "street": "29 Baymare Rd",
+      "city": "Bell Canyon",
+      "state": "CA",
+      "zip": "91307",
+      "lat": 34.1927,
+      "lng": -118.6659
+    },
+    "phone": "(747) 263-6267",
+    "website": "https://www.bellcanyonequestriancenter.com",
+    "email": "",
+    "disciplines": ["hunter jumper", "dressage", "western", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 110,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["bell-canyon-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]

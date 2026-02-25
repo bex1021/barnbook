@@ -1,0 +1,346 @@
+[
+  {
+    "id": "7ba2a67b-3661-4516-9497-ff6207b42294",
+    "ownerId": "system",
+    "name": "River Chase Farm",
+    "slug": "river-chase-farm",
+    "description": "River Chase Farm is a full-service equestrian facility in the heart of picturesque Northern Virginia horse country. The farm offers full-service horse boarding, training, and instruction from a team of passionate trainers. The property features an indoor ring with a heated viewing area, beautiful ride-out paths and trails, and spacious turnout fields. Whether you are a serious competitor or a weekend hobbyist, River Chase Farm welcomes all riders into their horse-crazy family.",
+    "address": {
+      "street": "40332 Courtland Farm Ln",
+      "city": "Aldie",
+      "state": "VA",
+      "zip": "20105",
+      "lat": 39.021263,
+      "lng": -77.606514
+    },
+    "phone": "(703) 777-1899",
+    "website": "https://www.riverchasefarm.com",
+    "email": "info@riverchasefarm.com",
+    "disciplines": ["hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["river-chase-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "b621e3d4-e58f-46d8-b0c3-a78396009a68",
+    "ownerId": "system",
+    "name": "Orchard Manor Show Stables",
+    "slug": "orchard-manor-show-stables",
+    "description": "Orchard Manor Show Stables is a premier Hunter/Jumper/Equitation boarding, training, and showing facility situated on a beautiful historic 35-acre equestrian estate in the heart of Leesburg, Virginia. The property features show-quality indoor and outdoor rings, acres of lush paddocks, and access to beautifully maintained equestrian trails. Expert head trainer Jason Yannitello leads a dedicated program tailored for boarding riders of all levels, with a focus on mastering true horsemanship in and out of the ring.",
+    "address": {
+      "street": "19200 Orchard Manor Lane",
+      "city": "Leesburg",
+      "state": "VA",
+      "zip": "20175",
+      "lat": 39.0537,
+      "lng": -77.5218
+    },
+    "phone": "516-204-2767",
+    "website": "https://www.orchardmanorshowstables.com",
+    "email": "orchardmanorshowstables@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Jason Yannitello"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["orchard-manor-show-stables.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "8f992bc8-fbaf-4fca-9b05-0f026cf36fa8",
+    "ownerId": "system",
+    "name": "Cavallo Farm",
+    "slug": "cavallo-farm",
+    "description": "Cavallo Farm is a boarding facility specializing in Hunter/Jumper training, located just five minutes from the Brambleton Town Center and minutes from the Dulles Toll Road and Route 50. Owned by Michael and Marie Bertozzi, the farm offers a show-oriented lesson program and accepts new clients through the Cavallo Riding Center. The farm does not offer trail rides or one-time lessons, focusing instead on dedicated equestrian development for serious riders.",
+    "address": {
+      "street": "22761 Evergreen Mills Road",
+      "city": "Leesburg",
+      "state": "VA",
+      "zip": "20175",
+      "lat": 39.0021,
+      "lng": -77.5302
+    },
+    "phone": "703-906-0981",
+    "website": "https://www.cavallofarm.com",
+    "email": "",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Michael Bertozzi", "Heather"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["cavallo-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "7bb75735-0444-4f3b-9112-aeaa1ff80f8d",
+    "ownerId": "system",
+    "name": "Clairvaux",
+    "slug": "clairvaux",
+    "description": "Clairvaux is a full-service Hunter/Jumper riding academy and show stable in Northern Virginia where equestrian dreams take flight. The facility fosters a supportive community where riders of all skill levels develop lasting connections through their shared passion for horses. Clairvaux offers expert training programs for horse owners, horseback riding lessons with access to experienced lesson horses, and show preparation. The stable does not offer trail rides or horses for hire.",
+    "address": {
+      "street": "40730 Farm Market Rd",
+      "city": "Leesburg",
+      "state": "VA",
+      "zip": "20176",
+      "lat": 39.1432,
+      "lng": -77.6127
+    },
+    "phone": "(571) 259-2034",
+    "website": "https://cveq.com",
+    "email": "clairvauxllc@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Terri Young"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["clairvaux.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "1700cf7a-74da-40b9-b871-790462cbec60",
+    "ownerId": "system",
+    "name": "Morven Park International Equestrian Center",
+    "slug": "morven-park-equestrian-center",
+    "description": "Morven Park International Equestrian Center is a premier competition venue serving all levels of competition from beginners to some of the world's top riders. The center hosts multiple disciplines year-round, including hunter/jumper shows, dressage competitions, carriage driving events, and the Morven Park Spring Horse Trials (eventing). Evolved from the renowned Morven Park International Equestrian Institute that operated from 1963 to 1991, the facility continues its legacy as one of the top equestrian venues in Northern Virginia. Please note the center does not board horses or offer riding lessons.",
+    "address": {
+      "street": "41580 Sunday Morning Lane",
+      "city": "Leesburg",
+      "state": "VA",
+      "zip": "20176",
+      "lat": 39.1316,
+      "lng": -77.6001
+    },
+    "phone": "703-777-2414",
+    "website": "https://www.morvenpark.org/equestrian-center",
+    "email": "EQOffice@morvenpark.org",
+    "disciplines": ["hunter jumper", "dressage", "eventing"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["morven-park-equestrian-center.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "dc76f608-0195-4fe2-9434-6dc72d9fb1ae",
+    "ownerId": "system",
+    "name": "Picturesque Farm",
+    "slug": "picturesque-farm",
+    "description": "Picturesque Farm is a 36-acre equestrian facility situated on the south side of Warrenton, Virginia. The 28-stall show barn features a heated and air-conditioned lounge and bathroom, two outdoor all-weather sand arenas, a 140x75-foot indoor arena, and 110 acres of trails at an adjacent 200-acre annex. With over 20 years of experience, the farm offers horse sales and leasing (averaging 100+ horses and ponies per year), year-round riding lessons, VHSA/BHSA recognized show programs, summer camps for ages 6-15, and show team opportunities. Voted Best Riding Lesson Facility 2019 and Best Equestrian Facility 2022 by Warrenton Lifestyle.",
+    "address": {
+      "street": "7769 Piccadilly Dr",
+      "city": "Warrenton",
+      "state": "VA",
+      "zip": "20186",
+      "lat": 38.7158,
+      "lng": -77.8217
+    },
+    "phone": "540-349-2026",
+    "website": "https://picturesquefarm.com",
+    "email": "kristy@picturesquefarm.com",
+    "disciplines": ["hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 28,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["picturesque-farm.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "95b36b66-4314-4711-b626-5391ddc0ef70",
+    "ownerId": "system",
+    "name": "MSF Equestrians",
+    "slug": "msf-equestrians",
+    "description": "MSF Equestrians LLC is based out of Black Horse Farm and Stables at the historic Ashland Farm in Warrenton, Virginia. The property features an indoor arena, outdoor arena, and miles of beautiful trails in the Warrenton Hunt territory. The facility offers Hunter, Jumper, and Equitation lessons and training rides for all ages and skill levels. Ship-ins are welcome. The program is run by Mary Ficklin and emphasizes quality horsemanship across all experience levels.",
+    "address": {
+      "street": "8563 Lee Highway",
+      "city": "Warrenton",
+      "state": "VA",
+      "zip": "20186",
+      "lat": 38.702484,
+      "lng": -77.87046
+    },
+    "phone": "(540) 272-8922",
+    "website": "https://msfequestriansllc.com",
+    "email": "msfequestriansllc@gmail.com",
+    "disciplines": ["hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Mary Ficklin"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["msf-equestrians.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "5b38d189-e9b7-4d28-b3e8-1a78d57eb62b",
+    "ownerId": "system",
+    "name": "Foxrock Stables",
+    "slug": "foxrock-stables",
+    "description": "Foxrock Stables offers instruction by award-winning trainers and traditional equine accommodations conveniently located in Middleburg, Virginia. With over 30 years of experience in teaching, training, and competing, the barn provides custom-tailored English riding lessons for novice and experienced riders alike. The facility specializes in full-care stall boarding with daily turnout, off-the-track Thoroughbred rehabilitation and training, foxhunting programs (seasonal), and trainer support for A-rated and local horse shows. The barn participates in the National Capital Equitation League.",
+    "address": {
+      "street": "22456 Sam Fred Road",
+      "city": "Middleburg",
+      "state": "VA",
+      "zip": "20117",
+      "lat": 38.99583,
+      "lng": -77.702835
+    },
+    "phone": "(703) 346-4029",
+    "website": "https://www.foxrockstables.com",
+    "email": "foxrockstables@gmail.com",
+    "disciplines": ["hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Beth Newman deStanley"],
+    "lessonAvailability": true,
+    "horseBreeds": ["Thoroughbred"],
+    "photos": ["foxrock-stables.jpg"],
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "updatedAt": "2026-02-22T00:00:00.000Z"
+  }
+]

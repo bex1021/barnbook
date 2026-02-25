@@ -1,0 +1,346 @@
+[
+  {
+    "id": "75194cf9-814e-40ff-a6d7-04396a74b37c",
+    "ownerId": "system",
+    "name": "Sisterhood Stables",
+    "slug": "sisterhood-stables",
+    "description": "Sisterhood Stables is a unique equestrian experience catering to women entrepreneurs and leaders, as well as clients whose horses need extra care and love. Located on 14 acres in Columbus, NC, the 9-stall barn features a 50-ft round pen, wash rack with hot and cold water, FETA trail access, and a positive atmosphere where horse and rider can thrive together.",
+    "address": {
+      "street": "613 Old Highway 19",
+      "city": "Columbus",
+      "state": "NC",
+      "zip": "28722",
+      "lat": 35.2472,
+      "lng": -82.2001
+    },
+    "phone": "(828) 585-1220",
+    "website": "https://sisterhoodstables.com",
+    "email": "",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "pasture"],
+      "stallCount": 9,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 800,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["sisterhood-stables.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "3c78ccea-66bb-4763-93bf-2f134e23adcc",
+    "ownerId": "system",
+    "name": "Renovatio Farm",
+    "slug": "renovatio-farm",
+    "description": "Renovatio Farm is a full-service boarding and training facility on 50+ acres nestled in the foothills of the Blue Ridge Mountains, less than a mile from Tryon International Equestrian Center. Owner and trainer Trayce Doubek offers individualized care, dressage and jumping arenas, miles of trails, and training across dressage, hunter/jumper, and eventing disciplines. The farm features two barns with 20 matted stalls, heated wash racks, and climate-controlled tack rooms.",
+    "address": {
+      "street": "1820 John Shehan Rd",
+      "city": "Tryon",
+      "state": "NC",
+      "zip": "28782",
+      "lat": 35.2103,
+      "lng": -82.2345
+    },
+    "phone": "(864) 325-5684",
+    "website": "http://www.renovatiofarm.com",
+    "email": "tmdoubek@yahoo.com",
+    "disciplines": ["dressage", "hunter jumper", "eventing"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "training"],
+      "stallCount": 20,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 1250,
+      "lessonsFrom": 100,
+      "currency": "USD"
+    },
+    "trainers": ["Trayce Doubek"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["renovatio-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "10f212b5-9989-497b-94d3-1a990d01e81b",
+    "ownerId": "system",
+    "name": "Cherokee Hill Farm",
+    "slug": "cherokee-hill-farm",
+    "description": "Cherokee Hill Farm is a full-service 100-acre horse farm in Tryon, NC, serving Polk, Spartanburg, and Greenville Counties for over 36 years. The main barn features 25 box stalls and a 200-foot center aisle with hot water wash racks, while the lower barn adds 11 more stalls. Facilities include a 250x125-ft hunter ring and a 1,000-ft outside course. Direct access to FENCE and the 140-mile FETA trail system. Specialties include equine rehabilitation, hunt seat instruction, and leasing school horses.",
+    "address": {
+      "street": "460 Cherokee Hill Lane",
+      "city": "Tryon",
+      "state": "NC",
+      "zip": "28782",
+      "lat": 35.2095,
+      "lng": -82.2287
+    },
+    "phone": "(828) 859-9990",
+    "website": "https://cherokeehillfarm.com",
+    "email": "cherokeehillfarm@earthlink.net",
+    "disciplines": ["hunter jumper", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 36,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": ["Mike Schatzberg"],
+    "lessonAvailability": true,
+    "horseBreeds": ["Quarter Horse", "Appendix", "Warmblood"],
+    "photos": ["cherokee-hill-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "05a21c0d-fd6a-494b-8822-452594c9519b",
+    "ownerId": "system",
+    "name": "Foothills Equestrian Nature Center (FENCE)",
+    "slug": "fence-equestrian-center",
+    "description": "The Foothills Equestrian Nature Center (FENCE) is one of the finest equestrian facilities in the Southeast, set on 384 protected acres in Tryon, NC. The equestrian center offers permanent stabling for over 300 horses across eleven barns, three lighted show rings including a covered arena with all-weather footing, and hosts events in all disciplines year-round. FENCE also operates TROT, a therapeutic riding program for individuals with physical and cognitive challenges.",
+    "address": {
+      "street": "3381 Hunting Country Road",
+      "city": "Tryon",
+      "state": "NC",
+      "zip": "28782",
+      "lat": 35.2049,
+      "lng": -82.2398
+    },
+    "phone": "(828) 859-9021",
+    "website": "https://www.fence.org",
+    "email": "info@fence.org",
+    "disciplines": ["dressage", "hunter jumper", "eventing", "trail"],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 300,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["fence-equestrian-center.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "518d287c-ab26-4142-9976-6ccfe5267112",
+    "ownerId": "system",
+    "name": "Block House Sport Horses",
+    "slug": "block-house-sport-horses",
+    "description": "Block House Sport Horses, operated by trainer Kelly Kocher at Finally Farm of Tryon, is a premier hunter/jumper training facility on 45 acres minutes from Tryon International Equestrian Center. The farm features a large all-weather outdoor arena with a full course of show jumps, heated and air-conditioned tack room, two wash racks with overhead heat, and an expert equine rehabilitation program using modalities including Theraplate, Horsegym treadmill, and Magna Wave. The program follows a comprehensive show schedule at TIEC and travels to Wellington, FL in winter.",
+    "address": {
+      "street": "999 Carriage Row",
+      "city": "Columbus",
+      "state": "NC",
+      "zip": "28722",
+      "lat": 35.2348,
+      "lng": -82.2156
+    },
+    "phone": "(864) 497-2976",
+    "website": "https://kellykocher.com",
+    "email": "kellykocher@gmail.com",
+    "disciplines": ["hunter jumper"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full", "training"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 2000,
+      "lessonsFrom": 75,
+      "currency": "USD"
+    },
+    "trainers": ["Kelly Kocher"],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["block-house-sport-horses.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "60e4e675-44e1-423c-9c53-93b2ea39f127",
+    "ownerId": "system",
+    "name": "Still Creek Equine",
+    "slug": "still-creek-equine",
+    "description": "Still Creek Farm in Columbus, NC, is a professional equine rehabilitation facility offering the highest standard of care in a productive and stress-free environment. The experienced staff works to provide individualized rehabilitation programs for horses recovering from injury or illness, with a focus on quiet, attentive management in the scenic Polk County foothills.",
+    "address": {
+      "street": "4290 Collinsville Road",
+      "city": "Columbus",
+      "state": "NC",
+      "zip": "28722",
+      "lat": 35.2601,
+      "lng": -82.1843
+    },
+    "phone": "",
+    "website": "https://stillcreeknc.com",
+    "email": "",
+    "disciplines": [],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["still-creek-equine.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "9573fa0e-4005-4588-99ff-fb97a0c4ae7c",
+    "ownerId": "system",
+    "name": "Serenity Acres",
+    "slug": "serenity-acres-nc",
+    "description": "Serenity Acres has been a trusted horse boarding facility in the NC foothills since 1994, offering individualized care for horses of all ages in a safe and fun environment. The property features an 110x210 outdoor dressage arena with jumps, 11 total box stalls across two barns with hot water, a heated tack room, and direct access to the CETA trail system. Full board includes twice-daily stall cleaning, individual turnout, daily fresh water, and comprehensive horse management.",
+    "address": {
+      "street": "501 Stirrup Downs",
+      "city": "Columbus",
+      "state": "NC",
+      "zip": "28722",
+      "lat": 35.2512,
+      "lng": -82.2078
+    },
+    "phone": "(828) 863-4748",
+    "website": "http://www.serenityacresnc.com",
+    "email": "serenityacres@windstream.net",
+    "disciplines": ["dressage", "trail"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 11,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": ["serenity-acres-nc.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "c82cff82-29b0-4876-a9ab-f729540bfb14",
+    "ownerId": "system",
+    "name": "Dream Haven Farm",
+    "slug": "dream-haven-farm",
+    "description": "Dream Haven Farm in Columbus, NC, is a welcoming equestrian facility offering horse boarding and summer equestrian camp programs in the scenic Polk County foothills. The farm provides a nurturing environment for horses and riders of all levels, combining quality care with a community-focused atmosphere in the heart of Tryon horse country near Tryon International Equestrian Center.",
+    "address": {
+      "street": "1487 Hayes Road",
+      "city": "Columbus",
+      "state": "NC",
+      "zip": "28722",
+      "lat": 35.2438,
+      "lng": -82.2134
+    },
+    "phone": "(828) 748-1003",
+    "website": "https://www.dreamhavennc.com",
+    "email": "",
+    "disciplines": ["trail", "western"],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": false,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": ["full"],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": ["dream-haven-farm.jpg"],
+    "createdAt": "2026-02-24T00:00:00.000Z",
+    "updatedAt": "2026-02-24T00:00:00.000Z"
+  }
+]
