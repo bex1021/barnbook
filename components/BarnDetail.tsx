@@ -1,6 +1,6 @@
-import Image from "next/image";
 import { Barn } from "@/lib/types";
 import StarRating from "./StarRating";
+import PhotoCarousel from "./PhotoCarousel";
 
 interface BarnDetailProps {
   barn: Barn;
@@ -40,25 +40,7 @@ export default function BarnDetail({ barn, averageRating, reviewCount }: BarnDet
       </div>
 
       {/* Photo */}
-      <div className="h-64 md:h-96 bg-gradient-to-br from-green-100 to-green-200 rounded-xl mb-8 relative overflow-hidden">
-        {barn.photos.length > 0 ? (
-          <Image
-            src={`/images/barns/${barn.photos[0]}`}
-            alt={barn.name}
-            fill
-            className="object-cover rounded-xl"
-            sizes="(max-width: 1280px) 100vw, 1280px"
-            priority
-          />
-        ) : (
-          <div className="w-full h-full flex items-center justify-center">
-            <svg className="w-20 h-20 text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5}
-                d="M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909M3.75 21h16.5A2.25 2.25 0 0022.5 18.75V5.25A2.25 2.25 0 0020.25 3H3.75A2.25 2.25 0 001.5 5.25v13.5A2.25 2.25 0 003.75 21z" />
-            </svg>
-          </div>
-        )}
-      </div>
+      <PhotoCarousel photos={barn.photos} barnName={barn.name} />
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* Main content */}
