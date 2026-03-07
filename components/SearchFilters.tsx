@@ -65,10 +65,12 @@ export default function SearchFilters() {
   const activeDisciplines = getArrayParam("discipline");
   const activeAmenities = getArrayParam("amenities");
   const activeBoardingTypes = getArrayParam("boarding");
+  const lessonsOnly = searchParams.get("lessons") === "true";
   const hasFilters =
     activeDisciplines.length > 0 ||
     activeAmenities.length > 0 ||
     activeBoardingTypes.length > 0 ||
+    lessonsOnly ||
     searchParams.get("state") ||
     searchParams.get("sort");
 
@@ -81,6 +83,19 @@ export default function SearchFilters() {
             Clear all
           </button>
         )}
+      </div>
+
+      {/* Lessons */}
+      <div>
+        <label className="flex items-center gap-2 cursor-pointer">
+          <input
+            type="checkbox"
+            checked={lessonsOnly}
+            onChange={() => updateParam("lessons", lessonsOnly ? "" : "true")}
+            className="rounded border-gray-300 text-[#2d5016] focus:ring-[#2d5016]"
+          />
+          <span className="text-sm font-medium text-gray-700">Lessons Available</span>
+        </label>
       </div>
 
       {/* Sort */}
