@@ -1,22 +1,22 @@
 import Link from "next/link";
-import { getBarns, getAverageRating, getReviewsByBarn } from "@/lib/data";
-import BarnCard from "@/components/BarnCard";
 import SearchBar from "@/components/SearchBar";
 
-export default async function HomePage() {
-  const allBarns = await getBarns();
-  const barns = allBarns.slice(0, 3);
+const METROS = [
+  { city: "Lexington", state: "KY" },
+  { city: "Wellington", state: "FL" },
+  { city: "Ocala", state: "FL" },
+  { city: "Austin", state: "TX" },
+  { city: "Dallas", state: "TX" },
+  { city: "Denver", state: "CO" },
+  { city: "Atlanta", state: "GA" },
+  { city: "Seattle", state: "WA" },
+  { city: "Los Angeles", state: "CA" },
+  { city: "Charlotte", state: "NC" },
+  { city: "Scottsdale", state: "AZ" },
+  { city: "Portland", state: "OR" },
+];
 
-  const barnsWithStats = await Promise.all(
-    barns.map(async (barn) => {
-      const [avg, reviews] = await Promise.all([
-        getAverageRating(barn.id),
-        getReviewsByBarn(barn.id),
-      ]);
-      return { barn, avg, count: reviews.length };
-    })
-  );
-
+export default function HomePage() {
   return (
     <div>
       {/* Hero */}
@@ -24,32 +24,55 @@ export default async function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
           <div className="max-w-2xl">
             <h1 className="text-4xl md:text-5xl font-bold leading-tight">
-              Find Your Perfect Barn
+              Find the Right Barn, Wherever You Land
             </h1>
             <p className="mt-4 text-lg text-green-100">
-              Browse horse farms and barns across the country. Read reviews, compare amenities, and find the ideal home for your horse.
+              Moving somewhere new? Barnbook helps you find riding lessons and horse boarding in any city — read reviews, compare amenities, and connect with the right facility.
             </p>
-            <div className="mt-8">
+            <div className="mt-8 flex flex-col sm:flex-row gap-3">
+              <Link
+                href="/barns?lessons=true"
+                className="inline-flex items-center justify-center px-6 py-3 bg-white text-[#2d5016] rounded-lg font-semibold hover:bg-green-50 transition"
+              >
+                Find Lessons
+              </Link>
+              <Link
+                href="/barns?boarding=full,partial,pasture,self-care"
+                className="inline-flex items-center justify-center px-6 py-3 border-2 border-white text-white rounded-lg font-semibold hover:bg-white/10 transition"
+              >
+                Find Boarding
+              </Link>
+            </div>
+            <div className="mt-6">
+              <p className="text-green-200 text-sm mb-2">Or search by city, barn name, or discipline</p>
               <SearchBar />
             </div>
           </div>
         </div>
       </section>
 
-      {/* Featured Barns */}
+      {/* Browse by Metro */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="flex items-center justify-between mb-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Featured Barns</h2>
-          <Link
-            href="/barns"
-            className="text-[#2d5016] font-medium hover:text-[#4a7c28] transition"
-          >
-            View all &rarr;
-          </Link>
-        </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {barnsWithStats.map(({ barn, avg, count }) => (
-            <BarnCard key={barn.id} barn={barn} averageRating={avg} reviewCount={count} />
+        <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-2">Browse by Metro Area</h2>
+        <p className="text-gray-600 mb-8">Explore equestrian facilities across major riding destinations.</p>
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+          {METROS.map((metro) => (
+            <Link
+              key={`${metro.city}-${metro.state}`}
+              href={`/barns?q=${encodeURIComponent(metro.city.toLowerCase())}&state=${metro.state}`}
+              className="flex items-center gap-3 p-4 bg-white border border-gray-200 rounded-xl hover:border-[#2d5016] hover:shadow-sm transition group"
+            >
+              <div className="w-8 h-8 bg-green-50 rounded-full flex items-center justify-center flex-shrink-0 group-hover:bg-green-100 transition">
+                <svg className="w-4 h-4 text-[#2d5016]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                </svg>
+              </div>
+              <div>
+                <p className="font-medium text-gray-900 text-sm">{metro.city}</p>
+                <p className="text-xs text-gray-500">{metro.state}</p>
+              </div>
+            </Link>
           ))}
         </div>
       </section>
@@ -65,9 +88,9 @@ export default async function HomePage() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
               </div>
-              <h3 className="text-lg font-semibold mb-2">Easy Search</h3>
+              <h3 className="text-lg font-semibold mb-2">Search Any City</h3>
               <p className="text-gray-600 text-sm">
-                Filter by discipline, amenities, location, and more to find barns that match your needs.
+                Type in your new city or region and instantly browse nearby barns. Filter by discipline, amenities, boarding type, and more.
               </p>
             </div>
             <div className="text-center p-6">
@@ -76,21 +99,20 @@ export default async function HomePage() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
                 </svg>
               </div>
-              <h3 className="text-lg font-semibold mb-2">Trusted Reviews</h3>
+              <h3 className="text-lg font-semibold mb-2">Real Rider Reviews</h3>
               <p className="text-gray-600 text-sm">
-                Read real reviews from riders and boarders to make informed decisions.
+                See what current boarders and lesson students say before you visit. Honest reviews from the equestrian community.
               </p>
             </div>
             <div className="text-center p-6">
               <div className="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                 <svg className="w-7 h-7 text-[#2d5016]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                 </svg>
               </div>
-              <h3 className="text-lg font-semibold mb-2">Map View</h3>
+              <h3 className="text-lg font-semibold mb-2">All the Details</h3>
               <p className="text-gray-600 text-sm">
-                Explore barns on an interactive map to find facilities near you.
+                Compare pricing, trainer bios, facility photos, and contact info all in one place — everything you need to make the right call.
               </p>
             </div>
           </div>

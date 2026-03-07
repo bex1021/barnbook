@@ -18,6 +18,7 @@ interface PageProps {
     state?: string;
     amenities?: string;
     boarding?: string;
+    lessons?: string;
     sort?: string;
   }>;
 }
@@ -60,6 +61,11 @@ export default async function BrowseBarnsPage({ searchParams }: PageProps) {
     barns = barns.filter((b) =>
       amenities.every((a) => b.amenities[a as keyof typeof b.amenities])
     );
+  }
+
+  // Lessons filter
+  if (params.lessons === "true") {
+    barns = barns.filter((b) => b.lessonAvailability);
   }
 
   // Boarding type filter
