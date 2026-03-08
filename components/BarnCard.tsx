@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Barn } from "@/lib/types";
 import StarRating from "./StarRating";
+import SaveButton from "./SaveButton";
 
 interface BarnCardProps {
   barn: Barn;
@@ -16,7 +17,7 @@ export default function BarnCard({ barn, averageRating = 0, reviewCount = 0 }: B
       className="group block bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-lg transition-shadow"
     >
       {/* Photo */}
-      <div className="h-48 bg-gradient-to-br from-green-100 to-green-200 relative overflow-hidden">
+      <div className="h-48 bg-gradient-to-br from-[#f0e8d8] to-[#e8d8c0] relative overflow-hidden">
         {barn.photos.length > 0 ? (
           <Image
             src={`/images/barns/${barn.photos[0]}`}
@@ -27,12 +28,13 @@ export default function BarnCard({ barn, averageRating = 0, reviewCount = 0 }: B
           />
         ) : (
           <div className="w-full h-full flex items-center justify-center">
-            <svg className="w-16 h-16 text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg className="w-16 h-16 text-[#c4956a]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5}
                 d="M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909M3.75 21h16.5A2.25 2.25 0 0022.5 18.75V5.25A2.25 2.25 0 0020.25 3H3.75A2.25 2.25 0 001.5 5.25v13.5A2.25 2.25 0 003.75 21z" />
             </svg>
           </div>
         )}
+        <SaveButton barnId={barn.id} />
       </div>
 
       <div className="p-5">

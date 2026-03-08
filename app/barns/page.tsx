@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Suspense } from "react";
-import { getBarns, getAverageRating, getReviewsByBarn } from "@/lib/data";
+import { getBarns } from "@/lib/data";
 import SearchBar from "@/components/SearchBar";
 import SearchFilters from "@/components/SearchFilters";
 import BarnResults from "@/components/BarnResults";
@@ -88,18 +88,6 @@ export default async function BrowseBarnsPage({ searchParams }: PageProps) {
     if (fn) barns.sort(fn);
   }
 
-  // Pre-compute ratings for client
-  const ratings: Record<string, { avg: number; count: number }> = {};
-  await Promise.all(
-    barns.map(async (barn) => {
-      const [avg, reviews] = await Promise.all([
-        getAverageRating(barn.id),
-        getReviewsByBarn(barn.id),
-      ]);
-      ratings[barn.id] = { avg, count: reviews.length };
-    })
-  );
-
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
       <div className="mb-8">
@@ -117,7 +105,7 @@ export default async function BrowseBarnsPage({ searchParams }: PageProps) {
 
         {/* Results */}
         <div className="flex-1">
-          <BarnResults barns={barns} ratings={ratings} />
+          <BarnResults barns={barns} ratings={{}} />
         </div>
       </div>
     </div>

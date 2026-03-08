@@ -42,7 +42,16 @@ CREATE TABLE reviews (
   created_at TIMESTAMPTZ DEFAULT NOW()
 );
 
+CREATE TABLE saved_barns (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  user_id UUID REFERENCES users(id) ON DELETE CASCADE,
+  barn_id UUID REFERENCES barns(id) ON DELETE CASCADE,
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  UNIQUE(user_id, barn_id)
+);
+
 -- Index for common queries
 CREATE INDEX barns_slug_idx ON barns(slug);
 CREATE INDEX barns_owner_idx ON barns(owner_id);
 CREATE INDEX reviews_barn_idx ON reviews(barn_id);
+CREATE INDEX saved_barns_user_idx ON saved_barns(user_id);

@@ -232,3 +232,25 @@ export async function getBarnsBySlugs(slugs: string[]): Promise<Barn[]> {
   const { data } = await supabase.from("barns").select("*").in("slug", slugs);
   return (data || []).map(mapBarn);
 }
+
+// Saved barns
+export async function isBarnSaved(userId: string, barnId: string): Promise<boolean> {
+  const { data } = await supabase
+    .from("saved_barns")
+    .select("id")
+    .eq("user_id", userId)
+    .eq("barn_id", barnId)
+    .single();
+  return !!data;
+}
+
+export async function getSavedBarns(userId: string): Promise<Barn[]> {
+  const { data: saved } = await supabase
+    .from("saved_barns")
+    .select("barn_id")
+    .eq("user_id", userId);
+  const barnIds = (saved || []).map((r: Record<string, unknown>) => r.barn_id as string);
+  if (barnIds.length === 0) return [];
+  const { data } = await supabase.from("barns").select("*").in("id", barnIds);
+  return (data || []).map(mapBarn);
+}

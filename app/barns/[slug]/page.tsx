@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getBarnBySlug, getAverageRating, getReviewsByBarn } from "@/lib/data";
+import { getBarnBySlug, getAverageRating, getReviewsByBarn, isBarnSaved } from "@/lib/data";
+import { auth } from "@/lib/auth";
 import BarnDetail from "@/components/BarnDetail";
 import ReviewCard from "@/components/ReviewCard";
 import ReviewForm from "@/components/ReviewForm";
@@ -24,14 +25,16 @@ export default async function BarnDetailPage({ params }: PageProps) {
   const barn = await getBarnBySlug(slug);
   if (!barn) notFound();
 
-  const [reviews, averageRating] = await Promise.all([
+  const session = await auth();
+  const [reviews, averageRating, savedStatus] = await Promise.all([
     getReviewsByBarn(barn.id),
     getAverageRating(barn.id),
+    session?.user?.id ? isBarnSaved(session.user.id, barn.id) : Promise.resolve(false),
   ]);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-      <BarnDetail barn={barn} averageRating={averageRating} reviewCount={reviews.length} />
+      <BarnDetail barn={barn} averageRating={averageRating} reviewCount={reviews.length} initialSaved={savedStatus} />
 
       {/* Reviews section */}
       <section className="mt-12">
