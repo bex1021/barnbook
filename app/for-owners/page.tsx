@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -6,61 +7,57 @@ export const metadata: Metadata = {
   description: "List your equestrian facility on Barnbook for free. Reach riders moving to your area, fill boarding spots and lesson openings, and manage your listing.",
 };
 
-const BENEFITS = [
+const RIDER_TYPES = [
   {
     icon: (
-      <svg className="w-6 h-6 text-[#8b5e3c]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+      <svg className="w-5 h-5 text-[#d4a853]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
       </svg>
     ),
-    title: "Free to List",
-    body: "Creating and managing your listing on Barnbook is completely free — no subscription, no commission, no hidden fees. Ever.",
+    label: "The Relocating Rider",
+    body: "Moving to a new city with their horse — or planning to — they're researching barns weeks before they arrive. They need to find you before someone else does.",
   },
   {
     icon: (
-      <svg className="w-6 h-6 text-[#8b5e3c]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+      <svg className="w-5 h-5 text-[#d4a853]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
       </svg>
     ),
-    title: "Reach Riders Moving to Your Area",
-    body: "Barnbook is built for riders relocating to a new city. These are motivated, committed horse owners actively searching for their next barn — exactly the kind of clients you want.",
+    label: "The Lesson Seeker",
+    body: "Looking for the right trainer, the right discipline, the right environment. They're reading every review and comparing every option — and they want to choose with confidence.",
   },
   {
     icon: (
-      <svg className="w-6 h-6 text-[#8b5e3c]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+      <svg className="w-5 h-5 text-[#d4a853]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
       </svg>
     ),
-    title: "Fill Boarding Spots & Lesson Openings",
-    body: "Showcase your available boarding types, lesson programs, disciplines, and amenities. Give riders everything they need to choose you before they even call.",
+    label: "The Competitive Rider",
+    body: "Serious about their sport and looking for a facility that can match their ambition. They need to know your disciplines, your trainers, and your competition record.",
+  },
+];
+
+const ALTERNATING_BENEFITS = [
+  {
+    photo: "/images/barns/eden-farm.jpg",
+    label: "Reach More Riders",
+    title: "Find the riders who are already looking for you",
+    body: "Barnbook is built for riders in transition — relocating to a new area, returning to the sport, or simply ready for a change. These aren't casual browsers. They're committed equestrians actively searching for their next barn, and they're searching on Barnbook.",
+    imageLeft: true,
   },
   {
-    icon: (
-      <svg className="w-6 h-6 text-[#8b5e3c]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
-      </svg>
-    ),
-    title: "Manage Your Own Listing",
-    body: "Claim your existing listing or create a new one. Add photos, update pricing, highlight your trainers, and keep your details current — all from your own dashboard.",
+    photo: "/images/barns/silver-oak-stable.jpg",
+    label: "Your Listing",
+    title: "Market yourself the way you deserve",
+    body: "Tell your full story. Add photos of your facilities, highlight your trainers, list your disciplines and amenities, and set your pricing. Your Barnbook listing becomes a marketing hub riders can find — and trust — before they ever call.",
+    imageLeft: false,
   },
   {
-    icon: (
-      <svg className="w-6 h-6 text-[#8b5e3c]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
-      </svg>
-    ),
-    title: "Verified Owner Badge",
-    body: "Once your ownership is confirmed, your listing gets a Verified Owner badge — a trust signal that sets you apart and shows riders your facility is actively managed.",
-  },
-  {
-    icon: (
-      <svg className="w-6 h-6 text-[#8b5e3c]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
-      </svg>
-    ),
-    title: "Build Trust Through Reviews",
-    body: "Rider reviews on Barnbook are honest and community-driven. Great reviews are your best marketing — they show up on your listing and help riders feel confident choosing you.",
+    photo: "/images/barns/hidden-meadow-farms.jpg",
+    label: "Build Trust",
+    title: "Reviews and verification that work for you",
+    body: "Real reviews from current boarders and students are your most powerful marketing tool. Pair that with a Verified Owner badge — a signal that you're actively managing your listing and engaged with your community — and riders choose you with confidence.",
+    imageLeft: true,
   },
 ];
 
@@ -84,22 +81,43 @@ const STEPS = [
 
 const TESTIMONIALS = [
   {
+    photo: "/images/barns/whispering-farms.jpg",
     quote: "We had two boarding spots open for months. Within weeks of claiming our Barnbook listing and updating our photos, we had three new inquiries — one from a family that had just relocated from out of state.",
     name: "Sarah M.",
-    barn: "Whispering Pines Equestrian, Lexington KY",
+    barn: "Whispering Pines Equestrian",
+    location: "Lexington, KY",
     type: "Boarding & Training",
   },
   {
+    photo: "/images/barns/five-phases-farm.jpg",
     quote: "I teach dressage and was struggling to fill my beginner lesson slots. Barnbook helped me reach riders who are new to the area and don't know where to start. It's been a game changer for my program.",
     name: "Claire D.",
-    barn: "Centerline Dressage, Wellington FL",
+    barn: "Centerline Dressage",
+    location: "Wellington, FL",
     type: "Lesson Program",
   },
   {
+    photo: "/images/barns/north-texas-equestrian-center.jpg",
     quote: "The verified badge really matters. Riders tell me it made them feel confident reaching out before they'd even visited. It's the kind of credibility you can't buy — you just have to earn it.",
     name: "Tom R.",
-    barn: "Iron Gate Farm, Ocala FL",
+    barn: "Iron Gate Farm",
+    location: "Ocala, FL",
     type: "Full-Service Facility",
+  },
+];
+
+const SMALL_BENEFITS = [
+  {
+    title: "Always Free",
+    body: "No subscription, no commission, no hidden fees. Listing on Barnbook is free — now and always.",
+  },
+  {
+    title: "Verified Owner Badge",
+    body: "Stand out with a badge that tells riders your listing is actively managed by the owner.",
+  },
+  {
+    title: "Full Control",
+    body: "Edit your details, update photos, and manage your listing from your dashboard anytime.",
   },
 ];
 
@@ -107,71 +125,138 @@ export default function ForOwnersPage() {
   return (
     <div className="bg-[#faf7f2]">
 
-      {/* ── Hero ── */}
-      <section className="bg-[#2c1810] text-white py-24 px-4">
-        <div className="max-w-4xl mx-auto text-center">
-          <p className="text-xs tracking-[0.3em] uppercase text-[#d4a853] mb-5 font-medium">
-            For Barn Owners
-          </p>
-          <h1
-            className="text-4xl md:text-6xl font-bold leading-tight mb-6"
-            style={{ fontFamily: "var(--font-playfair)" }}
-          >
-            Join the Barnbook Community
-          </h1>
-          <p className="text-lg text-white/70 max-w-xl mx-auto mb-10 leading-relaxed">
-            Grow your outreach, find new riders, and market your facility — all in one place, completely free.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              href="/claim"
-              className="px-8 py-3.5 border-2 border-white text-white rounded-full font-semibold hover:bg-white/10 transition"
+      {/* ── Split Editorial Hero ── */}
+      <section className="grid grid-cols-1 lg:grid-cols-2 min-h-[90vh]">
+        {/* Left: Story */}
+        <div className="flex items-center px-8 sm:px-14 lg:px-20 py-20 order-2 lg:order-1">
+          <div className="max-w-lg">
+            <p className="text-xs tracking-[0.3em] uppercase text-[#c4956a] mb-6 font-medium">
+              For Barn Owners
+            </p>
+            <h1
+              className="text-4xl md:text-5xl font-bold text-[#2c1810] leading-tight mb-6"
+              style={{ fontFamily: "var(--font-playfair)" }}
             >
-              Claim Your Listing
-            </Link>
-            <Link
-              href="/dashboard/new"
-              className="px-8 py-3.5 bg-[#d4a853] text-[#2c1810] rounded-full font-semibold hover:bg-[#c49843] transition"
-            >
-              Create New Listing
-            </Link>
+              You&apos;ve built<br />something special.
+            </h1>
+            <p className="text-xl text-[#5a4a3a] mb-4 leading-relaxed" style={{ fontFamily: "var(--font-playfair)" }}>
+              Help riders find you.
+            </p>
+            <p className="text-[#7a6a5a] leading-relaxed mb-10">
+              Riders are moving to your area every day, searching for the right barn before they even arrive. Barnbook puts your facility in front of them — for free.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-3">
+              <Link
+                href="/claim"
+                className="px-7 py-3.5 border-2 border-[#2c1810] text-[#2c1810] rounded-full font-semibold hover:bg-[#f0e8d8] transition text-center"
+              >
+                Claim Your Listing
+              </Link>
+              <Link
+                href="/dashboard/new"
+                className="px-7 py-3.5 bg-[#2c1810] text-white rounded-full font-semibold hover:bg-[#3d2415] transition text-center"
+              >
+                Create New Listing
+              </Link>
+            </div>
           </div>
+        </div>
+
+        {/* Right: Photo */}
+        <div className="relative min-h-[55vw] lg:min-h-0 order-1 lg:order-2">
+          <Image
+            src="/images/barns/magnolia-meadow-stables.jpg"
+            alt="Equestrian facility"
+            fill
+            priority
+            sizes="(max-width: 1024px) 100vw, 50vw"
+            className="object-cover"
+          />
+          <div className="absolute inset-0 bg-[#2c1810]/10" />
         </div>
       </section>
 
-      {/* ── Benefits ── */}
-      <section className="py-20 px-4">
-        <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-14">
-            <p className="text-xs tracking-[0.2em] uppercase text-[#c4956a] mb-2">Why Barnbook</p>
+      {/* ── The riders looking for you ── */}
+      <section className="bg-[#2c1810] py-20 px-4">
+        <div className="max-w-5xl mx-auto">
+          <div className="mb-14">
+            <p className="text-xs tracking-[0.2em] uppercase text-[#d4a853] mb-3">Your Audience</p>
             <h2
-              className="text-3xl md:text-4xl font-bold text-[#2c1810]"
+              className="text-3xl md:text-4xl font-bold text-white"
               style={{ fontFamily: "var(--font-playfair)" }}
             >
-              Everything you need to grow
+              Who&apos;s searching for you
             </h2>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {BENEFITS.map(({ icon, title, body }) => (
-              <div key={title} className="bg-white border border-[#e8dcc8] rounded-2xl p-6">
-                <div className="w-11 h-11 bg-[#f0e8d8] rounded-full flex items-center justify-center mb-4">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {RIDER_TYPES.map(({ icon, label, body }) => (
+              <div key={label} className="border border-white/10 rounded-2xl p-6">
+                <div className="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center mb-5">
                   {icon}
                 </div>
                 <h3
-                  className="text-lg font-semibold text-[#2c1810] mb-2"
+                  className="text-lg font-semibold text-white mb-3"
                   style={{ fontFamily: "var(--font-playfair)" }}
                 >
-                  {title}
+                  {label}
                 </h3>
-                <p className="text-[#7a6a5a] text-sm leading-relaxed">{body}</p>
+                <p className="text-white/60 text-sm leading-relaxed">{body}</p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
+      {/* ── Alternating Benefits ── */}
+      {ALTERNATING_BENEFITS.map(({ photo, label, title, body, imageLeft }) => (
+        <section key={title} className="grid grid-cols-1 lg:grid-cols-2 min-h-[520px]">
+          {/* Photo */}
+          <div className={`relative min-h-[50vw] lg:min-h-0 ${imageLeft ? "lg:order-1" : "lg:order-2"}`}>
+            <Image
+              src={photo}
+              alt={title}
+              fill
+              sizes="(max-width: 1024px) 100vw, 50vw"
+              className="object-cover"
+            />
+          </div>
+          {/* Text */}
+          <div
+            className={`flex items-center px-8 sm:px-14 lg:px-20 py-16 bg-[#faf7f2] ${imageLeft ? "lg:order-2" : "lg:order-1"}`}
+          >
+            <div className="max-w-lg">
+              <p className="text-xs tracking-[0.2em] uppercase text-[#c4956a] mb-3 font-medium">{label}</p>
+              <h2
+                className="text-2xl md:text-3xl font-bold text-[#2c1810] mb-5 leading-snug"
+                style={{ fontFamily: "var(--font-playfair)" }}
+              >
+                {title}
+              </h2>
+              <p className="text-[#7a6a5a] leading-relaxed">{body}</p>
+            </div>
+          </div>
+        </section>
+      ))}
+
+      {/* ── Small benefits strip ── */}
+      <section className="bg-[#f0e8d8] border-y border-[#e0d4c0] py-14 px-4">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+          {SMALL_BENEFITS.map(({ title, body }) => (
+            <div key={title}>
+              <h3
+                className="text-lg font-semibold text-[#2c1810] mb-2"
+                style={{ fontFamily: "var(--font-playfair)" }}
+              >
+                {title}
+              </h3>
+              <p className="text-[#7a6a5a] text-sm leading-relaxed">{body}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
       {/* ── How it works ── */}
-      <section className="bg-[#f0e8d8] py-20 px-4">
+      <section className="py-20 px-4">
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-14">
             <p className="text-xs tracking-[0.2em] uppercase text-[#c4956a] mb-2">Simple Process</p>
@@ -182,11 +267,11 @@ export default function ForOwnersPage() {
               Up and running in minutes
             </h2>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
             {STEPS.map(({ number, title, body }) => (
               <div key={number} className="text-center">
                 <p
-                  className="text-5xl font-bold text-[#e8dcc8] mb-4"
+                  className="text-6xl font-bold text-[#e8dcc8] mb-4 leading-none"
                   style={{ fontFamily: "var(--font-playfair)" }}
                 >
                   {number}
@@ -204,8 +289,8 @@ export default function ForOwnersPage() {
         </div>
       </section>
 
-      {/* ── Testimonials ── */}
-      <section className="py-20 px-4">
+      {/* ── Testimonials with barn photos ── */}
+      <section className="bg-[#f0e8d8] py-20 px-4">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-14">
             <p className="text-xs tracking-[0.2em] uppercase text-[#c4956a] mb-2">From the Community</p>
@@ -217,18 +302,33 @@ export default function ForOwnersPage() {
             </h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {TESTIMONIALS.map(({ quote, name, barn, type }) => (
-              <div key={name} className="bg-white border border-[#e8dcc8] rounded-2xl p-6 flex flex-col">
-                <svg className="w-8 h-8 text-[#e8dcc8] mb-4 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
-                  <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" />
-                </svg>
-                <p className="text-[#5a4a3a] text-sm leading-relaxed flex-1 mb-6">{quote}</p>
-                <div>
-                  <p className="font-semibold text-[#2c1810] text-sm">{name}</p>
-                  <p className="text-xs text-[#7a6a5a] mt-0.5">{barn}</p>
-                  <span className="inline-block mt-2 text-xs px-2.5 py-1 bg-[#f0e8d8] text-[#8b5e3c] rounded-full">
-                    {type}
-                  </span>
+            {TESTIMONIALS.map(({ photo, quote, name, barn, location, type }) => (
+              <div key={name} className="bg-white rounded-2xl overflow-hidden border border-[#e8dcc8] flex flex-col">
+                {/* Barn photo */}
+                <div className="relative aspect-[4/3] overflow-hidden">
+                  <Image
+                    src={photo}
+                    alt={barn}
+                    fill
+                    sizes="(max-width: 768px) 100vw, 33vw"
+                    className="object-cover"
+                  />
+                </div>
+                {/* Quote */}
+                <div className="p-6 flex flex-col flex-1">
+                  <svg className="w-7 h-7 text-[#e8dcc8] mb-4 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" />
+                  </svg>
+                  <p className="text-[#5a4a3a] text-sm leading-relaxed flex-1 mb-6">{quote}</p>
+                  <div>
+                    <p className="font-semibold text-[#2c1810] text-sm" style={{ fontFamily: "var(--font-playfair)" }}>
+                      {name}
+                    </p>
+                    <p className="text-xs text-[#7a6a5a] mt-0.5">{barn} · {location}</p>
+                    <span className="inline-block mt-2 text-xs px-2.5 py-1 bg-[#f0e8d8] text-[#8b5e3c] rounded-full">
+                      {type}
+                    </span>
+                  </div>
                 </div>
               </div>
             ))}
@@ -237,16 +337,24 @@ export default function ForOwnersPage() {
       </section>
 
       {/* ── Bottom CTA ── */}
-      <section className="bg-[#2c1810] py-20 px-4">
-        <div className="max-w-2xl mx-auto text-center text-white">
-          <p className="text-xs tracking-[0.2em] uppercase text-[#d4a853] mb-4">Get Started Free</p>
+      <section className="relative py-28 px-4 overflow-hidden">
+        <Image
+          src="/images/barns/stone-columns-stables.jpg"
+          alt="Equestrian facility"
+          fill
+          sizes="100vw"
+          className="object-cover"
+        />
+        <div className="absolute inset-0 bg-[#1a0d07]/70" />
+        <div className="relative z-10 max-w-2xl mx-auto text-center text-white">
+          <p className="text-xs tracking-[0.3em] uppercase text-[#d4a853] mb-5 font-medium">Get Started Free</p>
           <h2
-            className="text-3xl md:text-4xl font-bold mb-4"
+            className="text-3xl md:text-5xl font-bold mb-6 leading-tight"
             style={{ fontFamily: "var(--font-playfair)" }}
           >
             Ready to reach more riders?
           </h2>
-          <p className="text-white/60 mb-10 leading-relaxed">
+          <p className="text-white/65 mb-10 leading-relaxed text-lg">
             Your barn is already being searched for. Make sure riders can find you — and choose you.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
