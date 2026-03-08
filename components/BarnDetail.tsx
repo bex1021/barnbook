@@ -1,11 +1,13 @@
 import { Barn } from "@/lib/types";
 import StarRating from "./StarRating";
 import PhotoCarousel from "./PhotoCarousel";
+import SaveButton from "./SaveButton";
 
 interface BarnDetailProps {
   barn: Barn;
   averageRating: number;
   reviewCount: number;
+  initialSaved?: boolean;
 }
 
 const amenityLabels: Record<string, string> = {
@@ -17,7 +19,7 @@ const amenityLabels: Record<string, string> = {
   washRack: "Wash Rack",
 };
 
-export default function BarnDetail({ barn, averageRating, reviewCount }: BarnDetailProps) {
+export default function BarnDetail({ barn, averageRating, reviewCount, initialSaved = false }: BarnDetailProps) {
   const activeAmenities = Object.entries(barn.amenities)
     .filter(([, v]) => v)
     .map(([k]) => amenityLabels[k] || k);
@@ -26,7 +28,12 @@ export default function BarnDetail({ barn, averageRating, reviewCount }: BarnDet
     <div>
       {/* Header */}
       <div className="mb-8">
-        <h1 className="text-3xl md:text-4xl font-bold text-gray-900">{barn.name}</h1>
+        <div className="flex items-start justify-between gap-4">
+          <h1 className="text-3xl md:text-4xl font-bold text-gray-900">{barn.name}</h1>
+          <div className="flex-shrink-0 mt-1">
+            <SaveButton barnId={barn.id} initialSaved={initialSaved} variant="detail" />
+          </div>
+        </div>
         <p className="text-gray-500 mt-1">
           {barn.address.street}, {barn.address.city}, {barn.address.state} {barn.address.zip}
         </p>
