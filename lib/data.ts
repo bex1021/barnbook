@@ -219,3 +219,16 @@ export async function getAverageRating(barnId: string): Promise<number> {
   const sum = reviews.reduce((acc, r) => acc + r.rating, 0);
   return Math.round((sum / reviews.length) * 10) / 10;
 }
+
+export async function getStats(): Promise<{ barnCount: number; cityCount: number; stateCount: number }> {
+  const { data } = await supabase.from("barns").select("address");
+  const barns = data || [];
+  const cities = new Set(barns.map((b: Record<string, unknown>) => (b.address as { city?: string })?.city).filter(Boolean));
+  const states = new Set(barns.map((b: Record<string, unknown>) => (b.address as { state?: string })?.state).filter(Boolean));
+  return { barnCount: barns.length, cityCount: cities.size, stateCount: states.size };
+}
+
+export async function getBarnsBySlugs(slugs: string[]): Promise<Barn[]> {
+  const { data } = await supabase.from("barns").select("*").in("slug", slugs);
+  return (data || []).map(mapBarn);
+}

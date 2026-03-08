@@ -1,8 +1,17 @@
 @import "tailwindcss";
 
 :root {
-  --color-primary: #2d5016;
-  --color-primary-light: #4a7c28;
-  --color-accent: #8b6914;
-  --color-warm: #f5f0e8;
+  --color-primary: #4a6741;
+  --color-primary-dark: #2d5016;
+  --color-accent: #c4956a;
+  --color-accent-dark: #8b5e3c;
+  --color-warm: #f0e8d8;
+  --color-cream: #faf7f2;
+  --color-text: #2c1810;
+  --color-text-muted: #7a6a5a;
+  --color-border: #e8dcc8;
+}
+
+body {
+  font-family: var(--font-sans), system-ui, sans-serif;
 }
