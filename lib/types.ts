@@ -34,6 +34,17 @@ export interface Trainer {
   specialties: string[];
 }
 
+export interface BarnClaim {
+  id: string;
+  barnId: string;
+  userId: string;
+  contactPhone: string;
+  contactEmail: string;
+  message: string;
+  status: "pending" | "approved" | "rejected";
+  createdAt: string;
+}
+
 export interface Barn {
   id: string;
   ownerId: string;
@@ -52,6 +63,7 @@ export interface Barn {
   lessonAvailability: boolean;
   horseBreeds: string[];
   photos: string[];
+  verified: boolean;
   createdAt: string;
   updatedAt: string;
 }

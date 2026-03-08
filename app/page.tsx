@@ -54,6 +54,7 @@ export default async function HomePage() {
           alt="Equestrian facility"
           fill
           priority
+          sizes="100vw"
           className="object-cover object-center"
         />
         {/* Warm dark overlay */}
@@ -162,6 +163,7 @@ export default async function HomePage() {
                   src={`/images/barns/${barn.photos[0]}`}
                   alt={barn.name}
                   fill
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                   className="object-cover group-hover:scale-105 transition-transform duration-500"
                 />
               </div>
@@ -301,10 +303,10 @@ export default async function HomePage() {
             Join the Barnbook community and reach thousands of riders looking for their next barn.
           </p>
           <Link
-            href="/auth/register"
+            href="/for-owners"
             className="inline-block bg-[#d4a853] text-[#2c1810] px-8 py-3.5 rounded-full font-semibold hover:bg-[#c49843] transition tracking-wide"
           >
-            Get Started Free
+            Learn More
           </Link>
         </div>
       </section>
