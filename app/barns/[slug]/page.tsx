@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getBarnBySlug, getAverageRating, getReviewsByBarn, isBarnSaved } from "@/lib/data";
+import { getBarnBySlug, getAverageRating, getReviewsByBarn, isBarnSaved, getClaimByBarnAndUser } from "@/lib/data";
 import { auth } from "@/lib/auth";
 import BarnDetail from "@/components/BarnDetail";
 import ReviewCard from "@/components/ReviewCard";
@@ -26,15 +26,23 @@ export default async function BarnDetailPage({ params }: PageProps) {
   if (!barn) notFound();
 
   const session = await auth();
-  const [reviews, averageRating, savedStatus] = await Promise.all([
+  const userId = session?.user?.id;
+
+  const [reviews, averageRating, savedStatus, existingClaim] = await Promise.all([
     getReviewsByBarn(barn.id),
     getAverageRating(barn.id),
-    session?.user?.id ? isBarnSaved(session.user.id, barn.id) : Promise.resolve(false),
+    userId ? isBarnSaved(userId, barn.id) : Promise.resolve(false),
+    userId && !barn.ownerId ? getClaimByBarnAndUser(barn.id, userId) : Promise.resolve(null),
   ]);
+
+  const claimStatus =
+    barn.ownerId === userId ? "owner" :
+    existingClaim ? "pending" :
+    "none";
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-      <BarnDetail barn={barn} averageRating={averageRating} reviewCount={reviews.length} initialSaved={savedStatus} />
+      <BarnDetail barn={barn} averageRating={averageRating} reviewCount={reviews.length} initialSaved={savedStatus} claimStatus={claimStatus} />
 
       {/* Reviews section */}
       <section className="mt-12">

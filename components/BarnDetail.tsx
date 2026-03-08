@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Barn } from "@/lib/types";
 import StarRating from "./StarRating";
 import PhotoCarousel from "./PhotoCarousel";
@@ -8,6 +9,7 @@ interface BarnDetailProps {
   averageRating: number;
   reviewCount: number;
   initialSaved?: boolean;
+  claimStatus?: "none" | "pending" | "owner";
 }
 
 const amenityLabels: Record<string, string> = {
@@ -19,7 +21,7 @@ const amenityLabels: Record<string, string> = {
   washRack: "Wash Rack",
 };
 
-export default function BarnDetail({ barn, averageRating, reviewCount, initialSaved = false }: BarnDetailProps) {
+export default function BarnDetail({ barn, averageRating, reviewCount, initialSaved = false, claimStatus = "none" }: BarnDetailProps) {
   const activeAmenities = Object.entries(barn.amenities)
     .filter(([, v]) => v)
     .map(([k]) => amenityLabels[k] || k);
@@ -95,7 +97,7 @@ export default function BarnDetail({ barn, averageRating, reviewCount, initialSa
                     <h3 className="font-semibold">{t.name}</h3>
                     <p className="text-gray-600 text-sm mt-1">{t.bio}</p>
                     <div className="flex gap-2 mt-2">
-                      {t.specialties.map((s) => (
+                      {(t.specialties || []).map((s) => (
                         <span key={s} className="text-xs px-2 py-0.5 bg-gray-100 text-gray-600 rounded-full capitalize">{s}</span>
                       ))}
                     </div>
@@ -180,6 +182,40 @@ export default function BarnDetail({ barn, averageRating, reviewCount, initialSa
             <div className="bg-green-50 border border-green-200 rounded-xl p-6 text-center">
               <p className="text-green-700 font-semibold">Lessons Available</p>
               <p className="text-green-600 text-sm mt-1">Contact the barn to schedule</p>
+            </div>
+          )}
+
+          {/* Verified owner badge */}
+          {barn.verified && (
+            <div className="bg-[#f0e8d8] border border-[#e8dcc8] rounded-xl p-4 flex items-center gap-3">
+              <div className="w-8 h-8 bg-[#4a6741] rounded-full flex items-center justify-center flex-shrink-0">
+                <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
+                </svg>
+              </div>
+              <div>
+                <p className="text-sm font-semibold text-[#2c1810]">Verified Owner</p>
+                <p className="text-xs text-[#7a6a5a] mt-0.5">This listing is managed by the owner</p>
+              </div>
+            </div>
+          )}
+
+          {/* Claim this listing */}
+          {!barn.verified && !barn.ownerId && claimStatus === "none" && (
+            <div className="border border-[#e8dcc8] rounded-xl p-4 text-center bg-white">
+              <p className="text-sm text-[#7a6a5a] mb-3">Are you the owner of this barn?</p>
+              <Link
+                href={`/claim/${barn.id}`}
+                className="text-sm text-[#4a6741] font-medium hover:text-[#2d5016] underline underline-offset-4 transition"
+              >
+                Claim this listing →
+              </Link>
+            </div>
+          )}
+
+          {!barn.verified && claimStatus === "pending" && (
+            <div className="border border-[#e8dcc8] rounded-xl p-4 text-center bg-[#f0e8d8]">
+              <p className="text-sm text-[#7a6a5a]">Your claim request is pending review.</p>
             </div>
           )}
         </aside>

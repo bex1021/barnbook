@@ -1,5 +1,5 @@
 import { supabase } from "./supabase";
-import { Barn, User, Review } from "./types";
+import { Barn, User, Review, BarnClaim } from "./types";
 
 function mapBarn(row: Record<string, unknown>): Barn {
   return {
@@ -20,6 +20,7 @@ function mapBarn(row: Record<string, unknown>): Barn {
     lessonAvailability: row.lesson_availability as boolean,
     horseBreeds: (row.horse_breeds as string[]) || [],
     photos: (row.photos as string[]) || [],
+    verified: (row.verified as boolean) || false,
     createdAt: row.created_at as string,
     updatedAt: row.updated_at as string,
   };
@@ -242,6 +243,51 @@ export async function isBarnSaved(userId: string, barnId: string): Promise<boole
     .eq("barn_id", barnId)
     .single();
   return !!data;
+}
+
+// Barn claims
+function mapClaim(row: Record<string, unknown>): BarnClaim {
+  return {
+    id: row.id as string,
+    barnId: row.barn_id as string,
+    userId: row.user_id as string,
+    contactPhone: (row.contact_phone as string) || "",
+    contactEmail: (row.contact_email as string) || "",
+    message: row.message as string,
+    status: row.status as BarnClaim["status"],
+    createdAt: row.created_at as string,
+  };
+}
+
+export async function createClaim(
+  claim: Omit<BarnClaim, "id" | "status" | "createdAt">
+): Promise<BarnClaim> {
+  const { data, error } = await supabase
+    .from("barn_claims")
+    .insert({
+      barn_id: claim.barnId,
+      user_id: claim.userId,
+      contact_phone: claim.contactPhone,
+      contact_email: claim.contactEmail,
+      message: claim.message,
+    })
+    .select()
+    .single();
+  if (error) throw error;
+  return mapClaim(data);
+}
+
+export async function getClaimByBarnAndUser(
+  barnId: string,
+  userId: string
+): Promise<BarnClaim | null> {
+  const { data } = await supabase
+    .from("barn_claims")
+    .select("*")
+    .eq("barn_id", barnId)
+    .eq("user_id", userId)
+    .single();
+  return data ? mapClaim(data) : null;
 }
 
 export async function getSavedBarns(userId: string): Promise<Barn[]> {

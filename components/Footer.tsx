@@ -15,7 +15,8 @@ export default function Footer() {
             <h4 className="font-semibold text-white mb-3">Quick Links</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/barns" className="hover:text-white transition">Browse Barns</Link></li>
-              <li><Link href="/auth/register" className="hover:text-white transition">List Your Barn</Link></li>
+              <li><Link href="/for-owners" className="hover:text-white transition">For Barn Owners</Link></li>
+              <li><Link href="/claim" className="hover:text-white transition">Claim Your Listing</Link></li>
             </ul>
           </div>
           <div>

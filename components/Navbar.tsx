@@ -28,6 +28,12 @@ export default function Navbar() {
             >
               Browse Barns
             </Link>
+            <Link
+              href="/for-owners"
+              className="text-sm bg-[#f0e8d8] text-[#8b5e3c] px-4 py-2 rounded-full font-medium hover:bg-[#e8dcc8] transition tracking-wide border border-[#e0d0b8]"
+            >
+              For Owners
+            </Link>
 
             {session && (
               <>
@@ -87,6 +93,9 @@ export default function Navbar() {
         <div className="md:hidden border-t border-[#e8dcc8] px-4 py-4 space-y-3 bg-[#faf7f2]">
           <Link href="/barns" className="block text-[#5a4a3a] hover:text-[#2c1810]" onClick={() => setMobileOpen(false)}>
             Browse Barns
+          </Link>
+          <Link href="/for-owners" className="block text-[#5a4a3a] hover:text-[#2c1810]" onClick={() => setMobileOpen(false)}>
+            For Owners
           </Link>
           {session ? (
             <>
