@@ -15,7 +15,7 @@ const RIDER_TYPES = [
       </svg>
     ),
     label: "The Relocating Rider",
-    body: "Moving to a new city with their horse — or planning to — they're researching barns weeks before they arrive. They need to find you before someone else does.",
+    body: "Moving to a new city with their horse and a real deadline to find a boarding home. They&apos;re researching weeks before they arrive — and whoever shows up first wins the stall.",
   },
   {
     icon: (
@@ -33,23 +33,23 @@ const RIDER_TYPES = [
       </svg>
     ),
     label: "The Competitive Rider",
-    body: "Serious about their sport and looking for a facility that can match their ambition. They need to know your disciplines, your trainers, and your competition record.",
+    body: "Upgrading to a facility that matches their ambition — and often bringing their horse with them. They&apos;re high-commitment boarders who stay for years when they find the right fit.",
   },
 ];
 
 const ALTERNATING_BENEFITS = [
   {
     photo: "/images/barns/eden-farm.jpg",
-    label: "Reach More Riders",
-    title: "Find the riders who are already looking for you",
-    body: "Barnbook is built for riders in transition — relocating to a new area, returning to the sport, or simply ready for a change. These aren't casual browsers. They're committed equestrians actively searching for their next barn, and they're searching on Barnbook.",
+    label: "Fill Your Stalls",
+    title: "Turn empty stalls into steady monthly income",
+    body: "Every new boarder is $700–$1,500 or more in recurring monthly revenue. Barnbook connects you with riders who are actively searching for a boarding home — not casually browsing, but ready to commit. Reach them before they find someone else.",
     imageLeft: true,
   },
   {
     photo: "/images/barns/silver-oak-stable.jpg",
     label: "Your Listing",
-    title: "Market yourself the way you deserve",
-    body: "Tell your full story. Add photos of your facilities, highlight your trainers, list your disciplines and amenities, and set your pricing. Your Barnbook listing becomes a marketing hub riders can find — and trust — before they ever call.",
+    title: "Your best marketing tool — and it's free",
+    body: "A complete Barnbook listing works for you around the clock. Add photos, highlight your trainers, list your boarding options and pricing. Riders researching a move will find you, trust you, and reach out — before they&apos;ve even packed a box.",
     imageLeft: false,
   },
   {
@@ -140,10 +140,10 @@ export default function ForOwnersPage() {
               You&apos;ve built<br />something special.
             </h1>
             <p className="text-xl text-[#5a4a3a] mb-4 leading-relaxed" style={{ fontFamily: "var(--font-playfair)" }}>
-              Help riders find you.
+              Now fill your stalls and grow your revenue.
             </p>
             <p className="text-[#7a6a5a] leading-relaxed mb-10">
-              Riders are moving to your area every day, searching for the right barn before they even arrive. Barnbook puts your facility in front of them — for free.
+              Every empty stall is revenue you haven&apos;t found yet. Riders are moving to your area right now, searching for a boarding home before they even arrive — and word of mouth alone isn&apos;t enough to reach them. Barnbook puts your facility in front of them, for free.
             </p>
             <div className="flex flex-col sm:flex-row gap-3">
               <Link
@@ -176,17 +176,53 @@ export default function ForOwnersPage() {
         </div>
       </section>
 
+      {/* ── Revenue numbers strip ── */}
+      <section className="bg-[#f0e8d8] border-y border-[#e0d4c0] py-14 px-4">
+        <div className="max-w-5xl mx-auto">
+          <p className="text-center text-xs tracking-[0.2em] uppercase text-[#c4956a] mb-10 font-medium">The cost of an empty stall</p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+            <div>
+              <p className="text-5xl font-bold text-[#2c1810] mb-2" style={{ fontFamily: "var(--font-playfair)" }}>
+                $9,600
+              </p>
+              <p className="text-sm text-[#7a6a5a] leading-relaxed">
+                lost per year from a single empty stall at $800/month
+              </p>
+            </div>
+            <div>
+              <p className="text-5xl font-bold text-[#2c1810] mb-2" style={{ fontFamily: "var(--font-playfair)" }}>
+                $19,200
+              </p>
+              <p className="text-sm text-[#7a6a5a] leading-relaxed">
+                lost per year with just two empty stalls sitting vacant
+              </p>
+            </div>
+            <div>
+              <p className="text-5xl font-bold text-[#4a6741] mb-2" style={{ fontFamily: "var(--font-playfair)" }}>
+                $0
+              </p>
+              <p className="text-sm text-[#7a6a5a] leading-relaxed">
+                cost to list on Barnbook and start reaching boarders today
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* ── The riders looking for you ── */}
       <section className="bg-[#2c1810] py-20 px-4">
         <div className="max-w-5xl mx-auto">
           <div className="mb-14">
             <p className="text-xs tracking-[0.2em] uppercase text-[#d4a853] mb-3">Your Audience</p>
             <h2
-              className="text-3xl md:text-4xl font-bold text-white"
+              className="text-3xl md:text-4xl font-bold text-white mb-4"
               style={{ fontFamily: "var(--font-playfair)" }}
             >
               Who&apos;s searching for you
             </h2>
+            <p className="text-white/60 max-w-xl text-sm leading-relaxed">
+              These aren&apos;t window shoppers. They&apos;re horse owners with real boarding needs, ready to commit to the right facility.
+            </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {RIDER_TYPES.map(({ icon, label, body }) => (
@@ -352,10 +388,10 @@ export default function ForOwnersPage() {
             className="text-3xl md:text-5xl font-bold mb-6 leading-tight"
             style={{ fontFamily: "var(--font-playfair)" }}
           >
-            Ready to reach more riders?
+            Every empty stall is a stall waiting to be filled.
           </h2>
           <p className="text-white/65 mb-10 leading-relaxed text-lg">
-            Your barn is already being searched for. Make sure riders can find you — and choose you.
+            Riders are searching for your barn right now. List for free, get discovered, and start converting empty stalls into steady monthly revenue.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
