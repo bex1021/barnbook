@@ -55,3 +55,15 @@ CREATE INDEX barns_slug_idx ON barns(slug);
 CREATE INDEX barns_owner_idx ON barns(owner_id);
 CREATE INDEX reviews_barn_idx ON reviews(barn_id);
 CREATE INDEX saved_barns_user_idx ON saved_barns(user_id);
+
+-- ── Phase 3: Barn profile enhancements ──
+-- Run these ALTER TABLE statements if you already have the tables above:
+
+ALTER TABLE barns ADD COLUMN IF NOT EXISTS verified BOOLEAN DEFAULT FALSE;
+ALTER TABLE barns ADD COLUMN IF NOT EXISTS accepting_boarders BOOLEAN DEFAULT NULL;
+ALTER TABLE barns ADD COLUMN IF NOT EXISTS competition_affiliations TEXT[] DEFAULT '{}';
+ALTER TABLE barns ADD COLUMN IF NOT EXISTS show_levels TEXT[] DEFAULT '{}';
+ALTER TABLE barns ADD COLUMN IF NOT EXISTS social_media JSONB DEFAULT NULL;
+ALTER TABLE barns ADD COLUMN IF NOT EXISTS video_url TEXT DEFAULT NULL;
+
+ALTER TABLE reviews ADD COLUMN IF NOT EXISTS category_ratings JSONB DEFAULT NULL;

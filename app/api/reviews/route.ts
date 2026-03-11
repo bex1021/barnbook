@@ -19,7 +19,7 @@ export async function POST(request: NextRequest) {
   }
 
   const body = await request.json();
-  const { barnId, rating, text } = body;
+  const { barnId, rating, text, categoryRatings } = body;
 
   if (!barnId || !rating || !text) {
     return NextResponse.json({ error: "barnId, rating, and text are required" }, { status: 400 });
@@ -35,6 +35,7 @@ export async function POST(request: NextRequest) {
     userName: session.user.name,
     rating,
     text,
+    categoryRatings: categoryRatings || undefined,
   });
 
   return NextResponse.json(review, { status: 201 });
