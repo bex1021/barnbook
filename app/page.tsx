@@ -48,51 +48,47 @@ export default async function HomePage() {
     <div className="bg-[#faf7f2]">
 
       {/* ── Hero ── */}
-      <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
+      <section className="relative min-h-[92vh] flex items-center justify-center overflow-hidden">
         <Image
-          src="/images/barns/stone-columns-stables.jpg"
-          alt="Equestrian facility"
+          src="/images/horses/hero-horse.jpg"
+          alt="Rider on white horse"
           fill
           priority
           sizes="100vw"
           className="object-cover object-center"
         />
-        {/* Warm dark overlay */}
-        <div className="absolute inset-0 bg-[#1a0d07]/65" />
+        {/* Warm gradient overlay — darker at bottom for search legibility */}
+        <div className="absolute inset-0 bg-gradient-to-b from-[#1a0d07]/50 via-[#1a0d07]/55 to-[#1a0d07]/75" />
 
-        <div className="relative z-10 text-center text-white px-4 w-full max-w-3xl mx-auto">
-          <p className="text-xs tracking-[0.3em] uppercase text-[#d4a853] mb-5 font-medium">
-            The Equestrian Community
+        <div className="relative z-10 text-center text-white px-4 w-full max-w-4xl mx-auto">
+          <p className="text-[11px] tracking-[0.35em] uppercase text-[#d4a853] mb-6 font-medium">
+            The Equestrian Directory
           </p>
           <h1
-            className="text-5xl md:text-7xl font-bold leading-tight mb-6"
+            className="text-5xl md:text-7xl font-bold leading-tight mb-5"
             style={{ fontFamily: "var(--font-playfair)" }}
           >
-            Find Your<br />Perfect Barn
+            Find Riding Lessons<br />&amp; Boarding Near You
           </h1>
-          <p className="text-lg text-white/70 mb-10 max-w-md mx-auto leading-relaxed">
-            Search boarding and lesson barns across the country. Browse real reviews from riders like you.
+          <p className="text-base md:text-lg text-white/65 mb-10 max-w-lg mx-auto leading-relaxed">
+            The trusted directory for boarding and lessons. Browse real reviews from equestrians who know.
           </p>
 
-          {/* Hero search bar */}
-          <div className="max-w-2xl mx-auto">
+          {/* Hero search bar — Airbnb-style card */}
+          <div className="w-full max-w-3xl mx-auto">
             <SearchBar variant="hero" />
           </div>
 
-          <div className="mt-6 flex items-center justify-center gap-5">
-            <Link
-              href="/barns?lessons=true"
-              className="text-sm text-white/70 hover:text-white underline underline-offset-4 transition"
-            >
-              Find Lessons
-            </Link>
-            <span className="text-white/30">·</span>
-            <Link
-              href="/barns?boarding=full,partial,pasture,self-care"
-              className="text-sm text-white/70 hover:text-white underline underline-offset-4 transition"
-            >
-              Find Boarding
-            </Link>
+          <div className="mt-6 flex items-center justify-center gap-6 text-sm text-white/50">
+            <span>Dressage</span>
+            <span className="text-white/20">·</span>
+            <span>Hunter/Jumper</span>
+            <span className="text-white/20">·</span>
+            <span>Western</span>
+            <span className="text-white/20">·</span>
+            <span>Eventing</span>
+            <span className="text-white/20">·</span>
+            <span>Trail Riding</span>
           </div>
         </div>
       </section>
@@ -127,6 +123,68 @@ export default async function HomePage() {
             </p>
             <p className="text-xs text-[#7a6a5a] mt-2 tracking-[0.15em] uppercase">States</p>
           </div>
+        </div>
+      </section>
+
+      {/* ── Editorial Photo Strip ── */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {/* Column 1 — Boarding */}
+          <Link href="/barns?boarding=full,partial,pasture,self-care" className="group relative rounded-2xl overflow-hidden aspect-[3/4] block">
+            <Image
+              src="/images/horses/editorial-boarding.jpg"
+              alt="Barn with horses grazing"
+              fill
+              sizes="(max-width: 768px) 100vw, 33vw"
+              className="object-cover group-hover:scale-105 transition-transform duration-700"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-[#1a0d07]/80 via-[#1a0d07]/20 to-transparent" />
+            <div className="absolute bottom-0 left-0 p-7">
+              <p className="text-[10px] tracking-[0.25em] uppercase text-[#d4a853] mb-2 font-medium">Find a Home</p>
+              <h3 className="text-2xl font-bold text-white leading-snug" style={{ fontFamily: "var(--font-playfair)" }}>
+                Boarding
+              </h3>
+              <p className="text-sm text-white/65 mt-2 leading-relaxed">Full care, partial, pasture & more</p>
+            </div>
+          </Link>
+
+          {/* Column 2 — Lessons */}
+          <Link href="/barns?lessons=true" className="group relative rounded-2xl overflow-hidden aspect-[3/4] block">
+            <Image
+              src="/images/horses/editorial-lessons.jpg"
+              alt="Child riding horse in front of barn"
+              fill
+              sizes="(max-width: 768px) 100vw, 33vw"
+              className="object-cover object-top group-hover:scale-105 transition-transform duration-700"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-[#1a0d07]/80 via-[#1a0d07]/20 to-transparent" />
+            <div className="absolute bottom-0 left-0 p-7">
+              <p className="text-[10px] tracking-[0.25em] uppercase text-[#d4a853] mb-2 font-medium">Learn to Ride</p>
+              <h3 className="text-2xl font-bold text-white leading-snug" style={{ fontFamily: "var(--font-playfair)" }}>
+                Lessons
+              </h3>
+              <p className="text-sm text-white/65 mt-2 leading-relaxed">Beginner to advanced instruction</p>
+            </div>
+          </Link>
+
+          {/* Column 3 — Explore */}
+          <Link href="/barns" className="group relative rounded-2xl overflow-hidden aspect-[3/4] block">
+            <Image
+              src="/images/horses/editorial-facilities.jpg"
+              alt="Horses in stable"
+              fill
+              sizes="(max-width: 768px) 100vw, 33vw"
+              className="object-cover group-hover:scale-105 transition-transform duration-700"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-[#1a0d07]/80 via-[#1a0d07]/20 to-transparent" />
+            <div className="absolute bottom-0 left-0 p-7">
+              <p className="text-[10px] tracking-[0.25em] uppercase text-[#d4a853] mb-2 font-medium">Browse All</p>
+              <h3 className="text-2xl font-bold text-white leading-snug" style={{ fontFamily: "var(--font-playfair)" }}>
+                Explore Barns
+              </h3>
+              <p className="text-sm text-white/65 mt-2 leading-relaxed">Arenas, trails, and top facilities</p>
+            </div>
+          </Link>
         </div>
       </section>
 
@@ -239,7 +297,7 @@ export default async function HomePage() {
               className="text-3xl md:text-4xl font-bold text-[#2c1810]"
               style={{ fontFamily: "var(--font-playfair)" }}
             >
-              Built for Riders, by Riders
+              Built for Equestrians, by Equestrians
             </h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
@@ -268,7 +326,7 @@ export default async function HomePage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
                   </svg>
                 ),
-                title: "Real Rider Reviews",
+                title: "Real Equestrian Reviews",
                 body: "Read honest reviews from current boarders and lesson students. Detailed ratings on facilities, trainers, communication, and value.",
               },
             ].map(({ icon, title, body }) => (
@@ -300,7 +358,7 @@ export default async function HomePage() {
             Own a Barn?
           </h2>
           <p className="text-white/60 mb-8 max-w-md mx-auto">
-            Join the Barnbook community and reach thousands of riders looking for their next barn.
+            Join the Barnbook community and reach thousands of equestrians looking for their next barn.
           </p>
           <Link
             href="/for-owners"

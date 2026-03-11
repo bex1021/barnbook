@@ -34,6 +34,20 @@ export interface Trainer {
   specialties: string[];
 }
 
+export interface SocialMedia {
+  instagram?: string;
+  facebook?: string;
+  youtube?: string;
+  tiktok?: string;
+}
+
+export interface CategoryRatings {
+  facilities?: number;
+  trainer?: number;
+  communication?: number;
+  value?: number;
+}
+
 export interface BarnClaim {
   id: string;
   barnId: string;
@@ -64,6 +78,13 @@ export interface Barn {
   horseBreeds: string[];
   photos: string[];
   verified: boolean;
+  acceptingBoarders?: boolean;
+  competitionAffiliations?: string[];
+  showLevels?: string[];
+  socialMedia?: SocialMedia;
+  videoUrl?: string;
+  horseLeasing?: boolean;
+  status?: "active" | "pending" | "rejected";
   createdAt: string;
   updatedAt: string;
 }
@@ -73,7 +94,7 @@ export interface User {
   name: string;
   email: string;
   passwordHash: string;
-  role: "owner" | "user";
+  role: "admin" | "owner" | "rider" | "user";
   createdAt: string;
 }
 
@@ -84,5 +105,6 @@ export interface Review {
   userName: string;
   rating: number;
   text: string;
+  categoryRatings?: CategoryRatings;
   createdAt: string;
 }

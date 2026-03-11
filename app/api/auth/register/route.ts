@@ -19,7 +19,7 @@ export async function POST(request: NextRequest) {
     name,
     email,
     passwordHash,
-    role: role === "owner" ? "owner" : "user",
+    role: role === "owner" ? "owner" : "rider",
   });
 
   return NextResponse.json({ id: user.id, name: user.name, email: user.email, role: user.role }, { status: 201 });

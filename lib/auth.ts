@@ -40,6 +40,11 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
         token.id = user.id;
         token.role = (user as { role?: string }).role;
       }
+      // Always refresh role from DB so admin changes take effect immediately
+      if (token.id) {
+        const fresh = await getUserByEmail(token.email as string);
+        if (fresh) token.role = fresh.role;
+      }
       return token;
     },
     async session({ session, token }) {

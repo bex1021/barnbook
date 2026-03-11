@@ -1,5 +1,5 @@
 import { supabase } from "./supabase";
-import { Barn, User, Review, BarnClaim } from "./types";
+import { Barn, User, Review, BarnClaim, CategoryRatings } from "./types";
 
 function mapBarn(row: Record<string, unknown>): Barn {
   return {
@@ -21,6 +21,13 @@ function mapBarn(row: Record<string, unknown>): Barn {
     horseBreeds: (row.horse_breeds as string[]) || [],
     photos: (row.photos as string[]) || [],
     verified: (row.verified as boolean) || false,
+    acceptingBoarders: row.accepting_boarders as boolean | undefined,
+    competitionAffiliations: (row.competition_affiliations as string[]) || [],
+    showLevels: (row.show_levels as string[]) || [],
+    socialMedia: (row.social_media as Barn["socialMedia"]) || undefined,
+    videoUrl: (row.video_url as string) || undefined,
+    horseLeasing: (row.horse_leasing as boolean) || false,
+    status: (row.status as Barn["status"]) || "active",
     createdAt: row.created_at as string,
     updatedAt: row.updated_at as string,
   };
@@ -45,13 +52,24 @@ function mapReview(row: Record<string, unknown>): Review {
     userName: row.user_name as string,
     rating: row.rating as number,
     text: row.text as string,
+    categoryRatings: (row.category_ratings as CategoryRatings) || undefined,
     createdAt: row.created_at as string,
   };
 }
 
 // Barns
 export async function getBarns(): Promise<Barn[]> {
-  const { data, error } = await supabase.from("barns").select("*");
+  const { data, error } = await supabase.from("barns").select("*").eq("status", "active");
+  if (error) throw error;
+  return (data || []).map(mapBarn);
+}
+
+export async function getPendingBarns(): Promise<Barn[]> {
+  const { data, error } = await supabase
+    .from("barns")
+    .select("*")
+    .eq("status", "pending")
+    .order("created_at", { ascending: false });
   if (error) throw error;
   return (data || []).map(mapBarn);
 }
@@ -61,6 +79,7 @@ export async function getBarnBySlug(slug: string): Promise<Barn | undefined> {
     .from("barns")
     .select("*")
     .eq("slug", slug)
+    .eq("status", "active")
     .single();
   return data ? mapBarn(data) : undefined;
 }
@@ -207,6 +226,7 @@ export async function createReview(
       user_name: review.userName,
       rating: review.rating,
       text: review.text,
+      category_ratings: review.categoryRatings || null,
     })
     .select()
     .single();
@@ -222,7 +242,7 @@ export async function getAverageRating(barnId: string): Promise<number> {
 }
 
 export async function getStats(): Promise<{ barnCount: number; cityCount: number; stateCount: number }> {
-  const { data } = await supabase.from("barns").select("address");
+  const { data } = await supabase.from("barns").select("address").eq("status", "active");
   const barns = data || [];
   const cities = new Set(barns.map((b: Record<string, unknown>) => (b.address as { city?: string })?.city).filter(Boolean));
   const states = new Set(barns.map((b: Record<string, unknown>) => (b.address as { state?: string })?.state).filter(Boolean));
@@ -230,7 +250,7 @@ export async function getStats(): Promise<{ barnCount: number; cityCount: number
 }
 
 export async function getBarnsBySlugs(slugs: string[]): Promise<Barn[]> {
-  const { data } = await supabase.from("barns").select("*").in("slug", slugs);
+  const { data } = await supabase.from("barns").select("*").in("slug", slugs).eq("status", "active");
   return (data || []).map(mapBarn);
 }
 
@@ -288,6 +308,17 @@ export async function getClaimByBarnAndUser(
     .eq("user_id", userId)
     .single();
   return data ? mapClaim(data) : null;
+}
+
+export async function getNearbyBarns(barnId: string, state: string): Promise<Barn[]> {
+  const { data } = await supabase
+    .from("barns")
+    .select("*")
+    .contains("address", { state })
+    .neq("id", barnId)
+    .eq("status", "active")
+    .limit(3);
+  return (data || []).map(mapBarn);
 }
 
 export async function getSavedBarns(userId: string): Promise<Barn[]> {

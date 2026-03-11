@@ -20,6 +20,9 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: "Barnbook - Horse Farm & Barn Directory",
   description: "Find the perfect horse farm or barn. Browse listings, read reviews, and connect with equestrian facilities near you.",
+  icons: {
+    icon: "/icon.svg",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
