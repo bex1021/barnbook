@@ -18415,5 +18415,1013 @@
     "createdAt": "2026-03-12T01:14:51.000Z",
     "updatedAt": "2026-03-12T01:14:51.000Z",
     "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Winter Oaks Stables",
+    "slug": "winter-oaks-stables",
+    "description": "Winter Oaks Stables has been operating for 40 years in Shady Shores, Texas. Features a 20x60m covered arena with lights and mirrors, outdoor arena with jumps, round pen, and two wash racks. Full care includes three daily feedings, twice-daily stall cleaning, and daily turnout.",
+    "address": {
+      "street": "511 N Garza Rd",
+      "city": "Shady Shores",
+      "state": "TX",
+      "zip": "76208",
+      "lat": 33.178,
+      "lng": -97.017
+    },
+    "phone": "(940) 300-8235",
+    "website": "https://winteroaksstables.com",
+    "email": "Rhonda.L.Lea@outlook.com",
+    "disciplines": [
+      "hunter jumper",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 12,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 575,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "winter-oaks-stables.jpg"
+    ],
+    "createdAt": "2026-03-12T14:12:03.000Z",
+    "updatedAt": "2026-03-12T14:12:03.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "High Meadow Stables",
+    "slug": "high-meadow-stables-copper-canyon",
+    "description": "High Meadow Stables is a 28-acre gated equestrian property in Copper Canyon, Texas with access to 20+ miles of Lake Lewisville trails. Three arenas, stall and pasture boarding options available, $750-$900/month.",
+    "address": {
+      "street": "10 High Meadow Pl",
+      "city": "Copper Canyon",
+      "state": "TX",
+      "zip": "75077",
+      "lat": 33.096,
+      "lng": -97.087
+    },
+    "phone": "(940) 241-2042",
+    "website": "http://www.highmeadowstables.org",
+    "email": "",
+    "disciplines": [
+      "hunter jumper",
+      "dressage",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "pasture"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 750,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": [
+      "high-meadow-stables.jpg"
+    ],
+    "createdAt": "2026-03-12T14:12:03.000Z",
+    "updatedAt": "2026-03-12T14:12:03.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Denton Creek Farms",
+    "slug": "denton-creek-farms",
+    "description": "Denton Creek Farms is a world-class 95-acre eventing facility near Decatur, TX featuring 100+ cross-country jumps (Starter through Training), two water jumps, stadium course, dressage arena, round pen, five-horse hot walker, and 20-stall barn. Open by appointment.",
+    "address": {
+      "street": "6337 US-380",
+      "city": "Decatur",
+      "state": "TX",
+      "zip": "76234",
+      "lat": 33.285,
+      "lng": -97.463
+    },
+    "phone": "(940) 393-3720",
+    "website": "https://www.dentoncreekfarms.com",
+    "email": "dentoncreekfarmstx@gmail.com",
+    "disciplines": [
+      "eventing",
+      "hunter jumper",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": true,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 20,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "denton-creek-farms.jpg"
+    ],
+    "createdAt": "2026-03-12T14:12:03.000Z",
+    "updatedAt": "2026-03-12T14:12:03.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Twisted Oak Manor",
+    "slug": "twisted-oak-manor",
+    "description": "Twisted Oak Manor is a full-care, family-oriented equine facility in Argyle, Texas serving riders from beginners through advanced competitors. Programs include riding lessons, summer camps, Tiny Tots classes, Scout merit badge programs, and clinics.",
+    "address": {
+      "street": "1714 E Hickory Hill Rd",
+      "city": "Argyle",
+      "state": "TX",
+      "zip": "76226",
+      "lat": 33.133,
+      "lng": -97.176
+    },
+    "phone": "(214) 542-2284",
+    "website": "https://www.twistedoakmanor.net",
+    "email": "twistedoakmanor@gmail.com",
+    "disciplines": [
+      "hunter jumper",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Kelly",
+        "bio": "Owner and head trainer at Twisted Oak Manor specializing in English riding for all levels.",
+        "specialties": [
+          "hunter jumper"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "twisted-oak-manor.jpg"
+    ],
+    "createdAt": "2026-03-12T14:12:03.000Z",
+    "updatedAt": "2026-03-12T14:12:03.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "RNR Stables",
+    "slug": "rnr-stables-corinth",
+    "description": "RNR Stables is a family-oriented equestrian facility in Corinth, Texas near Lake Lewisville. Offers horseback riding lessons, summer camps, horse training, boarding, trail rides, barrel racing, and birthday parties.",
+    "address": {
+      "street": "3114 Parkridge Dr",
+      "city": "Corinth",
+      "state": "TX",
+      "zip": "76210",
+      "lat": 33.148,
+      "lng": -97.064
+    },
+    "phone": "(940) 321-8880",
+    "website": "http://rnrstables.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "pasture"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "rnr-stables-corinth.jpg"
+    ],
+    "createdAt": "2026-03-12T14:12:03.000Z",
+    "updatedAt": "2026-03-12T14:12:03.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Aubrey Park Equestrian",
+    "slug": "aubrey-park-equestrian",
+    "description": "Aubrey Park Equestrian is a boutique horse boarding facility in Aubrey, Texas, family-owned since 2019. Focused on providing a safe, clean, calm environment where horses can thrive. Full care boarding available.",
+    "address": {
+      "street": "1149 Raymond Burch Trail",
+      "city": "Aubrey",
+      "state": "TX",
+      "zip": "76227",
+      "lat": 33.328,
+      "lng": -96.999
+    },
+    "phone": "(972) 567-1052",
+    "website": "https://aubreyparkeq.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": [
+      "aubrey-park-equestrian.jpg"
+    ],
+    "createdAt": "2026-03-12T14:12:03.000Z",
+    "updatedAt": "2026-03-12T14:12:03.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Turning Point Equestrian",
+    "slug": "turning-point-equestrian",
+    "description": "Turning Point Equestrian in Ponder, Texas offers boarding, horse training, rider instruction, arena rental, and horse show hosting. European-style stalls with bamboo walls and ample turnout. Pasture board from $550/month; stall board from $750/month.",
+    "address": {
+      "street": "7865 T N Skiles Rd",
+      "city": "Ponder",
+      "state": "TX",
+      "zip": "76259",
+      "lat": 33.267,
+      "lng": -97.283
+    },
+    "phone": "(817) 319-8245",
+    "website": "https://turningpointequestrian.net",
+    "email": "",
+    "disciplines": [
+      "hunter jumper",
+      "dressage",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "pasture"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 550,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "turning-point-equestrian.jpg"
+    ],
+    "createdAt": "2026-03-12T14:12:03.000Z",
+    "updatedAt": "2026-03-12T14:12:03.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "ACE Equestrian",
+    "slug": "ace-equestrian-mckinney",
+    "description": "ACE Equestrian in McKinney, Texas offers riding lessons, horse training, and boarding in the heart of North Texas horse country.",
+    "address": {
+      "street": "6890 County Road 409",
+      "city": "McKinney",
+      "state": "TX",
+      "zip": "75071",
+      "lat": 33.259,
+      "lng": -96.704
+    },
+    "phone": "(214) 597-3106",
+    "website": "https://www.aceequestriantx.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "ace-equestrian-mckinney.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "North Dallas Equestrian",
+    "slug": "north-dallas-equestrian",
+    "description": "North Dallas Equestrian is a hunters, jumpers, and equitation facility in Lowry Crossing, Texas with three arenas, offering boarding and lessons for all levels starting at age 7.",
+    "address": {
+      "street": "615 Highridge Ln",
+      "city": "Lowry Crossing",
+      "state": "TX",
+      "zip": "75069",
+      "lat": 33.209,
+      "lng": -96.635
+    },
+    "phone": "(972) 548-7022",
+    "website": "https://dallasequestrian.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "north-dallas-equestrian.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Crowterre Equestrian",
+    "slug": "crowterre-equestrian",
+    "description": "Crowterre Equestrian is an equestrian facility in Celina, Texas providing boarding, training, and lessons in the growing North DFW horse country corridor.",
+    "address": {
+      "street": "8380 Co Rd 130",
+      "city": "Celina",
+      "state": "TX",
+      "zip": "75009",
+      "lat": 33.332,
+      "lng": -96.825
+    },
+    "phone": "(214) 326-2448",
+    "website": "https://www.crowterre.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "crowterre-equestrian.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Lancaster Hill Stables",
+    "slug": "lancaster-hill-stables",
+    "description": "Lancaster Hill Stables is a horse riding school in Celina, Texas offering personalized instruction for all levels. Features indoor arena and outdoor facilities. Open Tuesday through Sunday.",
+    "address": {
+      "street": "8696 Co Rd 133",
+      "city": "Celina",
+      "state": "TX",
+      "zip": "75009",
+      "lat": 33.328,
+      "lng": -96.827
+    },
+    "phone": "(719) 353-7850",
+    "website": "https://www.horsebackridingcelina.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "lancaster-hill-stables.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "KD Equestrian",
+    "slug": "kd-equestrian",
+    "description": "KD Equestrian is an equestrian facility in Fairview, Texas east of McKinney, offering boarding, training, and riding instruction in Collin County horse country.",
+    "address": {
+      "street": "960 Hart Rd",
+      "city": "Fairview",
+      "state": "TX",
+      "zip": "75069",
+      "lat": 33.162,
+      "lng": -96.618
+    },
+    "phone": "(337) 315-1481",
+    "website": "https://www.kdequestriandallas.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "kd-equestrian.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Three Brothers Stable",
+    "slug": "three-brothers-stable",
+    "description": "Three Brothers Stable is a full-service horse boarding and training facility in Bryan, Texas, offering lessons, training, and comprehensive horse care near Texas A&M University.",
+    "address": {
+      "street": "597 Marino Rd",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77808",
+      "lat": 30.728,
+      "lng": -96.388
+    },
+    "phone": "(210) 632-2097",
+    "website": "http://threebrothersstable.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "three-brothers-stable.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "North Star Equestrian Center",
+    "slug": "north-star-equestrian-college-station",
+    "description": "North Star Equestrian Center is a hunter/jumper and dressage training facility in College Station, Texas, near Texas A&M University, offering professional instruction and boarding for English disciplines.",
+    "address": {
+      "street": "12970 Valley Cir",
+      "city": "College Station",
+      "state": "TX",
+      "zip": "77845",
+      "lat": 30.574,
+      "lng": -96.286
+    },
+    "phone": "(979) 574-0884",
+    "website": "https://www.northstartexas.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "north-star-equestrian-college-station.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Diamond Oak Stables",
+    "slug": "diamond-oak-stables",
+    "description": "Diamond Oak Stables is a horse boarding facility on FM2038 in Bryan, Texas, providing quality equine care for horse owners in the Brazos Valley.",
+    "address": {
+      "street": "7705 FM2038",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77808",
+      "lat": 30.752,
+      "lng": -96.421
+    },
+    "phone": "(281) 923-8878",
+    "website": "http://www.diamondoakstables.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "pasture"
+      ],
+      "stallCount": 0,
+      "turnout": "pasture"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": [
+      "diamond-oak-stables.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "On The Bit Farm",
+    "slug": "on-the-bit-farm",
+    "description": "On The Bit Farm is an equestrian training and lesson facility in Bryan, Texas, offering instruction for riders at all levels in the Brazos Valley equestrian community.",
+    "address": {
+      "street": "6811 Honeysuckle Ln",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77808",
+      "lat": 30.718,
+      "lng": -96.394
+    },
+    "phone": "(979) 739-8607",
+    "website": "http://www.onthebitfarmtexas.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "on-the-bit-farm.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "iHeartRanch",
+    "slug": "iheartranchbcs",
+    "description": "iHeartRanch is an Aggie-owned equestrian facility in Bryan, Texas featuring a 130x180 outdoor arena, 50-foot round pen, riding trail, five stalls, and 11.5 acres of pasture. Western riding lessons and boarding available with instructors Rachel Ibarra and TAMU equestrian team member Malena Lopez.",
+    "address": {
+      "street": "9072 Werlinger Rd",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77808",
+      "lat": 30.763,
+      "lng": -96.357
+    },
+    "phone": "(979) 229-9960",
+    "website": "https://iheartranchbcs.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "pasture",
+        "partial",
+        "self-care"
+      ],
+      "stallCount": 5,
+      "turnout": "pasture"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Rachel Ibarra",
+        "bio": "Owner and riding instructor specializing in western disciplines.",
+        "specialties": [
+          "western"
+        ]
+      },
+      {
+        "name": "Malena Lopez",
+        "bio": "Texas A&M Animal Science student and TAMU Equestrian Team reiner.",
+        "specialties": [
+          "western"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "iheartranchbcs.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Royal Legend Arabians & Horse Center",
+    "slug": "royal-legend-arabians",
+    "description": "Royal Legend Arabians & Horse Center is an Arabian horse breeding and training facility in Bryan, Texas, offering boarding, training, and lessons with a specialty in Arabian horses.",
+    "address": {
+      "street": "7786 Riley Rd",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77808",
+      "lat": 30.745,
+      "lng": -96.412
+    },
+    "phone": "(979) 229-3622",
+    "website": "https://www.rlarabians.com",
+    "email": "",
+    "disciplines": [
+      "dressage",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": true,
+    "horseBreeds": [
+      "Arabian"
+    ],
+    "photos": [
+      "royal-legend-arabians.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "",
+    "ownerId": null,
+    "name": "Century Oak Equestrian",
+    "slug": "century-oak-equestrian",
+    "description": "Century Oak Equestrian is a hunter/jumper and equitation training facility in Anderson, Texas with instructor Regan Paige Escobar offering English riding lessons by appointment for all levels.",
+    "address": {
+      "street": "3785 County Rd 405",
+      "city": "Anderson",
+      "state": "TX",
+      "zip": "77830",
+      "lat": 30.472,
+      "lng": -95.99
+    },
+    "phone": "(936) 443-9587",
+    "website": "https://centuryoakequestrianllc.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Regan Paige Escobar",
+        "bio": "Owner and instructor specializing in hunters, jumpers, and equitation.",
+        "specialties": [
+          "hunter jumper"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "century-oak-equestrian.jpg"
+    ],
+    "createdAt": "2026-03-12T18:12:52.000Z",
+    "updatedAt": "2026-03-12T18:12:52.000Z",
+    "status": "pending"
   }
 ]
