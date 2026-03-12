@@ -154,6 +154,58 @@ export default function BlogEditor({ content, onChange }: BlogEditorProps) {
         >
           ❝
         </button>
+        <button
+          type="button"
+          onClick={() => editor.chain().focus().setHardBreak().run()}
+          className={btn(false)}
+          title="Hard line break (Shift+Enter)"
+        >
+          ↵
+        </button>
+
+        <span className="w-px h-6 bg-[#e8dcc8] mx-1 self-center" />
+
+        <button
+          type="button"
+          onClick={() =>
+            editor
+              .chain()
+              .focus()
+              .insertTable({ rows: 3, cols: 3, withHeaderRow: true })
+              .run()
+          }
+          className={btn(editor.isActive("table"))}
+          title="Insert table"
+        >
+          ⊞ Table
+        </button>
+        <button
+          type="button"
+          onClick={() => editor.chain().focus().addColumnAfter().run()}
+          disabled={!editor.can().addColumnAfter()}
+          className="px-2 py-1 rounded text-xs text-[#6b5c4e] hover:bg-[#f5ede0] disabled:opacity-30"
+          title="Add column"
+        >
+          +Col
+        </button>
+        <button
+          type="button"
+          onClick={() => editor.chain().focus().addRowAfter().run()}
+          disabled={!editor.can().addRowAfter()}
+          className="px-2 py-1 rounded text-xs text-[#6b5c4e] hover:bg-[#f5ede0] disabled:opacity-30"
+          title="Add row"
+        >
+          +Row
+        </button>
+        <button
+          type="button"
+          onClick={() => editor.chain().focus().deleteTable().run()}
+          disabled={!editor.can().deleteTable()}
+          className="px-2 py-1 rounded text-xs text-red-500 hover:bg-red-50 disabled:opacity-30"
+          title="Delete table"
+        >
+          ✕Table
+        </button>
 
         <span className="w-px h-6 bg-[#e8dcc8] mx-1 self-center" />
 
