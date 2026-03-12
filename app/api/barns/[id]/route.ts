@@ -1,14 +1,25 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getBarnById, updateBarn, deleteBarn } from "@/lib/data";
 import { auth } from "@/lib/auth";
+import { isAdmin } from "@/lib/is-admin";
 
 type RouteContext = { params: Promise<{ id: string }> };
 
-export async function GET(_request: NextRequest, { params }: RouteContext) {
+export async function GET(request: NextRequest, { params }: RouteContext) {
   const { id } = await params;
   const barn = await getBarnById(id);
   if (!barn) {
     return NextResponse.json({ error: "Barn not found" }, { status: 404 });
+  }
+  // Don't expose pending/rejected barns to the public
+  if (barn.status !== "active") {
+    const session = await auth();
+    const canView =
+      isAdmin(session?.user?.email) ||
+      (session?.user?.id && barn.ownerId === session.user.id);
+    if (!canView) {
+      return NextResponse.json({ error: "Barn not found" }, { status: 404 });
+    }
   }
   return NextResponse.json(barn);
 }

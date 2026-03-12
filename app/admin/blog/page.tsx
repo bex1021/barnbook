@@ -1,13 +1,13 @@
 import { auth } from "@/lib/auth";
+import { isAdmin } from "@/lib/is-admin";
 import { getAllPosts } from "@/lib/blog";
 import { redirect } from "next/navigation";
 import Link from "next/link";
 
-const ADMIN_EMAIL = "rebecca.leung671@gmail.com";
 
 export default async function AdminBlogPage() {
   const session = await auth();
-  if (session?.user?.email !== ADMIN_EMAIL) redirect("/auth/login");
+  if (!isAdmin(session?.user?.email)) redirect("/auth/login");
 
   const posts = await getAllPosts();
 

@@ -1,15 +1,15 @@
 import { auth } from "@/lib/auth";
+import { isAdmin } from "@/lib/is-admin";
 import { redirect } from "next/navigation";
 import { getPendingBarns } from "@/lib/data";
 import Link from "next/link";
 
-const ADMIN_EMAIL = "rebecca.leung671@gmail.com";
 
 export const metadata = { title: "Pending Barns | Admin" };
 
 export default async function PendingBarnsPage() {
   const session = await auth();
-  if (session?.user?.email !== ADMIN_EMAIL) redirect("/auth/login");
+  if (!isAdmin(session?.user?.email)) redirect("/auth/login");
 
   const barns = await getPendingBarns();
 

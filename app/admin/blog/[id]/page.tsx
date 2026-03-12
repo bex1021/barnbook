@@ -1,9 +1,9 @@
 import { auth } from "@/lib/auth";
+import { isAdmin } from "@/lib/is-admin";
 import { getPostById } from "@/lib/blog";
 import { redirect, notFound } from "next/navigation";
 import BlogPostForm from "@/components/BlogPostForm";
 
-const ADMIN_EMAIL = "rebecca.leung671@gmail.com";
 
 export default async function EditBlogPostPage({
   params,
@@ -11,7 +11,7 @@ export default async function EditBlogPostPage({
   params: Promise<{ id: string }>;
 }) {
   const session = await auth();
-  if (session?.user?.email !== ADMIN_EMAIL) redirect("/auth/login");
+  if (!isAdmin(session?.user?.email)) redirect("/auth/login");
 
   const { id } = await params;
   const post = await getPostById(id);

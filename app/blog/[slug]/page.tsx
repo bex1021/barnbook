@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import DOMPurify from "isomorphic-dompurify";
 
 export const revalidate = 60;
 
@@ -113,7 +114,7 @@ export default async function BlogPostPage({
         <div className="bg-white rounded-2xl p-8 md:p-12 shadow-sm border border-[#e8dcc8] mb-16">
           <div
             className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-[#2c1810] prose-p:text-[#3d2b1f] prose-p:leading-relaxed prose-a:text-[#4a6741] prose-a:no-underline hover:prose-a:underline prose-strong:text-[#2c1810] prose-blockquote:border-l-[#4a6741] prose-blockquote:text-[#6b5c4e] prose-li:text-[#3d2b1f]"
-            dangerouslySetInnerHTML={{ __html: post.content }}
+            dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(post.content) }}
           />
         </div>
 
