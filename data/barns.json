@@ -18138,5 +18138,282 @@
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
     "updatedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "36c1e7b1-eb5a-4b57-ac37-6e602c18d767",
+    "ownerId": "system",
+    "name": "Crown Ranch",
+    "slug": "crown-ranch-weatherford",
+    "description": "Crown Ranch is a cutting horse facility in Weatherford, Texas, offering boarding and training in the western disciplines. Situated in Parker County's renowned horse country, the ranch provides quality care for performance horses.",
+    "address": {
+      "street": "301 Measures Rd",
+      "city": "Weatherford",
+      "state": "TX",
+      "zip": "76088",
+      "lat": 32.817,
+      "lng": -97.883
+    },
+    "phone": "(817) 304-0233",
+    "website": "https://crownranchlp.com",
+    "email": "",
+    "disciplines": [
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": [
+      "crown-ranch-weatherford.jpg"
+    ],
+    "createdAt": "2026-03-12T01:14:51.000Z",
+    "updatedAt": "2026-03-12T01:14:51.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "4015bdc4-c30e-4270-a400-63d4acf7a976",
+    "ownerId": "system",
+    "name": "Tin Top Creek Equine Facility",
+    "slug": "tin-top-creek-weatherford",
+    "description": "Tin Top Creek Equine Facility is a 100-stall boarding operation six miles south of I-20 on Tin Top Road in Parker County. The facility features three barns including an indoor stall barn, a covered round pen, heated wash bay, private and shared turnout paddocks, and an arena. Full, partial, and self-care boarding options are available.",
+    "address": {
+      "street": "4324 Tin Top Rd",
+      "city": "Weatherford",
+      "state": "TX",
+      "zip": "76087",
+      "lat": 32.671,
+      "lng": -97.716
+    },
+    "phone": "(907) 388-8649",
+    "website": "https://tintopcreek.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "hunter jumper"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": false,
+      "roundPen": true,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "partial",
+        "self-care"
+      ],
+      "stallCount": 100,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": [
+      "tin-top-creek-weatherford.jpg"
+    ],
+    "createdAt": "2026-03-12T01:14:51.000Z",
+    "updatedAt": "2026-03-12T01:14:51.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8b27c9c5-b57b-4ac3-aa9c-84f22a543246",
+    "ownerId": "system",
+    "name": "October Hill Farm",
+    "slug": "october-hill-farm",
+    "description": "October Hill Farm is a premier 200-acre equestrian facility in Hudson Oaks, Texas offering hunter/jumper, eventing, and dressage training. The farm features both indoor and outdoor arenas and provides full-service boarding, professional instruction, and horse sales under the guidance of trainer Wendy Gerrish.",
+    "address": {
+      "street": "4302 E Bankhead Hwy",
+      "city": "Hudson Oaks",
+      "state": "TX",
+      "zip": "76087",
+      "lat": 32.748,
+      "lng": -97.707
+    },
+    "phone": "(817) 341-2012",
+    "website": "https://octoberhill.com",
+    "email": "",
+    "disciplines": [
+      "hunter jumper",
+      "eventing",
+      "dressage"
+    ],
+    "amenities": {
+      "indoorArena": true,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": true
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Wendy Gerrish",
+        "bio": "Professional trainer specializing in hunter/jumper, eventing, and dressage at October Hill Farm.",
+        "specialties": [
+          "hunter jumper",
+          "eventing",
+          "dressage"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "october-hill-farm.jpg"
+    ],
+    "createdAt": "2026-03-12T01:14:51.000Z",
+    "updatedAt": "2026-03-12T01:14:51.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "bc378a66-cbe2-428f-a94e-076498a4e4c7",
+    "ownerId": "system",
+    "name": "Freeman Ranch & Stables",
+    "slug": "freeman-ranch-stables",
+    "description": "Freeman Ranch & Stables is a horse boarding stable located in Katy, Texas. Situated on a working ranch property in the northwest Katy area, the facility offers boarding services for horse owners in the greater Houston metro region.",
+    "address": {
+      "street": "28340 Sharp Rd",
+      "city": "Katy",
+      "state": "TX",
+      "zip": "77493",
+      "lat": 29.836,
+      "lng": -95.835
+    },
+    "phone": "(713) 416-7792",
+    "website": "https://freemanranchstables.com",
+    "email": "",
+    "disciplines": [
+      "western",
+      "trail"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full",
+        "pasture"
+      ],
+      "stallCount": 0,
+      "turnout": "individual"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [],
+    "lessonAvailability": false,
+    "horseBreeds": [],
+    "photos": [
+      "freeman-ranch-stables.jpg"
+    ],
+    "createdAt": "2026-03-12T01:14:51.000Z",
+    "updatedAt": "2026-03-12T01:14:51.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "24210470-a183-418c-87b0-ef4ad03d74b5",
+    "ownerId": "system",
+    "name": "Bit & Bridle Stables",
+    "slug": "bit-bridle-stables-harper",
+    "description": "Bit & Bridle Stables is a beloved Hill Country boarding and training facility located in Harper, Texas. With a 4.9-star rating from 88 reviews, the ranch offers privately guided trail rides through the scenic Hill Country landscape, private lessons, equine therapy, and boarding. Run by Tim and Vanessa, the operation is known for its warm, welcoming atmosphere and breathtaking views.",
+    "address": {
+      "street": "3860 N Ranch Rd 783",
+      "city": "Harper",
+      "state": "TX",
+      "zip": "78631",
+      "lat": 30.297,
+      "lng": -99.224
+    },
+    "phone": "(830) 649-0419",
+    "website": "https://bitandbridlestables.com",
+    "email": "",
+    "disciplines": [
+      "trail",
+      "western"
+    ],
+    "amenities": {
+      "indoorArena": false,
+      "outdoorArena": true,
+      "trails": true,
+      "roundPen": false,
+      "hotWalker": false,
+      "washRack": false
+    },
+    "boarding": {
+      "types": [
+        "full"
+      ],
+      "stallCount": 0,
+      "turnout": "pasture"
+    },
+    "pricing": {
+      "boardingFrom": 0,
+      "lessonsFrom": 0,
+      "currency": "USD"
+    },
+    "trainers": [
+      {
+        "name": "Tim & Vanessa",
+        "bio": "Owner-operators of Bit & Bridle Stables, offering guided trail rides, private lessons, and equine therapy in the Texas Hill Country.",
+        "specialties": [
+          "trail",
+          "western"
+        ]
+      }
+    ],
+    "lessonAvailability": true,
+    "horseBreeds": [],
+    "photos": [
+      "bit-bridle-stables-harper.jpg"
+    ],
+    "createdAt": "2026-03-12T01:14:51.000Z",
+    "updatedAt": "2026-03-12T01:14:51.000Z",
+    "status": "pending"
   }
 ]
