@@ -1,11 +1,10 @@
 import { NextRequest, NextResponse } from "next/server";
 import { auth } from "@/lib/auth";
-
-const ADMIN_EMAIL = "rebecca.leung671@gmail.com";
+import { isAdmin } from "@/lib/is-admin";
 
 export async function GET(req: NextRequest) {
   const session = await auth();
-  if (session?.user?.email !== ADMIN_EMAIL) {
+  if (!isAdmin(session?.user?.email)) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 

@@ -1,12 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { auth } from "@/lib/auth";
 import { createPost, getAllPosts } from "@/lib/blog";
-
-const ADMIN_EMAIL = "rebecca.leung671@gmail.com";
-
-function isAdmin(email?: string | null) {
-  return email === ADMIN_EMAIL;
-}
+import { isAdmin } from "@/lib/is-admin";
 
 export async function GET() {
   const session = await auth();

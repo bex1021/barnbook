@@ -1,9 +1,9 @@
 import { auth } from "@/lib/auth";
+import { isAdmin } from "@/lib/is-admin";
 import { redirect } from "next/navigation";
 import { supabase } from "@/lib/supabase";
 import Link from "next/link";
 
-const ADMIN_EMAIL = "rebecca.leung671@gmail.com";
 
 async function getStats() {
   const [users, barns, pendingBarns, claims, posts] = await Promise.all([
@@ -24,7 +24,7 @@ async function getStats() {
 
 export default async function AdminPage() {
   const session = await auth();
-  if (session?.user?.email !== ADMIN_EMAIL) redirect("/auth/login");
+  if (!isAdmin(session?.user?.email)) redirect("/auth/login");
 
   const { users, barnCount, pendingBarnCount, pendingClaims, recentPosts } = await getStats();
 

@@ -1,12 +1,11 @@
 import { NextRequest } from "next/server";
 import { auth } from "@/lib/auth";
 import Anthropic from "@anthropic-ai/sdk";
-
-const ADMIN_EMAIL = "rebecca.leung671@gmail.com";
+import { isAdmin } from "@/lib/is-admin";
 
 export async function POST(req: NextRequest) {
   const session = await auth();
-  if (session?.user?.email !== ADMIN_EMAIL) {
+  if (!isAdmin(session?.user?.email)) {
     return new Response(JSON.stringify({ error: "Unauthorized" }), {
       status: 401,
     });
