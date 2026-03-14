@@ -275,7 +275,8 @@
     "email": "edenfarmsc@gmail.com",
     "disciplines": [
       "trail",
-      "western"
+      "western",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -338,7 +339,8 @@
     "disciplines": [
       "hunter jumper",
       "eventing",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -1366,7 +1368,8 @@
     "website": "https://cadenceranch.net",
     "email": "",
     "disciplines": [
-      "dressage"
+      "dressage",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": true,
@@ -4491,7 +4494,8 @@
     "email": "doringcourt@gmail.com",
     "disciplines": [
       "trail",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -4700,7 +4704,8 @@
     "email": "",
     "disciplines": [
       "trail",
-      "western"
+      "western",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -4818,7 +4823,8 @@
     "email": "robynwalsh@lavacafinancial.com",
     "disciplines": [
       "trail",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -4868,7 +4874,8 @@
     "email": "loboshorseranch@gmail.com",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -5465,7 +5472,8 @@
     "website": "https://silveroakstable.com",
     "email": "silveroak@silveroakstable.com",
     "disciplines": [
-      "hunter jumper"
+      "hunter jumper",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -5721,7 +5729,8 @@
     "email": "ChoyaFarms@gmail.com",
     "disciplines": [
       "hunter jumper",
-      "western"
+      "western",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": true,
@@ -5877,7 +5886,8 @@
     "email": "",
     "disciplines": [
       "dressage",
-      "hunter jumper"
+      "hunter jumper",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -6404,7 +6414,9 @@
     "website": "https://www.thefarmatgracehill.com",
     "email": "farmatgracehill@gmail.com",
     "disciplines": [
-      "trail"
+      "trail",
+      "horse therapy",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -6464,7 +6476,8 @@
     "disciplines": [
       "western",
       "trail",
-      "hunter jumper"
+      "hunter jumper",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": true,
@@ -6924,7 +6937,8 @@
     "email": "office@wellingtonequestriancenter.us",
     "disciplines": [
       "hunter jumper",
-      "dressage"
+      "dressage",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": true,
@@ -6973,7 +6987,8 @@
     "website": "https://www.caspereystables.com/",
     "email": "info@caspereystables.com",
     "disciplines": [
-      "hunter jumper"
+      "hunter jumper",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -7024,7 +7039,9 @@
     "email": "harrylknopp@me.com",
     "disciplines": [
       "dressage",
-      "hunter jumper"
+      "hunter jumper",
+      "horse therapy",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -7204,7 +7221,8 @@
     "website": "https://www.poincianafarm.com/",
     "email": "info@poincianafarm.com",
     "disciplines": [
-      "dressage"
+      "dressage",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -7254,7 +7272,8 @@
     "email": "InvictusFarmFL@hotmail.com",
     "disciplines": [
       "dressage",
-      "hunter jumper"
+      "hunter jumper",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -7355,7 +7374,8 @@
     "website": "https://www.ravenridgefarm.com/",
     "email": "",
     "disciplines": [
-      "hunter jumper"
+      "hunter jumper",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -7765,7 +7785,9 @@
       "dressage",
       "hunter jumper",
       "western",
-      "trail"
+      "trail",
+      "horse therapy",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -7921,7 +7943,8 @@
     "disciplines": [
       "hunter jumper",
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -8081,7 +8104,8 @@
     "email": "info@californiahorsecenter.com",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -8182,7 +8206,8 @@
       "dressage",
       "hunter jumper",
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -8517,7 +8542,8 @@
     "disciplines": [
       "dressage",
       "hunter jumper",
-      "eventing"
+      "eventing",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -8923,7 +8949,8 @@
     "website": "https://www.silverminefarmct.com",
     "email": "silverminefarmllc@gmail.com",
     "disciplines": [
-      "hunter jumper"
+      "hunter jumper",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -9330,7 +9357,8 @@
       "dressage",
       "hunter jumper",
       "western",
-      "trail"
+      "trail",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -9381,7 +9409,8 @@
     "disciplines": [
       "dressage",
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -9694,7 +9723,8 @@
       "hunter jumper",
       "dressage",
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -10304,7 +10334,8 @@
     "email": "itbhorseranch@gmail.com",
     "disciplines": [
       "trail",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -10898,7 +10929,8 @@
     "email": "Jennuinehorse@gmail.com",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -10950,7 +10982,8 @@
     "email": "",
     "disciplines": [
       "hunter jumper",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -11055,7 +11088,8 @@
     "email": "hawk.ranch@yahoo.com",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -11206,7 +11240,8 @@
     "email": "",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -11258,7 +11293,8 @@
     "email": "Akerivan@live.com",
     "disciplines": [
       "hunter jumper",
-      "dressage"
+      "dressage",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -11572,7 +11608,8 @@
     "disciplines": [
       "trail",
       "western",
-      "hunter jumper"
+      "hunter jumper",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -11732,7 +11769,8 @@
     "email": "hello@ranchoagave-eq.com",
     "disciplines": [
       "dressage",
-      "hunter jumper"
+      "hunter jumper",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -11833,7 +11871,8 @@
     "email": "",
     "disciplines": [
       "trail",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -11984,7 +12023,8 @@
     "email": "Info@westernskyhorsemanship.com",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -12306,7 +12346,8 @@
     "email": "",
     "disciplines": [
       "trail",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -12469,7 +12510,8 @@
       "dressage",
       "hunter jumper",
       "eventing",
-      "trail"
+      "trail",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": true,
@@ -12518,7 +12560,8 @@
     "website": "https://kellykocher.com",
     "email": "kellykocher@gmail.com",
     "disciplines": [
-      "hunter jumper"
+      "hunter jumper",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -12815,7 +12858,8 @@
     "website": "https://www.southlands.org",
     "email": "info@southlands.org",
     "disciplines": [
-      "trail"
+      "trail",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -13379,7 +13423,8 @@
     "email": "info@chastainhorsepark.org",
     "disciplines": [
       "hunter jumper",
-      "trail"
+      "trail",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -13541,7 +13586,8 @@
     "email": "info@wildewoodfarm.com",
     "disciplines": [
       "trail",
-      "western"
+      "western",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -13640,7 +13686,8 @@
     "email": "lioncrestfarms@gmail.com",
     "disciplines": [
       "hunter jumper",
-      "eventing"
+      "eventing",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": true,
@@ -13902,7 +13949,8 @@
     "email": "stables@garrodfarms.com",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -14005,7 +14053,8 @@
       "hunter jumper",
       "western",
       "eventing",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -14659,7 +14708,8 @@
     "email": "tina@tinahuston.com",
     "disciplines": [
       "dressage",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -14718,7 +14768,8 @@
     "disciplines": [
       "dressage",
       "hunter jumper",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -15472,7 +15523,8 @@
     "email": "",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -16153,7 +16205,8 @@
     "email": "info.blackdiamondranch@gmail.com",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -16415,7 +16468,8 @@
     "disciplines": [
       "western",
       "trail",
-      "hunter jumper"
+      "hunter jumper",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -16518,7 +16572,8 @@
     "website": "https://www.woodsedgeequestrian.com",
     "email": "",
     "disciplines": [
-      "hunter jumper"
+      "hunter jumper",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": true,
@@ -16953,7 +17008,8 @@
     "disciplines": [
       "hunter jumper",
       "dressage",
-      "eventing"
+      "eventing",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -17310,7 +17366,8 @@
     "email": "",
     "disciplines": [
       "hunter jumper",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -17362,7 +17419,8 @@
       "dressage",
       "eventing",
       "hunter jumper",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -17690,7 +17748,8 @@
     "email": "info@skyranchstables.com",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -17899,7 +17958,8 @@
       "western",
       "dressage",
       "hunter jumper",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -18054,7 +18114,8 @@
     "disciplines": [
       "dressage",
       "hunter jumper",
-      "eventing"
+      "eventing",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -18103,7 +18164,8 @@
     "website": "http://sonnenberg.us",
     "email": "",
     "disciplines": [
-      "dressage"
+      "dressage",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -18208,7 +18270,8 @@
     "email": "",
     "disciplines": [
       "western",
-      "hunter jumper"
+      "hunter jumper",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -18375,7 +18438,8 @@
     "email": "",
     "disciplines": [
       "trail",
-      "western"
+      "western",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -18435,7 +18499,8 @@
     "email": "Rhonda.L.Lea@outlook.com",
     "disciplines": [
       "hunter jumper",
-      "dressage"
+      "dressage",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": true,
@@ -18540,7 +18605,8 @@
     "disciplines": [
       "eventing",
       "hunter jumper",
-      "dressage"
+      "dressage",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -19264,7 +19330,8 @@
     "email": "",
     "disciplines": [
       "western",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -19720,7 +19787,8 @@
     "email": "",
     "disciplines": [
       "eventing",
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -20563,7 +20631,8 @@
     "website": "https://www.trchb.org/",
     "email": "",
     "disciplines": [
-      "dressage"
+      "dressage",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -20697,7 +20766,8 @@
     "email": "",
     "disciplines": [
       "trail",
-      "hunter jumper"
+      "hunter jumper",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -21644,7 +21714,8 @@
     "email": "",
     "disciplines": [
       "trail",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -21692,7 +21763,8 @@
       "trail",
       "hunter jumper",
       "dressage",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -21740,7 +21812,8 @@
       "trail",
       "hunter jumper",
       "dressage",
-      "western"
+      "western",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -22148,7 +22221,8 @@
     "website": "http://www.canyonlakefarm.com/",
     "email": "canyonlakefarm@gmail.com",
     "disciplines": [
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -22285,7 +22359,8 @@
     "website": "https://canyonlakefarm.com/",
     "email": "canyonlakefarm@gmail.com",
     "disciplines": [
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -23630,7 +23705,8 @@
     "website": "http://rosebowlriders.org/",
     "email": "",
     "disciplines": [
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -25028,7 +25104,8 @@
     "website": "http://thelittlebighorseranch.com/",
     "email": "TheLBHR@yahoo.com",
     "disciplines": [
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -25073,7 +25150,8 @@
     "website": "https://www.thelittlebighorseranch.com/",
     "email": "TheLBHR@yahoo.com",
     "disciplines": [
-      "trail"
+      "trail",
+      "natural horsemanship"
     ],
     "amenities": {
       "indoorArena": false,
@@ -25301,7 +25379,9 @@
     "phone": "(760) 439-2340",
     "website": "https://iveyranch.com/",
     "email": "",
-    "disciplines": [],
+    "disciplines": [
+      "horse therapy"
+    ],
     "amenities": {
       "indoorArena": false,
       "outdoorArena": false,
@@ -25891,7 +25971,8 @@
     "website": "https://cherokeeoutlawranch.org/",
     "email": "",
     "disciplines": [
-      "trail"
+      "trail",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -26800,7 +26881,8 @@
     "website": "http://www.horsebacktrailrideandevents.com/",
     "email": "",
     "disciplines": [
-      "trail"
+      "trail",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -26845,7 +26927,8 @@
     "website": "https://www.reiningstrength.org/",
     "email": "info@reiningstrength.org",
     "disciplines": [
-      "western"
+      "western",
+      "horse therapy"
     ],
     "amenities": {
       "indoorArena": false,
@@ -26889,7 +26972,9 @@
     "phone": "281-356-7588",
     "website": "https://sire-htec.org/",
     "email": "beth@sire-htec.org",
-    "disciplines": [],
+    "disciplines": [
+      "horse therapy"
+    ],
     "amenities": {
       "indoorArena": false,
       "outdoorArena": false,
