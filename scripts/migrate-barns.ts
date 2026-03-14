@@ -17,40 +17,52 @@ const supabase = createClient(
 async function migrate() {
   console.log(`Migrating ${barns.length} barns...`);
 
+  // Fetch existing barn IDs so we don't overwrite active barns
+  const { data: existing } = await supabase.from("barns").select("id");
+  const existingIds = new Set((existing || []).map((b: { id: string }) => b.id));
+  console.log(`Found ${existingIds.size} existing barns in Supabase`);
+
+  let inserted = 0;
+  let skipped = 0;
+
   for (const barn of barns) {
-    const { error } = await supabase.from("barns").upsert(
-      {
-        id: barn.id,
-        owner_id: null, // existing barns have no owner until claimed
-        name: barn.name,
-        slug: barn.slug,
-        description: barn.description,
-        address: barn.address,
-        phone: barn.phone ?? "",
-        website: barn.website ?? "",
-        email: barn.email ?? "",
-        disciplines: barn.disciplines ?? [],
-        amenities: barn.amenities,
-        boarding: barn.boarding,
-        pricing: barn.pricing,
-        trainers: barn.trainers ?? [],
-        lesson_availability: barn.lessonAvailability,
-        horse_breeds: barn.horseBreeds ?? [],
-        photos: barn.photos ?? [],
-        created_at: barn.createdAt,
-        updated_at: barn.updatedAt,
-      },
-      { onConflict: "id" }
-    );
+    if (existingIds.has(barn.id)) {
+      skipped++;
+      continue;
+    }
+
+    const { error } = await supabase.from("barns").insert({
+      id: barn.id,
+      owner_id: null,
+      name: barn.name,
+      slug: barn.slug,
+      description: barn.description,
+      address: barn.address,
+      phone: barn.phone ?? "",
+      website: barn.website ?? "",
+      email: barn.email ?? "",
+      disciplines: barn.disciplines ?? [],
+      amenities: barn.amenities,
+      boarding: barn.boarding,
+      pricing: barn.pricing,
+      trainers: barn.trainers ?? [],
+      lesson_availability: barn.lessonAvailability,
+      horse_breeds: barn.horseBreeds ?? [],
+      photos: barn.photos ?? [],
+      status: "pending",
+      created_at: barn.createdAt,
+      updated_at: barn.updatedAt,
+    });
 
     if (error) {
-      console.error(`Failed to migrate "${barn.name}":`, error.message);
+      console.error(`Failed to insert "${barn.name}":`, error.message);
     } else {
+      inserted++;
       console.log(`  ✓ ${barn.name}`);
     }
   }
 
-  console.log("Migration complete.");
+  console.log(`\nDone! Inserted ${inserted} new barns, skipped ${skipped} existing.`);
 }
 
 migrate().catch(console.error);
