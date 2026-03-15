@@ -217,13 +217,22 @@ export default async function HomePage() {
               className="break-inside-avoid mb-5 block group rounded-2xl overflow-hidden bg-white shadow-sm hover:shadow-md transition-shadow duration-300"
             >
               <div className={`relative overflow-hidden ${CARD_ASPECTS[i] ?? "aspect-[4/3]"}`}>
-                <Image
-                  src={`/images/barns/${barn.photos[0]}`}
-                  alt={barn.name}
-                  fill
-                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                  className="object-cover group-hover:scale-105 transition-transform duration-500"
-                />
+                {barn.photos.length > 0 ? (
+                  <Image
+                    src={`/images/barns/${barn.photos[0]}`}
+                    alt={barn.name}
+                    fill
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                    className="object-cover group-hover:scale-105 transition-transform duration-500"
+                  />
+                ) : (
+                  <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-[#f0e8d8] to-[#e8d8c0]">
+                    <svg className="w-16 h-16 text-[#c4956a]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5}
+                        d="M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909M3.75 21h16.5A2.25 2.25 0 0022.5 18.75V5.25A2.25 2.25 0 0020.25 3H3.75A2.25 2.25 0 001.5 5.25v13.5A2.25 2.25 0 003.75 21z" />
+                    </svg>
+                  </div>
+                )}
               </div>
               <div className="p-4">
                 <h3

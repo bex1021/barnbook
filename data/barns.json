@@ -4954,7 +4954,7 @@
     "ownerId": "system",
     "name": "Hill Country Equestrian Lodge",
     "slug": "hill-country-equestrian-lodge",
-    "description": "Located at a historic ranch headquarters adjoining a 5,500-acre natural area in Bandera, Texas — the Cowboy Capital of the World. The facility spans 6,000 acres with miles of trails through rugged Texas Hill Country terrain.",
+    "description": "Located at a historic ranch headquarters adjoining a 5,500-acre natural area in Bandera, Texas \u2014 the Cowboy Capital of the World. The facility spans 6,000 acres with miles of trails through rugged Texas Hill Country terrain.",
     "address": {
       "street": "1580 Hay Hollar Road",
       "city": "Bandera",
@@ -5595,7 +5595,7 @@
     "ownerId": "system",
     "name": "Guarded Heart Farm",
     "slug": "guarded-heart-farm",
-    "description": "Guarded Heart Farm Horse Boarding & Equestrian Center is a 35-acre property convenient to Austin, Georgetown, Cedar Park, Hutto and Round Rock—approximately 10 minutes from the Williamson County Expo Center. Features a spring-fed pond, on-site barn manager, and 24/7 monitoring.",
+    "description": "Guarded Heart Farm Horse Boarding & Equestrian Center is a 35-acre property convenient to Austin, Georgetown, Cedar Park, Hutto and Round Rock\u2014approximately 10 minutes from the Williamson County Expo Center. Features a spring-fed pond, on-site barn manager, and 24/7 monitoring.",
     "address": {
       "street": "2402 Black Waxy Rd",
       "city": "Taylor",
@@ -5646,7 +5646,7 @@
     "ownerId": "system",
     "name": "Highland Park Riding School",
     "slug": "highland-park-riding-school",
-    "description": "An all-women's equestrian sanctuary focused on English Hunter/Jumper riding. A space where women can grow in strength, confidence, and connection—both with each other and with horses. Features compassionate, highly trained instructors in a safe, supportive environment for women 30+.",
+    "description": "An all-women's equestrian sanctuary focused on English Hunter/Jumper riding. A space where women can grow in strength, confidence, and connection\u2014both with each other and with horses. Features compassionate, highly trained instructors in a safe, supportive environment for women 30+.",
     "address": {
       "street": "Sam Bass Rd",
       "city": "Round Rock",
@@ -7443,7 +7443,7 @@
     "ownerId": "system",
     "name": "IDA Farm",
     "slug": "ida-farm",
-    "description": "Located in Wellington, Florida — the Equestrian Capital of the World — IDA Farm provides professional equestrian training and boarding in a relaxed yet professional atmosphere. The 22.5-acre facility welcomes riders of all levels in jumping and dressage disciplines.",
+    "description": "Located in Wellington, Florida \u2014 the Equestrian Capital of the World \u2014 IDA Farm provides professional equestrian training and boarding in a relaxed yet professional atmosphere. The 22.5-acre facility welcomes riders of all levels in jumping and dressage disciplines.",
     "address": {
       "street": "361 Cindy Drive",
       "city": "Wellington",
@@ -9227,7 +9227,7 @@
     "ownerId": "system",
     "name": "Ligara Farm",
     "slug": "ligara-farm",
-    "description": "A beautifully maintained boarding facility on 24 acres in the horse-rich 302 corridor of Aiken, SC. Offers full and self-care stall options as well as pasture board. Features 8 fully matted stalls, a hot water wash rack, jumps, perimeter riding track, and trails — just 8 miles from Hitchcock Woods.",
+    "description": "A beautifully maintained boarding facility on 24 acres in the horse-rich 302 corridor of Aiken, SC. Offers full and self-care stall options as well as pasture board. Features 8 fully matted stalls, a hot water wash rack, jumps, perimeter riding track, and trails \u2014 just 8 miles from Hitchcock Woods.",
     "address": {
       "street": "597 Redds Branch Rd",
       "city": "Aiken",
@@ -10521,7 +10521,9 @@
     "trainers": [],
     "lessonAvailability": true,
     "horseBreeds": [],
-    "photos": [],
+    "photos": [
+      "eden-farm.jpg"
+    ],
     "createdAt": "2026-02-24T00:00:00.000Z",
     "updatedAt": "2026-02-24T00:00:00.000Z",
     "services": [
@@ -17740,7 +17742,9 @@
       "Warmblood",
       "KWPN"
     ],
-    "photos": [],
+    "photos": [
+      "stone-columns-stables.jpg"
+    ],
     "createdAt": "2026-02-24T00:00:00.000Z",
     "updatedAt": "2026-02-24T00:00:00.000Z",
     "services": [
@@ -20747,7 +20751,7 @@
     "ownerId": "system",
     "name": "Step N Style Ranch",
     "slug": "step-n-style-ranch",
-    "description": "We are located in the Santa Ana Mountains, Modjeska/Silverado Canyon area Boarding at Step n Style We have a large 18 box stall barn some with turnouts. Also foaling stalls 12’x 24’. A round pen arena.",
+    "description": "We are located in the Santa Ana Mountains, Modjeska/Silverado Canyon area Boarding at Step n Style We have a large 18 box stall barn some with turnouts. Also foaling stalls 12\u2019x 24\u2019. A round pen arena.",
     "address": {
       "street": "17231 Croatian Street",
       "city": "",
@@ -20797,7 +20801,7 @@
     "ownerId": "system",
     "name": "Elvenstar",
     "slug": "elvenstar",
-    "description": "Elvenstar is nestled on twenty four acres in Ventura County’s Tierra Rejada Valley greenbelt. Located between the communities of Thousand Oaks, Moorpark, and Simi Valley. Just minutes from either the 101 or 118 freeways.",
+    "description": "Elvenstar is nestled on twenty four acres in Ventura County\u2019s Tierra Rejada Valley greenbelt. Located between the communities of Thousand Oaks, Moorpark, and Simi Valley. Just minutes from either the 101 or 118 freeways.",
     "address": {
       "street": "",
       "city": "",
@@ -20845,7 +20849,7 @@
     "ownerId": "system",
     "name": "Trabuco Creek Equestrian",
     "slug": "trabuco-creek-equestrian",
-    "description": "Your Peaceful Escape, Surrounded by Nature's Beauty OUR MISSION At Trabuco Creek Equestrian, our mission is to be Orange County’s premier equestrian destination—offering top-tier boarding, training, and lessons in a unique, state-of-the-art facility nestled in the natural beauty of Trabuco Canyon, just minutes from the city.",
+    "description": "Your Peaceful Escape, Surrounded by Nature's Beauty OUR MISSION At Trabuco Creek Equestrian, our mission is to be Orange County\u2019s premier equestrian destination\u2014offering top-tier boarding, training, and lessons in a unique, state-of-the-art facility nestled in the natural beauty of Trabuco Canyon, just minutes from the city.",
     "address": {
       "street": "",
       "city": "Trabuco Canyon",
@@ -20987,7 +20991,7 @@
     "ownerId": "system",
     "name": "Rancho Mission Viejo Riding Park",
     "slug": "rancho-mission-viejo-riding-park",
-    "description": "provide a unique entertainment opportunity for San Juan Capistrano residents and beyond. Everyone is encouraged to attend and enjoy this spectacular sporting event, which features two athletes at a time – horse and rider!",
+    "description": "provide a unique entertainment opportunity for San Juan Capistrano residents and beyond. Everyone is encouraged to attend and enjoy this spectacular sporting event, which features two athletes at a time \u2013 horse and rider!",
     "address": {
       "street": "2021 Economic Impact Study Donate To Park Place",
       "city": "San Juan Capistrano",
@@ -21367,7 +21371,7 @@
     "ownerId": "system",
     "name": "MH Equine Riding School",
     "slug": "mh-equine-riding-school",
-    "description": "specialize in training all levels of sport horses and riders – ranging from beginners in our riding school up through Grand Prix winners at international competitions. Check out our weekly riding programs! Levels Program Get Ready for Summer Camp 2023!",
+    "description": "specialize in training all levels of sport horses and riders \u2013 ranging from beginners in our riding school up through Grand Prix winners at international competitions. Check out our weekly riding programs! Levels Program Get Ready for Summer Camp 2023!",
     "address": {
       "street": "25202 Nellie Gail Road",
       "city": "Laguna Niguel",
@@ -21799,7 +21803,7 @@
     "ownerId": "system",
     "name": "Galway Downs",
     "slug": "galway-downs",
-    "description": "In the beautiful rolling hills of the Temecula Valley Wine Country, is a tradition more than 50 years in the making— vast horizons, majestic surroundings— real moments. Lodging , Weddings , Equestrian , Events . Proud member of Kentina Hospitality.",
+    "description": "In the beautiful rolling hills of the Temecula Valley Wine Country, is a tradition more than 50 years in the making\u2014 vast horizons, majestic surroundings\u2014 real moments. Lodging , Weddings , Equestrian , Events . Proud member of Kentina Hospitality.",
     "address": {
       "street": "38801 Los Corralitos Rd",
       "city": "Temecula",
@@ -22878,7 +22882,7 @@
     "ownerId": "system",
     "name": "VH Ranch",
     "slug": "vh-ranch",
-    "description": "VH Ranch offers exclusively pasture boarding for horses of all ages. Whether working or retired, VH Ranch offers several feeding plans best suited for their stage of life in order to keep them fit and well nourished. ​ At VH Ranch, we utilize our space to allow horses to live naturally and safely.",
+    "description": "VH Ranch offers exclusively pasture boarding for horses of all ages. Whether working or retired, VH Ranch offers several feeding plans best suited for their stage of life in order to keep them fit and well nourished. \u200b At VH Ranch, we utilize our space to allow horses to live naturally and safely.",
     "address": {
       "street": "15201 Middle Ranch Rd",
       "city": "Moorpark",
@@ -23270,7 +23274,7 @@
     "ownerId": "system",
     "name": "Roxbury Riding Club",
     "slug": "roxbury-riding-club",
-    "description": "offers a clear path forward. Contact us to discuss goals, availability, and the best program fit. contact roxbury Connect With Us Copyright © 2026 Roxbury Riding Club - All Rights Reserved.",
+    "description": "offers a clear path forward. Contact us to discuss goals, availability, and the best program fit. contact roxbury Connect With Us Copyright \u00a9 2026 Roxbury Riding Club - All Rights Reserved.",
     "address": {
       "street": "",
       "city": "Camarillo",
@@ -23950,7 +23954,7 @@
     "description": "Altadena Stables is a fun, professionally run, full service equine facility in Altadena, CA offering boarding, training, and riding lessons.",
     "address": {
       "street": "",
-      "city": "La Cañada Flintridge",
+      "city": "La Ca\u00f1ada Flintridge",
       "state": "CA",
       "zip": "91001",
       "lat": 34.198627,
@@ -23996,7 +24000,7 @@
     "ownerId": "system",
     "name": "Rose Bowl Riders",
     "slug": "rose-bowl-riders",
-    "description": "has been situated on 12, oak-shaded acres within Pasadena’s Hahamongna Watershed Park. The property includes a clubhouse, boarding facilities, three arenas, round pen, and sun pen. Members ride out the gate to enjoy miles of trails in the historic Arroyo Seco and Angeles National Forest.",
+    "description": "has been situated on 12, oak-shaded acres within Pasadena\u2019s Hahamongna Watershed Park. The property includes a clubhouse, boarding facilities, three arenas, round pen, and sun pen. Members ride out the gate to enjoy miles of trails in the historic Arroyo Seco and Angeles National Forest.",
     "address": {
       "street": "4750 Lower Oak Grove Drive",
       "city": "ada Flintridge",
@@ -24045,7 +24049,7 @@
     "ownerId": "system",
     "name": "Flintridge Riding Club",
     "slug": "flintridge-riding-club",
-    "description": "Flintridge Riding Club is an equestrian facility in La Cañada Flintridge, CA offering a community-oriented environment for riders in the foothills above Los Angeles.",
+    "description": "Flintridge Riding Club is an equestrian facility in La Ca\u00f1ada Flintridge, CA offering a community-oriented environment for riders in the foothills above Los Angeles.",
     "address": {
       "street": "",
       "city": "ada Flintridge",
@@ -24082,7 +24086,7 @@
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
     "updatedAt": "2026-03-13T16:55:00.562030+00:00",
-    "city": "La Cañada Flintridge",
+    "city": "La Ca\u00f1ada Flintridge",
     "services": []
   },
   {
@@ -24625,7 +24629,7 @@
     "ownerId": "system",
     "name": "Rancho Riding Club",
     "slug": "rancho-riding-club",
-    "description": "resides on 11 beautiful acres in the heart of Rancho Santa Fe. We offer boarding and care, training, private instruction, and summer camps. Join The Club For information about membership and boarding rates, please fill out our interest form and we’ll reach out to you right away!",
+    "description": "resides on 11 beautiful acres in the heart of Rancho Santa Fe. We offer boarding and care, training, private instruction, and summer camps. Join The Club For information about membership and boarding rates, please fill out our interest form and we\u2019ll reach out to you right away!",
     "address": {
       "street": "50 Mile Trail",
       "city": "Rancho Santa Fe",
@@ -24724,7 +24728,7 @@
     "ownerId": "system",
     "name": "Huckleberry Lane Farms",
     "slug": "huckleberry-lane-farms",
-    "description": "Amanda Moller - Head Trainer Amanda Moller - Head Trainer Amanda Moller - Head Trainer “ I want you to enjoy being at Huckleberry Lane Farms. Some of the best times in my life have been at the barn and around horses.",
+    "description": "Amanda Moller - Head Trainer Amanda Moller - Head Trainer Amanda Moller - Head Trainer \u201c I want you to enjoy being at Huckleberry Lane Farms. Some of the best times in my life have been at the barn and around horses.",
     "address": {
       "street": "",
       "city": "Rancho Santa Fe",
@@ -25804,7 +25808,7 @@
     "ownerId": "system",
     "name": "Twisted Trail Ranch LLC",
     "slug": "twisted-trail-ranch-llc",
-    "description": "Our ranch was built with intention, love, and generations of horsemanship experience. Here, you’ll find more than just a place to ride or board your horse—you’ll discover a caring community that puts horses first.",
+    "description": "Our ranch was built with intention, love, and generations of horsemanship experience. Here, you\u2019ll find more than just a place to ride or board your horse\u2014you\u2019ll discover a caring community that puts horses first.",
     "address": {
       "street": "77303 Instagram TikTok Facebook Twisted Trail",
       "city": "Conroe",
@@ -25859,7 +25863,7 @@
     "ownerId": "system",
     "name": "Cherokee Outlaw Ranch",
     "slug": "cherokee-outlaw-ranch",
-    "description": "Our Ranch A nonprofit ranch with a mission to heal — through the spirit of horses and the stillness of country life. Cherokee Outlaw Ranch is a 501(c)(3) nonprofit rooted in love, recovery, and rescue.",
+    "description": "Our Ranch A nonprofit ranch with a mission to heal \u2014 through the spirit of horses and the stillness of country life. Cherokee Outlaw Ranch is a 501(c)(3) nonprofit rooted in love, recovery, and rescue.",
     "address": {
       "street": "91 Scott Ln",
       "city": "Willis",
@@ -27693,9 +27697,9 @@
   {
     "id": "8e101d9d-ce27-47c3-baed-b4abd542150e",
     "ownerId": "system",
-    "name": "Halvorsrød Farm",
+    "name": "Halvorsr\u00f8d Farm",
     "slug": "halvorsrod-farm",
-    "description": "Halvorsrød Farm is a dressage facility in the Little Ranches area of Wellington, FL offering dry stalls and full board customized to individual horse needs. The farm serves both amateur and professional dressage competitors, with lay-up and recovery programs available.",
+    "description": "Halvorsr\u00f8d Farm is a dressage facility in the Little Ranches area of Wellington, FL offering dry stalls and full board customized to individual horse needs. The farm serves both amateur and professional dressage competitors, with lay-up and recovery programs available.",
     "address": {
       "street": "852 Cindy Drive",
       "city": "Wellington",
