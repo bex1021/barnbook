@@ -5,21 +5,27 @@ import { useState } from "react";
 
 export default function SearchBar({
   initialQuery = "",
+  initialRadius = "25",
   variant = "default",
 }: {
   initialQuery?: string;
+  initialRadius?: string;
   variant?: "default" | "hero";
 }) {
   const router = useRouter();
   const [query, setQuery] = useState(initialQuery);
   const [type, setType] = useState("any");
+  const [radius, setRadius] = useState(initialRadius);
 
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     const params = new URLSearchParams();
-    if (query.trim()) params.set("q", query.trim());
+    if (query.trim()) {
+      params.set("q", query.trim());
+      params.set("radius", radius);
+    }
     if (type === "boarding") params.set("boarding", "full,partial,pasture,self-care");
-    if (type === "lessons") params.set("lessons", "true");
+    if (type === "lessons") params.set("services", "lessons");
     router.push(`/barns?${params.toString()}`);
   }
 
@@ -73,14 +79,25 @@ export default function SearchBar({
   }
 
   return (
-    <form onSubmit={handleSubmit} className="flex w-full max-w-xl">
+    <form onSubmit={handleSubmit} className="flex w-full max-w-2xl">
       <input
         type="text"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        placeholder="Search by name, city, or state..."
+        placeholder="Search by name, city, state, or zip code..."
         className="flex-1 px-4 py-3 rounded-l-lg border border-[#e8dcc8] focus:outline-none focus:ring-2 focus:ring-[#4a6741] focus:border-transparent text-[#2c1810]"
       />
+      <select
+        value={radius}
+        onChange={(e) => setRadius(e.target.value)}
+        className="px-3 py-3 border-t border-b border-[#e8dcc8] text-sm text-[#2c1810] focus:outline-none focus:ring-2 focus:ring-[#4a6741] bg-white"
+        aria-label="Search radius"
+      >
+        <option value="10">10 mi</option>
+        <option value="25">25 mi</option>
+        <option value="50">50 mi</option>
+        <option value="100">100 mi</option>
+      </select>
       <button
         type="submit"
         className="px-6 py-3 bg-[#4a6741] text-white rounded-r-lg font-medium hover:bg-[#3a5535] transition"

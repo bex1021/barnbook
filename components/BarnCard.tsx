@@ -8,9 +8,10 @@ interface BarnCardProps {
   barn: Barn;
   averageRating?: number;
   reviewCount?: number;
+  distance?: number;
 }
 
-export default function BarnCard({ barn, averageRating = 0, reviewCount = 0 }: BarnCardProps) {
+export default function BarnCard({ barn, averageRating = 0, reviewCount = 0, distance }: BarnCardProps) {
   return (
     <Link
       href={`/barns/${barn.slug}`}
@@ -43,6 +44,9 @@ export default function BarnCard({ barn, averageRating = 0, reviewCount = 0 }: B
         </h3>
         <p className="text-sm text-gray-500 mt-1">
           {barn.address.city}, {barn.address.state}
+          {distance !== undefined && (
+            <span className="ml-2 text-xs text-[#4a6741] font-medium">{distance} mi away</span>
+          )}
         </p>
 
         {averageRating > 0 && (

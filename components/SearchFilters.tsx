@@ -4,7 +4,6 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { useCallback } from "react";
 
 const DISCIPLINES = ["dressage", "hunter jumper", "western", "eventing", "trail", "polo", "horse therapy", "natural horsemanship"];
-const STATES = ["AZ", "CA", "CO", "CT", "FL", "GA", "IL", "KS", "KY", "MO", "NC", "NJ", "NY", "OH", "OR", "SC", "TX", "VA", "WA"];
 const AMENITIES = [
   { key: "indoorArena", label: "Indoor Arena" },
   { key: "outdoorArena", label: "Outdoor Arena" },
@@ -30,7 +29,7 @@ const SORT_OPTIONS = [
   { value: "newest", label: "Newest" },
 ];
 
-export default function SearchFilters() {
+export default function SearchFilters({ states }: { states: string[] }) {
   const router = useRouter();
   const searchParams = useSearchParams();
 
@@ -75,13 +74,11 @@ export default function SearchFilters() {
   const activeAmenities = getArrayParam("amenities");
   const activeBoardingTypes = getArrayParam("boarding");
   const activeServices = getArrayParam("services");
-  const lessonsOnly = searchParams.get("lessons") === "true";
   const hasFilters =
     activeDisciplines.length > 0 ||
     activeAmenities.length > 0 ||
     activeBoardingTypes.length > 0 ||
     activeServices.length > 0 ||
-    lessonsOnly ||
     searchParams.get("state") ||
     searchParams.get("sort");
 
@@ -94,19 +91,6 @@ export default function SearchFilters() {
             Clear all
           </button>
         )}
-      </div>
-
-      {/* Lessons */}
-      <div>
-        <label className="flex items-center gap-2 cursor-pointer">
-          <input
-            type="checkbox"
-            checked={lessonsOnly}
-            onChange={() => updateParam("lessons", lessonsOnly ? "" : "true")}
-            className="rounded border-gray-300 text-[#2d5016] focus:ring-[#2d5016]"
-          />
-          <span className="text-sm font-medium text-gray-700">Lessons Available</span>
-        </label>
       </div>
 
       {/* Sort */}
@@ -135,7 +119,7 @@ export default function SearchFilters() {
           className="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#2d5016]"
         >
           <option value="">All States</option>
-          {STATES.map((s) => (
+          {states.map((s) => (
             <option key={s} value={s}>
               {s}
             </option>

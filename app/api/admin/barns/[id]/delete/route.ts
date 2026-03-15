@@ -16,7 +16,7 @@ export async function POST(
 
   const { error } = await supabase
     .from("barns")
-    .update({ status: "archived" })
+    .update({ status: "rejected" })
     .eq("id", id);
 
   if (error) {
