@@ -84,7 +84,8 @@ export interface Barn {
   socialMedia?: SocialMedia;
   videoUrl?: string;
   horseLeasing?: boolean;
-  status?: "active" | "pending" | "rejected";
+  services?: string[];
+  status?: "active" | "pending" | "rejected" | "archived";
   createdAt: string;
   updatedAt: string;
 }

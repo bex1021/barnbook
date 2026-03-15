@@ -65,6 +65,19 @@ export default function BarnCard({ barn, averageRating = 0, reviewCount = 0 }: B
           ))}
         </div>
 
+        {(barn.services || []).length > 0 && (
+          <div className="flex flex-wrap gap-1.5 mt-2">
+            {(barn.services || []).map((s) => (
+              <span
+                key={s}
+                className="text-xs px-2 py-0.5 rounded-full bg-blue-50 text-blue-700 capitalize"
+              >
+                {s}
+              </span>
+            ))}
+          </div>
+        )}
+
         <div className="mt-3 flex items-center justify-between text-sm">
           {barn.pricing.boardingFrom > 0 && (
             <span className="text-gray-600">

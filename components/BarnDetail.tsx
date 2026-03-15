@@ -189,6 +189,25 @@ export default function BarnDetail({
             </section>
           )}
 
+          {/* Services */}
+          {(barn.services || []).length > 0 && (
+            <section>
+              <h2 className="text-xl font-semibold text-[#2c1810] mb-3" style={{ fontFamily: "var(--font-playfair)" }}>
+                Services
+              </h2>
+              <div className="flex flex-wrap gap-2">
+                {(barn.services || []).map((s) => (
+                  <span
+                    key={s}
+                    className="px-3 py-1.5 bg-[#e8f0f8] text-[#2c5282] rounded-full text-sm capitalize font-medium border border-[#bee3f8]"
+                  >
+                    {s}
+                  </span>
+                ))}
+              </div>
+            </section>
+          )}
+
           {/* Amenities */}
           {activeAmenities.length > 0 && (
             <section>

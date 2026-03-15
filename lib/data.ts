@@ -27,6 +27,7 @@ function mapBarn(row: Record<string, unknown>): Barn {
     socialMedia: (row.social_media as Barn["socialMedia"]) || undefined,
     videoUrl: (row.video_url as string) || undefined,
     horseLeasing: (row.horse_leasing as boolean) || false,
+    services: (row.services as string[]) || [],
     status: (row.status as Barn["status"]) || "active",
     createdAt: row.created_at as string,
     updatedAt: row.updated_at as string,
@@ -69,6 +70,16 @@ export async function getPendingBarns(): Promise<Barn[]> {
     .from("barns")
     .select("*")
     .eq("status", "pending")
+    .order("created_at", { ascending: false });
+  if (error) throw error;
+  return (data || []).map(mapBarn);
+}
+
+export async function getArchivedBarns(): Promise<Barn[]> {
+  const { data, error } = await supabase
+    .from("barns")
+    .select("*")
+    .eq("status", "archived")
     .order("created_at", { ascending: false });
   if (error) throw error;
   return (data || []).map(mapBarn);

@@ -62,7 +62,12 @@
       "whispering-farms-equestrian-center.jpg"
     ],
     "createdAt": "2025-01-15T10:00:00Z",
-    "updatedAt": "2025-01-15T10:00:00Z"
+    "updatedAt": "2025-01-15T10:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000002",
@@ -125,7 +130,12 @@
       "meadow-lake.jpg"
     ],
     "createdAt": "2025-02-01T08:00:00Z",
-    "updatedAt": "2025-02-01T08:00:00Z"
+    "updatedAt": "2025-02-01T08:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000003",
@@ -190,7 +200,12 @@
       "njec.jpg"
     ],
     "createdAt": "2025-01-20T12:00:00Z",
-    "updatedAt": "2025-01-20T12:00:00Z"
+    "updatedAt": "2025-01-20T12:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000004",
@@ -254,7 +269,12 @@
       "riviere.jpg"
     ],
     "createdAt": "2025-03-01T09:00:00Z",
-    "updatedAt": "2025-03-01T09:00:00Z"
+    "updatedAt": "2025-03-01T09:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000005",
@@ -317,7 +337,12 @@
     ],
     "photos": [],
     "createdAt": "2025-01-10T07:00:00Z",
-    "updatedAt": "2025-01-10T07:00:00Z"
+    "updatedAt": "2025-01-10T07:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000006",
@@ -380,7 +405,12 @@
     ],
     "photos": [],
     "createdAt": "2025-02-15T11:00:00Z",
-    "updatedAt": "2025-02-15T11:00:00Z"
+    "updatedAt": "2025-02-15T11:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000007",
@@ -441,7 +471,12 @@
     ],
     "photos": [],
     "createdAt": "2025-03-10T14:00:00Z",
-    "updatedAt": "2025-03-10T14:00:00Z"
+    "updatedAt": "2025-03-10T14:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000008",
@@ -495,7 +530,11 @@
     ],
     "photos": [],
     "createdAt": "2025-04-01T10:00:00Z",
-    "updatedAt": "2025-04-01T10:00:00Z"
+    "updatedAt": "2025-04-01T10:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000009",
@@ -558,7 +597,12 @@
     ],
     "photos": [],
     "createdAt": "2025-02-20T09:00:00Z",
-    "updatedAt": "2025-02-20T09:00:00Z"
+    "updatedAt": "2025-02-20T09:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000010",
@@ -612,7 +656,11 @@
       "keelona.jpg"
     ],
     "createdAt": "2025-01-25T08:00:00Z",
-    "updatedAt": "2025-01-25T08:00:00Z"
+    "updatedAt": "2025-01-25T08:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000011",
@@ -677,7 +725,12 @@
       "sunny-fox.webp"
     ],
     "createdAt": "2025-03-15T10:00:00Z",
-    "updatedAt": "2025-03-15T10:00:00Z"
+    "updatedAt": "2025-03-15T10:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000012",
@@ -741,7 +794,12 @@
       "riverbend.png"
     ],
     "createdAt": "2025-04-10T13:00:00Z",
-    "updatedAt": "2025-04-10T13:00:00Z"
+    "updatedAt": "2025-04-10T13:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000013",
@@ -805,7 +863,12 @@
       "westridge-farms.jpg"
     ],
     "createdAt": "2026-02-17T00:00:00Z",
-    "updatedAt": "2026-02-17T00:00:00Z"
+    "updatedAt": "2026-02-17T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000014",
@@ -876,7 +939,12 @@
       "redwood-farm.jpg"
     ],
     "createdAt": "2026-02-17T00:00:00Z",
-    "updatedAt": "2026-02-17T00:00:00Z"
+    "updatedAt": "2026-02-17T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000015",
@@ -954,7 +1022,12 @@
       "rio-vista-farm.jpg"
     ],
     "createdAt": "2026-02-17T00:00:00Z",
-    "updatedAt": "2026-02-17T00:00:00Z"
+    "updatedAt": "2026-02-17T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000016",
@@ -1011,7 +1084,12 @@
       "glendaloch-farm.jpeg"
     ],
     "createdAt": "2026-02-17T00:00:00Z",
-    "updatedAt": "2026-02-17T00:00:00Z"
+    "updatedAt": "2026-02-17T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000017",
@@ -1060,7 +1138,12 @@
       "polo-club-equine.jpg"
     ],
     "createdAt": "2026-02-17T00:00:00Z",
-    "updatedAt": "2026-02-17T00:00:00Z"
+    "updatedAt": "2026-02-17T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000018",
@@ -1115,7 +1198,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-17T00:00:00Z",
-    "updatedAt": "2026-02-17T00:00:00Z"
+    "updatedAt": "2026-02-17T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "21cfde6e-c302-4d7f-b979-ea2c293a7e5c",
@@ -1164,7 +1252,12 @@
       "white-fences.jpg"
     ],
     "createdAt": "2026-02-17T01:01:09.912Z",
-    "updatedAt": "2026-02-17T01:01:09.912Z"
+    "updatedAt": "2026-02-17T01:01:09.912Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "92378fa0-4d48-407f-b524-79ac38b9e11e",
@@ -1226,7 +1319,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-17T01:01:09.912Z",
-    "updatedAt": "2026-02-17T01:01:09.912Z"
+    "updatedAt": "2026-02-17T01:01:09.912Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "b389fab9-99c3-447c-a2eb-384a39352407",
@@ -1276,7 +1374,12 @@
       "scissortail-hill.jpg"
     ],
     "createdAt": "2026-02-17T01:01:09.912Z",
-    "updatedAt": "2026-02-17T01:01:09.912Z"
+    "updatedAt": "2026-02-17T01:01:09.912Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "1b314ae0-cd2f-46ed-8bb9-bb59ec1342ea",
@@ -1338,7 +1441,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-17T01:01:09.912Z",
-    "updatedAt": "2026-02-17T01:01:09.912Z"
+    "updatedAt": "2026-02-17T01:01:09.912Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "eb802ffe-f0fb-4821-8b8a-d228b4e8578d",
@@ -1403,7 +1511,12 @@
       "cadence-ranch.jpg"
     ],
     "createdAt": "2026-02-17T01:01:09.912Z",
-    "updatedAt": "2026-02-17T01:01:09.912Z"
+    "updatedAt": "2026-02-17T01:01:09.912Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "8755064a-d00f-4600-91a0-f2570d5043bc",
@@ -1458,7 +1571,13 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-17T01:01:09.912Z",
-    "updatedAt": "2026-02-17T01:01:09.912Z"
+    "updatedAt": "2026-02-17T01:01:09.912Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "1ffc0799-b5b1-44a2-887e-e0f7122b5abc",
@@ -1507,7 +1626,11 @@
       "riding-club-of-austin.jpg"
     ],
     "createdAt": "2026-02-17T01:01:09.912Z",
-    "updatedAt": "2026-02-17T01:01:09.912Z"
+    "updatedAt": "2026-02-17T01:01:09.912Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000026",
@@ -1569,7 +1692,12 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000028",
@@ -1626,7 +1754,11 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000029",
@@ -1684,7 +1816,11 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000030",
@@ -1744,7 +1880,11 @@
       "suncrest-farm.jpeg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000031",
@@ -1806,7 +1946,12 @@
       "tri-star-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000032",
@@ -1862,7 +2007,11 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000033",
@@ -1921,7 +2070,12 @@
       "oak-bend-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000034",
@@ -1973,7 +2127,11 @@
       "augusta-pines-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000035",
@@ -2028,7 +2186,12 @@
       "bailey-oaks-farms.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000036",
@@ -2086,7 +2249,12 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000037",
@@ -2139,7 +2307,12 @@
       "blackjack-lane-equestrian.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000038",
@@ -2189,7 +2362,8 @@
       "blisswood-ranch.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": []
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000039",
@@ -2238,7 +2412,11 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000040",
@@ -2292,7 +2470,12 @@
       "callegari-equestrian.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000041",
@@ -2346,7 +2529,12 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000042",
@@ -2397,7 +2585,12 @@
       "haras-dos-cavaleiros.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000043",
@@ -2451,7 +2644,12 @@
       "houston-oaks-equestrian.webp"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000044",
@@ -2498,7 +2696,10 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000045",
@@ -2554,7 +2755,12 @@
       "magic-moments-stable.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000046",
@@ -2606,7 +2812,11 @@
       "pine-hollow-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000047",
@@ -2657,7 +2867,11 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000048",
@@ -2707,7 +2921,12 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000049",
@@ -2758,7 +2977,12 @@
       "sobral-performance-horses.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000050",
@@ -2806,7 +3030,8 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": []
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000051",
@@ -2856,7 +3081,11 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000052",
@@ -2909,7 +3138,11 @@
       "west-stables.png"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000053",
@@ -2956,7 +3189,8 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": []
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000054",
@@ -3008,7 +3242,12 @@
       "4hearts-ranch.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000055",
@@ -3059,7 +3298,11 @@
       "benbrook-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000056",
@@ -3109,7 +3352,12 @@
       "black-star-sport-horses.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000057",
@@ -3159,7 +3407,12 @@
       "brawley-farms.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000058",
@@ -3211,7 +3464,12 @@
       "dallas-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000059",
@@ -3260,7 +3518,11 @@
       "dallas-polo-club.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000060",
@@ -3311,7 +3573,12 @@
       "flower-mound-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000061",
@@ -3357,7 +3624,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000062",
@@ -3409,7 +3679,12 @@
       "whistlejacket-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000063",
@@ -3460,7 +3735,12 @@
       "comly-sport-horses.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000064",
@@ -3511,7 +3791,12 @@
       "hillcrest-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000065",
@@ -3560,7 +3845,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000066",
@@ -3612,7 +3901,12 @@
       "north-texas-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000067",
@@ -3661,7 +3955,11 @@
       "prestonwood-polo-club.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000068",
@@ -3713,7 +4011,12 @@
       "rnr-stables.jpeg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000069",
@@ -3765,7 +4068,12 @@
       "rocking-j-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000070",
@@ -3811,7 +4119,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": []
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000071",
@@ -3860,7 +4169,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000072",
@@ -3909,7 +4223,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a1b2c3d4-1111-4000-a001-000000000073",
@@ -3956,7 +4274,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00Z",
-    "updatedAt": "2026-02-22T00:00:00Z"
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "d7a14ead-340f-4fa9-8acd-734903955bda",
@@ -4006,7 +4328,11 @@
       "spring-creek-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "3e357c8b-94b7-4052-81b3-8b8b96eb00c1",
@@ -4054,7 +4380,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "e2825dcb-7dd5-487a-8ddb-d54e5406c42f",
@@ -4102,7 +4432,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "52bbbee1-acc1-41cd-86d3-7338a9792fca",
@@ -4149,7 +4483,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "662cefcd-7c50-40de-ba6c-79dab5553d89",
@@ -4208,7 +4546,12 @@
       "wrenwood-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "8bf79058-9423-4660-afd9-3ece2923f864",
@@ -4261,7 +4604,11 @@
       "double-diamond-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "5d268ec8-6a03-46b8-825c-61d1a784c700",
@@ -4320,7 +4667,12 @@
       "diamond-c-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "3fcad6d6-be35-4eaf-bb95-6f4628a47ba5",
@@ -4369,7 +4721,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "eed7c589-40a0-48ec-9b6c-5999e054975d",
@@ -4417,7 +4774,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "93cc01b4-58a2-4c00-99df-cf24c90f267d",
@@ -4468,7 +4829,10 @@
       "doringcourt-horse-boarding-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "f3e3c4e2-3e65-4656-82e1-a69d3c35d6ec",
@@ -4516,7 +4880,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "f7aa004f-d015-4d1f-8b13-8c5ac385d95c",
@@ -4573,14 +4942,19 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "7cd8576f-aed4-4f52-b2d9-ced9132f093a",
     "ownerId": "system",
     "name": "Hill Country Equestrian Lodge",
     "slug": "hill-country-equestrian-lodge",
-    "description": "Located at a historic ranch headquarters adjoining a 5,500-acre natural area in Bandera, Texas \u2014 the Cowboy Capital of the World. The facility spans 6,000 acres with miles of trails through rugged Texas Hill Country terrain.",
+    "description": "Located at a historic ranch headquarters adjoining a 5,500-acre natural area in Bandera, Texas — the Cowboy Capital of the World. The facility spans 6,000 acres with miles of trails through rugged Texas Hill Country terrain.",
     "address": {
       "street": "1580 Hay Hollar Road",
       "city": "Bandera",
@@ -4623,7 +4997,11 @@
       "hill-country-equestrian-lodge.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "70400120-4265-4e23-8116-3fd717ddc8c7",
@@ -4691,7 +5069,12 @@
       "bit-and-bridle-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "bdd16466-d5c0-4638-b772-c7180a27f99c",
@@ -4740,7 +5123,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "9bb6a987-7281-431d-b24c-a65a72b2bf06",
@@ -4791,7 +5177,10 @@
       "trails-of-horseshoe-bay-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "2f99f0c0-a370-4286-9355-cb61315ef3dd",
@@ -4844,7 +5233,10 @@
       "lobos-horse-ranch.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "97336509-9252-4007-a88e-6b9e2363511a",
@@ -4901,7 +5293,12 @@
       "white-rock-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "8e8a34b9-2a08-4738-95c4-68f957a300b0",
@@ -4951,7 +5348,12 @@
       "southlake-equestrian.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "adfc8fd7-260a-4903-a333-732becaa0d44",
@@ -4998,7 +5400,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "969050a0-87f8-4d98-8e68-349b88c846a4",
@@ -5060,7 +5466,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "77e6ceab-ffca-49be-83d5-27c1fbbf7cfa",
@@ -5110,7 +5521,12 @@
       "coraggio-equestrian.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "1af42b13-aae2-4b39-9eef-3af44291fea2",
@@ -5167,14 +5583,19 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "12153424-f04f-47f7-a681-8ac0ba27c716",
     "ownerId": "system",
     "name": "Guarded Heart Farm",
     "slug": "guarded-heart-farm",
-    "description": "Guarded Heart Farm Horse Boarding & Equestrian Center is a 35-acre property convenient to Austin, Georgetown, Cedar Park, Hutto and Round Rock\u2014approximately 10 minutes from the Williamson County Expo Center. Features a spring-fed pond, on-site barn manager, and 24/7 monitoring.",
+    "description": "Guarded Heart Farm Horse Boarding & Equestrian Center is a 35-acre property convenient to Austin, Georgetown, Cedar Park, Hutto and Round Rock—approximately 10 minutes from the Williamson County Expo Center. Features a spring-fed pond, on-site barn manager, and 24/7 monitoring.",
     "address": {
       "street": "2402 Black Waxy Rd",
       "city": "Taylor",
@@ -5215,14 +5636,17 @@
       "guarded-heart-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "7873b160-2592-4b12-a275-44d03d0f0a55",
     "ownerId": "system",
     "name": "Highland Park Riding School",
     "slug": "highland-park-riding-school",
-    "description": "An all-women's equestrian sanctuary focused on English Hunter/Jumper riding. A space where women can grow in strength, confidence, and connection\u2014both with each other and with horses. Features compassionate, highly trained instructors in a safe, supportive environment for women 30+.",
+    "description": "An all-women's equestrian sanctuary focused on English Hunter/Jumper riding. A space where women can grow in strength, confidence, and connection—both with each other and with horses. Features compassionate, highly trained instructors in a safe, supportive environment for women 30+.",
     "address": {
       "street": "Sam Bass Rd",
       "city": "Round Rock",
@@ -5260,7 +5684,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "6bd9821d-ead7-4092-9f86-3ad0bac40b65",
@@ -5324,7 +5751,12 @@
       "esoteric-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "6f60c518-08d2-45e0-9fa1-558da321baff",
@@ -5374,7 +5806,12 @@
       "silver-oak-stable.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "863c2334-39d4-48c6-9f62-6d41c332b1d9",
@@ -5422,7 +5859,13 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "8b87d2c2-dcac-4b8a-9617-3399269e248a",
@@ -5474,7 +5917,12 @@
       "bethpage-equestrian-center.png"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "757fbbbf-7efa-4676-b2a6-57b31cc8d1c6",
@@ -5524,7 +5972,11 @@
       "new-york-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "7979e5bd-574e-4677-9f27-6fd87c658a7a",
@@ -5576,7 +6028,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e143ce68-8d81-4171-ab41-df562da68c3f",
@@ -5630,7 +6087,12 @@
       "choya-farms.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "f9439bce-8774-4ff8-97f2-a3a67385c15e",
@@ -5680,7 +6142,13 @@
       "skye-acres-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "a2ae0435-87a6-4af5-878b-2cf8e599dabe",
@@ -5733,7 +6201,12 @@
       "gray-horse-farm-hamptons.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "b2fb68ba-9a49-47b2-8f1c-f1a89d8034df",
@@ -5787,7 +6260,12 @@
       "stony-hill-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "db3615d2-c73e-4f05-ad7c-24c68a14d78e",
@@ -5839,7 +6317,12 @@
       "longacre-mb.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "059244cf-c594-4510-b063-183570414d37",
@@ -5886,7 +6369,10 @@
       "razor-creek-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "10b3e0f0-e2b6-4169-868c-344fe4904e46",
@@ -5955,7 +6441,12 @@
       "spring-run-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "446a554f-ab08-412f-ae40-888889d698dd",
@@ -6012,7 +6503,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "cc853671-c2b1-4117-8053-5db1e194bf8b",
@@ -6062,7 +6558,12 @@
       "bannon-woods-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "14282e11-7c48-48cf-ae7f-459de4734d7e",
@@ -6109,7 +6610,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a35eda19-0e0c-4b1d-b678-5c429f91f063",
@@ -6157,7 +6662,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "4b9552cb-56ca-459a-815d-78d69734a5aa",
@@ -6208,7 +6718,10 @@
       "circle-g-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "4ccbf1f9-e096-4eba-b20e-113836bd39d2",
@@ -6256,7 +6769,10 @@
       "miron-equine-center.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "f4648491-647c-452a-a296-d2feb8b2b709",
@@ -6314,7 +6830,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training"
+    ]
   },
   {
     "id": "6fd597ce-f817-4f1e-8468-d4818377ca48",
@@ -6367,7 +6887,12 @@
       "circle-bar-c-ranch.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "7ba2a67b-3661-4516-9497-ff6207b42294",
@@ -6415,7 +6940,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "b621e3d4-e58f-46d8-b0c3-a78396009a68",
@@ -6466,7 +6996,12 @@
       "orchard-manor-show-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "8f992bc8-fbaf-4fca-9b05-0f026cf36fa8",
@@ -6518,7 +7053,12 @@
       "cavallo-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "7bb75735-0444-4f3b-9112-aeaa1ff80f8d",
@@ -6569,7 +7109,12 @@
       "clairvaux.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "1700cf7a-74da-40b9-b871-790462cbec60",
@@ -6616,7 +7161,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": []
   },
   {
     "id": "dc76f608-0195-4fe2-9434-6dc72d9fb1ae",
@@ -6666,7 +7212,11 @@
       "picturesque-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "95b36b66-4314-4711-b626-5391ddc0ef70",
@@ -6716,7 +7266,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "5b38d189-e9b7-4d28-b3e8-1a78d57eb62b",
@@ -6768,7 +7323,12 @@
     ],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "9c4df9a8-f010-4097-89c1-644da8f39b0f",
@@ -6819,7 +7379,10 @@
       "wellington-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "5e8b87d3-6e4f-4db1-8adc-b640bc68295f",
@@ -6870,14 +7433,17 @@
       "casperey-stables.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "ee29261b-c873-4024-9304-7bcf6ed13b5a",
     "ownerId": "system",
     "name": "IDA Farm",
     "slug": "ida-farm",
-    "description": "Located in Wellington, Florida \u2014 the Equestrian Capital of the World \u2014 IDA Farm provides professional equestrian training and boarding in a relaxed yet professional atmosphere. The 22.5-acre facility welcomes riders of all levels in jumping and dressage disciplines.",
+    "description": "Located in Wellington, Florida — the Equestrian Capital of the World — IDA Farm provides professional equestrian training and boarding in a relaxed yet professional atmosphere. The 22.5-acre facility welcomes riders of all levels in jumping and dressage disciplines.",
     "address": {
       "street": "361 Cindy Drive",
       "city": "Wellington",
@@ -6930,7 +7496,12 @@
       "ida-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "538baf17-2859-4e93-b312-9ccf5547e9e9",
@@ -7001,7 +7572,12 @@
       "diamante-farms-dressage.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "bfb9f7d8-798d-4670-8595-fe6adad4a7d3",
@@ -7053,7 +7629,10 @@
       "top-gallant-farms.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "9df80f50-7162-433d-9da9-2523fecc0708",
@@ -7103,7 +7682,12 @@
       "poinciana-farm.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "leasing"
+    ]
   },
   {
     "id": "ac57a724-7821-4ac7-b5b0-ad63cc6c5fc4",
@@ -7156,7 +7740,12 @@
       "invictus-farms-fl.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "ebafe8d2-a526-411d-9dfa-34427c3de3a3",
@@ -7206,7 +7795,10 @@
       "palm-beach-equine-sports-complex.jpg"
     ],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "25a97e7b-ef9f-455a-a350-76b8d34b16ea",
@@ -7254,7 +7846,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "f13b16d1-a2a7-4ccb-8d00-e369e92a775f",
@@ -7302,7 +7899,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-22T00:00:00.000Z",
-    "updatedAt": "2026-02-22T00:00:00.000Z"
+    "updatedAt": "2026-02-22T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "99262a21-08e9-40fc-ad5d-b0c1348b7709",
@@ -7351,7 +7952,12 @@
       "haddenloch.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "f13585ce-139f-423c-8cec-4c241e43d19c",
@@ -7401,7 +8007,10 @@
       "diamond-d-boarding-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "29b7918e-9dfd-496d-b145-c864fb039d67",
@@ -7449,7 +8058,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "b0e4f3f0-db2e-4a0a-86cb-3e7b8e6e3069",
@@ -7501,7 +8114,11 @@
       "jacksonville-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "7cbe2749-434a-442c-a513-6268fbf9e807",
@@ -7551,7 +8168,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "d10674df-4d7c-449a-8564-d04bed2a3978",
@@ -7604,7 +8226,12 @@
     ],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "92de7460-b3c9-4770-906f-817aaa3c8655",
@@ -7660,7 +8287,12 @@
       "la-rose-performance-horses.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a6f17cb8-f102-4cf7-a32e-e500805f85a5",
@@ -7710,7 +8342,12 @@
       "bv-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "adb814d0-e320-4242-983b-140593b3a3e6",
@@ -7763,7 +8400,12 @@
       "m-and-m-hunter-jumpers.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "3e577449-73fb-49dc-a6cc-4b4cb5521745",
@@ -7817,7 +8459,12 @@
       "southern-pines-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "739eb9c6-afb8-4a40-a006-799fac02d8b9",
@@ -7867,7 +8514,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "de2272f6-4e49-492a-a1fc-2bed390b46f5",
@@ -7923,7 +8574,11 @@
       "happy-n-ranch.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training"
+    ]
   },
   {
     "id": "ee02a045-923d-4293-80c6-2d7d521d6f8a",
@@ -7974,7 +8629,12 @@
       "california-horse-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "bfb7e660-1dab-4b42-89ef-09e93d958ecc",
@@ -8023,7 +8683,12 @@
       "black-mountain-sport-horses.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "2b1c5b63-9679-4c99-8c81-84edb9aac681",
@@ -8077,7 +8742,12 @@
       "westerly-stud-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "5112c3f7-bc72-4ef9-a787-5307b5b1fabf",
@@ -8136,7 +8806,12 @@
       "santa-barbara-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "0a46827c-ea6d-488c-8e72-cc5d7b5bee00",
@@ -8186,7 +8861,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "944d0d9c-945f-4d43-9562-133ef41061fa",
@@ -8253,7 +8931,12 @@
       "canty-rune-training-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "88f79521-6368-4318-a89d-d9d50ed874e4",
@@ -8308,7 +8991,12 @@
       "the-stable-on-the-woods.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e4ac9f65-b454-45fd-bc16-d6b9ca6ec4a1",
@@ -8358,7 +9046,11 @@
       "new-bridge-polo-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "0d18874b-6bbd-490e-b41f-7970056f8c40",
@@ -8411,7 +9103,11 @@
       "magnolia-meadow-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "45103ffa-c64d-411a-a34d-53cb4fd16ea2",
@@ -8462,7 +9158,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "de62dd41-0584-4315-a34c-d4223175fc98",
@@ -8514,14 +9215,19 @@
       "dfg-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "67469a6e-a34f-4737-88a4-706a9b74a37b",
     "ownerId": "system",
     "name": "Ligara Farm",
     "slug": "ligara-farm",
-    "description": "A beautifully maintained boarding facility on 24 acres in the horse-rich 302 corridor of Aiken, SC. Offers full and self-care stall options as well as pasture board. Features 8 fully matted stalls, a hot water wash rack, jumps, perimeter riding track, and trails \u2014 just 8 miles from Hitchcock Woods.",
+    "description": "A beautifully maintained boarding facility on 24 acres in the horse-rich 302 corridor of Aiken, SC. Offers full and self-care stall options as well as pasture board. Features 8 fully matted stalls, a hot water wash rack, jumps, perimeter riding track, and trails — just 8 miles from Hitchcock Woods.",
     "address": {
       "street": "597 Redds Branch Rd",
       "city": "Aiken",
@@ -8566,7 +9272,10 @@
       "ligara-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "c1fa3483-c4e1-4c46-acc1-bb96a87f7ed9",
@@ -8616,7 +9325,12 @@
       "vaughn-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e6439fd7-b274-489e-b637-acc2b8eebefb",
@@ -8666,7 +9380,10 @@
       "red-horse-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "21b5cbfa-05e3-4dad-9652-aa835ca8c037",
@@ -8714,7 +9431,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "aecff092-8d0b-4b7f-b91a-184d8fe55577",
@@ -8763,7 +9484,11 @@
       "mead-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "b31d8cc5-e7b1-481f-a4dc-fcef1f30b9ac",
@@ -8813,7 +9538,12 @@
       "silvermine-farm-norwalk.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "ad12911c-4b88-4c93-951d-95ec52dda928",
@@ -8865,7 +9595,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "6b26acd8-96f2-4328-8a04-8c1359a3dfb5",
@@ -8914,7 +9649,12 @@
       "serenity-show-stable.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "381833eb-2fcf-4aa9-85cd-e9a555ffae85",
@@ -8963,7 +9703,11 @@
       "sunset-hill-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "100a11cb-adc2-4804-afe6-829784d552a6",
@@ -9014,7 +9758,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "91eeb4ac-42bc-48e4-b25d-bec91923a7cd",
@@ -9061,7 +9810,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "8a5b6f61-1e65-49e0-9f5e-51d8e61cd6de",
@@ -9113,7 +9866,11 @@
       "los-angeles-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "1cc1ae67-bba3-49e9-92e3-9ac5dd91ef8e",
@@ -9160,7 +9917,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "e00d5ce1-2570-490c-bb74-b2b2982234f2",
@@ -9213,7 +9974,11 @@
       "the-paddock-riding-club.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "38fef210-987c-4786-9d5e-fd970b98e37a",
@@ -9272,7 +10037,12 @@
       "courtship-ranch.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "6ba76559-7be2-431b-96da-ab9069f2c7e6",
@@ -9323,7 +10093,12 @@
       "farndale-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "390bf770-eb3e-448b-84f8-16c613db8f5e",
@@ -9373,7 +10148,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "b0e91097-4aef-4990-8da1-287c8fdce6f2",
@@ -9422,7 +10202,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "378198b2-23e2-493b-a06c-fa8477356876",
@@ -9470,7 +10254,13 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "3c14622e-78ca-4f41-976e-7937a75b6037",
@@ -9518,7 +10308,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "094215c0-ee58-41f9-8a02-36aff1477893",
@@ -9571,7 +10364,11 @@
       "bell-canyon-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "9bbcaeaa-b73b-4cc7-bc3f-578c8ce183c6",
@@ -9626,7 +10423,10 @@
       "shangri-la-farm-equine.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "94b52a4c-6769-4f30-9474-29bcb0f8941d",
@@ -9673,7 +10473,10 @@
       "big-iron-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "d237b814-8f1b-4e50-b642-6136077e7137",
@@ -9720,7 +10523,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "dccc04fd-5c86-4b34-91d0-bb1f61e84c36",
@@ -9770,7 +10578,10 @@
       "lazy-j-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "2c5a415e-59da-477d-88e4-10a46f343228",
@@ -9844,7 +10655,12 @@
       "five-phases-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "2834431f-1386-4cb0-908f-21932d5f429f",
@@ -9903,7 +10719,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "b4b8667f-4ce3-4104-acc9-3dda0527e91e",
@@ -9965,7 +10786,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "d6d409dc-d19d-46fd-b060-77b70a56c73c",
@@ -10016,7 +10842,12 @@
       "sapphire-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "78ee88d1-3b38-42ed-9c14-72f2299d47f6",
@@ -10076,7 +10907,12 @@
       "olive-acres-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "79cc65ec-8aff-40de-a444-75c6c8f3df70",
@@ -10125,7 +10961,11 @@
       "ashcombe-sporthorses.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "e66ed2ec-7835-455b-99a4-027a9041a77d",
@@ -10178,7 +11018,11 @@
       "in-the-breeze-ranch.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "00ac720b-f6ce-4cc6-8769-4af6302c5352",
@@ -10234,7 +11078,12 @@
       "annwyn-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "644f76b1-7097-4a7c-8f4f-6487e1141a33",
@@ -10283,7 +11132,11 @@
       "perennial-farm-riding-academy.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a3250ba7-deb0-41d3-924b-06d2941e4d4b",
@@ -10332,7 +11185,11 @@
       "hidden-meadow-farms.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "612a952c-a5e3-4ad6-a044-cc6d8528cca6",
@@ -10398,7 +11255,12 @@
       "suncoast-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "c9068a75-c22f-4a09-8f21-91bc48ad0bcd",
@@ -10448,7 +11310,11 @@
     ],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "586ddb2f-cd2b-4e1e-b810-5452d5afd392",
@@ -10508,7 +11374,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "d0735e32-0535-47e7-b96d-73c94cb5b0b0",
@@ -10562,7 +11433,12 @@
       "licciardello-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "06a08eb9-c9be-40a6-bc74-6d2fb7e0b435",
@@ -10611,7 +11487,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "3e899e17-cb2f-4bfd-897d-6465521694d4",
@@ -10659,7 +11538,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "b0dfa4b5-3998-4b81-8b8d-f4dd9d3b40b7",
@@ -10710,7 +11593,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "14206690-f8e2-433d-905e-eafec67a0100",
@@ -10763,7 +11651,12 @@
       "river-horse-ranch.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "eac37cdc-6e52-41fb-8fbf-d5c4a5452b8c",
@@ -10816,7 +11709,12 @@
       "desert-palms-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "d81cf4f9-8605-4b05-90aa-18585b606684",
@@ -10869,7 +11767,11 @@
       "chaparosa-ranch.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "d566e6e8-07f0-415f-ae64-f88750cea520",
@@ -10920,7 +11822,11 @@
       "hawk-ranch-cave-creek.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "8de80544-2dbd-4992-8313-c28c71c15fba",
@@ -10969,7 +11875,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "3c79bbfb-284d-4237-9f3d-d81a072ab123",
@@ -11019,7 +11930,11 @@
       "serenity-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "8b3dbaad-3d00-477f-b1f7-385a51e81fef",
@@ -11070,7 +11985,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "51c041d1-2715-4d88-bc03-1afec6f81871",
@@ -11121,7 +12041,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "21e5b64d-30ac-4913-b546-3f7dc0eb7ca2",
@@ -11170,7 +12095,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "e6bb92d8-00af-42b6-b6fe-d5070a24fb3c",
@@ -11220,7 +12148,10 @@
       "d-and-j-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "4e2652d2-7669-4960-ba0c-71d4f5d1f1da",
@@ -11271,7 +12202,12 @@
       "canyonside-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "2cf3b1d3-2b64-4809-b704-d1b77d8ce564",
@@ -11322,7 +12258,11 @@
       "sweetwater-farms.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "4ac2941b-7b0e-457b-8e42-a4213973fe97",
@@ -11378,7 +12318,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "5dcbe02d-d7f6-4db3-8c32-97fada0e22f6",
@@ -11430,7 +12375,11 @@
       "river-valley-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "51fefc33-3b4e-421e-a2d7-862bafdc0fc6",
@@ -11487,7 +12436,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "2ddcd938-1aad-4857-8953-b857ce6a03ac",
@@ -11536,7 +12490,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "d6b16a6a-36d1-4f40-af26-1b3a693197ac",
@@ -11588,7 +12545,11 @@
       "rancho-agave-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "6608a2e7-4a12-4f03-8b7a-8157e993c496",
@@ -11638,7 +12599,11 @@
       "two-mountains-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "75c011a5-8160-49a7-a74f-68a0f1a35d60",
@@ -11689,7 +12654,10 @@
       "villa-fleur-de-lys-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "48b1c177-34bf-4441-b511-6767ce5e37da",
@@ -11739,7 +12707,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "be3e7c92-0b8d-40a3-b745-138c37fb3066",
@@ -11788,7 +12760,12 @@
       "rockmeadow-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e8e3ecd6-d111-43b4-90a8-a3681f8e398b",
@@ -11849,7 +12826,12 @@
       "western-sky-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "563c973e-4d19-4319-9e78-ff78b84ecf5e",
@@ -11899,7 +12881,11 @@
       "the-equestrian-school-pnw.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "0ddf2f5f-a7bd-46ef-b644-d263e2024bf7",
@@ -11953,7 +12939,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "63458e9a-a6dd-4811-af7f-3cb92dba70c5",
@@ -12004,7 +12995,12 @@
       "patterson-creek-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "b5f051eb-0d66-44e8-8fcc-867ea932c546",
@@ -12055,7 +13051,11 @@
       "stables-at-magnolia-ridge.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "773f9f16-b5ba-4640-bef0-0cf7ad431daa",
@@ -12107,7 +13107,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "75194cf9-814e-40ff-a6d7-04396a74b37c",
@@ -12157,7 +13162,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "3c78ccea-66bb-4763-93bf-2f134e23adcc",
@@ -12211,7 +13219,12 @@
       "renovatio-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "10f212b5-9989-497b-94d3-1a990d01e81b",
@@ -12267,7 +13280,12 @@
       "cherokee-hill-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "05a21c0d-fd6a-494b-8822-452594c9519b",
@@ -12320,7 +13338,11 @@
       "fence-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "518d287c-ab26-4142-9976-6ccfe5267112",
@@ -12371,7 +13393,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "60e4e675-44e1-423c-9c53-93b2ea39f127",
@@ -12418,7 +13445,10 @@
       "still-creek-equine.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "9573fa0e-4005-4588-99ff-fb97a0c4ae7c",
@@ -12468,7 +13498,10 @@
       "serenity-acres-nc.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "c82cff82-29b0-4876-a9ab-f729540bfb14",
@@ -12516,7 +13549,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "58e08875-e50e-4b21-b06a-58819b6c1f9d",
@@ -12565,7 +13602,12 @@
       "cavallo-dreams-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "d7531fbc-9e1a-4afb-89ff-bfc16f21abf1",
@@ -12614,7 +13656,12 @@
       "trinity-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "36125ef7-b0a3-4b1f-be39-54244646b02b",
@@ -12664,7 +13711,11 @@
       "southlands-foundation.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "1cba59d3-2e34-4b6b-95db-7bfaf343dd81",
@@ -12712,7 +13763,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "f0f3489f-f1d8-4ad5-b262-c611440ba9ab",
@@ -12760,7 +13815,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "bb1caff9-cf06-4cf6-9fe4-e6bca8aa4a90",
@@ -12809,7 +13868,11 @@
       "old-salem-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "0b7911b5-0849-488e-bef6-e93fb29cab35",
@@ -12864,7 +13927,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "3f18735a-3ca7-4f5f-a06f-21f86f153184",
@@ -12911,7 +13979,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "f05c79d9-73c1-472d-8156-2f55e36cff4f",
@@ -12958,7 +14031,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "06d697df-3424-4454-8ded-dd4c1f3ba540",
@@ -13007,7 +14084,11 @@
       "larkspur-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "6ee8f3df-08ba-4cfa-b112-58914db0e806",
@@ -13056,7 +14137,11 @@
       "centurion-farm-alpharetta.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "f8145140-2bb6-404a-97de-6ecae27fc3da",
@@ -13105,7 +14190,12 @@
       "windsor-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "31f58bec-6117-4b97-86a5-40d20975912f",
@@ -13168,7 +14258,12 @@
       "in-your-dreams-horse-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "f4d62714-1744-4a45-ab21-2dcc2401ca9e",
@@ -13217,7 +14312,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "e806a4c1-94b4-4621-8b30-53efbff3a619",
@@ -13269,7 +14368,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "6ebdec20-d19a-4faa-85a1-6e71e942dabe",
@@ -13325,7 +14429,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a64788fb-36a4-4ee7-be4c-877085327e24",
@@ -13376,7 +14485,11 @@
       "wildewood-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "c52519be-1da9-4133-a239-e6dc7d20eed2",
@@ -13425,7 +14538,12 @@
       "jaid-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e6cdbe11-019a-47e7-a00b-f4683d117149",
@@ -13481,7 +14599,12 @@
       "lioncrest-farms.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "c2e839d4-bc87-4cb8-b4dd-0e4dc36295fc",
@@ -13532,7 +14655,12 @@
       "horse-park-at-woodside.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "21a16e64-eb54-42b8-870e-213bc6e73954",
@@ -13583,7 +14711,10 @@
       "williams-ranch-boarding.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "5f7ba966-c741-489a-abd6-e69ccba36cf4",
@@ -13636,7 +14767,12 @@
       "oasis-farms-woodside.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "855ad6cc-2705-467b-b8ca-494067ebf2c6",
@@ -13686,7 +14822,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "4d347f10-f17e-4f82-b1c0-6b20cc829c6b",
@@ -13736,7 +14877,11 @@
       "miwok-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "2e1bbd44-aa9f-40f9-8b01-535fd6e2c6da",
@@ -13790,7 +14935,11 @@
       "dickson-ranch.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "81ff711c-6d50-48ac-b3f8-3e6ed06c5771",
@@ -13839,7 +14988,12 @@
       "longview-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "025205cd-2a08-47e0-92bb-948f7b144728",
@@ -13889,7 +15043,10 @@
       "ocean-riders-of-marin.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "2d9d8f91-90ba-4370-b9fd-a2366bde52cc",
@@ -13937,7 +15094,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "26471dae-070b-45f3-896e-53cea82b1a1c",
@@ -13987,7 +15147,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "5032080d-da05-4007-bcd7-916a56c77122",
@@ -14036,7 +15201,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "53f9ae3d-f757-4376-87fc-ef0c590fa583",
@@ -14086,7 +15256,11 @@
       "tag-farms.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "5ddf5cb5-0c70-4602-a40a-4735782e68ab",
@@ -14135,7 +15309,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "3a170341-5a1d-4a51-bb7f-86b379a79b0c",
@@ -14186,7 +15365,11 @@
       "duzan-riding-academy.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "8261ebd9-6a95-4392-b88d-11e01db91a53",
@@ -14235,7 +15418,11 @@
       "wheeler-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "dc6acfe2-bd56-4748-9701-542aaa5dac9c",
@@ -14283,7 +15470,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "3234ae4e-15e0-4e11-aa0d-10d5e65de183",
@@ -14333,7 +15524,12 @@
       "creekside-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "693ed426-d62c-46a3-a0ed-e32e31b61226",
@@ -14384,7 +15580,11 @@
       "bell-mountain-ranch-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "ee7191ed-265c-4e8d-9a95-58f21758ce23",
@@ -14441,7 +15641,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e35abfbe-f2c7-449a-b0f1-665738bd50ee",
@@ -14493,7 +15698,11 @@
       "mariah-farms.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "53aac982-1852-49df-b866-c96a9ebc5c10",
@@ -14541,7 +15750,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "694a8234-3ad4-4eb2-ab59-6a1d73d9ba35",
@@ -14591,7 +15805,11 @@
       "cottonwood-riding-club.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "0d0fb2ba-493b-474e-bd58-83ae0551bc38",
@@ -14638,7 +15856,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "31a0c3df-6ffa-4d70-bc81-21d9363349cf",
@@ -14689,7 +15912,11 @@
       "mile-high-horse-ranch.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "fc103a9e-ae3e-4feb-8e37-fcb9f42772aa",
@@ -14738,7 +15965,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "86677938-f5fc-4f23-932b-17acab3cf94d",
@@ -14786,7 +16017,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "3854cbf8-2417-4d77-8ad4-c29681250c1d",
@@ -14835,7 +16070,11 @@
       "triton-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "bbd4f20c-aaf1-4991-8935-a7e1e5bfe180",
@@ -14886,7 +16125,12 @@
       "macnairs-country-acres.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "8fe3c68f-8ed3-487f-8739-904174746411",
@@ -14934,7 +16178,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "0377aeab-ce35-4847-9216-dd4cf695d55b",
@@ -14985,7 +16233,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "64eb8830-eb03-4f4e-804c-23b541d9971c",
@@ -15035,7 +16287,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "63c1f6cc-9ba9-4e76-b7c1-c8a11e70a13d",
@@ -15084,7 +16341,12 @@
       "apex-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e095f879-fa85-4af8-866b-de3aa6146552",
@@ -15132,7 +16394,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "3d6e2a0f-e413-4789-98a7-bc163c0c623b",
@@ -15179,7 +16445,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "fc94a8d5-a2a5-4813-bbd3-b5a1dee1e417",
@@ -15228,7 +16499,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "b4be9553-1d03-4008-8d04-65bdf0ee4d20",
@@ -15277,7 +16552,11 @@
       "oakwood-farms.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "619b2962-7a2f-47e1-b086-857fc4577f36",
@@ -15329,7 +16608,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "ea20b6cc-9ba9-4684-89d6-da7eee833b31",
@@ -15378,7 +16662,12 @@
       "lauras-ark.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e7fb7e44-16a4-4083-84de-185305d6ca1f",
@@ -15425,7 +16714,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "301a8949-a216-4b30-aed1-ac4b68eef5c9",
@@ -15473,7 +16766,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "038fe5bc-5d57-45fa-a7f0-167097430d97",
@@ -15523,7 +16820,12 @@
       "lakewood-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "9006b565-6466-4d0e-8a6a-9ab62ef2dc67",
@@ -15581,7 +16883,12 @@
       "dunham-woods-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "2477a7c5-b521-4aa1-99ac-2e99062e31dc",
@@ -15635,7 +16942,12 @@
       "galway-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "1a2bb693-3a6f-491b-b850-828bce822ed5",
@@ -15691,7 +17003,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "f2f65a71-fd1d-4dcc-9947-050d5fbc69b5",
@@ -15743,7 +17060,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "fe2845b3-d13c-4058-8dd6-484cbbc8f839",
@@ -15798,7 +17120,11 @@
       "shamrock-grove-arabians.png"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "d599540a-c7ba-4ef3-b615-25a9166ddff5",
@@ -15849,7 +17175,11 @@
       "sunset-trails-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "c8ff7a9e-ddde-4867-bc9a-c4ce67e959c2",
@@ -15902,7 +17232,11 @@
       "black-diamond-ranch-kc.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "60929791-e3de-456b-a805-d300e8fea8b2",
@@ -15953,7 +17287,10 @@
       "black-oak-ranch.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "583f6603-985a-4be9-95eb-57632fb3fc67",
@@ -16001,7 +17338,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a909ad82-bfa8-4fa0-a0c0-2e74c67592dd",
@@ -16052,7 +17394,11 @@
       "saddle-creek-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "25e4c507-3b7a-4bcd-861b-707b721e62ee",
@@ -16107,7 +17453,12 @@
     ],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "cd99e52f-f5b9-49c5-bc4c-06790a3a9339",
@@ -16159,7 +17510,11 @@
       "misty-river-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "1fc49e67-3210-4ccd-ac24-2ebde12df65b",
@@ -16211,7 +17566,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "009efb7b-0867-4120-9d9d-e2242727d094",
@@ -16265,7 +17625,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "982c6822-5d32-4fc2-8d13-d11a27b1e445",
@@ -16318,7 +17683,12 @@
     ],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "393f5507-2e91-495e-9577-f2a281643add",
@@ -16372,7 +17742,11 @@
     ],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training"
+    ]
   },
   {
     "id": "c123c56f-3b57-4059-b78a-eb25a0b1ca12",
@@ -16424,7 +17798,11 @@
       "three-crowns-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "043cdc28-f387-43d9-890d-c33d59a6725c",
@@ -16481,7 +17859,11 @@
       "bittersweet-acres-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "fd24c10e-0556-44df-9fc4-f55a25dc5b20",
@@ -16532,7 +17914,12 @@
       "cloud-nine-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "2fdbcce6-f097-4aab-bad9-02daf1975514",
@@ -16584,7 +17971,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "f4ce267c-05a1-4b8a-953f-94df1955e6f8",
@@ -16637,7 +18029,12 @@
       "graystone-stable.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "799d26c1-683c-4aaa-9581-3f9a124f1ce2",
@@ -16692,7 +18089,12 @@
       "scheffelridge-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "4c1dc0ec-d9af-4199-8e7c-de638717103c",
@@ -16743,7 +18145,12 @@
       "punchestown-stable.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "8a325abd-6476-40f3-a7fd-b26bed7aa1cb",
@@ -16794,7 +18201,12 @@
       "hester-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "330ba0c2-086f-48bb-9c15-410761a1f053",
@@ -16844,7 +18256,11 @@
       "pine-crest-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "642c11c7-bc41-4c9f-9c70-c0d146907d8b",
@@ -16896,7 +18312,11 @@
       "blue-ridge-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "5ff1c257-f87e-4223-afbb-9d0d337994ef",
@@ -16944,7 +18364,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "dfb2bd72-3ef4-4be5-961c-2a9875044d28",
@@ -16995,7 +18419,10 @@
       "diamond-ridge-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "400518be-edb4-448e-a89b-cc8e4d0a0883",
@@ -17049,7 +18476,11 @@
       "oakdale-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "b78937d4-4777-43c3-a741-36e1e1a409ba",
@@ -17099,7 +18530,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "c9a13a52-3faf-48ba-8f13-38ccae52e02a",
@@ -17159,7 +18594,12 @@
       "redbird-equestrian.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "4a5d77c0-a708-4ae5-837d-d0ef7bf8576c",
@@ -17215,7 +18655,12 @@
       "brandywine-farm.jpeg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "afe5b3ad-9028-4ed5-9297-155fa6bb9fd2",
@@ -17271,7 +18716,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "7a754a97-ec56-4acb-aedd-795d055e69ce",
@@ -17322,7 +18772,11 @@
       "sauvie-island-stables.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "b8f9941a-47bd-4902-abbb-01e83eb6cb1b",
@@ -17374,7 +18828,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "69ee68c1-b896-4e3e-b95b-103868d43e2a",
@@ -17426,7 +18885,11 @@
       "sherwood-forest-equestrian-center.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "793d10de-4f54-4e5d-8459-2949f2780708",
@@ -17476,7 +18939,11 @@
       "french-hill-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "e3f32323-cf47-40ff-89d2-c42e819f6e2d",
@@ -17528,7 +18995,12 @@
       "savin-hill-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e33eaff5-e877-4e19-bd24-bcc83e383f65",
@@ -17582,7 +19054,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "62cb60dd-a27f-4948-b456-c844e59becf0",
@@ -17629,7 +19106,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "4c72dbf0-df1b-4232-896a-5cbb194296dc",
@@ -17681,7 +19162,13 @@
       "charlton-ridge-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "cbf9d236-9544-4eef-ac16-e87420f65382",
@@ -17731,7 +19218,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "7b31daed-30c8-4fef-85b3-c9d41eb85a75",
@@ -17786,7 +19277,12 @@
       "sonnenberg-farm.jpg"
     ],
     "createdAt": "2026-02-24T00:00:00.000Z",
-    "updatedAt": "2026-02-24T00:00:00.000Z"
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "36c1e7b1-eb5a-4b57-ac37-6e602c18d767",
@@ -17836,7 +19332,11 @@
     ],
     "createdAt": "2026-03-12T01:14:51.000Z",
     "updatedAt": "2026-03-12T01:14:51.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training"
+    ]
   },
   {
     "id": "4015bdc4-c30e-4270-a400-63d4acf7a976",
@@ -17888,7 +19388,10 @@
     "photos": [],
     "createdAt": "2026-03-12T01:14:51.000Z",
     "updatedAt": "2026-03-12T01:14:51.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "8b27c9c5-b57b-4ac3-aa9c-84f22a543246",
@@ -17950,7 +19453,12 @@
     ],
     "createdAt": "2026-03-12T01:14:51.000Z",
     "updatedAt": "2026-03-12T01:14:51.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "bc378a66-cbe2-428f-a94e-076498a4e4c7",
@@ -18002,7 +19510,10 @@
     ],
     "createdAt": "2026-03-12T01:14:51.000Z",
     "updatedAt": "2026-03-12T01:14:51.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "",
@@ -18054,7 +19565,11 @@
     ],
     "createdAt": "2026-03-12T14:12:03.000Z",
     "updatedAt": "2026-03-12T14:12:03.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18107,7 +19622,10 @@
     ],
     "createdAt": "2026-03-12T14:12:03.000Z",
     "updatedAt": "2026-03-12T14:12:03.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "",
@@ -18160,7 +19678,12 @@
     ],
     "createdAt": "2026-03-12T14:12:03.000Z",
     "updatedAt": "2026-03-12T14:12:03.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18219,7 +19742,12 @@
     ],
     "createdAt": "2026-03-12T14:12:03.000Z",
     "updatedAt": "2026-03-12T14:12:03.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18268,7 +19796,10 @@
     "photos": [],
     "createdAt": "2026-03-12T14:12:03.000Z",
     "updatedAt": "2026-03-12T14:12:03.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "",
@@ -18319,7 +19850,12 @@
     "photos": [],
     "createdAt": "2026-03-12T14:12:03.000Z",
     "updatedAt": "2026-03-12T14:12:03.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18368,7 +19904,12 @@
     "photos": [],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18418,7 +19959,11 @@
     ],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18469,7 +20014,12 @@
     ],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18520,7 +20070,11 @@
     ],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18571,7 +20125,12 @@
     ],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18620,7 +20179,12 @@
     "photos": [],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18669,7 +20233,12 @@
     "photos": [],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18721,7 +20290,10 @@
     ],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "",
@@ -18772,7 +20344,12 @@
     ],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18839,7 +20416,12 @@
     "photos": [],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18892,7 +20474,12 @@
     ],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "",
@@ -18948,7 +20535,12 @@
     "photos": [],
     "createdAt": "2026-03-12T18:12:52.000Z",
     "updatedAt": "2026-03-12T18:12:52.000Z",
-    "status": "pending"
+    "status": "pending",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "08f767a7-9afd-4913-b7d6-00ced7987ee9",
@@ -18996,7 +20588,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "5e057e29-41be-4d6a-a32c-8aded438bd74",
@@ -19042,7 +20637,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "33a6fa58-b8b8-4adb-aa32-151b09a41e76",
@@ -19087,7 +20686,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "c9c0a73e-8365-4604-ad39-b609e380c12c",
@@ -19134,14 +20737,17 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training"
+    ]
   },
   {
     "id": "f63ca4be-f38f-48f1-a933-2e56f0b1cdb6",
     "ownerId": "system",
     "name": "Step N Style Ranch",
     "slug": "step-n-style-ranch",
-    "description": "We are located in the Santa Ana Mountains, Modjeska/Silverado Canyon area Boarding at Step n Style We have a large 18 box stall barn some with turnouts. Also foaling stalls 12\u2019x 24\u2019. A round pen arena.",
+    "description": "We are located in the Santa Ana Mountains, Modjeska/Silverado Canyon area Boarding at Step n Style We have a large 18 box stall barn some with turnouts. Also foaling stalls 12’x 24’. A round pen arena.",
     "address": {
       "street": "17231 Croatian Street",
       "city": "",
@@ -19183,14 +20789,15 @@
       "step-n-style-ranch.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "940e3eec-819e-4b10-b797-ada6cc22c09f",
     "ownerId": "system",
     "name": "Elvenstar",
     "slug": "elvenstar",
-    "description": "Elvenstar is nestled on twenty four acres in Ventura County\u2019s Tierra Rejada Valley greenbelt. Located between the communities of Thousand Oaks, Moorpark, and Simi Valley. Just minutes from either the 101 or 118 freeways.",
+    "description": "Elvenstar is nestled on twenty four acres in Ventura County’s Tierra Rejada Valley greenbelt. Located between the communities of Thousand Oaks, Moorpark, and Simi Valley. Just minutes from either the 101 or 118 freeways.",
     "address": {
       "street": "",
       "city": "",
@@ -19228,14 +20835,17 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "80960010-5201-4bc2-bdb5-7d84119e4910",
     "ownerId": "system",
     "name": "Trabuco Creek Equestrian",
     "slug": "trabuco-creek-equestrian",
-    "description": "Your Peaceful Escape, Surrounded by Nature's Beauty OUR MISSION At Trabuco Creek Equestrian, our mission is to be Orange County\u2019s premier equestrian destination\u2014offering top-tier boarding, training, and lessons in a unique, state-of-the-art facility nestled in the natural beauty of Trabuco Canyon, just minutes from the city.",
+    "description": "Your Peaceful Escape, Surrounded by Nature's Beauty OUR MISSION At Trabuco Creek Equestrian, our mission is to be Orange County’s premier equestrian destination—offering top-tier boarding, training, and lessons in a unique, state-of-the-art facility nestled in the natural beauty of Trabuco Canyon, just minutes from the city.",
     "address": {
       "street": "",
       "city": "Trabuco Canyon",
@@ -19273,7 +20883,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "3ce90572-384f-49e3-8d5a-2c58a51eb015",
@@ -19316,7 +20930,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training"
+    ]
   },
   {
     "id": "4ae2aa46-913f-4be2-92b3-66dda1b32a15",
@@ -19359,14 +20976,18 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "bd0ca7b7-bc62-4b3c-8c06-873812ea1a86",
     "ownerId": "system",
     "name": "Rancho Mission Viejo Riding Park",
     "slug": "rancho-mission-viejo-riding-park",
-    "description": "provide a unique entertainment opportunity for San Juan Capistrano residents and beyond. Everyone is encouraged to attend and enjoy this spectacular sporting event, which features two athletes at a time \u2013 horse and rider!",
+    "description": "provide a unique entertainment opportunity for San Juan Capistrano residents and beyond. Everyone is encouraged to attend and enjoy this spectacular sporting event, which features two athletes at a time – horse and rider!",
     "address": {
       "street": "2021 Economic Impact Study Donate To Park Place",
       "city": "San Juan Capistrano",
@@ -19405,7 +21026,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "5f485e3f-7595-4cd8-9f91-c43f0101409e",
@@ -19451,7 +21073,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "6f133f00-351e-4075-bb54-f4f72fd10e06",
@@ -19494,7 +21119,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "1c8e3e90-320d-49b6-8724-7c30de0819d3",
@@ -19539,7 +21167,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "34d8dc02-127f-4d41-9e09-ef796f578745",
@@ -19584,7 +21213,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "f5897907-d6de-4e96-8414-caa4ba6080c7",
@@ -19630,7 +21263,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "5033eb29-eadb-41a0-a6d8-80704b93abd9",
@@ -19676,7 +21313,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "376132a8-1643-40f4-baa6-f29855a840cb",
@@ -19721,14 +21359,15 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "ec624754-f341-464a-a08a-14869da375b4",
     "ownerId": "system",
     "name": "MH Equine Riding School",
     "slug": "mh-equine-riding-school",
-    "description": "specialize in training all levels of sport horses and riders \u2013 ranging from beginners in our riding school up through Grand Prix winners at international competitions. Check out our weekly riding programs! Levels Program Get Ready for Summer Camp 2023!",
+    "description": "specialize in training all levels of sport horses and riders – ranging from beginners in our riding school up through Grand Prix winners at international competitions. Check out our weekly riding programs! Levels Program Get Ready for Summer Camp 2023!",
     "address": {
       "street": "25202 Nellie Gail Road",
       "city": "Laguna Niguel",
@@ -19764,7 +21403,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e155a494-7e7a-46b9-91f2-849b7e7bf2ef",
@@ -19811,7 +21454,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "e3a7ea49-b78b-4e8e-b557-63201a47c65b",
@@ -19854,7 +21500,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "54179393-dfdd-44d2-a9bf-70657803ade4",
@@ -19897,7 +21546,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "810d6376-1b5c-4941-a2f7-a1f636b4092a",
@@ -19944,7 +21594,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "ee9f2bad-0ef8-4f2f-94b2-437cf3140aa9",
@@ -19991,7 +21645,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "f15c6c9a-568a-476a-81c1-daad8c928712",
@@ -20034,7 +21691,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "b3712d5f-db34-4984-92c3-7b1af1e32a1f",
@@ -20077,7 +21735,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "882523d6-db32-44bc-b097-ddb7394f21fc",
@@ -20127,14 +21788,18 @@
       "norco-horse-boarding.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "training"
+    ]
   },
   {
     "id": "6453e505-f5c8-4e17-af21-d7058367ac95",
     "ownerId": "system",
     "name": "Galway Downs",
     "slug": "galway-downs",
-    "description": "In the beautiful rolling hills of the Temecula Valley Wine Country, is a tradition more than 50 years in the making\u2014 vast horizons, majestic surroundings\u2014 real moments. Lodging , Weddings , Equestrian , Events . Proud member of Kentina Hospitality.",
+    "description": "In the beautiful rolling hills of the Temecula Valley Wine Country, is a tradition more than 50 years in the making— vast horizons, majestic surroundings— real moments. Lodging , Weddings , Equestrian , Events . Proud member of Kentina Hospitality.",
     "address": {
       "street": "38801 Los Corralitos Rd",
       "city": "Temecula",
@@ -20170,7 +21835,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "b7e7ed06-77d7-4fe5-a595-88748703a5e5",
@@ -20217,7 +21883,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "5a62f9c2-c1ba-4f72-899a-33439df43631",
@@ -20264,7 +21933,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "dd08c1d7-b79b-435e-b980-015cff901282",
@@ -20309,7 +21979,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "ef50ab5f-a2ac-41dd-87e7-530a8edb1ec9",
@@ -20354,7 +22027,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "d5b3ac8b-d703-4351-b324-fe41183ebb77",
@@ -20400,7 +22074,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "b6a7ae18-95a9-4dae-a1b2-ec17a52ab0a7",
@@ -20448,7 +22126,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "927ee910-65f9-4661-a764-930376473a90",
@@ -20496,7 +22178,11 @@
       "gerry-rushton-stable.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "049dcc42-5529-4dce-ac5c-76f68db8ad71",
@@ -20541,7 +22227,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "d363cd96-3c85-4dd1-8c48-e699799bb0d8",
@@ -20588,7 +22278,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "bc01e64b-7c9b-446d-bae1-659eee1da6b0",
@@ -20637,7 +22331,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "f6b52bff-dfcb-4a1b-bb0c-9d6d1d30afdb",
@@ -20686,7 +22383,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "dbe0360c-cef2-4176-910c-0c2177002c3e",
@@ -20729,7 +22429,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "edcfbf81-6cf3-4a22-b8e9-866d2e73a655",
@@ -20774,7 +22477,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "d116744e-a19b-4d21-b515-1153bc886a90",
@@ -20822,7 +22529,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "447cb885-8ff4-4f33-8772-7433477de3ae",
@@ -20865,7 +22575,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "1f8969f5-2d28-476b-bdff-a8ac62145d2f",
@@ -20914,7 +22627,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "8d6f375c-d0b3-4df8-86d4-e171d1da40b0",
@@ -20959,7 +22673,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "33301aa8-e500-4a83-90c4-413fb09075cd",
@@ -21005,7 +22723,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "44988b01-efa1-4d8e-bb47-11b4b308c4b0",
@@ -21051,7 +22773,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "801ebdf1-ade5-4f5b-b14f-53ba00465e32",
@@ -21094,7 +22819,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "leasing"
+    ]
   },
   {
     "id": "dd41b985-2902-4471-aeb7-f3a40e307705",
@@ -21139,14 +22867,18 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "29cd75e8-0b2c-4176-ab0f-c9c524a26ba3",
     "ownerId": "system",
     "name": "VH Ranch",
     "slug": "vh-ranch",
-    "description": "VH Ranch offers exclusively pasture boarding for horses of all ages. Whether working or retired, VH Ranch offers several feeding plans best suited for their stage of life in order to keep them fit and well nourished. \u200b At VH Ranch, we utilize our space to allow horses to live naturally and safely.",
+    "description": "VH Ranch offers exclusively pasture boarding for horses of all ages. Whether working or retired, VH Ranch offers several feeding plans best suited for their stage of life in order to keep them fit and well nourished. ​ At VH Ranch, we utilize our space to allow horses to live naturally and safely.",
     "address": {
       "street": "15201 Middle Ranch Rd",
       "city": "Moorpark",
@@ -21186,7 +22918,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "b319bd5e-40dc-46e1-8747-896591475e8e",
@@ -21235,7 +22970,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "4e65d46a-94e5-4641-bf29-2b7edf13a11b",
@@ -21282,7 +23020,11 @@
       "vista-del-mar-ranch.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e7faec5b-0a82-474e-bcbb-31ce0563b677",
@@ -21327,7 +23069,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "40a21c26-caec-47cf-91a0-5ab18c2eb72e",
@@ -21373,7 +23116,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "ebfcf7c3-266d-4e77-8e39-2b2bd1df7936",
@@ -21418,7 +23162,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "25adb36d-5b6f-4087-acb1-988becec2341",
@@ -21463,7 +23210,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "fa0655ca-a54a-40e1-b8c5-d8ab08bf6465",
@@ -21510,14 +23260,17 @@
       "fox-canyon-farm.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training"
+    ]
   },
   {
     "id": "575c1b7b-44c0-4256-ac2d-decc490397f3",
     "ownerId": "system",
     "name": "Roxbury Riding Club",
     "slug": "roxbury-riding-club",
-    "description": "offers a clear path forward. Contact us to discuss goals, availability, and the best program fit. contact roxbury Connect With Us Copyright \u00a9 2026 Roxbury Riding Club - All Rights Reserved.",
+    "description": "offers a clear path forward. Contact us to discuss goals, availability, and the best program fit. contact roxbury Connect With Us Copyright © 2026 Roxbury Riding Club - All Rights Reserved.",
     "address": {
       "street": "",
       "city": "Camarillo",
@@ -21555,7 +23308,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "b14f5292-d30e-4169-a866-5f3ccd299387",
@@ -21602,7 +23358,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training"
+    ]
   },
   {
     "id": "9c795537-c603-42e5-9c65-d92ead625b8e",
@@ -21647,7 +23406,10 @@
       "hidden-hills-ranch.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "5404470d-9943-4850-afcb-a6e43a29faed",
@@ -21690,7 +23452,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "a13edd56-f9e7-41fe-a1ae-b8352006597f",
@@ -21737,7 +23503,12 @@
       "hiddenhillsranchcom.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "23513bc9-7d46-4cbb-93af-098b747eb336",
@@ -21782,7 +23553,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "57ad5cc1-97c3-4c26-9387-feee54448ec1",
@@ -21829,7 +23601,11 @@
       "training-barn.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "526d8071-efd6-4994-87b7-62f9edc88db4",
@@ -21874,7 +23650,8 @@
       "information.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "fc49ee70-b2b9-4ec9-bc3f-6f1f45df4d29",
@@ -21919,7 +23696,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "298437a7-7fa9-409d-906c-347d098c816f",
@@ -21964,7 +23744,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "e22c2d7c-a086-4ce3-b746-4591eb5a2976",
@@ -22007,7 +23790,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "3e15e5bd-eccb-445d-9830-989edda08355",
@@ -22052,7 +23838,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "3dd05631-3414-4284-885b-05693e0d9667",
@@ -22098,7 +23888,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "1c4084b8-7201-4c8d-8c58-43fd0dd4d084",
@@ -22144,7 +23937,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "1a3f031d-ee21-494b-b3eb-3d3760cf4684",
@@ -22154,7 +23950,7 @@
     "description": "Altadena Stables is a fun, professionally run, full service equine facility in Altadena, CA offering boarding, training, and riding lessons.",
     "address": {
       "street": "",
-      "city": "La Ca\u00f1ada Flintridge",
+      "city": "La Cañada Flintridge",
       "state": "CA",
       "zip": "91001",
       "lat": 34.198627,
@@ -22189,14 +23985,18 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "39af9e2f-7216-492e-b1d0-36c34d78054d",
     "ownerId": "system",
     "name": "Rose Bowl Riders",
     "slug": "rose-bowl-riders",
-    "description": "has been situated on 12, oak-shaded acres within Pasadena\u2019s Hahamongna Watershed Park. The property includes a clubhouse, boarding facilities, three arenas, round pen, and sun pen. Members ride out the gate to enjoy miles of trails in the historic Arroyo Seco and Angeles National Forest.",
+    "description": "has been situated on 12, oak-shaded acres within Pasadena’s Hahamongna Watershed Park. The property includes a clubhouse, boarding facilities, three arenas, round pen, and sun pen. Members ride out the gate to enjoy miles of trails in the historic Arroyo Seco and Angeles National Forest.",
     "address": {
       "street": "4750 Lower Oak Grove Drive",
       "city": "ada Flintridge",
@@ -22235,14 +24035,17 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "68293d60-3b26-46e7-a556-9ea9b03c674b",
     "ownerId": "system",
     "name": "Flintridge Riding Club",
     "slug": "flintridge-riding-club",
-    "description": "Flintridge Riding Club is an equestrian facility in La Ca\u00f1ada Flintridge, CA offering a community-oriented environment for riders in the foothills above Los Angeles.",
+    "description": "Flintridge Riding Club is an equestrian facility in La Cañada Flintridge, CA offering a community-oriented environment for riders in the foothills above Los Angeles.",
     "address": {
       "street": "",
       "city": "ada Flintridge",
@@ -22279,7 +24082,8 @@
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
     "updatedAt": "2026-03-13T16:55:00.562030+00:00",
-    "city": "La Ca\u00f1ada Flintridge"
+    "city": "La Cañada Flintridge",
+    "services": []
   },
   {
     "id": "60c0c483-1dc4-4ab8-8f79-d9e616b9d8e0",
@@ -22322,7 +24126,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "7c5d91ae-c6b5-4ddc-9183-f870182f239a",
@@ -22368,7 +24175,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "064d2108-0a70-43dc-9cf7-8f442e1b9572",
@@ -22411,7 +24221,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "ea502af2-bda0-4508-87ff-6e0772924113",
@@ -22461,7 +24272,10 @@
       "palos-verdes-stables.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "27cecadf-0fa0-4544-bb40-19ac2b332d4e",
@@ -22506,7 +24320,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "30794e9a-1bec-48de-a893-599fc58d9ddb",
@@ -22551,7 +24368,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "fe3f7128-5cdd-428f-9d16-3d7a0c969fef",
@@ -22599,7 +24420,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a0677001-114c-436c-964b-a41741cdca04",
@@ -22642,7 +24467,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "62ba8c04-def2-4f25-baf4-559530585a3f",
@@ -22689,7 +24517,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "1233ff44-2e7f-4dfe-bf43-5f072087a284",
@@ -22736,7 +24567,12 @@
       "rosewood-equestrian.jpeg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "638b772e-70e6-411a-b3ca-05c62f2a1953",
@@ -22781,14 +24617,15 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "74df6f26-1247-4dc9-9bd9-db5fdda745ff",
     "ownerId": "system",
     "name": "Rancho Riding Club",
     "slug": "rancho-riding-club",
-    "description": "resides on 11 beautiful acres in the heart of Rancho Santa Fe. We offer boarding and care, training, private instruction, and summer camps. Join The Club For information about membership and boarding rates, please fill out our interest form and we\u2019ll reach out to you right away!",
+    "description": "resides on 11 beautiful acres in the heart of Rancho Santa Fe. We offer boarding and care, training, private instruction, and summer camps. Join The Club For information about membership and boarding rates, please fill out our interest form and we’ll reach out to you right away!",
     "address": {
       "street": "50 Mile Trail",
       "city": "Rancho Santa Fe",
@@ -22826,7 +24663,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "e7c35072-0510-4305-9020-7742b76c0ea8",
@@ -22874,14 +24716,15 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "e7584a0d-4ac7-450f-8e68-c8b6e0ef76e9",
     "ownerId": "system",
     "name": "Huckleberry Lane Farms",
     "slug": "huckleberry-lane-farms",
-    "description": "Amanda Moller - Head Trainer Amanda Moller - Head Trainer Amanda Moller - Head Trainer \u201c I want you to enjoy being at Huckleberry Lane Farms. Some of the best times in my life have been at the barn and around horses.",
+    "description": "Amanda Moller - Head Trainer Amanda Moller - Head Trainer Amanda Moller - Head Trainer “ I want you to enjoy being at Huckleberry Lane Farms. Some of the best times in my life have been at the barn and around horses.",
     "address": {
       "street": "",
       "city": "Rancho Santa Fe",
@@ -22919,7 +24762,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "6237e938-fab0-46cd-a5f3-33f622280821",
@@ -22966,7 +24812,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training"
+    ]
   },
   {
     "id": "c5a7e9a7-b653-4444-a12e-af98e2f3c7fb",
@@ -23011,7 +24860,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "7fc63089-c432-4ba6-a79a-5fac8e54c2b9",
@@ -23058,7 +24911,11 @@
       "liz-bolton-stables.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "8724a5c4-1e2b-49a9-90ce-c9fe4c1952af",
@@ -23103,7 +24960,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "6bc5b95a-3d2e-485c-92e8-c70176531e2c",
@@ -23148,7 +25008,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "378ea9ec-61b1-4420-ba6e-f8628019d701",
@@ -23195,7 +25059,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "e001e21b-cf47-44e4-b7e2-08e70d995249",
@@ -23243,7 +25110,10 @@
       "sfs.jpeg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training"
+    ]
   },
   {
     "id": "224a095e-8c6b-45de-8a18-027430070d3e",
@@ -23288,7 +25158,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "5b61d066-eb79-4611-b0c7-e9dc5e1f9591",
@@ -23334,7 +25205,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "24269e8f-829c-437c-9273-49623bc2d29e",
@@ -23382,7 +25256,8 @@
       "little-big-horse-ranch.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "5748ea34-51be-4446-9873-b50870097d13",
@@ -23427,7 +25302,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "dad5b649-a94e-48f6-ad8a-76616b3de9b3",
@@ -23476,7 +25354,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "8c9e3680-8edc-4470-8c89-b8f6140aae47",
@@ -23519,7 +25400,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "b3151af4-f755-4b41-9655-aa279a7570c2",
@@ -23566,7 +25450,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "678ca803-8a81-49b5-9661-55c82fc12c1a",
@@ -23611,7 +25500,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "f142a09b-72fa-4c0d-93c5-ea2e66a9e9f7",
@@ -23659,7 +25551,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "95b1f6b5-2694-4bb3-8305-912b5228742e",
@@ -23706,7 +25603,10 @@
       "lessons-near-me.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "9c987602-1598-41f2-89fb-48113b117eb8",
@@ -23754,7 +25654,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "49dd4b80-752c-4723-9ccc-fe7f0431b0d0",
@@ -23797,7 +25700,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "36646fe6-1be8-4aaf-ab94-e6c984640bcb",
@@ -23840,7 +25746,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "13e98126-7cda-4cd9-957d-95cfbfba94ba",
@@ -23886,14 +25793,18 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "0531e413-17d4-49bd-937b-5c06d2eb8825",
     "ownerId": "system",
     "name": "Twisted Trail Ranch LLC",
     "slug": "twisted-trail-ranch-llc",
-    "description": "Our ranch was built with intention, love, and generations of horsemanship experience. Here, you\u2019ll find more than just a place to ride or board your horse\u2014you\u2019ll discover a caring community that puts horses first.",
+    "description": "Our ranch was built with intention, love, and generations of horsemanship experience. Here, you’ll find more than just a place to ride or board your horse—you’ll discover a caring community that puts horses first.",
     "address": {
       "street": "77303 Instagram TikTok Facebook Twisted Trail",
       "city": "Conroe",
@@ -23937,14 +25848,18 @@
       "twisted-trail-ranch-llc.webp"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "96c36240-05fa-4d7f-ac70-1b0c75e257db",
     "ownerId": "system",
     "name": "Cherokee Outlaw Ranch",
     "slug": "cherokee-outlaw-ranch",
-    "description": "Our Ranch A nonprofit ranch with a mission to heal \u2014 through the spirit of horses and the stillness of country life. Cherokee Outlaw Ranch is a 501(c)(3) nonprofit rooted in love, recovery, and rescue.",
+    "description": "Our Ranch A nonprofit ranch with a mission to heal — through the spirit of horses and the stillness of country life. Cherokee Outlaw Ranch is a 501(c)(3) nonprofit rooted in love, recovery, and rescue.",
     "address": {
       "street": "91 Scott Ln",
       "city": "Willis",
@@ -23983,7 +25898,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "69b69d2f-ac2c-496c-8f56-f14c2ba01ca3",
@@ -24029,7 +25947,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "e71a994b-575e-46e8-8cda-d632bf66d83f",
@@ -24074,7 +25995,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "8dddb45f-4fab-4087-a120-6057e9dc807f",
@@ -24121,7 +26045,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "66b63a38-2730-43bc-b517-69ec796a371d",
@@ -24166,7 +26094,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "6637d8a2-73dc-4242-a76e-c65a6dfd8c6b",
@@ -24209,7 +26141,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "7eae7fb8-54ee-4cf1-8e83-2b99e0dc1f52",
@@ -24252,7 +26185,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "df499a8c-8a5a-4f88-813f-a293c0e69de5",
@@ -24298,7 +26235,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "d1863361-83b2-4c77-ba54-dd5d48e3a948",
@@ -24346,7 +26288,13 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "training",
+      "lessons",
+      "leasing"
+    ]
   },
   {
     "id": "3ffa404b-4e27-46eb-83cc-f49df309bf8b",
@@ -24391,7 +26339,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "53335124-589c-46d9-9d1d-c02cd07d0834",
@@ -24439,7 +26390,12 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "3a679bf7-e394-42dc-85a9-dbca15619f9e",
@@ -24486,7 +26442,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "a3a4446a-d831-431d-82e4-7f692a7e96f9",
@@ -24534,7 +26494,10 @@
       "experience-the-magic-joy-of-horseback-riding-.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "d194097f-1165-4426-bcfe-3cfaa30a8fa6",
@@ -24579,7 +26542,10 @@
       "oyster-creek-farm.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "7f3ca18b-3d35-4bd5-a1e6-ec9b45485b79",
@@ -24622,7 +26588,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "4d18ae0a-64d9-4069-a700-16e716c8b440",
@@ -24668,7 +26637,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "df0e99b7-fe74-4126-8c7e-ff3a4e333469",
@@ -24717,7 +26689,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "71dcd5b8-e2e3-4865-b568-6c4a90c91876",
@@ -24760,7 +26736,8 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": []
   },
   {
     "id": "60dd3ca7-73c2-4145-a254-21931af79a8b",
@@ -24805,7 +26782,10 @@
       "baectxcom.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "32556df2-8a33-4611-a775-83700900efe9",
@@ -24853,7 +26833,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "ae6c3dcc-89e2-409e-8394-94f0ea12d865",
@@ -24896,7 +26879,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "5d4bd348-307e-4796-831f-e21da6a48770",
@@ -24944,7 +26931,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "ba983185-db94-4eed-82b9-f0b363e52076",
@@ -24989,7 +26979,10 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "lessons"
+    ]
   },
   {
     "id": "32245daa-1f8e-4c6e-962a-96f12338d847",
@@ -25032,7 +27025,11 @@
     "horseBreeds": [],
     "photos": [],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "3de6d84f-697f-41d2-852c-0462f78c216e",
@@ -25082,7 +27079,11 @@
       "nomad-farms.jpg"
     ],
     "createdAt": "2026-03-13T16:55:00.562030+00:00",
-    "updatedAt": "2026-03-13T16:55:00.562030+00:00"
+    "updatedAt": "2026-03-13T16:55:00.562030+00:00",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "6d598a20-c554-4bad-9e84-68c035852fcd",
@@ -25137,7 +27138,11 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T22:44:53.997107Z",
-    "updatedAt": "2026-03-14T22:44:53.997968Z"
+    "updatedAt": "2026-03-14T22:44:53.997968Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "92092c45-e31d-41dc-a21b-ee046106499c",
@@ -25193,7 +27198,11 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:39.368Z",
-    "updatedAt": "2026-03-14T23:12:39.368Z"
+    "updatedAt": "2026-03-14T23:12:39.368Z",
+    "services": [
+      "boarding",
+      "training"
+    ]
   },
   {
     "id": "e1ef4a9f-b263-4f02-9bd3-8bc701d22276",
@@ -25249,7 +27258,12 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:39.368Z",
-    "updatedAt": "2026-03-14T23:12:39.368Z"
+    "updatedAt": "2026-03-14T23:12:39.368Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "1c843f43-5b89-402e-9d27-4e8d2ba5d074",
@@ -25305,7 +27319,12 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:39.368Z",
-    "updatedAt": "2026-03-14T23:12:39.368Z"
+    "updatedAt": "2026-03-14T23:12:39.368Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "fcf338e7-a6d1-4dd8-9717-c417e18a67f5",
@@ -25361,7 +27380,12 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:39.368Z",
-    "updatedAt": "2026-03-14T23:12:39.368Z"
+    "updatedAt": "2026-03-14T23:12:39.368Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "86e70434-a9b7-4647-bb92-f7e15951c49a",
@@ -25410,7 +27434,11 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:39.368Z",
-    "updatedAt": "2026-03-14T23:12:39.368Z"
+    "updatedAt": "2026-03-14T23:12:39.368Z",
+    "services": [
+      "boarding",
+      "lessons"
+    ]
   },
   {
     "id": "2da78ad0-3599-417d-ad3f-1f9ab6ed1535",
@@ -25473,7 +27501,12 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:39.368Z",
-    "updatedAt": "2026-03-14T23:12:39.368Z"
+    "updatedAt": "2026-03-14T23:12:39.368Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "25fa2c8e-68ae-4aa2-89d7-61ebf135739e",
@@ -25536,7 +27569,12 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:39.368Z",
-    "updatedAt": "2026-03-14T23:12:39.368Z"
+    "updatedAt": "2026-03-14T23:12:39.368Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "3445d39b-8a7e-4c66-84f2-a9da0098b2b3",
@@ -25584,7 +27622,12 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:39.368Z",
-    "updatedAt": "2026-03-14T23:12:39.368Z"
+    "updatedAt": "2026-03-14T23:12:39.368Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "81da768c-97b6-4084-936b-a921d5735430",
@@ -25640,14 +27683,19 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:39.368Z",
-    "updatedAt": "2026-03-14T23:12:39.368Z"
+    "updatedAt": "2026-03-14T23:12:39.368Z",
+    "services": [
+      "boarding",
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "8e101d9d-ce27-47c3-baed-b4abd542150e",
     "ownerId": "system",
-    "name": "Halvorsr\u00f8d Farm",
+    "name": "Halvorsrød Farm",
     "slug": "halvorsrod-farm",
-    "description": "Halvorsr\u00f8d Farm is a dressage facility in the Little Ranches area of Wellington, FL offering dry stalls and full board customized to individual horse needs. The farm serves both amateur and professional dressage competitors, with lay-up and recovery programs available.",
+    "description": "Halvorsrød Farm is a dressage facility in the Little Ranches area of Wellington, FL offering dry stalls and full board customized to individual horse needs. The farm serves both amateur and professional dressage competitors, with lay-up and recovery programs available.",
     "address": {
       "street": "852 Cindy Drive",
       "city": "Wellington",
@@ -25688,7 +27736,10 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:39.368Z",
-    "updatedAt": "2026-03-14T23:12:39.368Z"
+    "updatedAt": "2026-03-14T23:12:39.368Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "db79342f-8c52-4c2a-9a13-8af0689915b6",
@@ -25736,7 +27787,10 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "989e318a-0548-4094-8756-bd42b2299c13",
@@ -25785,7 +27839,10 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "b3c9bed8-cf65-4a22-9817-4f76da61bd64",
@@ -25834,7 +27891,10 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "e783f32e-9b66-43b3-80a5-beeae344b167",
@@ -25882,7 +27942,10 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "d4ae0bea-3599-42ee-85ea-9ae9dff855f0",
@@ -25936,7 +27999,11 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "1d745aca-f58e-4b53-af2b-393983cb1430",
@@ -25984,7 +28051,10 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "boarding"
+    ]
   },
   {
     "id": "4642b37d-6479-40c3-9525-7a0101899151",
@@ -26030,7 +28100,11 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "15c7f884-191f-4421-9848-90a5204940bb",
@@ -26076,7 +28150,11 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "e8ce9be5-31f1-4301-98e1-19e1cb0f232b",
@@ -26130,7 +28208,11 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "5b6194c0-ff6e-4667-9d14-1dc193435882",
@@ -26176,7 +28258,11 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   },
   {
     "id": "a94d8bab-6217-462e-9134-faccdbc22cf2",
@@ -26222,6 +28308,10 @@
     "photos": [],
     "status": "pending",
     "createdAt": "2026-03-14T23:12:52Z",
-    "updatedAt": "2026-03-14T23:12:52Z"
+    "updatedAt": "2026-03-14T23:12:52Z",
+    "services": [
+      "training",
+      "lessons"
+    ]
   }
 ]
