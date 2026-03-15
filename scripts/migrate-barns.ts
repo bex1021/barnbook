@@ -49,6 +49,7 @@ async function migrate() {
       lesson_availability: barn.lessonAvailability,
       horse_breeds: barn.horseBreeds ?? [],
       photos: barn.photos ?? [],
+      services: (barn as unknown as { services?: string[] }).services ?? [],
       status: "pending",
       created_at: barn.createdAt,
       updated_at: barn.updatedAt,

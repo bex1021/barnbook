@@ -14,6 +14,15 @@ const AMENITIES = [
   { key: "washRack", label: "Wash Rack" },
 ];
 const BOARDING_TYPES = ["full", "partial", "pasture", "self-care"];
+const SERVICES = [
+  { key: "boarding", label: "Boarding" },
+  { key: "training", label: "Training" },
+  { key: "lessons", label: "Lessons" },
+  { key: "leasing", label: "Leasing" },
+  { key: "breeding", label: "Breeding" },
+  { key: "rehab", label: "Rehab" },
+  { key: "sales", label: "Sales" },
+];
 const SORT_OPTIONS = [
   { value: "name", label: "Name (A-Z)" },
   { value: "price-low", label: "Price (Low to High)" },
@@ -65,11 +74,13 @@ export default function SearchFilters() {
   const activeDisciplines = getArrayParam("discipline");
   const activeAmenities = getArrayParam("amenities");
   const activeBoardingTypes = getArrayParam("boarding");
+  const activeServices = getArrayParam("services");
   const lessonsOnly = searchParams.get("lessons") === "true";
   const hasFilters =
     activeDisciplines.length > 0 ||
     activeAmenities.length > 0 ||
     activeBoardingTypes.length > 0 ||
+    activeServices.length > 0 ||
     lessonsOnly ||
     searchParams.get("state") ||
     searchParams.get("sort");
@@ -181,6 +192,24 @@ export default function SearchFilters() {
                 className="rounded border-gray-300 text-[#2d5016] focus:ring-[#2d5016]"
               />
               <span className="text-sm text-gray-700 capitalize">{bt}</span>
+            </label>
+          ))}
+        </div>
+      </div>
+
+      {/* Services */}
+      <div>
+        <p className="text-sm font-medium text-gray-700 mb-2">Services</p>
+        <div className="space-y-2">
+          {SERVICES.map((s) => (
+            <label key={s.key} className="flex items-center gap-2 cursor-pointer">
+              <input
+                type="checkbox"
+                checked={activeServices.includes(s.key)}
+                onChange={() => toggleArrayParam("services", s.key)}
+                className="rounded border-gray-300 text-[#2d5016] focus:ring-[#2d5016]"
+              />
+              <span className="text-sm text-gray-700">{s.label}</span>
             </label>
           ))}
         </div>

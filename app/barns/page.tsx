@@ -19,6 +19,7 @@ interface PageProps {
     amenities?: string;
     boarding?: string;
     lessons?: string;
+    services?: string;
     sort?: string;
   }>;
 }
@@ -73,6 +74,14 @@ export default async function BrowseBarnsPage({ searchParams }: PageProps) {
     const boardingTypes = params.boarding.split(",").filter(Boolean);
     barns = barns.filter((b) =>
       boardingTypes.some((bt) => b.boarding.types.includes(bt))
+    );
+  }
+
+  // Services filter
+  if (params.services) {
+    const services = params.services.split(",").filter(Boolean);
+    barns = barns.filter((b) =>
+      services.every((s) => (b.services || []).includes(s))
     );
   }
 
