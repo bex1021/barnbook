@@ -79,7 +79,7 @@ export async function getArchivedBarns(): Promise<Barn[]> {
   const { data, error } = await supabase
     .from("barns")
     .select("*")
-    .eq("status", "archived")
+    .eq("status", "rejected")
     .order("created_at", { ascending: false });
   if (error) throw error;
   return (data || []).map(mapBarn);
