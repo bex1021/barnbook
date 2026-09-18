@@ -5,9 +5,9 @@ alter table users add constraint users_role_check check (role in ('admin', 'ride
 -- Migrate existing 'user' roles to 'rider'
 update users set role = 'rider' where role = 'user';
 
--- Set roles for known accounts
-update users set role = 'admin' where email = 'rebecca.leung671@gmail.com';
-update users set role = 'owner' where email = 'bernard.j.huang@gmail.com';
+-- Set roles for known accounts (replace placeholders with real emails before running)
+update users set role = 'admin' where email = 'ADMIN_EMAIL@example.com';
+update users set role = 'owner' where email = 'OWNER_EMAIL@example.com';
 
 -- Rider profiles table
 create table if not exists rider_profiles (
